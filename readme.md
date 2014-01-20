@@ -2,9 +2,6 @@
 #### a wholly different archaeological information system
 <br>
 <br>
-<br>
-<br>
-<br>
 ****
 	 m-(v)eds means (very) early development stage
 
@@ -13,3 +10,7 @@
 <br>
 
 *2014/01/19:* **check back later…**
+<br>
+<br>
+<br>
+Made with Wakanda (www.wakanda.org)
