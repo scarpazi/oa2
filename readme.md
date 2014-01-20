@@ -3,7 +3,7 @@
 <br>
 <br>
 ****
-	 m-(v)eds means (very) early development stage
+	 (v)eds means (very) early development stage
 
 ****
 <br>
