@@ -1,0 +1,1 @@
+model.Georef_points.XYcoord.onGet = function () {				return this.Y + ", " + this.X;			};

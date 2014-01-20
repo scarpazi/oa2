@@ -1,0 +1,4 @@
+﻿0010780001	Chieri, vicolo Tre Re	Chieri	Italia	Torino	Piemonte
+0010780002	Chieri, via del Collegio-via Demaria	Chieri	Italia	Torino	Piemonte
+0010820001	Chivasso, via Torino	Chivasso	Italia	Torino	Piemonte
+0011250001	Ivrea, piazza Balla	Ivrea	Italia	Torino	Piemonte

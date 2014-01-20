@@ -1,0 +1,1 @@
+guidedModel ={	LandscapeElement :	{		XYcoord :		{			onGet:function()			{				//getXYcoord();			}		},		entityMethods :		{			getXYcoord:function()			{				return "ppp";			}		}	},	Georef_points :	{		XYcoord :		{			onGet:function()			{				return this.Y + ", " + this.X;			}		}	}};

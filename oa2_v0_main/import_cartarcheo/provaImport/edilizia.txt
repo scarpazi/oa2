@@ -1,0 +1,2610 @@
+﻿%0010130001%EDI0001%	0010130001	Edilizia in materiale deperibile	Ambiente E
+%0010780001%EDI0001%	0010780001	Edilizia in materiale deperibile	
+%0010820001%EDI0001%	0010820001	Edilizia in materiale deperibile	
+%0011250001%EDI0001%	0011250001	Edilizia in materiale deperibile	
+%0011620001%EDI0001%	0011620001	Edilizia in materiale deperibile	Area a S dell’Iseion
+%0011830002%EDI0001%	0011830002	Edilizia in materiale deperibile	Sondaggio A
+%0011830002%EDI0002%	0011830002	Edilizia in materiale deperibile	Sondaggio A
+%0011830002%EDI0003%	0011830002	Edilizia in materiale deperibile	Sondaggio A
+%0011870002%EDI0001%	0011870002	Edilizia in materiale deperibile	Nucleo A
+%0011870002%EDI0002%	0011870002	Edilizia in materiale deperibile	Nucleo A
+%0230620001%EDI0001%	0230620001	Edilizia in materiale deperibile	
+%0012280001%EDI0001%	0012280001	Edilizia in materiale deperibile	Edificio 2
+%0012720001%EDI0001%	0012720001	Edilizia in materiale deperibile	
+%0012720001%EDI0002%	0012720001	Edilizia in materiale deperibile	
+%0012720002%EDI0001%	0012720002	Edilizia in materiale deperibile	
+%0012720002%EDI0002%	0012720002	Edilizia in materiale deperibile	
+%0012720002%EDI0003%	0012720002	Edilizia in materiale deperibile	
+%0012720003%EDI0001%	0012720003	Edilizia in materiale deperibile	Settore SW
+%0012720004%EDI0001%	0012720004	Edilizia in materiale deperibile	
+%0012720020%EDI0003%	0012720020	Edilizia in materiale deperibile	Cortile Ovest
+%0012720006%EDI0001%	0012720006	Edilizia in materiale deperibile	Cortile A, fase IV
+%0012720006%EDI0002%	0012720006	Edilizia in materiale deperibile	Cortile A, fase V
+%0012720006%EDI0003%	0012720006	Edilizia in materiale deperibile	Cortile B
+%0020540002%EDI0001%	0020540002	Edilizia in materiale deperibile	
+%0021480002%EDI0009%	0021480002	Edilizia in materiale deperibile	Quadrante N-E, US218
+%0021480002%EDI0010%	0021480002	Edilizia in materiale deperibile	Quadrante N-E
+%0021480002%EDI0011%	0021480002	Edilizia in materiale deperibile	Quadrante N-E
+%0021480002%EDI0012%	0021480002	Edilizia in materiale deperibile	Quadrante N-E, US334
+%0021480002%EDI0003%	0021480002	Edilizia in materiale deperibile	Quadrante N-E, US79
+%0021480002%EDI0004%	0021480002	Edilizia in materiale deperibile	Quadrante N-E
+%0021480002%EDI0005%	0021480002	Edilizia in materiale deperibile	Quadrante N-E
+%0021480002%EDI0001%	0021480002	Edilizia in materiale deperibile	Complesso A
+%0021480002%EDI0002%	0021480002	Edilizia in materiale deperibile	Complesso A
+%0021480002%EDI0006%	0021480002	Edilizia in materiale deperibile	Complesso B
+%0021480002%EDI0013%	0021480002	Edilizia in materiale deperibile	Quadrante N-E, cinta
+%0021580001%EDI0001%	0021580001	Edilizia in materiale deperibile	Cortile E, ambienti a-c
+%0031060001%EDI0001%	0031060001	Edilizia in materiale deperibile	Periodo IV
+%0040030001%EDI0001%	0040030001	Edilizia in materiale deperibile	
+%0040030002%EDI0001%	0040030002	Edilizia in materiale deperibile	
+%0040030003%EDI0001%	0040030003	Edilizia in materiale deperibile	Stazione 11, Fase III
+%0040030004%EDI0001%	0040030004	Edilizia in materiale deperibile	
+%0040030011%EDI0001%	0040030011	Edilizia in materiale deperibile	
+%0040030006%EDI0001%	0040030006	Edilizia in materiale deperibile	
+%0040030007%EDI0001%	0040030007	Edilizia in materiale deperibile	
+%0040030008%EDI0001%	0040030008	Edilizia in materiale deperibile	
+%0040250001%EDI0001%	0040250001	Edilizia in materiale deperibile	Settore NE, US 9
+%0040400002%EDI0001%	0040400002	Edilizia in materiale deperibile	
+%0040400002%EDI0002%	0040400002	Edilizia in materiale deperibile	
+%0040610001%EDI0001%	0040610001	Infrastruttura	
+%0040670002%EDI0001%	0040670002	Edilizia in materiale deperibile	
+%0041630002%EDI0001%	0041630002	Edilizia in materiale deperibile	Saggio I, periodo I
+%0041630002%EDI0002%	0041630002	Edilizia in materiale deperibile	Saggio I, periodo II
+%0041630002%EDI0003%	0041630002	Edilizia in materiale deperibile	Saggio I (settore 1c), periodo II
+%0041630002%EDI0004%	0041630002	Infrastruttura	Saggio I
+%0041630002%EDI0005%	0041630002	Edilizia in materiale deperibile	Saggio I, periodo III
+%0041630002%EDI0006%	0041630002	Edilizia in materiale deperibile	Saggio I, periodo III
+%0041630002%EDI0007%	0041630002	Edilizia in materiale deperibile	Saggio I, periodo IV
+%0041630002%EDI0008%	0041630002	Edilizia in materiale deperibile	Saggio I, periodo III-IV
+%0041630002%EDI0009%	0041630002	Edilizia in materiale deperibile	Saggio II
+%0041630002%EDI0010%	0041630002	Edilizia in materiale deperibile	Saggio III
+%0042120002%EDI0001%	0042120002	Edilizia in materiale deperibile	
+%0042130002%EDI0001%	0042130002	Edilizia in materiale deperibile	
+%0042130002%EDI0002%	0042130002	Edilizia in materiale deperibile	
+%0042150001%EDI0001%	0042150001	Edilizia in materiale deperibile	Saggi a-b
+%0050050001%EDI0001%	0050050001	Edilizia in materiale deperibile	
+%0221410002%EDI0001%	0221410002	Edilizia in materiale deperibile	B
+%0050050003%EDI0001%	0050050003	Edilizia in materiale deperibile	Fase IIIA
+%0050050003%EDI0002%	0050050003	Edilizia in materiale deperibile	
+%0060010001%EDI0001%	0060010001	Edilizia in materiale deperibile	
+%0060010001%EDI0002%	0060010001	Edilizia in materiale deperibile	
+%0060240003%EDI0001%	0060240003	Edilizia in materiale deperibile	Settore A
+%0060240004%EDI0001%	0060240004	Edilizia in materiale deperibile	
+%0060240004%EDI0002%	0060240004	Edilizia in materiale deperibile	
+%0060240004%EDI0003%	0060240004	Edilizia in materiale deperibile	
+%0060240004%EDI0004%	0060240004	Edilizia in materiale deperibile	
+%0060290001%EDI0001%	0060290001	Edilizia in materiale deperibile	
+%0060970002%EDI0001%	0060970002	Edilizia in materiale deperibile	Area A
+%0070030001%EDI0001%	0070030001	Edilizia in materiale deperibile	
+%0070030001%EDI0002%	0070030001	Edilizia in materiale deperibile	
+%0080650002%EDI0001%	0080650002	Edilizia in materiale deperibile	
+%0090290001%EDI0001%	0090290001	Edilizia in materiale deperibile	Settore D
+%0090290001%EDI0002%	0090290001	Edilizia in materiale deperibile	Capanna A
+%0090290001%EDI0003%	0090290001	Edilizia in materiale deperibile	
+%0090290001%EDI0004%	0090290001	Edilizia in materiale deperibile	
+%0090290001%EDI0005%	0090290001	Edilizia in materiale deperibile	
+%0090420002%EDI0001%	0090420002	Edilizia in materiale deperibile	
+%0090520002%EDI0001%	0090520002	Edilizia in materiale deperibile	
+%0090560003%EDI0002%	0090560003	Edilizia in materiale deperibile	Loggia Castello Nuovo, vano G
+%0100250003%EDI0001%	0100250003	Edilizia in materiale deperibile	
+%0100250004%EDI0001%	0100250004	Edilizia in materiale deperibile	
+%0100570001%EDI0001%	0100570001	Edilizia in materiale deperibile	
+%0100580001%EDI0001%	0100580001	Edilizia in materiale deperibile	
+%0110270001%EDI0001%	0110270001	Edilizia in materiale deperibile	Casa I
+%0110270001%EDI0002%	0110270001	Edilizia in materiale deperibile	Casa II
+%0110270001%EDI0003%	0110270001	Edilizia in materiale deperibile	Casa III
+%0110270003%EDI0001%	0110270003	Edilizia in materiale deperibile	Ambiente 2
+%0110270004%EDI0001%	0110270004	Edilizia in materiale deperibile	
+%0110320004%EDI0002%	0110320004	Edilizia in materiale deperibile	Zona P
+%0120290002%EDI0001%	0120290002	Edilizia in materiale deperibile	
+%0120440002%EDI0001%	0120440002	Edilizia in materiale deperibile	
+%0120440002%EDI0002%	0120440002	Edilizia in materiale deperibile	
+%0121200001%EDI0001%	0121200001	Edilizia in materiale deperibile	
+%0120030001%EDI0001%	0120030001	Edilizia in materiale deperibile	
+%0140720002%EDI0001%	0140720002	Edilizia in materiale deperibile	Settore B
+%0151460002%EDI0002%	0151460002	Edilizia in materiale deperibile	Fase V
+%0151460003%EDI0001%	0151460003	Edilizia in materiale deperibile	
+%0151460004%EDI0001%	0151460004	Edilizia in materiale deperibile	
+%0151460005%EDI0001%	0151460005	Edilizia in materiale deperibile	Area 6
+%0151460010%EDI0001%	0151460010	Edilizia in materiale deperibile	Vano 4
+%0151460010%EDI0002%	0151460010	Edilizia in materiale deperibile	Vano 1
+%0151460020%EDI0001%	0151460020	Edilizia in materiale deperibile	Lotto 1
+%0151460020%EDI0002%	0151460020	Edilizia in materiale deperibile	Lotto II; US 5350, 5348, 5346, 4768
+%0151460020%EDI0003%	0151460020	Edilizia in materiale deperibile	Lotto II
+%0151490001%EDI0001%	0151490001	Edilizia in materiale deperibile	Saggio C, 1990
+%0151490002%EDI0001%	0151490002	Edilizia in materiale deperibile	
+%0160240001%EDI0001%	0160240001	Edilizia in materiale deperibile	settore nord, US 1013-1014
+%0160240001%EDI0003%	0160240001	Edilizia in materiale deperibile	settore sud
+%0160240002%EDI0001%	0160240002	Edilizia in materiale deperibile	
+%0160240005%EDI0001%	0160240005	Edilizia in materiale deperibile	
+%0160570002%EDI0001%	0160570002	Edilizia in materiale deperibile	Edificio I
+%0160570002%EDI0003%	0160570002	Edilizia in materiale deperibile	Edificio V
+%0160570002%EDI0004%	0160570002	Edilizia in materiale deperibile	Settore C
+%0160570002%EDI0005%	0160570002	Edilizia in materiale deperibile	area del nartece
+%2161470001%EDI0001%	2161470001	Edilizia in materiale deperibile	
+%0170290001%EDI0016%	0170290001	Edilizia in materiale deperibile	Edificio XX, Ortaglia
+%0170290001%EDI0017%	0170290001	Edilizia in materiale deperibile	Palizzata edificio XX, Ortaglia
+%0170290001%EDI0001%	0170290001	Edilizia in materiale deperibile	
+%0170290001%EDI0002%	0170290001	Edilizia in materiale deperibile	Domus, ambienti f, g, h, m, n, o, p, q, r, s
+%0170290001%EDI0003%	0170290001	Edilizia in materiale deperibile	Edificio III
+%0170290001%EDI0004%	0170290001	Edilizia in materiale deperibile	Edificio IV
+%0170290001%EDI0005%	0170290001	Edilizia in materiale deperibile	Edificio XXIX
+%0170290001%EDI0006%	0170290001	Edilizia in materiale deperibile	Edificio XXX
+%0170290001%EDI0007%	0170290001	Edilizia in materiale deperibile	Palizzata edifici III, IV
+%0170290001%EDI0008%	0170290001	Edilizia in materiale deperibile	Edificio II
+%0170290001%EDI0009%	0170290001	Edilizia in materiale deperibile	Edificio IX
+%0170290001%EDI0010%	0170290001	Edilizia in materiale deperibile	Edificio VIII
+%0170290001%EDI0011%	0170290001	Edilizia in materiale deperibile	Edificio VI
+%0170290001%EDI0012%	0170290001	Edilizia in materiale deperibile	Edificio XXVIII
+%0170290001%EDI0013%	0170290001	Edilizia in materiale deperibile	
+%0170290001%EDI0014%	0170290001	Edilizia in materiale deperibile	
+%0170290001%EDI0015%	0170290001	Edilizia in materiale deperibile	
+%0170290003%EDI0001%	0170290003	Edilizia in materiale deperibile	Edificio II
+%0170290003%EDI0002%	0170290003	Edilizia in materiale deperibile	Domus, ambienti b, c, d
+%0170290003%EDI0003%	0170290003	Edilizia in materiale deperibile	Edificio III, vano est
+%0170290004%EDI0001%	0170290004	Edilizia in materiale deperibile	
+%0170290006%EDI0001%	0170290006	Edilizia in materiale deperibile	
+%0170290007%EDI0001%	0170290007	Edilizia in materiale deperibile	Edificio II
+%0170290008%EDI0001%	0170290008	Edilizia in materiale deperibile	
+%0170290009%EDI0001%	0170290009	Edilizia in materiale deperibile	
+%0170290016%EDI0001%	0170290016	Edilizia in materiale deperibile	Settore A - fase 7
+%0170290016%EDI0002%	0170290016	Edilizia in materiale deperibile	Settore A - fase 6
+%0170290011%EDI0001%	0170290011	Edilizia in materiale deperibile	
+%0170290012%EDI0001%	0170290012	Edilizia in materiale deperibile	Periodo 3.II, US 130
+%0170290012%EDI0002%	0170290012	Edilizia in materiale deperibile	Periodo 1.IV, US 160-162
+%0170290012%EDI0003%	0170290012	Edilizia in materiale deperibile	Periodo 2.VI, US 141-142
+%0170290012%EDI0004%	0170290012	Edilizia in materiale deperibile	Periodo 2.I, US 156, 157, 172
+%0170290012%EDI0005%	0170290012	Edilizia in materiale deperibile	Periodo 2.I, US 150bis-153
+%0170290013%EDI0001%	0170290013	Edilizia in materiale deperibile	Edificio III
+%0170290014%EDI0001%	0170290014	Edilizia in materiale deperibile	
+%0170290014%EDI0002%	0170290014	Edilizia in materiale deperibile	
+%0170670001%EDI0001%	0170670001	Edilizia in materiale deperibile	
+%0170820001%EDI0002%	0170820001	Edilizia in materiale deperibile	Edificio II
+%0170850001%EDI0001%	0170850001	Edilizia in materiale deperibile	
+%0170850002%EDI0001%	0170850002	Edilizia in materiale deperibile	
+%0170850002%EDI0002%	0170850002	Edilizia in materiale deperibile	
+%0170850003%EDI0001%	0170850003	Edilizia in materiale deperibile	Edificio II
+%0170850003%EDI0002%	0170850003	Edilizia in materiale deperibile	Sondaggi C, D, E
+%0170850003%EDI0003%	0170850003	Edilizia in materiale deperibile	
+%0170880002%EDI0001%	0170880002	Edilizia in materiale deperibile	
+%0171020005%EDI0003%	0171020005	Edilizia in materiale deperibile	Edificio II
+%0171020006%EDI0001%	0171020006	Edilizia in materiale deperibile	Area X
+%0171030002%EDI0001%	0171030002	Edilizia in materiale deperibile	
+%0171190002%EDI0001%	0171190002	Edilizia in materiale deperibile	
+%0171490001%EDI0001%	0171490001	Edilizia in materiale deperibile	Periodo IV A
+%0171490001%EDI0002%	0171490001	Edilizia in materiale deperibile	Periodo IV A, US 154-156
+%0171490001%EDI0003%	0171490001	Edilizia in materiale deperibile	Periodo IV C, US 124
+%0171630001%EDI0001%	0171630001	Edilizia in materiale deperibile	Edificio IV
+%0171790003%EDI0001%	0171790003	Edilizia in materiale deperibile	Saggio D
+%0180830002%EDI0002%	0180830002	Edilizia in materiale deperibile	Trincea II
+%0180160001%EDI0001%	0180160001	Edilizia in materiale deperibile	
+%0190090001%EDI0001%	0190090001	Edilizia in materiale deperibile	
+%0190360002%EDI0001%	0190360002	Edilizia in materiale deperibile	
+%0190710002%EDI0001%	0190710002	Edilizia in materiale deperibile	Edificio III (lotto 2)
+%0190710002%EDI0002%	0190710002	Edilizia in materiale deperibile	Edificio I (lotto 2)
+%0190710002%EDI0003%	0190710002	Edilizia in materiale deperibile	Edificio II (lotto2)
+%0190710002%EDI0004%	0190710002	Edilizia in materiale deperibile	Edificio IX (lotto 3)
+%0190710002%EDI0005%	0190710002	Edilizia in materiale deperibile	Edificio X (lotto 3)
+%0190710002%EDI0006%	0190710002	Edilizia in materiale deperibile	Edificio XI (lotto 3)
+%0190710002%EDI0007%	0190710002	Edilizia in materiale deperibile	Edificio XII (lotto 3)
+%0190710002%EDI0008%	0190710002	Edilizia in materiale deperibile	Edificio XIII (lotto 3)
+%0200300001%EDI0001%	0200300001	Edilizia in materiale deperibile	Settore A
+%0200300001%EDI0002%	0200300001	Edilizia in materiale deperibile	
+%0200300002%EDI0001%	0200300002	Edilizia in materiale deperibile	Edificio V
+%0200300002%EDI0002%	0200300002	Edilizia in materiale deperibile	Periodo 4, Edificio VI
+%0200300002%EDI0003%	0200300002	Edilizia in materiale deperibile	US 1310, 1311, Edificio VII
+%0200300003%EDI0001%	0200300003	Edilizia in materiale deperibile	
+%0210080001%EDI0001%	0210080001	Edilizia in materiale deperibile	
+%0211140001%EDI0001%	0211140001	Edilizia in materiale deperibile	
+%0211140001%EDI0002%	0211140001	Edilizia in materiale deperibile	
+%0211140001%EDI0003%	0211140001	Edilizia in materiale deperibile	
+%0220060002%EDI0001%	0220060002	Edilizia in materiale deperibile	
+%0220470002%EDI0001%	0220470002	Edilizia in materiale deperibile	
+%0220500002%EDI0001%	0220500002	Edilizia in materiale deperibile	
+%0222050002%EDI0001%	0222050002	Edilizia in materiale deperibile	
+%0222240001%EDI0001%	0222240001	Edilizia in materiale deperibile	
+%0230910011%EDI0002%	0230910011	Edilizia in materiale deperibile	
+%0230910011%EDI0003%	0230910011	Edilizia in materiale deperibile	
+%0230910002%EDI0001%	0230910002	Edilizia in materiale deperibile	
+%0230910004%EDI0001%	0230910004	Edilizia in materiale deperibile	
+%0300800002%EDI0001%	0300800002	Edilizia in materiale deperibile	
+%0300800002%EDI0002%	0300800002	Edilizia in materiale deperibile	
+%0301330001%EDI0001%	0301330001	Edilizia in materiale deperibile	Holzhaus C1
+%0301330001%EDI0002%	0301330001	Edilizia in materiale deperibile	Holzhaus G
+%0301330001%EDI0003%	0301330001	Edilizia in materiale deperibile	Gebäude J
+%0301330001%EDI0004%	0301330001	Edilizia in materiale deperibile	Gebäude K
+%0301330001%EDI0005%	0301330001	Edilizia in materiale deperibile	Holzhaus B
+%0301330001%EDI0006%	0301330001	Edilizia in materiale deperibile	Holzbau Q
+%0301330001%EDI0007%	0301330001	Edilizia in materiale deperibile	Gebäude L
+%0301330001%EDI0008%	0301330001	Edilizia in materiale deperibile	Gebäude F
+%0301330001%EDI0009%	0301330001	Edilizia in materiale deperibile	Holzhaus H
+%0301330001%EDI0010%	0301330001	Edilizia in materiale deperibile	Holzbau P
+%0301330001%EDI0011%	0301330001	Edilizia in materiale deperibile	Holzhaus D
+%0301330001%EDI0012%	0301330001	Edilizia in materiale deperibile	Holzhaus E
+%0301330001%EDI0013%	0301330001	Edilizia in materiale deperibile	Holzhaus A
+%0330320001%EDI0001%	0330320001	Edilizia in materiale deperibile	
+%0330320003%EDI0001%	0330320003	Edilizia in materiale deperibile	
+%0340130001%EDI0001%	0340130001	Edilizia in materiale deperibile	
+%0340130001%EDI0002%	0340130001	Edilizia in materiale deperibile	
+%0340140001%EDI0001%	0340140001	Edilizia in materiale deperibile	
+%0340140001%EDI0002%	0340140001	Edilizia in materiale deperibile	
+%0340140001%EDI0003%	0340140001	Edilizia in materiale deperibile	
+%0340140002%EDI0001%	0340140002	Edilizia in materiale deperibile	
+%0340470001%EDI0001%	0340470001	Edilizia in materiale deperibile	
+%0350290001%EDI0001%	0350290001	Edilizia in materiale deperibile	
+%0370060001%EDI0001%	0370060001	Edilizia in materiale deperibile	Settore 2
+%0370060002%EDI0001%	0370060002	Edilizia in materiale deperibile	
+%0370060003%EDI0001%	0370060003	Edilizia in materiale deperibile	
+%0170290025%EDI0001%	0170290025	Edilizia in materiale deperibile	
+%0370560001%EDI0001%	0370560001	Edilizia in materiale deperibile	
+%0380080003%EDI0001%	0380080003	Edilizia in materiale deperibile	Periodo II/2
+%0380080003%EDI0002%	0380080003	Infrastruttura	Periodo II/2, latrine
+%0380080003%EDI0003%	0380080003	Infrastruttura	Periodo II/2, US 2411, 2414, 2415, 2660, 2670
+%0380080003%EDI0004%	0380080003	Infrastruttura	Periodo II/2, US 2561
+%0380080003%EDI0005%	0380080003	Edilizia in materiale deperibile	Periodo II/2; Struttura 1
+%0380080003%EDI0006%	0380080003	Edilizia in materiale deperibile	Periodo II/2; Struttura 2
+%0380080003%EDI0007%	0380080003	Infrastruttura	Periodo II/2; Struttura 3
+%0380080003%EDI0008%	0380080003	Infrastruttura	Periodo I/2; US2499, 2735
+%0380080003%EDI0009%	0380080003	Infrastruttura	Periodo I/2; US2682, 2701, 2726
+%0380080003%EDI0010%	0380080003	Edilizia in materiale deperibile	Periodo II/2; Struttura 4
+%0380080003%EDI0011%	0380080003	Infrastruttura	Periodo II/2; US 2469, 2574
+%0380080003%EDI0012%	0380080003	Infrastruttura	Periodo II/1; US2570
+%0380080003%EDI0013%	0380080003	Infrastruttura	Periodo II/1; US2642
+%0380080003%EDI0014%	0380080003	Infrastruttura	Periodo II/1
+%0380080003%EDI0015%	0380080003	Edilizia in materiale deperibile	Periodo III/1-2; Struttura 5
+%0380080003%EDI0016%	0380080003	Edilizia in materiale deperibile	Periodo III/1; Struttura 6
+%0380080003%EDI0017%	0380080003	Edilizia in materiale deperibile	Periodo III/2-4; Struttura 7
+%0380080003%EDI0018%	0380080003	Infrastruttura	Periodo III/3; letamaio
+%0380080003%EDI0019%	0380080003	Edilizia in materiale deperibile	Periodo IV/1-3; Struttura 9
+%0380080003%EDI0020%	0380080003	Infrastruttura	Periodo III/2; US 2121
+%0380080003%EDI0021%	0380080003	Infrastruttura	Periodo III/2; US 1950
+%0380080003%EDI0022%	0380080003	Edilizia in materiale deperibile	Periodo III/3; Struttura 8
+%0380080003%EDI0023%	0380080003	Edilizia in materiale deperibile	Periodo IV/2, Struttura 11
+%0390050002%EDI0001%	0390050002	Edilizia in materiale deperibile	
+%0390140013%EDI0001%	0390140013	Edilizia in materiale deperibile	
+%0301370002%EDI0001%	0301370002	Edilizia in materiale deperibile	Edificio V
+%0450040003%EDI0001%	0450040003	Edilizia in materiale deperibile	
+%0450040002%EDI0001%	0450040002	Edilizia in materiale deperibile	
+%0450060002%EDI0001%	0450060002	Edilizia in materiale deperibile	
+%0450060002%EDI0002%	0450060002	Edilizia in materiale deperibile	Settore D
+%0450060006%EDI0001%	0450060006	Edilizia in materiale deperibile	
+%0460090003%EDI0001%	0460090003	Edilizia in materiale deperibile	Saggio D
+%0460170016%EDI0001%	0460170016	Edilizia in materiale deperibile	
+%0470110002%EDI0001%	0470110002	Edilizia in materiale deperibile	Area 100
+%0470110002%EDI0002%	0470110002	Edilizia in materiale deperibile	Area 100
+%0480120001%EDI0001%	0480120001	Edilizia in materiale deperibile	
+%0500090001%EDI0001%	0500090001	Edilizia in materiale deperibile	Struttura beta
+%0500090001%EDI0002%	0500090001	Edilizia in materiale deperibile	Struttura alfa
+%0520060001%EDI0001%	0520060001	Edilizia in materiale deperibile	
+%0520060002%EDI0001%	0520060002	Edilizia in materiale deperibile	
+%0520060002%EDI0002%	0520060002	Edilizia in materiale deperibile	
+%0520060003%EDI0001%	0520060003	Edilizia in materiale deperibile	
+%0520230010%EDI0001%	0520230010	Edilizia in materiale deperibile	
+%0520320001%EDI0001%	0520320001	Edilizia in materiale deperibile	Capanna 4
+%0520340002%EDI0001%	0520340002	Edilizia in materiale deperibile	Area 1000
+%0520340002%EDI0002%	0520340002	Edilizia in materiale deperibile	Area 2000
+%0520340002%EDI0003%	0520340002	Edilizia in materiale deperibile	Area 2000
+%0520340002%EDI0004%	0520340002	Edilizia in materiale deperibile	Area 5000
+%0530180001%EDI0001%	0530180001	Edilizia in materiale deperibile	
+%0530180485%EDI0001%	0530180485	Edilizia in materiale deperibile	
+%0530180488%EDI0001%	0530180488	Edilizia in materiale deperibile	Forum, settore V
+%0530180003%EDI0001%	0530180003	Edilizia in materiale deperibile	
+%0530210004%EDI0001%	0530210004	Edilizia in materiale deperibile	
+%0530240002%EDI0001%	0530240002	Edilizia in materiale deperibile	Periodo VI/A-E, Edificio A (area II, settore 2)
+%0530240002%EDI0002%	0530240002	Edilizia in materiale deperibile	Periodo VI/A-E, Edificio C (area III, settore 3, 5
+%0530240002%EDI0003%	0530240002	Edilizia in materiale deperibile	Periodo VII/A-C, Edificio A (area II, settore 2)
+%0540240002%EDI0001%	0540240002	Edilizia in materiale deperibile	Ambiente A
+%0560030001%EDI0001%	0560030001	Edilizia in materiale deperibile	
+%0560030001%EDI0002%	0560030001	Edilizia in materiale deperibile	
+%0560390003%EDI0001%	0560390003	Edilizia in materiale deperibile	Capanna 2
+%0560390003%EDI0002%	0560390003	Edilizia in materiale deperibile	Capanna 3
+%0560390003%EDI0003%	0560390003	Edilizia in materiale deperibile	Capanna 4
+%0560390003%EDI0004%	0560390003	Edilizia in materiale deperibile	Capanna 1
+%0560390003%EDI0005%	0560390003	Edilizia in materiale deperibile	Capanna 5
+%0560520003%EDI0002%	0560520003	Edilizia in materiale deperibile	
+%0570120002%EDI0001%	0570120002	Edilizia in materiale deperibile	
+%0570120002%EDI0002%	0570120002	Edilizia in materiale deperibile	
+%0570120002%EDI0003%	0570120002	Edilizia in materiale deperibile	
+%0570120002%EDI0004%	0570120002	Edilizia in materiale deperibile	
+%0570120002%EDI0005%	0570120002	Edilizia in materiale deperibile	
+%0570120002%EDI0006%	0570120002	Edilizia in materiale deperibile	Sondage VI
+%0570120002%EDI0007%	0570120002	Edilizia in materiale deperibile	Sondage XXVII
+%0570120002%EDI0008%	0570120002	Edilizia in materiale deperibile	Sondage XIV
+%0570120002%EDI0009%	0570120002	Edilizia in materiale deperibile	
+%0570120002%EDI0010%	0570120002	Edilizia in materiale deperibile	
+%0580180001%EDI0001%	0580180001	Edilizia in materiale deperibile	
+%0630490004%EDI0001%	0630490004	Edilizia in materiale deperibile	
+%0640570002%EDI0001%	0640570002	Edilizia in materiale deperibile	
+%0650250003%EDI0001%	0650250003	Edilizia in materiale deperibile	
+%0660340002%EDI0001%	0660340002	Edilizia in materiale deperibile	
+%0670040001%EDI0001%	0670040001	Edilizia in materiale deperibile	Edificio H
+%0670040001%EDI0002%	0670040001	Edilizia in materiale deperibile	Edificio L
+%0670040001%EDI0003%	0670040001	Edilizia in materiale deperibile	Edificio E
+%0670040001%EDI0004%	0670040001	Edilizia in materiale deperibile	Edificio D
+%0670210002%EDI0001%	0670210002	Edilizia in materiale deperibile	
+%0670250002%EDI0001%	0670250002	Edilizia in materiale deperibile	
+%0670410001%EDI0001%	0670410001	Edilizia in materiale deperibile	
+%0670410004%EDI0001%	0670410004	Edilizia in materiale deperibile	
+%0670470002%EDI0001%	0670470002	Edilizia in materiale deperibile	
+%0670470002%EDI0002%	0670470002	Edilizia in materiale deperibile	Saggio M
+%0670470002%EDI0003%	0670470002	Edilizia in materiale deperibile	
+%0670470002%EDI0004%	0670470002	Edilizia in materiale deperibile	
+%0670470002%EDI0005%	0670470002	Edilizia in materiale deperibile	
+%0680100001%EDI0001%	0680100001	Edilizia in materiale deperibile	
+%0680110007%EDI0001%	0680110007	Edilizia in materiale deperibile	
+%0680210001%EDI0001%	0680210001	Edilizia in materiale deperibile	
+%0680270004%EDI0002%	0680270004	Edilizia in materiale deperibile	
+%0680270004%EDI0001%	0680270004	Edilizia in materiale deperibile	
+%0680270003%EDI0001%	0680270003	Edilizia in materiale deperibile	
+%0680280001%EDI0001%	0680280001	Edilizia in materiale deperibile	Struttura 34
+%0680280001%EDI0003%	0680280001	Edilizia in materiale deperibile	
+%0680280001%EDI0002%	0680280001	Edilizia in materiale deperibile	Struttura 35(1)
+%0680280003%EDI0001%	0680280003	Edilizia in materiale deperibile	Struttura III-45
+%0680280003%EDI0002%	0680280003	Edilizia in materiale deperibile	Struttura I-44
+%0680300001%EDI0001%	0680300001	Edilizia in materiale deperibile	
+%0690180001%EDI0001%	0690180001	Edilizia in materiale deperibile	
+%0660540001%EDI0001%	0660540001	Edilizia in materiale deperibile	
+%0690460004%EDI0001%	0690460004	Edilizia in materiale deperibile	
+%0690860002%EDI0001%	0690860002	Edilizia in materiale deperibile	Periodo IV, Ambiente C
+%0700270002%EDI0001%	0700270002	Edilizia in materiale deperibile	
+%0700290002%EDI0001%	0700290002	Edilizia in materiale deperibile	
+%0940120001%EDI0001%	0940120001	Edilizia in materiale deperibile	Craftmen’s refectory
+%0940120001%EDI0002%	0940120001	Edilizia in materiale deperibile	New Abbey
+%0960040002%EDI0001%	0960040002	Edilizia in materiale deperibile	
+%0990140001%EDI0001%	0990140001	Edilizia in materiale deperibile	
+%2320140001%EDI0001%	2320140001	Edilizia in materiale deperibile	Casa 43
+%2030020001%EDI0001%	2030020001	Edilizia in materiale deperibile	
+%2030030001%EDI0001%	2030030001	Edilizia in materiale deperibile	
+%2120010001%EDI0001%	2120010001	Edilizia in materiale deperibile	Struttura B XLI
+%2120010001%EDI0002%	2120010001	Edilizia in materiale deperibile	Struttura B XVII
+%2120010001%EDI0003%	2120010001	Edilizia in materiale deperibile	Struttura A IIIb
+%2120010001%EDI0004%	2120010001	Edilizia in materiale deperibile	Struttura A IL
+%2120010001%EDI0005%	2120010001	Edilizia in materiale deperibile	Struttura A XVI
+%2120010001%EDI0006%	2120010001	Edilizia in materiale deperibile	Struttura B VIII
+%2120010001%EDI0007%	2120010001	Edilizia in materiale deperibile	Struttura  B XIII
+%2120010001%EDI0008%	2120010001	Edilizia in materiale deperibile	Struttura  B XXIII
+%2120010001%EDI0009%	2120010001	Edilizia in materiale deperibile	Struttura A XXIII
+%2120010001%EDI0010%	2120010001	Edilizia in materiale deperibile	Struttura  B XXIV
+%2120010001%EDI0011%	2120010001	Edilizia in materiale deperibile	Struttura A XIX
+%2120010001%EDI0012%	2120010001	Edilizia in materiale deperibile	Struttura B XXX
+%2120010001%EDI0013%	2120010001	Edilizia in materiale deperibile	Struttura A XXXII
+%2120010001%EDI0014%	2120010001	Edilizia in materiale deperibile	Struttura  B XL
+%2120010001%EDI0015%	2120010001	Edilizia in materiale deperibile	Struttura A IV
+%2120010001%EDI0016%	2120010001	Edilizia in materiale deperibile	Struttura A V
+%2120010001%EDI0017%	2120010001	Edilizia in materiale deperibile	Struttura A XLVI
+%2120010001%EDI0018%	2120010001	Edilizia in materiale deperibile	Struttura A IIa
+%2120010001%EDI0019%	2120010001	Edilizia in materiale deperibile	Struttura  A IIb
+%2120010001%EDI0020%	2120010001	Edilizia in materiale deperibile	Struttura A XXXVII
+%2120010001%EDI0021%	2120010001	Edilizia in materiale deperibile	Struttura A XXXVIII
+%2120010001%EDI0022%	2120010001	Edilizia in materiale deperibile	Struttura A XLIIb
+%2120010001%EDI0023%	2120010001	Edilizia in materiale deperibile	Struttura A XL
+%2120010001%EDI0024%	2120010001	Edilizia in materiale deperibile	
+%2120010001%EDI0025%	2120010001	Edilizia in materiale deperibile	
+%2120010001%EDI0026%	2120010001	Edilizia in materiale deperibile	
+%2120010001%EDI0027%	2120010001	Edilizia in materiale deperibile	Struttura B XII
+%2120010001%EDI0028%	2120010001	Edilizia in materiale deperibile	Struttura A VI
+%2120010001%EDI0029%	2120010001	Edilizia in materiale deperibile	Struttura B X
+%2120010001%EDI0030%	2120010001	Edilizia in materiale deperibile	Struttura A XXXIII
+%2120010001%EDI0031%	2120010001	Edilizia in materiale deperibile	
+%2120010001%EDI0032%	2120010001	Edilizia in materiale deperibile	
+%2120010001%EDI0033%	2120010001	Edilizia in materiale deperibile	Struttura B XXXVI
+%2120010001%EDI0034%	2120010001	Edilizia in materiale deperibile	
+%2120010001%EDI0035%	2120010001	Edilizia in materiale deperibile	
+%2120010001%EDI0036%	2120010001	Edilizia in materiale deperibile	
+%2120010001%EDI0037%	2120010001	Edilizia in materiale deperibile	
+%2120010001%EDI0038%	2120010001	Infrastruttura	
+%2120010001%EDI0039%	2120010001	Infrastruttura	
+%2120010001%EDI0040%	2120010001	Infrastruttura	
+%2120020001%EDI0001%	2120020001	Edilizia in materiale deperibile	Struttura CCXVII
+%2120020001%EDI0002%	2120020001	Edilizia in materiale deperibile	Struttura LXVIII
+%2120020001%EDI0003%	2120020001	Edilizia in materiale deperibile	Struttura LXXXII
+%2120020001%EDI0004%	2120020001	Edilizia in materiale deperibile	Struttura CCXVIII
+%2120020001%EDI0005%	2120020001	Edilizia in materiale deperibile	Struttura LXII
+%2120020001%EDI0006%	2120020001	Edilizia in materiale deperibile	Struttura CCXXXV
+%2120020001%EDI0007%	2120020001	Edilizia in materiale deperibile	Struttura LXXVI
+%2120020001%EDI0008%	2120020001	Edilizia in materiale deperibile	Struttura LXIV
+%2120020001%EDI0009%	2120020001	Edilizia in materiale deperibile	Struttura CXIV
+%2120020001%EDI0010%	2120020001	Edilizia in materiale deperibile	Struttura CCXXXI
+%2120020001%EDI0011%	2120020001	Edilizia in materiale deperibile	Struttura LXX
+%2120020001%EDI0012%	2120020001	Edilizia in materiale deperibile	Struttura CLVIb
+%2120020001%EDI0013%	2120020001	Edilizia in materiale deperibile	Struttura XLVIII
+%2120020001%EDI0014%	2120020001	Edilizia in materiale deperibile	Struttura LXXII
+%2120020001%EDI0015%	2120020001	Edilizia in materiale deperibile	Struttura LXXI
+%2120020001%EDI0016%	2120020001	Edilizia in materiale deperibile	Struttura LX
+%2120020001%EDI0017%	2120020001	Edilizia in materiale deperibile	Struttura CLVII
+%2120020001%EDI0018%	2120020001	Edilizia in materiale deperibile	Struttura CLVIa
+%2120020001%EDI0019%	2120020001	Edilizia in materiale deperibile	Struttura CCXXV
+%2120020001%EDI0020%	2120020001	Edilizia in materiale deperibile	Struttura IC
+%2120020001%EDI0021%	2120020001	Edilizia in materiale deperibile	Struttura CC
+%2120020001%EDI0022%	2120020001	Edilizia in materiale deperibile	Struttura CII
+%2120020001%EDI0023%	2120020001	Edilizia in materiale deperibile	Struttura LXXXIII
+%2120020001%EDI0024%	2120020001	Edilizia in materiale deperibile	Struttura CCXXXII
+%2120020001%EDI0025%	2120020001	Edilizia in materiale deperibile	Struttura CXCI
+%2120020001%EDI0026%	2120020001	Edilizia in materiale deperibile	Struttura CVI
+%2120020001%EDI0027%	2120020001	Edilizia in materiale deperibile	Struttura LXV
+%2120020001%EDI0028%	2120020001	Edilizia in materiale deperibile	Struttura XLI
+%2120020001%EDI0029%	2120020001	Edilizia in materiale deperibile	Struttura CLII.165
+%2120020001%EDI0030%	2120020001	Edilizia in materiale deperibile	Struttura CCIII
+%2120020001%EDI0031%	2120020001	Edilizia in materiale deperibile	Struttura CCXXIII
+%2120020001%EDI0032%	2120020001	Edilizia in materiale deperibile	Struttura CLX
+%2120020001%EDI0033%	2120020001	Edilizia in materiale deperibile	Struttura CLVIII
+%2120020001%EDI0034%	2120020001	Edilizia in materiale deperibile	Struttura CLII
+%2120020001%EDI0035%	2120020001	Edilizia in materiale deperibile	Struttura CCXVI
+%2120020001%EDI0036%	2120020001	Edilizia in materiale deperibile	Struttura LXXXIX
+%2120020001%EDI0037%	2120020001	Edilizia in materiale deperibile	Struttura CCXXX.97
+%2120020001%EDI0038%	2120020001	Edilizia in materiale deperibile	Struttura CCXXXI.65
+%2120020001%EDI0039%	2120020001	Edilizia in materiale deperibile	Struttura LXXXVIII
+%2120020001%EDI0040%	2120020001	Edilizia in materiale deperibile	Struttura CCXIX
+%2120020001%EDI0041%	2120020001	Edilizia in materiale deperibile	
+%2120020001%EDI0042%	2120020001	Edilizia in materiale deperibile	
+%2120020001%EDI0043%	2120020001	Edilizia in materiale deperibile	Struttura CCXLI
+%2120020001%EDI0044%	2120020001	Edilizia in materiale deperibile	
+%2120020001%EDI0045%	2120020001	Infrastruttura	
+%2120020001%EDI0046%	2120020001	Edilizia in materiale deperibile	Palizzata longhouse LXXXIII
+%2120020001%EDI0047%	2120020001	Edilizia in materiale deperibile	
+%2120030001%EDI0001%	2120030001	Edilizia in materiale deperibile	Struttura XLIII
+%2120030001%EDI0002%	2120030001	Edilizia in materiale deperibile	Struttura LIX
+%2120030001%EDI0003%	2120030001	Edilizia in materiale deperibile	Struttura XX
+%2120030001%EDI0004%	2120030001	Edilizia in materiale deperibile	Struttura XC
+%2120030001%EDI0005%	2120030001	Edilizia in materiale deperibile	Struttura XCIV
+%2120030001%EDI0006%	2120030001	Edilizia in materiale deperibile	Struttura XXII
+%2120030001%EDI0007%	2120030001	Edilizia in materiale deperibile	Struttura LXIV
+%2120030001%EDI0008%	2120030001	Edilizia in materiale deperibile	Struttura XVIII
+%2120030001%EDI0009%	2120030001	Edilizia in materiale deperibile	Struttura VI
+%2120030001%EDI0010%	2120030001	Edilizia in materiale deperibile	Struttura XXXII
+%2120030001%EDI0011%	2120030001	Edilizia in materiale deperibile	Struttura I
+%2120030001%EDI0012%	2120030001	Edilizia in materiale deperibile	Struttura II
+%2120030001%EDI0013%	2120030001	Edilizia in materiale deperibile	Struttura VIII
+%2120030001%EDI0014%	2120030001	Edilizia in materiale deperibile	Struttura XXVIII
+%2120030001%EDI0015%	2120030001	Edilizia in materiale deperibile	Struttura XXI
+%2120030001%EDI0016%	2120030001	Edilizia in materiale deperibile	Struttura C
+%2120030001%EDI0017%	2120030001	Edilizia in materiale deperibile	Struttura LXXXVII
+%2120030001%EDI0018%	2120030001	Edilizia in materiale deperibile	Struttura LXV
+%2120030001%EDI0019%	2120030001	Edilizia in materiale deperibile	Struttura CVI
+%2120030001%EDI0020%	2120030001	Edilizia in materiale deperibile	Struttura LNQ
+%2120030001%EDI0021%	2120030001	Edilizia in materiale deperibile	Struttura HCS
+%2120030001%EDI0022%	2120030001	Edilizia in materiale deperibile	Struttura IV
+%2120030001%EDI0023%	2120030001	Edilizia in materiale deperibile	Struttura EGT
+%2120030001%EDI0024%	2120030001	Edilizia in materiale deperibile	Struttura JEE
+%2120030001%EDI0025%	2120030001	Edilizia in materiale deperibile	Struttura XXIV
+%2120030001%EDI0026%	2120030001	Edilizia in materiale deperibile	Struttura LXXXVI
+%2120030001%EDI0027%	2120030001	Edilizia in materiale deperibile	Struttura XL
+%2120030001%EDI0028%	2120030001	Edilizia in materiale deperibile	Struttura III
+%2120030001%EDI0029%	2120030001	Edilizia in materiale deperibile	Struttura DCE
+%2120030001%EDI0030%	2120030001	Edilizia in materiale deperibile	Struttura XCVIII
+%2120030001%EDI0031%	2120030001	Edilizia in materiale deperibile	Struttura LXXX
+%2120030001%EDI0032%	2120030001	Edilizia in materiale deperibile	Struttura XCIII
+%2120030001%EDI0033%	2120030001	Edilizia in materiale deperibile	Struttura ABO
+%2120030001%EDI0034%	2120030001	Edilizia in materiale deperibile	Struttura HKT
+%2120030001%EDI0035%	2120030001	Edilizia in materiale deperibile	Struttura EGS
+%2120030001%EDI0036%	2120030001	Edilizia in materiale deperibile	Struttura BCX
+%2120030001%EDI0037%	2120030001	Edilizia in materiale deperibile	Struttura LXXXVIII
+%2120030001%EDI0038%	2120030001	Edilizia in materiale deperibile	Struttura LXXXIX
+%2120030001%EDI0039%	2120030001	Edilizia in materiale deperibile	Struttura LXXI
+%2120030001%EDI0040%	2120030001	Edilizia in materiale deperibile	Struttura XXVI
+%2120030001%EDI0041%	2120030001	Edilizia in materiale deperibile	Struttura LIII
+%2120030001%EDI0042%	2120030001	Edilizia in materiale deperibile	Struttura XXIII
+%2120030001%EDI0043%	2120030001	Edilizia in materiale deperibile	Struttura XXXV
+%2120030001%EDI0044%	2120030001	Edilizia in materiale deperibile	
+%2120030001%EDI0045%	2120030001	Edilizia in materiale deperibile	
+%2120030001%EDI0046%	2120030001	Edilizia in materiale deperibile	Struttura NBO
+%2120030001%EDI0047%	2120030001	Edilizia in materiale deperibile	Struttura GTC
+%2120030001%EDI0048%	2120030001	Edilizia in materiale deperibile	Struttura FBP
+%2120030001%EDI0049%	2120030001	Edilizia in materiale deperibile	Struttura LXXIV
+%2120040001%EDI0001%	2120040001	Edilizia in materiale deperibile	Struttura I
+%2120040001%EDI0002%	2120040001	Edilizia in materiale deperibile	
+%2120040001%EDI0003%	2120040001	Edilizia in materiale deperibile	Struttura XXVIII
+%2120040001%EDI0004%	2120040001	Edilizia in materiale deperibile	Struttura IV
+%2120040001%EDI0005%	2120040001	Edilizia in materiale deperibile	Struttura XIII
+%2120040001%EDI0006%	2120040001	Edilizia in materiale deperibile	Struttura XXXVIII
+%2120040001%EDI0007%	2120040001	Edilizia in materiale deperibile	Struttura II
+%2120040001%EDI0008%	2120040001	Edilizia in materiale deperibile	Struttura XXXIX
+%2120040001%EDI0009%	2120040001	Edilizia in materiale deperibile	
+%2120040001%EDI0010%	2120040001	Edilizia in materiale deperibile	
+%2120040001%EDI0011%	2120040001	Edilizia in materiale deperibile	Struttura XXIX
+%2120040001%EDI0012%	2120040001	Edilizia in materiale deperibile	Struttura Va-b
+%2120040001%EDI0013%	2120040001	Edilizia in materiale deperibile	
+%2120040001%EDI0014%	2120040001	Edilizia in materiale deperibile	
+%2120040001%EDI0015%	2120040001	Infrastruttura	
+%2120040001%EDI0016%	2120040001	Infrastruttura	
+%2120040001%EDI0017%	2120040001	Edilizia in materiale deperibile	
+%2120050001%EDI0001%	2120050001	Edilizia in materiale deperibile	
+%2150010001%EDI0001%	2150010001	Edilizia in materiale deperibile	Struttura c 23
+%2150010001%EDI0002%	2150010001	Edilizia in materiale deperibile	Struttura c 29
+%2150010001%EDI0003%	2150010001	Edilizia in materiale deperibile	Struttura c 20
+%2150010001%EDI0004%	2150010001	Edilizia in materiale deperibile	Struttura c 10
+%2150010001%EDI0005%	2150010001	Edilizia in materiale deperibile	Struttura c 26
+%2150010001%EDI0006%	2150010001	Edilizia in materiale deperibile	Struttura c 14a
+%2150010001%EDI0007%	2150010001	Edilizia in materiale deperibile	Struttura c 27
+%2150010001%EDI0008%	2150010001	Edilizia in materiale deperibile	Struttura c 12
+%2150010001%EDI0009%	2150010001	Edilizia in materiale deperibile	Struttura c 21
+%2150010001%EDI0010%	2150010001	Edilizia in materiale deperibile	Struttura c 3b
+%2150010001%EDI0011%	2150010001	Edilizia in materiale deperibile	Struttura c19
+%2150010001%EDI0012%	2150010001	Edilizia in materiale deperibile	Struttura c 13
+%2150010001%EDI0013%	2150010001	Edilizia in materiale deperibile	Struttura c 5
+%2150010001%EDI0014%	2150010001	Edilizia in materiale deperibile	Struttura c 28b
+%2150010001%EDI0015%	2150010001	Edilizia in materiale deperibile	
+%2150010001%EDI0016%	2150010001	Edilizia in materiale deperibile	Struttura c 18
+%2150010001%EDI0017%	2150010001	Edilizia in materiale deperibile	Struttura c 28a
+%2150010001%EDI0018%	2150010001	Edilizia in materiale deperibile	Struttura  c9
+%2150010001%EDI0019%	2150010001	Edilizia in materiale deperibile	Struttura c 1
+%2150010001%EDI0020%	2150010001	Edilizia in materiale deperibile	Struttura c 7
+%2150010001%EDI0021%	2150010001	Edilizia in materiale deperibile	Struttura c 14b
+%2150010001%EDI0022%	2150010001	Edilizia in materiale deperibile	Struttura c 16
+%2150010001%EDI0023%	2150010001	Edilizia in materiale deperibile	Struttura c 4
+%2150010001%EDI0024%	2150010001	Edilizia in materiale deperibile	Struttura c 2
+%2150010001%EDI0025%	2150010001	Edilizia in materiale deperibile	Struttura c 25
+%2150010001%EDI0026%	2150010001	Edilizia in materiale deperibile	Struttura c 6
+%2150010001%EDI0027%	2150010001	Edilizia in materiale deperibile	Struttura c 15
+%2150010001%EDI0028%	2150010001	Edilizia in materiale deperibile	Struttura c 22
+%2150010001%EDI0029%	2150010001	Edilizia in materiale deperibile	Struttura c 11
+%2150010001%EDI0030%	2150010001	Edilizia in materiale deperibile	
+%2150010001%EDI0031%	2150010001	Edilizia in materiale deperibile	Struttura c 24
+%2150010001%EDI0032%	2150010001	Edilizia in materiale deperibile	Struttura c 8
+%2150010001%EDI0033%	2150010001	Edilizia in materiale deperibile	Struttura c 3a
+%2150010001%EDI0034%	2150010001	Edilizia in materiale deperibile	
+%2150010001%EDI0035%	2150010001	Edilizia in materiale deperibile	
+%2150010001%EDI0036%	2150010001	Edilizia in materiale deperibile	Struttura c 17
+%2150010001%EDI0037%	2150010001	Edilizia in materiale deperibile	
+%2150010001%EDI0038%	2150010001	Edilizia in materiale deperibile	
+%2150010001%EDI0039%	2150010001	Edilizia in materiale deperibile	
+%2150020001%EDI0001%	2150020001	Edilizia in materiale deperibile	Cabane 4
+%2150020001%EDI0002%	2150020001	Edilizia in materiale deperibile	Cabane 5
+%2150020001%EDI0003%	2150020001	Edilizia in materiale deperibile	Cabane 28
+%2150020001%EDI0004%	2150020001	Edilizia in materiale deperibile	Cabane 10
+%2150020001%EDI0005%	2150020001	Edilizia in materiale deperibile	Cabane 14
+%2150020001%EDI0006%	2150020001	Edilizia in materiale deperibile	Cabane 12
+%2150020001%EDI0007%	2150020001	Edilizia in materiale deperibile	Cabane 17
+%2150020001%EDI0008%	2150020001	Edilizia in materiale deperibile	Cabane 27
+%2150020001%EDI0009%	2150020001	Edilizia in materiale deperibile	Cabane 24
+%2150020001%EDI0010%	2150020001	Edilizia in materiale deperibile	Cabane 23
+%2150020001%EDI0011%	2150020001	Edilizia in materiale deperibile	Cabane 7
+%2150020001%EDI0012%	2150020001	Edilizia in materiale deperibile	Cabane 25
+%2150020001%EDI0013%	2150020001	Edilizia in materiale deperibile	Cabane 26
+%2150020001%EDI0014%	2150020001	Edilizia in materiale deperibile	Cabane 15
+%2150020001%EDI0015%	2150020001	Edilizia in materiale deperibile	Cabane 8
+%2150020001%EDI0016%	2150020001	Edilizia in materiale deperibile	Cabane 11
+%2150020001%EDI0017%	2150020001	Edilizia in materiale deperibile	Cabane 1
+%2150020001%EDI0018%	2150020001	Edilizia in materiale deperibile	Cabane 2
+%2150020001%EDI0019%	2150020001	Edilizia in materiale deperibile	Cabane 9
+%2150020001%EDI0020%	2150020001	Edilizia in materiale deperibile	Cabane 6
+%2150020001%EDI0021%	2150020001	Edilizia in materiale deperibile	Cabane 19
+%2150020001%EDI0022%	2150020001	Edilizia in materiale deperibile	Cabane 18
+%2150020001%EDI0023%	2150020001	Edilizia in materiale deperibile	Cabane 20
+%2150020001%EDI0024%	2150020001	Edilizia in materiale deperibile	Cabane 3
+%2150020001%EDI0025%	2150020001	Edilizia in materiale deperibile	Cabane 13
+%2150020001%EDI0026%	2150020001	Edilizia in materiale deperibile	Cabane 22
+%2150020001%EDI0027%	2150020001	Edilizia in materiale deperibile	Cabane 21
+%2150030001%EDI0001%	2150030001	Edilizia in materiale deperibile	Manso II
+%2150030001%EDI0002%	2150030001	Edilizia in materiale deperibile	Manso I,Capanna 106
+%2150030001%EDI0003%	2150030001	Edilizia in materiale deperibile	Manso II
+%2150030001%EDI0004%	2150030001	Edilizia in materiale deperibile	Manso I
+%2150030001%EDI0005%	2150030001	Edilizia in materiale deperibile	Manso II
+%2150030001%EDI0006%	2150030001	Edilizia in materiale deperibile	Manso II
+%2150040001%EDI0001%	2150040001	Edilizia in materiale deperibile	Settore I
+%2150040001%EDI0002%	2150040001	Edilizia in materiale deperibile	Settore III
+%2150040001%EDI0003%	2150040001	Edilizia in materiale deperibile	Settore III
+%2150040001%EDI0004%	2150040001	Edilizia in materiale deperibile	VLSIII
+%2150050001%EDI0001%	2150050001	Edilizia in materiale deperibile	Edificio d
+%2150060001%EDI0001%	2150060001	Edilizia in materiale deperibile	Cabane 5
+%2150060001%EDI0002%	2150060001	Edilizia in materiale deperibile	Cabane 13
+%2150060001%EDI0003%	2150060001	Edilizia in materiale deperibile	Cabane 15
+%2150060001%EDI0004%	2150060001	Edilizia in materiale deperibile	Cabane 2
+%2150060001%EDI0005%	2150060001	Edilizia in materiale deperibile	Cabane 21
+%2150060001%EDI0006%	2150060001	Edilizia in materiale deperibile	Cabane 26a
+%2150060001%EDI0007%	2150060001	Edilizia in materiale deperibile	Cabane 7
+%2150060001%EDI0008%	2150060001	Edilizia in materiale deperibile	Cabane 19
+%2150060001%EDI0009%	2150060001	Edilizia in materiale deperibile	Cabane 23
+%2150060001%EDI0010%	2150060001	Edilizia in materiale deperibile	Cabane 18
+%2150060001%EDI0011%	2150060001	Edilizia in materiale deperibile	Cabane 12
+%2150060001%EDI0012%	2150060001	Edilizia in materiale deperibile	Cabane 9
+%2150060001%EDI0013%	2150060001	Edilizia in materiale deperibile	Cabane 11
+%2150060001%EDI0014%	2150060001	Edilizia in materiale deperibile	Cabane 6
+%2150060001%EDI0015%	2150060001	Edilizia in materiale deperibile	Cabane 16
+%2150060001%EDI0016%	2150060001	Edilizia in materiale deperibile	Cabane 8
+%2150060001%EDI0017%	2150060001	Edilizia in materiale deperibile	Cabane 17
+%2150060001%EDI0018%	2150060001	Edilizia in materiale deperibile	Cabane 25
+%2150060001%EDI0019%	2150060001	Edilizia in materiale deperibile	Cabane 27
+%2150060001%EDI0020%	2150060001	Edilizia in materiale deperibile	Cabane 24
+%2150060001%EDI0021%	2150060001	Edilizia in materiale deperibile	Cabane 20
+%2150060001%EDI0022%	2150060001	Edilizia in materiale deperibile	Cabane 1
+%2150060001%EDI0023%	2150060001	Edilizia in materiale deperibile	Cabane 4b
+%2150060001%EDI0024%	2150060001	Edilizia in materiale deperibile	Cabane 10
+%2150060001%EDI0025%	2150060001	Edilizia in materiale deperibile	Cabane 3
+%2150060001%EDI0026%	2150060001	Edilizia in materiale deperibile	Cabane 4a
+%2150060001%EDI0027%	2150060001	Edilizia in materiale deperibile	Cabane 28
+%2150060001%EDI0028%	2150060001	Edilizia in materiale deperibile	Cabane 26b
+%2150070001%EDI0001%	2150070001	Edilizia in materiale deperibile	
+%2150070001%EDI0002%	2150070001	Edilizia in materiale deperibile	
+%2150080001%EDI0001%	2150080001	Edilizia in materiale deperibile	
+%2150090001%EDI0001%	2150090001	Edilizia in materiale deperibile	
+%2150090001%EDI0002%	2150090001	Edilizia in materiale deperibile	
+%2150100001%EDI0001%	2150100001	Edilizia in materiale deperibile	Struttura CA
+%2150100001%EDI0002%	2150100001	Edilizia in materiale deperibile	Struttura CB
+%2150100001%EDI0003%	2150100001	Edilizia in materiale deperibile	Struttura CC
+%2150110001%EDI0001%	2150110001	Edilizia in materiale deperibile	
+%2150120001%EDI0001%	2150120001	Edilizia in materiale deperibile	Batiment I
+%2150120001%EDI0002%	2150120001	Edilizia in materiale deperibile	Batiment II
+%2150120001%EDI0003%	2150120001	Edilizia in materiale deperibile	Batiment III
+%2160010001%EDI0001%	2160010001	Edilizia in materiale deperibile	Edificio A1
+%2160010001%EDI0002%	2160010001	Edilizia in materiale deperibile	Edificio A2
+%2160010001%EDI0003%	2160010001	Edilizia in materiale deperibile	Edificio B1
+%2160010001%EDI0004%	2160010001	Edilizia in materiale deperibile	Edificio B2
+%2160010001%EDI0005%	2160010001	Edilizia in materiale deperibile	Edificio B3
+%2160010001%EDI0006%	2160010001	Edilizia in materiale deperibile	Edificio B4
+%2160010001%EDI0007%	2160010001	Edilizia in materiale deperibile	Edificio B5
+%2160010001%EDI0008%	2160010001	Edilizia in materiale deperibile	Edificio C1
+%2160010001%EDI0009%	2160010001	Edilizia in materiale deperibile	Edificio C2
+%2160010001%EDI0010%	2160010001	Edilizia in materiale deperibile	Edificio C3
+%2160010001%EDI0011%	2160010001	Edilizia in materiale deperibile	Edificio C4
+%2160010001%EDI0012%	2160010001	Edilizia in materiale deperibile	Edificio C5
+%2160010001%EDI0013%	2160010001	Edilizia in materiale deperibile	Edificio C6
+%2160010001%EDI0014%	2160010001	Edilizia in materiale deperibile	Edificio D1
+%2160010001%EDI0015%	2160010001	Edilizia in materiale deperibile	Edificio D2
+%2160010001%EDI0016%	2160010001	Edilizia in materiale deperibile	Edificio D3
+%2160010001%EDI0017%	2160010001	Edilizia in materiale deperibile	Edificio D4
+%2160010001%EDI0018%	2160010001	Edilizia in materiale deperibile	edificio E1
+%2160010001%EDI0019%	2160010001	Edilizia in materiale deperibile	Edificio E4
+%2160010001%EDI0020%	2160010001	Edilizia in materiale deperibile	Edificio E2
+%2160010001%EDI0021%	2160010001	Edilizia in materiale deperibile	Edificio E3
+%2160010001%EDI0022%	2160010001	Edilizia in materiale deperibile	Edificio E5
+%2160010001%EDI0023%	2160010001	Edilizia in materiale deperibile	Edificio E6
+%2160020001%EDI0001%	2160020001	Edilizia in materiale deperibile	Edificio 1
+%2160020001%EDI0002%	2160020001	Edilizia in materiale deperibile	Edificio 2
+%2160020001%EDI0003%	2160020001	Edilizia in materiale deperibile	Edificio 3
+%2160020001%EDI0004%	2160020001	Edilizia in materiale deperibile	Edificio 4
+%2160020001%EDI0005%	2160020001	Edilizia in materiale deperibile	Edificio 5
+%2160020001%EDI0006%	2160020001	Edilizia in materiale deperibile	Edificio 6
+%2160020001%EDI0007%	2160020001	Edilizia in materiale deperibile	Edifici 7, 8, 9, 10, 11
+%2160020001%EDI0008%	2160020001	Edilizia in materiale deperibile	Edificio 12
+%2160030001%EDI0001%	2160030001	Edilizia in materiale deperibile	
+%2160030001%EDI0002%	2160030001	Edilizia in materiale deperibile	
+%2160030001%EDI0003%	2160030001	Edilizia in materiale deperibile	
+%2160030001%EDI0004%	2160030001	Edilizia in materiale deperibile	
+%2160030001%EDI0005%	2160030001	Edilizia in materiale deperibile	
+%2160030001%EDI0006%	2160030001	Edilizia in materiale deperibile	
+%2160030001%EDI0007%	2160030001	Edilizia in materiale deperibile	
+%2160030001%EDI0008%	2160030001	Edilizia in materiale deperibile	
+%2160030001%EDI0009%	2160030001	Edilizia in materiale deperibile	
+%2160030001%EDI0010%	2160030001	Edilizia in materiale deperibile	
+%2160030001%EDI0011%	2160030001	Edilizia in materiale deperibile	
+%2160030001%EDI0012%	2160030001	Edilizia in materiale deperibile	
+%2160030001%EDI0013%	2160030001	Edilizia in materiale deperibile	
+%2160030001%EDI0014%	2160030001	Edilizia in materiale deperibile	
+%2160040001%EDI0001%	2160040001	Edilizia in materiale deperibile	
+%2160040001%EDI0002%	2160040001	Edilizia in materiale deperibile	
+%2160040001%EDI0003%	2160040001	Edilizia in materiale deperibile	
+%2160040001%EDI0004%	2160040001	Edilizia in materiale deperibile	
+%2160040001%EDI0005%	2160040001	Edilizia in materiale deperibile	
+%2160040001%EDI0006%	2160040001	Edilizia in materiale deperibile	
+%2160040001%EDI0007%	2160040001	Edilizia in materiale deperibile	
+%2160040001%EDI0008%	2160040001	Edilizia in materiale deperibile	
+%2160040001%EDI0009%	2160040001	Edilizia in materiale deperibile	
+%2160050001%EDI0001%	2160050001	Edilizia in materiale deperibile	
+%2160050001%EDI0002%	2160050001	Edilizia in materiale deperibile	
+%2160050001%EDI0003%	2160050001	Edilizia in materiale deperibile	
+%2160050001%EDI0004%	2160050001	Edilizia in materiale deperibile	
+%2160050001%EDI0005%	2160050001	Edilizia in materiale deperibile	
+%2160050001%EDI0006%	2160050001	Edilizia in materiale deperibile	
+%2160050001%EDI0007%	2160050001	Edilizia in materiale deperibile	
+%2160050001%EDI0008%	2160050001	Edilizia in materiale deperibile	
+%2160050001%EDI0009%	2160050001	Edilizia in materiale deperibile	
+%2160050001%EDI0010%	2160050001	Edilizia in materiale deperibile	
+%2160050001%EDI0011%	2160050001	Edilizia in materiale deperibile	
+%2160050001%EDI0012%	2160050001	Edilizia in materiale deperibile	
+%2160060001%EDI0001%	2160060001	Edilizia in materiale deperibile	
+%2160060001%EDI0002%	2160060001	Edilizia in materiale deperibile	
+%2160060001%EDI0003%	2160060001	Edilizia in materiale deperibile	
+%2160060001%EDI0004%	2160060001	Edilizia in materiale deperibile	
+%2160070001%EDI0001%	2160070001	Edilizia in materiale deperibile	Casa A
+%2160070001%EDI0002%	2160070001	Edilizia in materiale deperibile	Casa B
+%2160070001%EDI0003%	2160070001	Edilizia in materiale deperibile	Casa D
+%2160070001%EDI0004%	2160070001	Edilizia in materiale deperibile	Casa C
+%2160070001%EDI0005%	2160070001	Edilizia in materiale deperibile	Casa E
+%2160070001%EDI0006%	2160070001	Edilizia in materiale deperibile	Casa F
+%2160070001%EDI0007%	2160070001	Edilizia in materiale deperibile	Casa G
+%2160070001%EDI0008%	2160070001	Edilizia in materiale deperibile	Casa H
+%2160070001%EDI0009%	2160070001	Edilizia in materiale deperibile	Casa J
+%2160070001%EDI0010%	2160070001	Edilizia in materiale deperibile	Casa K
+%2160080001%EDI0001%	2160080001	Edilizia in materiale deperibile	Casa 7
+%2160080001%EDI0002%	2160080001	Edilizia in materiale deperibile	Casa 8
+%2160080001%EDI0003%	2160080001	Edilizia in materiale deperibile	Casa 13
+%2160080001%EDI0004%	2160080001	Edilizia in materiale deperibile	Casa 7
+%2160080001%EDI0005%	2160080001	Edilizia in materiale deperibile	Casa 71
+%2160080001%EDI0006%	2160080001	Edilizia in materiale deperibile	Casa 3
+%2160080001%EDI0007%	2160080001	Edilizia in materiale deperibile	
+%2160080001%EDI0008%	2160080001	Edilizia in materiale deperibile	Casa 9
+%2160080001%EDI0009%	2160080001	Edilizia in materiale deperibile	Casa 62
+%2160080001%EDI0010%	2160080001	Edilizia in materiale deperibile	Casa 67
+%2160080001%EDI0011%	2160080001	Edilizia in materiale deperibile	Pagliaio 42
+%2160080001%EDI0012%	2160080001	Edilizia in materiale deperibile	Pagliaio 84
+%2160080001%EDI0013%	2160080001	Edilizia in materiale deperibile	
+%2160090001%EDI0001%	2160090001	Edilizia in materiale deperibile	
+%2160090001%EDI0002%	2160090001	Edilizia in materiale deperibile	
+%2160090001%EDI0003%	2160090001	Edilizia in materiale deperibile	
+%2160100001%EDI0001%	2160100001	Edilizia in materiale deperibile	Casa 1
+%2160100001%EDI0002%	2160100001	Edilizia in materiale deperibile	Casa a
+%2160100001%EDI0003%	2160100001	Edilizia in materiale deperibile	Casa L
+%2160100001%EDI0004%	2160100001	Edilizia in materiale deperibile	Casa 2
+%2160100001%EDI0005%	2160100001	Edilizia in materiale deperibile	Casa 3
+%2160100001%EDI0006%	2160100001	Edilizia in materiale deperibile	Casa 4
+%2160100001%EDI0007%	2160100001	Edilizia in materiale deperibile	Casa C
+%2160100001%EDI0008%	2160100001	Edilizia in materiale deperibile	Casa e
+%2160100001%EDI0009%	2160100001	Edilizia in materiale deperibile	Casa i
+%2160100001%EDI0010%	2160100001	Edilizia in materiale deperibile	Casa d
+%2160100001%EDI0011%	2160100001	Edilizia in materiale deperibile	Casa f
+%2160100001%EDI0012%	2160100001	Edilizia in materiale deperibile	Casa g
+%2160100001%EDI0013%	2160100001	Edilizia in materiale deperibile	Casa h
+%2160110001%EDI0001%	2160110001	Edilizia in materiale deperibile	
+%2160110001%EDI0002%	2160110001	Edilizia in materiale deperibile	Grubenhaus 6
+%2160110001%EDI0003%	2160110001	Edilizia in materiale deperibile	Grubenhaus 1
+%2160110001%EDI0004%	2160110001	Edilizia in materiale deperibile	Grubenhaus 2
+%2160120001%EDI0001%	2160120001	Edilizia in materiale deperibile	Casa 5
+%2160120001%EDI0002%	2160120001	Edilizia in materiale deperibile	Casa 6
+%2160120001%EDI0003%	2160120001	Edilizia in materiale deperibile	Casa 3
+%2160120001%EDI0004%	2160120001	Edilizia in materiale deperibile	Casa 4
+%2160120001%EDI0005%	2160120001	Edilizia in materiale deperibile	
+%2160120001%EDI0006%	2160120001	Edilizia in materiale deperibile	
+%2160120001%EDI0007%	2160120001	Edilizia in materiale deperibile	
+%2160130001%EDI0001%	2160130001	Edilizia in materiale deperibile	Casa 14
+%2160130001%EDI0002%	2160130001	Edilizia in materiale deperibile	Casa 138
+%2160130001%EDI0003%	2160130001	Edilizia in materiale deperibile	Casa 4
+%2160130001%EDI0004%	2160130001	Edilizia in materiale deperibile	Casa 22
+%2160130001%EDI0005%	2160130001	Edilizia in materiale deperibile	Casa 7
+%2160130001%EDI0006%	2160130001	Edilizia in materiale deperibile	Casa 2b
+%2160130001%EDI0007%	2160130001	Edilizia in materiale deperibile	Casa 2a
+%2160130001%EDI0008%	2160130001	Edilizia in materiale deperibile	
+%2160130001%EDI0009%	2160130001	Edilizia in materiale deperibile	
+%2160130001%EDI0010%	2160130001	Edilizia in materiale deperibile	
+%2160140001%EDI0001%	2160140001	Edilizia in materiale deperibile	
+%2160140001%EDI0002%	2160140001	Edilizia in materiale deperibile	
+%2160150001%EDI0001%	2160150001	Edilizia in materiale deperibile	
+%2160150001%EDI0002%	2160150001	Edilizia in materiale deperibile	
+%2160150001%EDI0003%	2160150001	Edilizia in materiale deperibile	Casa 605
+%2160150001%EDI0004%	2160150001	Edilizia in materiale deperibile	Casa 1160
+%2160150001%EDI0005%	2160150001	Edilizia in materiale deperibile	
+%2160160001%EDI0001%	2160160001	Edilizia in materiale deperibile	Casa 5
+%2160160001%EDI0002%	2160160001	Edilizia in materiale deperibile	Casa 3
+%2160160001%EDI0003%	2160160001	Edilizia in materiale deperibile	Casa 2
+%2160160001%EDI0004%	2160160001	Edilizia in materiale deperibile	Casa 4
+%2160160001%EDI0005%	2160160001	Edilizia in materiale deperibile	Casa 1
+%2160160001%EDI0006%	2160160001	Edilizia in materiale deperibile	Casa 2a
+%2160160001%EDI0007%	2160160001	Edilizia in materiale deperibile	
+%2160160002%EDI0001%	2160160002	Edilizia in materiale deperibile	Casa 1
+%2160160002%EDI0002%	2160160002	Edilizia in materiale deperibile	
+%2160160002%EDI0003%	2160160002	Edilizia in materiale deperibile	
+%2160170001%EDI0001%	2160170001	Edilizia in materiale deperibile	
+%2160170001%EDI0002%	2160170001	Edilizia in materiale deperibile	
+%2160170001%EDI0003%	2160170001	Edilizia in materiale deperibile	
+%2160180001%EDI0001%	2160180001	Edilizia in materiale deperibile	Casa 2
+%2160180001%EDI0002%	2160180001	Edilizia in materiale deperibile	Casa 1
+%2160180001%EDI0003%	2160180001	Edilizia in materiale deperibile	
+%2160180001%EDI0004%	2160180001	Edilizia in materiale deperibile	
+%2160180001%EDI0005%	2160180001	Edilizia in materiale deperibile	
+%2160190001%EDI0001%	2160190001	Edilizia in materiale deperibile	Casa 10
+%2160190001%EDI0002%	2160190001	Edilizia in materiale deperibile	Casa 6
+%2160190001%EDI0003%	2160190001	Edilizia in materiale deperibile	Casa 7
+%2160200001%EDI0001%	2160200001	Edilizia in materiale deperibile	Casa B
+%2160200001%EDI0002%	2160200001	Edilizia in materiale deperibile	Case C, D, E, F, G, H, I
+%2160210001%EDI0001%	2160210001	Edilizia in materiale deperibile	Casa I
+%2160210001%EDI0002%	2160210001	Edilizia in materiale deperibile	Casa III
+%2160210001%EDI0003%	2160210001	Edilizia in materiale deperibile	Casa II
+%2160220001%EDI0001%	2160220001	Edilizia in materiale deperibile	Casa A
+%2160220001%EDI0002%	2160220001	Edilizia in materiale deperibile	Casa B
+%2160230001%EDI0001%	2160230001	Edilizia in materiale deperibile	Casa I,1
+%2160230001%EDI0002%	2160230001	Edilizia in materiale deperibile	Casa III,1
+%2160230001%EDI0003%	2160230001	Edilizia in materiale deperibile	I,2
+%2160230001%EDI0004%	2160230001	Edilizia in materiale deperibile	I,4
+%2160230001%EDI0005%	2160230001	Edilizia in materiale deperibile	I,3
+%2160240001%EDI0001%	2160240001	Edilizia in materiale deperibile	Abitazione Corte/Fattoria B
+%2160250001%EDI0001%	2160250001	Edilizia in materiale deperibile	Casa 109
+%2160250001%EDI0002%	2160250001	Edilizia in materiale deperibile	Casa 26
+%2160250001%EDI0003%	2160250001	Edilizia in materiale deperibile	Casa 30
+%2160250001%EDI0004%	2160250001	Edilizia in materiale deperibile	Casa 16
+%2160250001%EDI0005%	2160250001	Edilizia in materiale deperibile	Casa 18
+%2160250001%EDI0006%	2160250001	Edilizia in materiale deperibile	Casa 73
+%2160250001%EDI0007%	2160250001	Edilizia in materiale deperibile	Casa 232
+%2160250001%EDI0008%	2160250001	Edilizia in materiale deperibile	Casa 221
+%2160250001%EDI0009%	2160250001	Edilizia in materiale deperibile	Casa 43
+%2160250001%EDI0010%	2160250001	Edilizia in materiale deperibile	Casa 108
+%2160250001%EDI0011%	2160250001	Edilizia in materiale deperibile	Casa 92
+%2160250001%EDI0012%	2160250001	Edilizia in materiale deperibile	Casa 15
+%2160250001%EDI0013%	2160250001	Edilizia in materiale deperibile	Casa 34
+%2160250001%EDI0014%	2160250001	Edilizia in materiale deperibile	Casa 37
+%2160250001%EDI0015%	2160250001	Edilizia in materiale deperibile	Casa 65
+%2160250001%EDI0016%	2160250001	Edilizia in materiale deperibile	Casa 81
+%2160250001%EDI0017%	2160250001	Edilizia in materiale deperibile	Casa 105
+%2160250001%EDI0018%	2160250001	Edilizia in materiale deperibile	Casa 107
+%2160250001%EDI0019%	2160250001	Edilizia in materiale deperibile	Casa 20
+%2160250001%EDI0020%	2160250001	Edilizia in materiale deperibile	Casa 102
+%2160250001%EDI0021%	2160250001	Edilizia in materiale deperibile	Casa 239
+%2160250001%EDI0022%	2160250001	Edilizia in materiale deperibile	Casa 25
+%2160250001%EDI0023%	2160250001	Edilizia in materiale deperibile	Casa 36
+%2160250001%EDI0024%	2160250001	Edilizia in materiale deperibile	Casa 11
+%2160250001%EDI0025%	2160250001	Edilizia in materiale deperibile	Casa 12
+%2160250001%EDI0026%	2160250001	Edilizia in materiale deperibile	Casa 28
+%2160250001%EDI0027%	2160250001	Edilizia in materiale deperibile	Casa 35
+%2160250001%EDI0028%	2160250001	Edilizia in materiale deperibile	Casa 71
+%2160250001%EDI0029%	2160250001	Edilizia in materiale deperibile	Casa 80
+%2160250001%EDI0030%	2160250001	Edilizia in materiale deperibile	Casa 91
+%2160250001%EDI0031%	2160250001	Edilizia in materiale deperibile	Casa 98/99
+%2160250001%EDI0032%	2160250001	Edilizia in materiale deperibile	Casa 115
+%2160250001%EDI0033%	2160250001	Edilizia in materiale deperibile	Casa 42
+%2160250001%EDI0034%	2160250001	Edilizia in materiale deperibile	Casa 90
+%2160250001%EDI0035%	2160250001	Edilizia in materiale deperibile	Casa 103
+%2160250001%EDI0036%	2160250001	Edilizia in materiale deperibile	
+%2160250001%EDI0037%	2160250001	Edilizia in materiale deperibile	Casa 162
+%2160250001%EDI0038%	2160250001	Edilizia in materiale deperibile	Casa 175
+%2160250001%EDI0039%	2160250001	Edilizia in materiale deperibile	Casa 22
+%2160250001%EDI0040%	2160250001	Edilizia in materiale deperibile	Casa 24
+%2160250001%EDI0041%	2160250001	Edilizia in materiale deperibile	Casa 27
+%2160250001%EDI0042%	2160250001	Edilizia in materiale deperibile	Casa 31
+%2160250001%EDI0043%	2160250001	Edilizia in materiale deperibile	Casa 41
+%2160250001%EDI0044%	2160250001	Edilizia in materiale deperibile	Casa 52
+%2160250001%EDI0045%	2160250001	Edilizia in materiale deperibile	Casa 62
+%2160250001%EDI0046%	2160250001	Edilizia in materiale deperibile	Casa 82
+%2160250001%EDI0047%	2160250001	Edilizia in materiale deperibile	Casa 122
+%2160250001%EDI0048%	2160250001	Edilizia in materiale deperibile	Casa 267
+%2160250001%EDI0049%	2160250001	Edilizia in materiale deperibile	Casa 222
+%2160250001%EDI0050%	2160250001	Edilizia in materiale deperibile	Casa 49
+%2160250001%EDI0051%	2160250001	Edilizia in materiale deperibile	Casa 51
+%2160250001%EDI0052%	2160250001	Edilizia in materiale deperibile	Casa 83
+%2160250001%EDI0053%	2160250001	Edilizia in materiale deperibile	Casa 248
+%2160250001%EDI0054%	2160250001	Edilizia in materiale deperibile	Casa 268
+%2160250001%EDI0055%	2160250001	Edilizia in materiale deperibile	Casa 1
+%2160250001%EDI0056%	2160250001	Edilizia in materiale deperibile	Casa 3
+%2160250001%EDI0057%	2160250001	Edilizia in materiale deperibile	Casa 4
+%2160250001%EDI0058%	2160250001	Edilizia in materiale deperibile	Casa 5
+%2160250001%EDI0059%	2160250001	Edilizia in materiale deperibile	Casa 6
+%2160250001%EDI0060%	2160250001	Edilizia in materiale deperibile	Casa 21
+%2160250001%EDI0061%	2160250001	Edilizia in materiale deperibile	Casa 23
+%2160250001%EDI0062%	2160250001	Edilizia in materiale deperibile	Casa 38
+%2160250001%EDI0063%	2160250001	Edilizia in materiale deperibile	Casa 40
+%2160250001%EDI0064%	2160250001	Edilizia in materiale deperibile	Casa 52
+%2160250001%EDI0065%	2160250001	Edilizia in materiale deperibile	Casa 61
+%2160250001%EDI0066%	2160250001	Edilizia in materiale deperibile	Casa 63
+%2160250001%EDI0067%	2160250001	Edilizia in materiale deperibile	Casa 69
+%2160250001%EDI0068%	2160250001	Edilizia in materiale deperibile	Casa 74
+%2160250001%EDI0069%	2160250001	Edilizia in materiale deperibile	Casa 128
+%2160250001%EDI0070%	2160250001	Edilizia in materiale deperibile	Casa 194
+%2160250001%EDI0071%	2160250001	Edilizia in materiale deperibile	Casa 200
+%2160250001%EDI0072%	2160250001	Edilizia in materiale deperibile	Casa 266
+%2160250001%EDI0073%	2160250001	Edilizia in materiale deperibile	Casa 234
+%2160250001%EDI0074%	2160250001	Edilizia in materiale deperibile	Casa 2
+%2160250001%EDI0075%	2160250001	Edilizia in materiale deperibile	Casa 8
+%2160250001%EDI0076%	2160250001	Edilizia in materiale deperibile	Casa 45
+%2160250001%EDI0077%	2160250001	Edilizia in materiale deperibile	Casa 51
+%2160250001%EDI0078%	2160250001	Edilizia in materiale deperibile	Casa 86
+%2160250001%EDI0079%	2160250001	Edilizia in materiale deperibile	Casa 95
+%2160250001%EDI0080%	2160250001	Edilizia in materiale deperibile	Casa 104
+%2160250001%EDI0081%	2160250001	Edilizia in materiale deperibile	Casa 220
+%2160250001%EDI0082%	2160250001	Edilizia in materiale deperibile	Casa 233
+%2160250001%EDI0083%	2160250001	Edilizia in materiale deperibile	Casa 245
+%2160250001%EDI0084%	2160250001	Edilizia in materiale deperibile	Casa 248
+%2160260001%EDI0001%	2160260001	Edilizia in materiale deperibile	
+%2160260001%EDI0002%	2160260001	Edilizia in materiale deperibile	
+%2150130001%EDI0001%	2150130001	Edilizia in materiale deperibile	
+%2160280001%EDI0001%	2160280001	Edilizia in materiale deperibile	
+%2160290001%EDI0001%	2160290001	Edilizia in materiale deperibile	
+%2160300001%EDI0001%	2160300001	Edilizia in materiale deperibile	Casa 1
+%2160300001%EDI0002%	2160300001	Edilizia in materiale deperibile	Casa 2
+%2160310001%EDI0001%	2160310001	Edilizia in materiale deperibile	
+%2160310001%EDI0002%	2160310001	Edilizia in materiale deperibile	
+%2160310001%EDI0003%	2160310001	Edilizia in materiale deperibile	
+%2160310001%EDI0004%	2160310001	Edilizia in materiale deperibile	
+%2160320001%EDI0001%	2160320001	Edilizia in materiale deperibile	
+%2160330001%EDI0001%	2160330001	Edilizia in materiale deperibile	Casa 1
+%2160330001%EDI0002%	2160330001	Edilizia in materiale deperibile	Casa 3
+%2160330001%EDI0003%	2160330001	Edilizia in materiale deperibile	Casa 13
+%2160330001%EDI0004%	2160330001	Edilizia in materiale deperibile	Casa 16
+%2160330001%EDI0005%	2160330001	Edilizia in materiale deperibile	Casa 2
+%2160330001%EDI0006%	2160330001	Edilizia in materiale deperibile	Casa 7
+%2160330001%EDI0007%	2160330001	Edilizia in materiale deperibile	Casa 9
+%2160330001%EDI0008%	2160330001	Edilizia in materiale deperibile	Casa 10
+%2160330001%EDI0009%	2160330001	Edilizia in materiale deperibile	Casa 4
+%2160330001%EDI0010%	2160330001	Edilizia in materiale deperibile	Casa 5
+%2160330001%EDI0011%	2160330001	Edilizia in materiale deperibile	Casa 8
+%2160330001%EDI0012%	2160330001	Edilizia in materiale deperibile	Casa 6
+%2160330001%EDI0013%	2160330001	Edilizia in materiale deperibile	Casa 4
+%2160330001%EDI0014%	2160330001	Edilizia in materiale deperibile	Casa 18
+%2160340001%EDI0001%	2160340001	Edilizia in materiale deperibile	
+%2160340001%EDI0002%	2160340001	Edilizia in materiale deperibile	
+%2160350001%EDI0001%	2160350001	Edilizia in materiale deperibile	Casa 1
+%2160350001%EDI0002%	2160350001	Edilizia in materiale deperibile	Casa 2
+%2160350001%EDI0003%	2160350001	Edilizia in materiale deperibile	Casa 3
+%2160350001%EDI0004%	2160350001	Edilizia in materiale deperibile	Casa 4
+%2160350001%EDI0005%	2160350001	Edilizia in materiale deperibile	Casa 2a
+%2160360001%EDI0001%	2160360001	Edilizia in materiale deperibile	
+%2160370001%EDI0001%	2160370001	Edilizia in materiale deperibile	
+%2160380001%EDI0001%	2160380001	Edilizia in materiale deperibile	Casa 1
+%2160380001%EDI0002%	2160380001	Edilizia in materiale deperibile	Casa 3
+%2160380001%EDI0003%	2160380001	Edilizia in materiale deperibile	Casa 2
+%2160390001%EDI0001%	2160390001	Edilizia in materiale deperibile	Casa 1b
+%2160400001%EDI0001%	2160400001	Edilizia in materiale deperibile	Edificio A
+%2160400001%EDI0002%	2160400001	Edilizia in materiale deperibile	Edificio B
+%2160400001%EDI0003%	2160400001	Edilizia in materiale deperibile	Edificio C
+%2160400001%EDI0004%	2160400001	Edilizia in materiale deperibile	Edificio D
+%2160400001%EDI0005%	2160400001	Edilizia in materiale deperibile	Edificio E
+%2160400001%EDI0006%	2160400001	Edilizia in materiale deperibile	Edificio F
+%2160400001%EDI0007%	2160400001	Edilizia in materiale deperibile	Edificio G
+%2160400001%EDI0008%	2160400001	Edilizia in materiale deperibile	Edificio H
+%2160400002%EDI0001%	2160400002	Edilizia in materiale deperibile	Casa 1
+%2160400002%EDI0002%	2160400002	Edilizia in materiale deperibile	Oggetti 26a, 35
+%2160400002%EDI0003%	2160400002	Edilizia in materiale deperibile	Oggetti 2, 31, 50
+%2160400002%EDI0004%	2160400002	Edilizia in materiale deperibile	Oggetti 21, 22, 23, 45, 49, 65, 71, 74
+%2160400002%EDI0005%	2160400002	Edilizia in materiale deperibile	Escavazioni 4, 11, 12, 16, 18, 52
+%2160400003%EDI0001%	2160400003	Edilizia in materiale deperibile	Casa 9
+%2160400003%EDI0002%	2160400003	Edilizia in materiale deperibile	Casa 27
+%2160400003%EDI0003%	2160400003	Edilizia in materiale deperibile	Casa 40
+%2160400003%EDI0004%	2160400003	Edilizia in materiale deperibile	Casa 85
+%2160400003%EDI0005%	2160400003	Edilizia in materiale deperibile	Casa 120
+%2160400003%EDI0006%	2160400003	Edilizia in materiale deperibile	Casa 122
+%2160400003%EDI0007%	2160400003	Edilizia in materiale deperibile	Casa 12
+%2160400003%EDI0008%	2160400003	Edilizia in materiale deperibile	Casa 81
+%2160410001%EDI0001%	2160410001	Edilizia in materiale deperibile	Casa A
+%2160410001%EDI0002%	2160410001	Edilizia in materiale deperibile	Casa C
+%2160410001%EDI0003%	2160410001	Edilizia in materiale deperibile	Casa B
+%2160420001%EDI0001%	2160420001	Edilizia in materiale deperibile	Casa 2
+%2160420001%EDI0002%	2160420001	Edilizia in materiale deperibile	Casa 1
+%2160430001%EDI0001%	2160430001	Edilizia in materiale deperibile	Casa 4
+%2160430001%EDI0002%	2160430001	Edilizia in materiale deperibile	Casa 12
+%2160430001%EDI0003%	2160430001	Edilizia in materiale deperibile	Casa 10
+%2160430001%EDI0004%	2160430001	Edilizia in materiale deperibile	Casa 5
+%2160440001%EDI0001%	2160440001	Edilizia in materiale deperibile	Casa 1
+%2160440001%EDI0002%	2160440001	Edilizia in materiale deperibile	Casa 4
+%2160440001%EDI0003%	2160440001	Edilizia in materiale deperibile	Casa 16
+%2160440001%EDI0004%	2160440001	Edilizia in materiale deperibile	Casa 26
+%2160440001%EDI0005%	2160440001	Edilizia in materiale deperibile	Casa 13
+%2160440001%EDI0006%	2160440001	Edilizia in materiale deperibile	Casa 36
+%2160440001%EDI0007%	2160440001	Edilizia in materiale deperibile	Casa 5
+%2160440001%EDI0008%	2160440001	Edilizia in materiale deperibile	Casa 3
+%2160440001%EDI0009%	2160440001	Edilizia in materiale deperibile	Casa 39
+%2160440001%EDI0010%	2160440001	Edilizia in materiale deperibile	Casa 40
+%2160440001%EDI0011%	2160440001	Edilizia in materiale deperibile	Casa 15
+%2160440001%EDI0012%	2160440001	Edilizia in materiale deperibile	Casa 10
+%2160440001%EDI0013%	2160440001	Edilizia in materiale deperibile	Casa 34
+%2160440001%EDI0014%	2160440001	Edilizia in materiale deperibile	Casa 14
+%2160440001%EDI0015%	2160440001	Edilizia in materiale deperibile	Casa 41
+%2160440001%EDI0016%	2160440001	Edilizia in materiale deperibile	Casa 35
+%2160440001%EDI0017%	2160440001	Edilizia in materiale deperibile	Casa 27a
+%2160440001%EDI0018%	2160440001	Edilizia in materiale deperibile	Casa 17b
+%2160440001%EDI0019%	2160440001	Edilizia in materiale deperibile	Casa 20
+%2160440001%EDI0020%	2160440001	Edilizia in materiale deperibile	Casa 18
+%2160440001%EDI0021%	2160440001	Edilizia in materiale deperibile	Casa 25
+%2160440001%EDI0022%	2160440001	Edilizia in materiale deperibile	Casa 21
+%2160440001%EDI0023%	2160440001	Edilizia in materiale deperibile	Casa 22
+%2160440001%EDI0024%	2160440001	Edilizia in materiale deperibile	Casa 23
+%2160440001%EDI0025%	2160440001	Edilizia in materiale deperibile	Casa 24
+%2160440001%EDI0026%	2160440001	Edilizia in materiale deperibile	Casa 37
+%2160440001%EDI0027%	2160440001	Edilizia in materiale deperibile	Casa 30
+%2160440001%EDI0028%	2160440001	Edilizia in materiale deperibile	Casa 31
+%2160440001%EDI0029%	2160440001	Edilizia in materiale deperibile	Casa 12
+%2160440001%EDI0030%	2160440001	Edilizia in materiale deperibile	Casa 28
+%2160440001%EDI0031%	2160440001	Edilizia in materiale deperibile	Casa 17
+%2160440001%EDI0032%	2160440001	Edilizia in materiale deperibile	Casa 19
+%2160440001%EDI0033%	2160440001	Edilizia in materiale deperibile	Casa 42
+%2160440001%EDI0034%	2160440001	Edilizia in materiale deperibile	Casa 2
+%2160440001%EDI0035%	2160440001	Edilizia in materiale deperibile	Casa 6
+%2160440001%EDI0036%	2160440001	Edilizia in materiale deperibile	Casa 7
+%2160440001%EDI0037%	2160440001	Edilizia in materiale deperibile	Casa 8
+%2160440001%EDI0038%	2160440001	Edilizia in materiale deperibile	Casa 9
+%2160440001%EDI0039%	2160440001	Edilizia in materiale deperibile	Casa 29
+%2160440001%EDI0040%	2160440001	Edilizia in materiale deperibile	Casa 32
+%2160440001%EDI0041%	2160440001	Edilizia in materiale deperibile	Casa 11
+%2160450001%EDI0001%	2160450001	Edilizia in materiale deperibile	Casa 5
+%2160450001%EDI0002%	2160450001	Edilizia in materiale deperibile	Casa 4
+%2160450001%EDI0003%	2160450001	Edilizia in materiale deperibile	Casa 6
+%2160450001%EDI0004%	2160450001	Edilizia in materiale deperibile	Casa 7
+%2160460001%EDI0001%	2160460001	Edilizia in materiale deperibile	
+%2160470001%EDI0001%	2160470001	Edilizia in materiale deperibile	
+%2160470001%EDI0002%	2160470001	Edilizia in materiale deperibile	Casa 4
+%2160470001%EDI0003%	2160470001	Edilizia in materiale deperibile	Casa 7
+%2160470001%EDI0004%	2160470001	Edilizia in materiale deperibile	
+%2160470001%EDI0005%	2160470001	Edilizia in materiale deperibile	
+%2160480001%EDI0001%	2160480001	Edilizia in materiale deperibile	
+%2160480001%EDI0002%	2160480001	Edilizia in materiale deperibile	
+%2160490001%EDI0001%	2160490001	Edilizia in materiale deperibile	Escavazione III
+%2160490001%EDI0002%	2160490001	Edilizia in materiale deperibile	Escavazione V
+%2160500001%EDI0001%	2160500001	Edilizia in materiale deperibile	
+%2160510001%EDI0001%	2160510001	Edilizia in materiale deperibile	Casa 2
+%2160510001%EDI0002%	2160510001	Edilizia in materiale deperibile	Casa 1
+%2160520001%EDI0001%	2160520001	Edilizia in materiale deperibile	Casa 6
+%2160520001%EDI0002%	2160520001	Edilizia in materiale deperibile	Casa 3
+%2160520001%EDI0003%	2160520001	Edilizia in materiale deperibile	Casa 1
+%2160530001%EDI0001%	2160530001	Edilizia in materiale deperibile	Casa 1
+%2160530001%EDI0002%	2160530001	Edilizia in materiale deperibile	Casa 2
+%2160530001%EDI0003%	2160530001	Edilizia in materiale deperibile	Casa 3
+%2160540001%EDI0001%	2160540001	Edilizia in materiale deperibile	
+%2160540001%EDI0002%	2160540001	Edilizia in materiale deperibile	
+%2160550001%EDI0001%	2160550001	Edilizia in materiale deperibile	
+%2160550001%EDI0002%	2160550001	Edilizia in materiale deperibile	
+%2160560001%EDI0001%	2160560001	Edilizia in materiale deperibile	
+%2160570001%EDI0001%	2160570001	Edilizia in materiale deperibile	Casa 2
+%2160570001%EDI0002%	2160570001	Edilizia in materiale deperibile	Casa 1
+%2160570001%EDI0003%	2160570001	Edilizia in materiale deperibile	Casa 3
+%2160580001%EDI0001%	2160580001	Edilizia in materiale deperibile	
+%2160590001%EDI0001%	2160590001	Edilizia in materiale deperibile	
+%2160600001%EDI0001%	2160600001	Edilizia in materiale deperibile	
+%2160600001%EDI0002%	2160600001	Edilizia in materiale deperibile	
+%2160600001%EDI0003%	2160600001	Edilizia in materiale deperibile	Grubenhaus 1
+%2160600001%EDI0004%	2160600001	Edilizia in materiale deperibile	Grubenhaus 2
+%2160610001%EDI0001%	2160610001	Edilizia in materiale deperibile	
+%2160620001%EDI0001%	2160620001	Edilizia in materiale deperibile	
+%2160620001%EDI0002%	2160620001	Edilizia in materiale deperibile	
+%2160630001%EDI0001%	2160630001	Edilizia in materiale deperibile	Grubenhaus 104
+%2160630001%EDI0002%	2160630001	Edilizia in materiale deperibile	Grubenhaus 157
+%2160630001%EDI0003%	2160630001	Edilizia in materiale deperibile	Grubenhaus 173
+%2160630001%EDI0004%	2160630001	Edilizia in materiale deperibile	Grubenhaus 55
+%2160630001%EDI0005%	2160630001	Edilizia in materiale deperibile	Grubenhaus 55
+%2160630001%EDI0006%	2160630001	Edilizia in materiale deperibile	Grubenhaus 63
+%2160630001%EDI0007%	2160630001	Edilizia in materiale deperibile	Grubenhaus 52
+%2160640001%EDI0001%	2160640001	Edilizia in materiale deperibile	Casa 1
+%2160640001%EDI0002%	2160640001	Edilizia in materiale deperibile	
+%2160650001%EDI0001%	2160650001	Edilizia in materiale deperibile	
+%2160650001%EDI0002%	2160650001	Edilizia in materiale deperibile	
+%2160660001%EDI0001%	2160660001	Edilizia in materiale deperibile	Casa 3
+%2160660001%EDI0002%	2160660001	Edilizia in materiale deperibile	Casa 9
+%2160660001%EDI0003%	2160660001	Edilizia in materiale deperibile	Casa 4a
+%2160660001%EDI0004%	2160660001	Edilizia in materiale deperibile	Casa 8
+%2160660001%EDI0005%	2160660001	Edilizia in materiale deperibile	Casa 13
+%2160660001%EDI0006%	2160660001	Edilizia in materiale deperibile	Casa 2
+%2160660001%EDI0007%	2160660001	Edilizia in materiale deperibile	Casa 5
+%2160660001%EDI0008%	2160660001	Edilizia in materiale deperibile	Casa 6
+%2160660001%EDI0009%	2160660001	Edilizia in materiale deperibile	Casa 7
+%2160660001%EDI0010%	2160660001	Edilizia in materiale deperibile	Casa 15
+%2160660001%EDI0011%	2160660001	Edilizia in materiale deperibile	Casa 4b
+%2160660001%EDI0012%	2160660001	Edilizia in materiale deperibile	Casa 20
+%2160660001%EDI0013%	2160660001	Edilizia in materiale deperibile	Casa 16
+%2160660001%EDI0014%	2160660001	Edilizia in materiale deperibile	Casa 18
+%2160670001%EDI0001%	2160670001	Edilizia in materiale deperibile	Casa 2
+%2160670001%EDI0002%	2160670001	Edilizia in materiale deperibile	Casa 6
+%2160670001%EDI0003%	2160670001	Edilizia in materiale deperibile	Casa 4
+%2160670001%EDI0004%	2160670001	Edilizia in materiale deperibile	Casa 9
+%2160670001%EDI0005%	2160670001	Edilizia in materiale deperibile	Casa 26
+%2160670001%EDI0006%	2160670001	Edilizia in materiale deperibile	Casa 25a
+%2160670001%EDI0007%	2160670001	Edilizia in materiale deperibile	Casa 25
+%2160670001%EDI0008%	2160670001	Edilizia in materiale deperibile	Casa 16
+%2160670001%EDI0009%	2160670001	Edilizia in materiale deperibile	Casa 29
+%2160670001%EDI0010%	2160670001	Edilizia in materiale deperibile	Casa 10
+%2160670001%EDI0011%	2160670001	Edilizia in materiale deperibile	Casa 14
+%2160670001%EDI0012%	2160670001	Edilizia in materiale deperibile	Casa 3
+%2160670001%EDI0013%	2160670001	Edilizia in materiale deperibile	Casa 20
+%2160680001%EDI0001%	2160680001	Edilizia in materiale deperibile	Casa 1
+%2160690001%EDI0001%	2160690001	Edilizia in materiale deperibile	
+%2160690001%EDI0002%	2160690001	Edilizia in materiale deperibile	
+%2160700001%EDI0001%	2160700001	Edilizia in materiale deperibile	Area 2, Orizzonte 3, Casa 1
+%2160700001%EDI0002%	2160700001	Edilizia in materiale deperibile	Area 2, Orizzonte 6, Casa 2
+%2160700001%EDI0003%	2160700001	Edilizia in materiale deperibile	Area 2, Orizzonte 6, Casa 3
+%2320060001%EDI0001%	2320060001	Edilizia in materiale deperibile	Grubenhaus 2
+%2160710002%EDI0001%	2160710002	Edilizia in materiale deperibile	
+%2160720001%EDI0001%	2160720001	Edilizia in materiale deperibile	Casa 29/I
+%2160740001%EDI0001%	2160740001	Edilizia in materiale deperibile	Casa 1
+%2160750001%EDI0001%	2160750001	Edilizia in materiale deperibile	
+%2160760001%EDI0001%	2160760001	Edilizia in materiale deperibile	Casa 1
+%2160760001%EDI0002%	2160760001	Edilizia in materiale deperibile	Casa 2
+%2160760001%EDI0003%	2160760001	Edilizia in materiale deperibile	Casa 4
+%2160770001%EDI0001%	2160770001	Edilizia in materiale deperibile	Casa 4
+%2160780001%EDI0001%	2160780001	Edilizia in materiale deperibile	Casa 4
+%2160790001%EDI0001%	2160790001	Edilizia in materiale deperibile	Casa 4
+%2160800001%EDI0001%	2160800001	Edilizia in materiale deperibile	Case dell’orizzonte 2
+%2160800001%EDI0002%	2160800001	Edilizia in materiale deperibile	
+%2160800001%EDI0003%	2160800001	Edilizia in materiale deperibile	Case dell’orizzonte 3
+%2160800002%EDI0001%	2160800002	Edilizia in materiale deperibile	
+%2160810001%EDI0001%	2160810001	Edilizia in materiale deperibile	
+%2160820001%EDI0001%	2160820001	Edilizia in materiale deperibile	
+%2160820001%EDI0002%	2160820001	Edilizia in materiale deperibile	
+%2160820001%EDI0003%	2160820001	Edilizia in materiale deperibile	
+%2160830001%EDI0001%	2160830001	Edilizia in materiale deperibile	Casa 3
+%2160830001%EDI0002%	2160830001	Edilizia in materiale deperibile	Casa 4
+%2160830001%EDI0003%	2160830001	Edilizia in materiale deperibile	Casa 2
+%2160840001%EDI0001%	2160840001	Edilizia in materiale deperibile	
+%2160810002%EDI0001%	2160810002	Edilizia in materiale deperibile	
+%2160860001%EDI0001%	2160860001	Edilizia in materiale deperibile	
+%2160870002%EDI0001%	2160870002	Edilizia in materiale deperibile	Casa B
+%2160870002%EDI0002%	2160870002	Edilizia in materiale deperibile	Casa A
+%2160870002%EDI0003%	2160870002	Edilizia in materiale deperibile	Casa C
+%2160870002%EDI0004%	2160870002	Edilizia in materiale deperibile	Casa D
+%2160870002%EDI0005%	2160870002	Edilizia in materiale deperibile	Casa 3
+%2160870002%EDI0006%	2160870002	Edilizia in materiale deperibile	Casa 6
+%2160880001%EDI0001%	2160880001	Edilizia in materiale deperibile	Grubenhaus V
+%2160880001%EDI0002%	2160880001	Edilizia in materiale deperibile	Grubenhaus W
+%2160890001%EDI0001%	2160890001	Edilizia in materiale deperibile	
+%2160900001%EDI0001%	2160900001	Edilizia in materiale deperibile	
+%2160910001%EDI0001%	2160910001	Edilizia in materiale deperibile	
+%2160920001%EDI0001%	2160920001	Edilizia in materiale deperibile	
+%2160920001%EDI0002%	2160920001	Edilizia in materiale deperibile	
+%2160930001%EDI0001%	2160930001	Edilizia in materiale deperibile	
+%2160940001%EDI0001%	2160940001	Edilizia in materiale deperibile	
+%2160950001%EDI0001%	2160950001	Edilizia in materiale deperibile	
+%2160950001%EDI0002%	2160950001	Edilizia in materiale deperibile	
+%2160950001%EDI0003%	2160950001	Edilizia in materiale deperibile	
+%2160950001%EDI0004%	2160950001	Edilizia in materiale deperibile	
+%2160960001%EDI0001%	2160960001	Edilizia in materiale deperibile	
+%2160970001%EDI0001%	2160970001	Edilizia in materiale deperibile	Casa 30
+%2160980001%EDI0001%	2160980001	Edilizia in materiale deperibile	Casa 1
+%2160990001%EDI0001%	2160990001	Edilizia in materiale deperibile	
+%2161000001%EDI0001%	2161000001	Edilizia in materiale deperibile	Escavazione 61
+%2161000001%EDI0002%	2161000001	Edilizia in materiale deperibile	Escavazione 62
+%2161000001%EDI0003%	2161000001	Edilizia in materiale deperibile	Escavazione 63
+%2161000001%EDI0004%	2161000001	Edilizia in materiale deperibile	Escavazione 64
+%2161000001%EDI0005%	2161000001	Edilizia in materiale deperibile	Escavazione 71
+%2161000001%EDI0006%	2161000001	Edilizia in materiale deperibile	Escavazione 77
+%2161000001%EDI0007%	2161000001	Edilizia in materiale deperibile	Escavazione 79
+%2161000001%EDI0008%	2161000001	Edilizia in materiale deperibile	Escavazione 14
+%2161010001%EDI0001%	2161010001	Edilizia in materiale deperibile	
+%2161020001%EDI0001%	2161020001	Edilizia in materiale deperibile	
+%2161020002%EDI0001%	2161020002	Edilizia in materiale deperibile	
+%2161020002%EDI0002%	2161020002	Edilizia in materiale deperibile	
+%2161030001%EDI0001%	2161030001	Edilizia in materiale deperibile	
+%2161040001%EDI0001%	2161040001	Edilizia in materiale deperibile	Casa 1
+%2161050001%EDI0001%	2161050001	Edilizia in materiale deperibile	Casa 1
+%2161050001%EDI0002%	2161050001	Edilizia in materiale deperibile	Casa 2
+%2161050001%EDI0003%	2161050001	Edilizia in materiale deperibile	Casa 3
+%2161060001%EDI0001%	2161060001	Edilizia in materiale deperibile	
+%2161070001%EDI0001%	2161070001	Edilizia in materiale deperibile	Casa 1
+%2161070001%EDI0002%	2161070001	Edilizia in materiale deperibile	Casa 2
+%2161070001%EDI0003%	2161070001	Edilizia in materiale deperibile	Casa 3
+%2161460001%EDI0001%	2161460001	Edilizia in materiale deperibile	
+%2161090001%EDI0001%	2161090001	Edilizia in materiale deperibile	Casa 1
+%2161090001%EDI0002%	2161090001	Edilizia in materiale deperibile	Casa 2
+%2161090001%EDI0003%	2161090001	Edilizia in materiale deperibile	Casa 3
+%2161100001%EDI0001%	2161100001	Edilizia in materiale deperibile	Escavazione 2
+%2161110001%EDI0001%	2161110001	Edilizia in materiale deperibile	
+%2161120001%EDI0001%	2161120001	Edilizia in materiale deperibile	
+%2161130001%EDI0001%	2161130001	Edilizia in materiale deperibile	Casa 1
+%2161130001%EDI0002%	2161130001	Edilizia in materiale deperibile	Casa 2
+%2161140001%EDI0001%	2161140001	Edilizia in materiale deperibile	Casa 1
+%2161140001%EDI0002%	2161140001	Edilizia in materiale deperibile	Casa 2
+%2161140001%EDI0003%	2161140001	Edilizia in materiale deperibile	Casa 3
+%2161140001%EDI0004%	2161140001	Edilizia in materiale deperibile	Casa 5
+%2161140001%EDI0005%	2161140001	Edilizia in materiale deperibile	Casa 5
+%2161150001%EDI0001%	2161150001	Edilizia in materiale deperibile	
+%2161160001%EDI0001%	2161160001	Edilizia in materiale deperibile	Casa 1
+%2161160001%EDI0002%	2161160001	Edilizia in materiale deperibile	Casa 2
+%2161160001%EDI0003%	2161160001	Edilizia in materiale deperibile	Casa 4
+%2161160001%EDI0004%	2161160001	Edilizia in materiale deperibile	Casa 5
+%2161170001%EDI0001%	2161170001	Edilizia in materiale deperibile	Casa 1
+%2161170001%EDI0002%	2161170001	Edilizia in materiale deperibile	Casa 6
+%2161170001%EDI0003%	2161170001	Edilizia in materiale deperibile	Casa 2
+%2161170001%EDI0004%	2161170001	Edilizia in materiale deperibile	Casa 2
+%2161180001%EDI0001%	2161180001	Edilizia in materiale deperibile	Grubenhaus 1
+%2161180001%EDI0002%	2161180001	Edilizia in materiale deperibile	Grubenhaus 2
+%2161190001%EDI0001%	2161190001	Edilizia in materiale deperibile	Casa 18
+%2161190001%EDI0002%	2161190001	Edilizia in materiale deperibile	Casa 84
+%2161200001%EDI0001%	2161200001	Edilizia in materiale deperibile	Casa 1
+%2161200001%EDI0002%	2161200001	Edilizia in materiale deperibile	Casa 1
+%2161210001%EDI0001%	2161210001	Edilizia in materiale deperibile	Casa 1
+%2161220001%EDI0001%	2161220001	Edilizia in materiale deperibile	
+%2161230001%EDI0001%	2161230001	Edilizia in materiale deperibile	Casa 1
+%2161240001%EDI0001%	2161240001	Edilizia in materiale deperibile	Grubenhaus 1
+%2161240001%EDI0002%	2161240001	Edilizia in materiale deperibile	Grubenhaus 2
+%2161250001%EDI0001%	2161250001	Edilizia in materiale deperibile	Grubenhaus 1
+%2161250001%EDI0002%	2161250001	Edilizia in materiale deperibile	Grubenhaus 2
+%2161260001%EDI0001%	2161260001	Edilizia in materiale deperibile	
+%2161270001%EDI0001%	2161270001	Edilizia in materiale deperibile	
+%2161270001%EDI0002%	2161270001	Edilizia in materiale deperibile	
+%2160590001%EDI0002%	2160590001	Edilizia in materiale deperibile	
+%2161290001%EDI0001%	2161290001	Edilizia in materiale deperibile	Struttura 1
+%2161290001%EDI0002%	2161290001	Edilizia in materiale deperibile	
+%2161290001%EDI0003%	2161290001	Edilizia in materiale deperibile	Struttura 2
+%2161290001%EDI0004%	2161290001	Edilizia in materiale deperibile	
+%2161290001%EDI0005%	2161290001	Edilizia in materiale deperibile	Struttura 3
+%2161300001%EDI0001%	2161300001	Edilizia in materiale deperibile	
+%2161300001%EDI0002%	2161300001	Edilizia in materiale deperibile	
+%2161300001%EDI0003%	2161300001	Edilizia in materiale deperibile	
+%2161300001%EDI0004%	2161300001	Edilizia in materiale deperibile	
+%2161310001%EDI0001%	2161310001	Edilizia in materiale deperibile	
+%2161320001%EDI0001%	2161320001	Edilizia in materiale deperibile	
+%2161320001%EDI0002%	2161320001	Edilizia in materiale deperibile	
+%2161320001%EDI0003%	2161320001	Edilizia in materiale deperibile	
+%2161320001%EDI0004%	2161320001	Edilizia in materiale deperibile	
+%2161320001%EDI0005%	2161320001	Edilizia in materiale deperibile	
+%2161320001%EDI0006%	2161320001	Edilizia in materiale deperibile	
+%2161320001%EDI0007%	2161320001	Edilizia in materiale deperibile	
+%2161320001%EDI0008%	2161320001	Edilizia in materiale deperibile	
+%2161320001%EDI0009%	2161320001	Edilizia in materiale deperibile	
+%2161320001%EDI0010%	2161320001	Edilizia in materiale deperibile	
+%2161320001%EDI0011%	2161320001	Edilizia in materiale deperibile	
+%2161320001%EDI0012%	2161320001	Edilizia in materiale deperibile	
+%2161320001%EDI0013%	2161320001	Edilizia in materiale deperibile	
+%2161320001%EDI0014%	2161320001	Edilizia in materiale deperibile	
+%2161320001%EDI0015%	2161320001	Edilizia in materiale deperibile	
+%2161320001%EDI0016%	2161320001	Edilizia in materiale deperibile	
+%2161320001%EDI0017%	2161320001	Edilizia in materiale deperibile	
+%2161330001%EDI0001%	2161330001	Edilizia in materiale deperibile	
+%2161330001%EDI0002%	2161330001	Edilizia in materiale deperibile	
+%2161340001%EDI0001%	2161340001	Edilizia in materiale deperibile	
+%2161350001%EDI0001%	2161350001	Edilizia in materiale deperibile	
+%2161360001%EDI0001%	2161360001	Edilizia in materiale deperibile	
+%2161370001%EDI0001%	2161370001	Edilizia in materiale deperibile	
+%2161380001%EDI0001%	2161380001	Edilizia in materiale deperibile	
+%2161390001%EDI0001%	2161390001	Edilizia in materiale deperibile	
+%2161400001%EDI0001%	2161400001	Edilizia in materiale deperibile	
+%2161410001%EDI0001%	2161410001	Edilizia in materiale deperibile	
+%2161420001%EDI0001%	2161420001	Edilizia in materiale deperibile	
+%2161430001%EDI0001%	2161430001	Edilizia in materiale deperibile	
+%2161440001%EDI0001%	2161440001	Edilizia in materiale deperibile	Fondazione A
+%2161440001%EDI0002%	2161440001	Edilizia in materiale deperibile	Fondazione B1
+%2161440001%EDI0003%	2161440001	Edilizia in materiale deperibile	Fondazione B2
+%2161440001%EDI0004%	2161440001	Edilizia in materiale deperibile	Fondazione C
+%2161440001%EDI0005%	2161440001	Edilizia in materiale deperibile	Fondazione D1
+%2161440001%EDI0006%	2161440001	Edilizia in materiale deperibile	Fondazione D2
+%2161440001%EDI0007%	2161440001	Edilizia in materiale deperibile	Fondazione D3
+%2161440001%EDI0008%	2161440001	Edilizia in materiale deperibile	Fondazione D4
+%2161440001%EDI0009%	2161440001	Edilizia in materiale deperibile	Fondazione D5
+%2161450001%EDI0001%	2161450001	Edilizia in materiale deperibile	Casa 1
+%2161450001%EDI0002%	2161450001	Edilizia in materiale deperibile	Casa 3
+%2161450001%EDI0003%	2161450001	Edilizia in materiale deperibile	Casa 4
+%2161450001%EDI0004%	2161450001	Edilizia in materiale deperibile	Casa 2
+%2161450001%EDI0005%	2161450001	Edilizia in materiale deperibile	Case 5-12
+%2161450001%EDI0006%	2161450001	Edilizia in materiale deperibile	Case 13/14
+%2161450001%EDI0007%	2161450001	Edilizia in materiale deperibile	
+%2161450001%EDI0008%	2161450001	Edilizia in materiale deperibile	
+%2190010001%EDI0001%	2190010001	Edilizia in materiale deperibile	Edificio S16
+%2190010001%EDI0002%	2190010001	Edilizia in materiale deperibile	Building S10
+%2190010001%EDI0003%	2190010001	Edilizia in materiale deperibile	Building S12
+%2190010001%EDI0004%	2190010001	Edilizia in materiale deperibile	Building S13
+%2190010001%EDI0005%	2190010001	Edilizia in materiale deperibile	Edificio S15
+%2190010001%EDI0006%	2190010001	Edilizia in materiale deperibile	Grubenhaus S3
+%2190010001%EDI0007%	2190010001	Edilizia in materiale deperibile	Edificio S8
+%2190010001%EDI0008%	2190010001	Edilizia in materiale deperibile	Building S7
+%2190010001%EDI0009%	2190010001	Edilizia in materiale deperibile	Building S6
+%2190010001%EDI0010%	2190010001	Edilizia in materiale deperibile	Building S17
+%2190010001%EDI0011%	2190010001	Edilizia in materiale deperibile	Building S9
+%2190010001%EDI0012%	2190010001	Edilizia in materiale deperibile	Edificio S11
+%2190010001%EDI0013%	2190010001	Edilizia in materiale deperibile	Building S14
+%2190010001%EDI0014%	2190010001	Edilizia in materiale deperibile	Grubenhaus S1
+%2190010001%EDI0015%	2190010001	Edilizia in materiale deperibile	Grubenhaus S2
+%2190010001%EDI0016%	2190010001	Edilizia in materiale deperibile	Edificio S5
+%2190010001%EDI0017%	2190010001	Edilizia in materiale deperibile	Grubenhaus S4
+%2190020001%EDI0001%	2190020001	Edilizia in materiale deperibile	Hall 2
+%2190020001%EDI0002%	2190020001	Edilizia in materiale deperibile	Hall 1
+%2190020001%EDI0003%	2190020001	Edilizia in materiale deperibile	Hut 5
+%2190020001%EDI0004%	2190020001	Edilizia in materiale deperibile	Hut 24
+%2190020001%EDI0005%	2190020001	Edilizia in materiale deperibile	Hut 21
+%2190020001%EDI0006%	2190020001	Edilizia in materiale deperibile	Hut 22
+%2190020001%EDI0007%	2190020001	Edilizia in materiale deperibile	Hut 16
+%2190020001%EDI0008%	2190020001	Edilizia in materiale deperibile	Hut 8
+%2190020001%EDI0009%	2190020001	Edilizia in materiale deperibile	Hall 3
+%2190020001%EDI0010%	2190020001	Edilizia in materiale deperibile	Hut 15
+%2190020001%EDI0011%	2190020001	Edilizia in materiale deperibile	Hut 12
+%2190020001%EDI0012%	2190020001	Edilizia in materiale deperibile	Hut 3
+%2190020001%EDI0013%	2190020001	Edilizia in materiale deperibile	
+%2190020001%EDI0014%	2190020001	Edilizia in materiale deperibile	Hut 26
+%2190020001%EDI0015%	2190020001	Edilizia in materiale deperibile	
+%2190020001%EDI0016%	2190020001	Edilizia in materiale deperibile	Hut 36
+%2190020001%EDI0017%	2190020001	Edilizia in materiale deperibile	Hut 39
+%2190020001%EDI0018%	2190020001	Edilizia in materiale deperibile	Hut 42
+%2190020001%EDI0019%	2190020001	Edilizia in materiale deperibile	Hut 34
+%2190020001%EDI0020%	2190020001	Edilizia in materiale deperibile	Hut 40
+%2190020001%EDI0021%	2190020001	Edilizia in materiale deperibile	Hut 1
+%2190020001%EDI0022%	2190020001	Edilizia in materiale deperibile	Hut 19
+%2190020001%EDI0023%	2190020001	Edilizia in materiale deperibile	Hut 20
+%2190020001%EDI0024%	2190020001	Edilizia in materiale deperibile	Hut 23
+%2190020001%EDI0025%	2190020001	Edilizia in materiale deperibile	Hut 28
+%2190020001%EDI0026%	2190020001	Edilizia in materiale deperibile	Hut 41
+%2190020001%EDI0027%	2190020001	Edilizia in materiale deperibile	Hut 38
+%2190020001%EDI0028%	2190020001	Edilizia in materiale deperibile	Hut 35
+%2190020001%EDI0029%	2190020001	Edilizia in materiale deperibile	Hut 9
+%2190020001%EDI0030%	2190020001	Edilizia in materiale deperibile	Hut  37
+%2190020001%EDI0031%	2190020001	Edilizia in materiale deperibile	Hut  2
+%2190020001%EDI0032%	2190020001	Edilizia in materiale deperibile	Hut  6
+%2190020001%EDI0033%	2190020001	Edilizia in materiale deperibile	Hut  11
+%2190020001%EDI0034%	2190020001	Edilizia in materiale deperibile	Hut  25
+%2190020001%EDI0035%	2190020001	Edilizia in materiale deperibile	Hut  29
+%2190020001%EDI0036%	2190020001	Edilizia in materiale deperibile	Hut  18
+%2190020001%EDI0037%	2190020001	Edilizia in materiale deperibile	Hut  17
+%2190030001%EDI0001%	2190030001	Edilizia in materiale deperibile	
+%2190030001%EDI0002%	2190030001	Edilizia in materiale deperibile	
+%2190030001%EDI0003%	2190030001	Edilizia in materiale deperibile	
+%2190040001%EDI0001%	2190040001	Edilizia in materiale deperibile	
+%2190040001%EDI0002%	2190040001	Edilizia in materiale deperibile	
+%2190040001%EDI0003%	2190040001	Edilizia in materiale deperibile	
+%2190040001%EDI0004%	2190040001	Edilizia in materiale deperibile	
+%2190040001%EDI0005%	2190040001	Edilizia in materiale deperibile	Struttura 132
+%2190040001%EDI0006%	2190040001	Edilizia in materiale deperibile	Struttura 125
+%2190040001%EDI0007%	2190040001	Edilizia in materiale deperibile	Struttura 201
+%2190040001%EDI0008%	2190040001	Edilizia in materiale deperibile	Struttura 173
+%2190040001%EDI0009%	2190040001	Edilizia in materiale deperibile	Struttura 192
+%2190040001%EDI0010%	2190040001	Edilizia in materiale deperibile	Struttura 126
+%2190040001%EDI0011%	2190040001	Edilizia in materiale deperibile	Struttura 124
+%2190040001%EDI0012%	2190040001	Edilizia in materiale deperibile	Struttura 176
+%2190040001%EDI0013%	2190040001	Edilizia in materiale deperibile	Strutture 1-213
+%2190040001%EDI0014%	2190040001	Edilizia in materiale deperibile	
+%2190050001%EDI0001%	2190050001	Edilizia in materiale deperibile	
+%2190050001%EDI0002%	2190050001	Edilizia in materiale deperibile	
+%2190060001%EDI0001%	2190060001	Edilizia in materiale deperibile	Casa 62
+%2190060001%EDI0002%	2190060001	Edilizia in materiale deperibile	Struttura X
+%2190070001%EDI0001%	2190070001	Edilizia in materiale deperibile	
+%2190080001%EDI0001%	2190080001	Edilizia in materiale deperibile	
+%2190080001%EDI0002%	2190080001	Edilizia in materiale deperibile	Struttura a
+%2190080001%EDI0003%	2190080001	Edilizia in materiale deperibile	Struttura b
+%2190090001%EDI0001%	2190090001	Edilizia in materiale deperibile	
+%2190100001%EDI0001%	2190100001	Edilizia in materiale deperibile	
+%2190110001%EDI0001%	2190110001	Edilizia in materiale deperibile	Struttura XII
+%2190120001%EDI0001%	2190120001	Edilizia in materiale deperibile	
+%2190130001%EDI0001%	2190130001	Edilizia in materiale deperibile	
+%2190140001%EDI0001%	2190140001	Edilizia in materiale deperibile	Struttura 122
+%2190140001%EDI0002%	2190140001	Edilizia in materiale deperibile	Struttura 122
+%2190140001%EDI0003%	2190140001	Edilizia in materiale deperibile	Struttura 130
+%2190150001%EDI0001%	2190150001	Edilizia in materiale deperibile	Struttura I
+%2190150001%EDI0002%	2190150001	Edilizia in materiale deperibile	Struttura II
+%2190160001%EDI0001%	2190160001	Edilizia in materiale deperibile	
+%2190170001%EDI0001%	2190170001	Edilizia in materiale deperibile	
+%2190180001%EDI0001%	2190180001	Edilizia in materiale deperibile	
+%2190180001%EDI0002%	2190180001	Edilizia in materiale deperibile	Edificio A20
+%2190180001%EDI0003%	2190180001	Edilizia in materiale deperibile	Edificio A11
+%2190180001%EDI0004%	2190180001	Edilizia in materiale deperibile	Edificio AZ1
+%2190180001%EDI0005%	2190180001	Edilizia in materiale deperibile	Edificio AZ5
+%2190180001%EDI0006%	2190180001	Edilizia in materiale deperibile	Edificio B6
+%2190180001%EDI0007%	2190180001	Edilizia in materiale deperibile	Edificio A10
+%2190180001%EDI0008%	2190180001	Edilizia in materiale deperibile	
+%2190180001%EDI0009%	2190180001	Edilizia in materiale deperibile	Edificio A6
+%2190180001%EDI0010%	2190180001	Edilizia in materiale deperibile	Edificio A7
+%2190180001%EDI0011%	2190180001	Edilizia in materiale deperibile	Edificio A3
+%2190180001%EDI0012%	2190180001	Edilizia in materiale deperibile	Edificio A13
+%2190180001%EDI0013%	2190180001	Edilizia in materiale deperibile	Edificio A14
+%2190180001%EDI0014%	2190180001	Edilizia in materiale deperibile	Edificio A16
+%2190180001%EDI0015%	2190180001	Edilizia in materiale deperibile	Edificio A18
+%2190180001%EDI0016%	2190180001	Edilizia in materiale deperibile	Edificio A12
+%2190180001%EDI0017%	2190180001	Edilizia in materiale deperibile	Edificio A1
+%2190180001%EDI0018%	2190180001	Edilizia in materiale deperibile	Edificio B2
+%2190180001%EDI0019%	2190180001	Edilizia in materiale deperibile	Edificio A4=B4
+%2190180001%EDI0020%	2190180001	Edilizia in materiale deperibile	Edificio A2
+%2190180001%EDI0021%	2190180001	Edilizia in materiale deperibile	Edificio B1
+%2190180001%EDI0022%	2190180001	Edilizia in materiale deperibile	Edificio A5
+%2190180001%EDI0023%	2190180001	Edilizia in materiale deperibile	Edificio B3
+%2190180001%EDI0024%	2190180001	Edilizia in materiale deperibile	Edificio C1
+%2190180001%EDI0025%	2190180001	Edilizia in materiale deperibile	Edificio A15
+%2190180001%EDI0026%	2190180001	Edilizia in materiale deperibile	Edificio A8
+%2190180001%EDI0027%	2190180001	Edilizia in materiale deperibile	Edificio A19
+%2190180001%EDI0028%	2190180001	Edilizia in materiale deperibile	Edificio A9
+%2190180001%EDI0029%	2190180001	Edilizia in materiale deperibile	Edificio B5
+%2190180001%EDI0030%	2190180001	Edilizia in materiale deperibile	Edificio B7
+%2190180001%EDI0031%	2190180001	Edilizia in materiale deperibile	Edificio B8
+%2190180001%EDI0032%	2190180001	Edilizia in materiale deperibile	Edificio AZ2
+%2190180001%EDI0033%	2190180001	Edilizia in materiale deperibile	Edificio AZ3
+%2190190001%EDI0001%	2190190001	Edilizia in materiale deperibile	
+%2190200001%EDI0001%	2190200001	Edilizia in materiale deperibile	Building F (Group III)
+%2190200001%EDI0002%	2190200001	Edilizia in materiale deperibile	Building S (Group II)
+%2190200001%EDI0003%	2190200001	Edilizia in materiale deperibile	Aisled structure (Group Iv)
+%2190200001%EDI0004%	2190200001	Edilizia in materiale deperibile	Building A (Group II)
+%2190200001%EDI0005%	2190200001	Edilizia in materiale deperibile	Building B (Group II)
+%2190200001%EDI0006%	2190200001	Edilizia in materiale deperibile	Building G (Group III)
+%2190200001%EDI0007%	2190200001	Edilizia in materiale deperibile	Building H (Group III)
+%2190200001%EDI0008%	2190200001	Edilizia in materiale deperibile	Building R (Group III)
+%2190200001%EDI0009%	2190200001	Edilizia in materiale deperibile	Building W (Group I)
+%2320010001%EDI0001%	2320010001	Edilizia in materiale deperibile	Casa 8
+%2320020001%EDI0001%	2320020001	Edilizia in materiale deperibile	Casa 1
+%2320020001%EDI0002%	2320020001	Edilizia in materiale deperibile	Casa 2
+%2320020001%EDI0003%	2320020001	Edilizia in materiale deperibile	
+%2320030001%EDI0001%	2320030001	Edilizia in materiale deperibile	Casa 1
+%2320030001%EDI0002%	2320030001	Edilizia in materiale deperibile	Casa 2
+%2320040001%EDI0001%	2320040001	Edilizia in materiale deperibile	
+%2320050001%EDI0001%	2320050001	Edilizia in materiale deperibile	
+%2320070001%EDI0001%	2320070001	Edilizia in materiale deperibile	
+%2320080001%EDI0001%	2320080001	Edilizia in materiale deperibile	
+%2320080001%EDI0002%	2320080001	Edilizia in materiale deperibile	
+%2320080001%EDI0003%	2320080001	Edilizia in materiale deperibile	
+%2320080001%EDI0004%	2320080001	Edilizia in materiale deperibile	
+%2320080001%EDI0005%	2320080001	Edilizia in materiale deperibile	
+%2320080001%EDI0006%	2320080001	Edilizia in materiale deperibile	
+%2320090001%EDI0001%	2320090001	Edilizia in materiale deperibile	
+%2320100001%EDI0001%	2320100001	Edilizia in materiale deperibile	
+%2320110001%EDI0001%	2320110001	Edilizia in materiale deperibile	Casa 3
+%2320110001%EDI0002%	2320110001	Edilizia in materiale deperibile	
+%2320110001%EDI0003%	2320110001	Edilizia in materiale deperibile	House 10
+%2320120001%EDI0001%	2320120001	Edilizia in materiale deperibile	
+%2320120001%EDI0002%	2320120001	Edilizia in materiale deperibile	
+%2320130001%EDI0001%	2320130001	Edilizia in materiale deperibile	Casa 3
+%2320130001%EDI0002%	2320130001	Edilizia in materiale deperibile	Casa 18
+%2320130001%EDI0003%	2320130001	Edilizia in materiale deperibile	Casa 53
+%2320130001%EDI0004%	2320130001	Edilizia in materiale deperibile	Casa 5
+%2320130001%EDI0005%	2320130001	Edilizia in materiale deperibile	Casa 9
+%2320130001%EDI0006%	2320130001	Edilizia in materiale deperibile	Casa 26
+%2320130001%EDI0007%	2320130001	Edilizia in materiale deperibile	Casa 34
+%2320130001%EDI0008%	2320130001	Edilizia in materiale deperibile	Casa 45
+%2320130001%EDI0009%	2320130001	Edilizia in materiale deperibile	Casa 47a
+%2320130001%EDI0010%	2320130001	Edilizia in materiale deperibile	Casa 47b
+%2320130001%EDI0011%	2320130001	Edilizia in materiale deperibile	Casa 66
+%2320130001%EDI0012%	2320130001	Edilizia in materiale deperibile	Casa 11
+%2320130001%EDI0013%	2320130001	Edilizia in materiale deperibile	Casa 28
+%2320130001%EDI0014%	2320130001	Edilizia in materiale deperibile	Tipo A (Case 30, 35, 38, 54, 55, 62, 64, 68)
+%2320130001%EDI0015%	2320130001	Edilizia in materiale deperibile	Tipo B (Case 37, 52, 60, 63)
+%2320130001%EDI0016%	2320130001	Edilizia in materiale deperibile	Tipo C (Case 3, 14?, 18, 43, 53, 71)
+%2320130001%EDI0017%	2320130001	Edilizia in materiale deperibile	Tipo D (Case 20, 21, 32, 44, 53, 59)
+%2320130001%EDI0018%	2320130001	Edilizia in materiale deperibile	Tipo F (Case 1, 10, 46)
+%2330010001%EDI0001%	2330010001	Edilizia in materiale deperibile	Casa 1
+%2330010001%EDI0002%	2330010001	Edilizia in materiale deperibile	Casa 2
+%2330010001%EDI0003%	2330010001	Edilizia in materiale deperibile	Casa 3
+%2330010001%EDI0004%	2330010001	Edilizia in materiale deperibile	Struttura ausiliaria a
+%2330010001%EDI0005%	2330010001	Edilizia in materiale deperibile	Struttura ausiliaria b
+%2330010001%EDI0006%	2330010001	Edilizia in materiale deperibile	Casa 4
+%2330010001%EDI0007%	2330010001	Edilizia in materiale deperibile	Struttura ausiliaria c
+%2330020001%EDI0001%	2330020001	Edilizia in materiale deperibile	Casa 1
+%2330020001%EDI0002%	2330020001	Edilizia in materiale deperibile	Casa 2
+%2330020001%EDI0003%	2330020001	Edilizia in materiale deperibile	Casa 3
+%2330020001%EDI0004%	2330020001	Edilizia in materiale deperibile	Casa 17
+%2330020001%EDI0005%	2330020001	Edilizia in materiale deperibile	Casa 20
+%2330020001%EDI0006%	2330020001	Edilizia in materiale deperibile	Casa 6
+%2330020001%EDI0007%	2330020001	Edilizia in materiale deperibile	Casa 6
+%2330020001%EDI0008%	2330020001	Edilizia in materiale deperibile	Casa 42
+%2330360002%EDI0001%	2330360002	Edilizia in materiale deperibile	Casa VI
+%2330360002%EDI0002%	2330360002	Edilizia in materiale deperibile	Casa V
+%2330040001%EDI0001%	2330040001	Edilizia in materiale deperibile	
+%2330040001%EDI0002%	2330040001	Edilizia in materiale deperibile	Escavazione 178
+%2330040001%EDI0003%	2330040001	Edilizia in materiale deperibile	Escavazione 180
+%2330050001%EDI0001%	2330050001	Edilizia in materiale deperibile	Casa 1
+%2330050001%EDI0002%	2330050001	Edilizia in materiale deperibile	Casa 3
+%2330050001%EDI0003%	2330050001	Edilizia in materiale deperibile	Casa 4
+%2330050001%EDI0004%	2330050001	Edilizia in materiale deperibile	Casa 5
+%2330060001%EDI0001%	2330060001	Edilizia in materiale deperibile	
+%2330070001%EDI0001%	2330070001	Edilizia in materiale deperibile	Edificio 1
+%2330070001%EDI0002%	2330070001	Edilizia in materiale deperibile	Edificio 4
+%2330070001%EDI0003%	2330070001	Edilizia in materiale deperibile	
+%2330070001%EDI0004%	2330070001	Edilizia in materiale deperibile	
+%2330070001%EDI0005%	2330070001	Edilizia in materiale deperibile	Escavazione 10
+%2330070001%EDI0006%	2330070001	Edilizia in materiale deperibile	Escavazione 6
+%2330080001%EDI0001%	2330080001	Edilizia in materiale deperibile	
+%2330090001%EDI0001%	2330090001	Edilizia in materiale deperibile	Casa 8
+%2330090001%EDI0002%	2330090001	Edilizia in materiale deperibile	Casa 9
+%2330100001%EDI0001%	2330100001	Edilizia in materiale deperibile	
+%2330100001%EDI0002%	2330100001	Edilizia in materiale deperibile	
+%2330100001%EDI0003%	2330100001	Edilizia in materiale deperibile	Scavi 1958-1961, Orizzonte 4, Blockbau 16
+%2330100001%EDI0004%	2330100001	Edilizia in materiale deperibile	Casa E
+%2330100001%EDI0005%	2330100001	Edilizia in materiale deperibile	Casa H
+%2330100001%EDI0006%	2330100001	Edilizia in materiale deperibile	Scavi 1932-1934, Orizzonte 1, Casa A
+%2330100001%EDI0007%	2330100001	Edilizia in materiale deperibile	Scavi 1932-1934, Orizzonte 2, Casa E
+%2330100001%EDI0008%	2330100001	Edilizia in materiale deperibile	Scavi 1932-1934, Orizzonte 2, Casa G
+%2330100001%EDI0009%	2330100001	Edilizia in materiale deperibile	Scavi 1932-1934, Orizzonte 2, Casa H
+%2330100001%EDI0010%	2330100001	Edilizia in materiale deperibile	Scavi 1932-1934, Orizzonte 3, Blockhaus B
+%2330100001%EDI0011%	2330100001	Edilizia in materiale deperibile	Scavi 1932-1934, Orizzonte 4, Blockhaus A
+%2330100001%EDI0012%	2330100001	Edilizia in materiale deperibile	Scavi 1932-1934, Orizzonte 4, Casa B
+%2330100001%EDI0013%	2330100001	Edilizia in materiale deperibile	Scavi 1932-1934, Orizzonte 5, Casa A
+%2330100001%EDI0014%	2330100001	Edilizia in materiale deperibile	Scavi 1932-1934, Orizzonte 5, Casa B
+%2330100001%EDI0015%	2330100001	Edilizia in materiale deperibile	Scavi 1932-1934, Orizzonte 5, Casa C
+%2330100001%EDI0016%	2330100001	Edilizia in materiale deperibile	Scavi 1932-1934, Orizzonte 5, Casa F
+%2330100001%EDI0017%	2330100001	Edilizia in materiale deperibile	Scavi 1932-1934, Orizzonte 6, Blockhaus A
+%2330100001%EDI0018%	2330100001	Edilizia in materiale deperibile	Scavi 1958-1961, Orizzonte 4, Blockbau 15
+%2330110001%EDI0001%	2330110001	Edilizia in materiale deperibile	Casa 16
+%2330120001%EDI0001%	2330120001	Edilizia in materiale deperibile	Casa 42
+%2330130001%EDI0001%	2330130001	Edilizia in materiale deperibile	
+%2330130001%EDI0002%	2330130001	Edilizia in materiale deperibile	
+%2330130001%EDI0003%	2330130001	Edilizia in materiale deperibile	
+%2330130001%EDI0004%	2330130001	Edilizia in materiale deperibile	
+%2330130001%EDI0005%	2330130001	Edilizia in materiale deperibile	Casa 7a
+%2330130001%EDI0006%	2330130001	Edilizia in materiale deperibile	Casa 8
+%2330140001%EDI0001%	2330140001	Edilizia in materiale deperibile	Tipo 1
+%2330140001%EDI0002%	2330140001	Edilizia in materiale deperibile	Tipo 4
+%2330140001%EDI0003%	2330140001	Edilizia in materiale deperibile	Tipo 1
+%2330140001%EDI0004%	2330140001	Edilizia in materiale deperibile	Tipo 4
+%2330140001%EDI0005%	2330140001	Edilizia in materiale deperibile	Escavazione 14
+%2330150001%EDI0001%	2330150001	Edilizia in materiale deperibile	Oggetto 59
+%2330160001%EDI0001%	2330160001	Edilizia in materiale deperibile	Escavazione 11
+%2330160001%EDI0002%	2330160001	Edilizia in materiale deperibile	Escavazione 7
+%2330160001%EDI0003%	2330160001	Edilizia in materiale deperibile	Escavazione 1
+%2330170001%EDI0001%	2330170001	Edilizia in materiale deperibile	Escavazione 2/56
+%2330170001%EDI0002%	2330170001	Edilizia in materiale deperibile	Escavazioni 20, 26, 51, 57
+%2330170001%EDI0003%	2330170001	Edilizia in materiale deperibile	Escavazione 61
+%2330170001%EDI0004%	2330170001	Edilizia in materiale deperibile	Grubenhaus 1
+%2330180001%EDI0001%	2330180001	Edilizia in materiale deperibile	Casa 18
+%2330190001%EDI0001%	2330190001	Edilizia in materiale deperibile	
+%2330200001%EDI0001%	2330200001	Edilizia in materiale deperibile	Escavazione 9
+%2330200001%EDI0002%	2330200001	Edilizia in materiale deperibile	Escavazione 15
+%2330200001%EDI0003%	2330200001	Edilizia in materiale deperibile	Escavazione 15
+%2330210001%EDI0001%	2330210001	Edilizia in materiale deperibile	Escavazione 1
+%2330210001%EDI0002%	2330210001	Edilizia in materiale deperibile	Escavazione 7
+%2330210001%EDI0003%	2330210001	Edilizia in materiale deperibile	Escavazione 6
+%2330210001%EDI0004%	2330210001	Edilizia in materiale deperibile	Escavazione 4
+%2330210001%EDI0005%	2330210001	Edilizia in materiale deperibile	Escavazione 5
+%2330220001%EDI0001%	2330220001	Edilizia in materiale deperibile	
+%2330230001%EDI0001%	2330230001	Edilizia in materiale deperibile	
+%2330240001%EDI0001%	2330240001	Edilizia in materiale deperibile	
+%2330250001%EDI0001%	2330250001	Edilizia in materiale deperibile	
+%2330250001%EDI0002%	2330250001	Edilizia in materiale deperibile	
+%2330260001%EDI0001%	2330260001	Edilizia in materiale deperibile	
+%2330260001%EDI0002%	2330260001	Edilizia in materiale deperibile	
+%2330270001%EDI0001%	2330270001	Edilizia in materiale deperibile	
+%2330280001%EDI0001%	2330280001	Edilizia in materiale deperibile	Casa 21
+%2330280001%EDI0002%	2330280001	Edilizia in materiale deperibile	Casa 20
+%2330280001%EDI0003%	2330280001	Edilizia in materiale deperibile	Casa 16
+%2330280001%EDI0004%	2330280001	Edilizia in materiale deperibile	Casa 15
+%2330280001%EDI0005%	2330280001	Edilizia in materiale deperibile	Casa 11
+%2330280001%EDI0006%	2330280001	Edilizia in materiale deperibile	Casa 8
+%2330280001%EDI0007%	2330280001	Edilizia in materiale deperibile	Casa 9
+%2330280001%EDI0008%	2330280001	Edilizia in materiale deperibile	Casa 1
+%2330290001%EDI0001%	2330290001	Edilizia in materiale deperibile	Casa 1
+%2330150002%EDI0001%	2330150002	Edilizia in materiale deperibile	
+%2330150002%EDI0002%	2330150002	Edilizia in materiale deperibile	
+%2330310001%EDI0001%	2330310001	Edilizia in materiale deperibile	Casa 5
+%2330310001%EDI0002%	2330310001	Edilizia in materiale deperibile	
+%2330310001%EDI0003%	2330310001	Edilizia in materiale deperibile	Casa 5
+%2330320001%EDI0001%	2330320001	Edilizia in materiale deperibile	Casa 5
+%2330330001%EDI0001%	2330330001	Edilizia in materiale deperibile	Casa 2
+%2330330001%EDI0002%	2330330001	Edilizia in materiale deperibile	Casa 3
+%2330330001%EDI0003%	2330330001	Edilizia in materiale deperibile	Casa 1
+%2330340001%EDI0001%	2330340001	Edilizia in materiale deperibile	
+%2330350001%EDI0001%	2330350001	Edilizia in materiale deperibile	Escavazione 3
+%2330350002%EDI0001%	2330350002	Edilizia in materiale deperibile	Casa 1
+%2330350002%EDI0002%	2330350002	Edilizia in materiale deperibile	Casa 2
+%2330360001%EDI0001%	2330360001	Edilizia in materiale deperibile	Case 1, 2, 3, 4, 6, 7
+%2330370001%EDI0001%	2330370001	Edilizia in materiale deperibile	Casa 8
+%2330370001%EDI0002%	2330370001	Edilizia in materiale deperibile	Casa 9
+%2330370001%EDI0003%	2330370001	Edilizia in materiale deperibile	Casa 10
+%2330380001%EDI0001%	2330380001	Edilizia in materiale deperibile	
+%2330390001%EDI0001%	2330390001	Edilizia in materiale deperibile	Casa 2
+%2330400001%EDI0001%	2330400001	Edilizia in materiale deperibile	Casa 76
+%2330400001%EDI0002%	2330400001	Edilizia in materiale deperibile	Casa 80
+%2330410001%EDI0001%	2330410001	Edilizia in materiale deperibile	Casa 80
+%2330420001%EDI0001%	2330420001	Edilizia in materiale deperibile	Grubenhaus 1
+%2330420001%EDI0002%	2330420001	Edilizia in materiale deperibile	Grubenhaus 2
+%2330420001%EDI0003%	2330420001	Edilizia in materiale deperibile	Escavazione 1
+%2330420001%EDI0004%	2330420001	Edilizia in materiale deperibile	Grubenhaus 3
+%2330430001%EDI0001%	2330430001	Edilizia in materiale deperibile	Grubenhaus 3
+%2330440001%EDI0001%	2330440001	Edilizia in materiale deperibile	Casa 11
+%2330440001%EDI0002%	2330440001	Edilizia in materiale deperibile	Casa 50/62
+%2330440001%EDI0003%	2330440001	Edilizia in materiale deperibile	Casa 138
+%2330440002%EDI0001%	2330440002	Edilizia in materiale deperibile	Casa Mc 191/54
+%2330440002%EDI0002%	2330440002	Edilizia in materiale deperibile	Casa 69/59
+%2330440002%EDI0003%	2330440002	Edilizia in materiale deperibile	Casa 50/62
+%2330440002%EDI0004%	2330440002	Edilizia in materiale deperibile	Casa 57/62
+%2330450001%EDI0001%	2330450001	Edilizia in materiale deperibile	Casa 5
+%2330460001%EDI0001%	2330460001	Edilizia in materiale deperibile	Casa 2
+%2330460001%EDI0002%	2330460001	Edilizia in materiale deperibile	Casa 1
+%2330460001%EDI0003%	2330460001	Edilizia in materiale deperibile	Casa 17
+%2330460001%EDI0004%	2330460001	Edilizia in materiale deperibile	Casa 24a
+%2330460001%EDI0005%	2330460001	Edilizia in materiale deperibile	Casa 100
+%2330460001%EDI0006%	2330460001	Edilizia in materiale deperibile	Casa 125
+%2330460001%EDI0007%	2330460001	Edilizia in materiale deperibile	Casa 100
+%2330460001%EDI0008%	2330460001	Edilizia in materiale deperibile	Casa 157
+%2330460001%EDI0009%	2330460001	Edilizia in materiale deperibile	Casa 157
+%2330470001%EDI0001%	2330470001	Edilizia in materiale deperibile	Casa 32/VII
+%2330480001%EDI0001%	2330480001	Edilizia in materiale deperibile	Casa 114
+%2330480001%EDI0002%	2330480001	Edilizia in materiale deperibile	Casa 5
+%2330480001%EDI0003%	2330480001	Edilizia in materiale deperibile	Casa 10
+%2330170002%EDI0001%	2330170002	Edilizia in materiale deperibile	
+%2330500001%EDI0001%	2330500001	Edilizia in materiale deperibile	Casa B
+%2330500001%EDI0002%	2330500001	Edilizia in materiale deperibile	Casa A
+%2330500001%EDI0003%	2330500001	Edilizia in materiale deperibile	Casa C
+%2330500001%EDI0004%	2330500001	Edilizia in materiale deperibile	Casa F
+%2330510001%EDI0001%	2330510001	Edilizia in materiale deperibile	Casa 63
+%2330510001%EDI0002%	2330510001	Edilizia in materiale deperibile	Casa 81
+%2330510001%EDI0003%	2330510001	Edilizia in materiale deperibile	Casa 164
+%2330510001%EDI0004%	2330510001	Edilizia in materiale deperibile	Casa 203
+%2330510001%EDI0005%	2330510001	Edilizia in materiale deperibile	Casa 241
+%2330170003%EDI0001%	2330170003	Edilizia in materiale deperibile	
+%2330120002%EDI0001%	2330120002	Edilizia in materiale deperibile	Struttura D125
+%2330120002%EDI0002%	2330120002	Edilizia in materiale deperibile	Struttura D130
+%2330120002%EDI0003%	2330120002	Edilizia in materiale deperibile	Struttura D129
+%2330120002%EDI0004%	2330120002	Edilizia in materiale deperibile	Struttura D135
+%2350010001%EDI0001%	2350010001	Edilizia in materiale deperibile	Casa III
+%2350010001%EDI0002%	2350010001	Edilizia in materiale deperibile	Casa XV
+%2350010001%EDI0003%	2350010001	Edilizia in materiale deperibile	Casa V
+%2350010001%EDI0004%	2350010001	Edilizia in materiale deperibile	Casa XVII
+%2350010001%EDI0005%	2350010001	Edilizia in materiale deperibile	Casa XVIII
+%2350020001%EDI0001%	2350020001	Edilizia in materiale deperibile	
+%2350020001%EDI0002%	2350020001	Edilizia in materiale deperibile	
+%2350030001%EDI0001%	2350030001	Edilizia in materiale deperibile	Casa 2
+%2350030001%EDI0002%	2350030001	Edilizia in materiale deperibile	Casa 4
+%2350030001%EDI0003%	2350030001	Edilizia in materiale deperibile	Casa 17
+%2350030001%EDI0004%	2350030001	Edilizia in materiale deperibile	Casa 19
+%2350030001%EDI0005%	2350030001	Edilizia in materiale deperibile	Casa 20
+%2350040001%EDI0001%	2350040001	Edilizia in materiale deperibile	Casa 13a
+%2350040001%EDI0002%	2350040001	Edilizia in materiale deperibile	Casa 18a
+%2350040001%EDI0003%	2350040001	Edilizia in materiale deperibile	Casa 1
+%2350050001%EDI0001%	2350050001	Edilizia in materiale deperibile	Casa 1
+%2350050001%EDI0002%	2350050001	Edilizia in materiale deperibile	Casa 2
+%2400010001%EDI0001%	2400010001	Edilizia in materiale deperibile	Struttura B6:XVI
+%2400010001%EDI0002%	2400010001	Edilizia in materiale deperibile	Struttura B6:XVIII
+%2400010001%EDI0003%	2400010001	Edilizia in materiale deperibile	Struttura B6:XIX
+%2400010001%EDI0004%	2400010001	Edilizia in materiale deperibile	Struttura B6:VIII
+%2400010001%EDI0005%	2400010001	Edilizia in materiale deperibile	Struttura B6:A602
+%2400010001%EDI0006%	2400010001	Edilizia in materiale deperibile	Struttura B6:A483
+%2400010001%EDI0007%	2400010001	Edilizia in materiale deperibile	Struttura B6:A488
+%2400010001%EDI0008%	2400010001	Edilizia in materiale deperibile	Struttura B6:A482
+%2400010001%EDI0009%	2400010001	Edilizia in materiale deperibile	Struttura B6:XX
+%2400010001%EDI0010%	2400010001	Edilizia in materiale deperibile	Struttura B6:A498
+%2400010001%EDI0011%	2400010001	Edilizia in materiale deperibile	Struttura B6:A532
+%2400010001%EDI0012%	2400010001	Edilizia in materiale deperibile	Struttura B6:XII
+%2400010001%EDI0013%	2400010001	Edilizia in materiale deperibile	Struttura B6:VII
+%2400010001%EDI0014%	2400010001	Edilizia in materiale deperibile	Struttura B6:XXI
+%2400010001%EDI0015%	2400010001	Edilizia in materiale deperibile	Struttura B6:A510
+%2400010002%EDI0001%	2400010002	Edilizia in materiale deperibile	Struttura B8:III
+%2400010002%EDI0002%	2400010002	Edilizia in materiale deperibile	Struttura B8:V
+%2400010002%EDI0003%	2400010002	Edilizia in materiale deperibile	Struttura B4:I
+%2400010002%EDI0004%	2400010002	Edilizia in materiale deperibile	Struttura B8:A153
+%2400010002%EDI0005%	2400010002	Edilizia in materiale deperibile	Struttura B8:A222
+%2400010003%EDI0001%	2400010003	Edilizia in materiale deperibile	Struttura B11:A102
+%2400010003%EDI0002%	2400010003	Edilizia in materiale deperibile	Struttura B11:A197
+%2400010004%EDI0001%	2400010004	Edilizia in materiale deperibile	Struttura B30:I
+%2400010004%EDI0002%	2400010004	Edilizia in materiale deperibile	Struttura B29:X
+%2400010004%EDI0003%	2400010004	Edilizia in materiale deperibile	Struttura B29:IX
+%2400010004%EDI0004%	2400010004	Edilizia in materiale deperibile	Struttura B30:III
+%2400010004%EDI0005%	2400010004	Edilizia in materiale deperibile	Struttura B30:IIB
+%2400010004%EDI0006%	2400010004	Edilizia in materiale deperibile	Struttura B30:IIA
+%2400010004%EDI0007%	2400010004	Edilizia in materiale deperibile	Struttura B30:A446
+%2400010004%EDI0008%	2400010004	Edilizia in materiale deperibile	Struttura B30:A21
+%2400010004%EDI0009%	2400010004	Edilizia in materiale deperibile	Struttura B29:A757
+%2400010004%EDI0010%	2400010004	Edilizia in materiale deperibile	Struttura B29:A261
+%2400010004%EDI0011%	2400010004	Edilizia in materiale deperibile	Struttura B30:A3
+%2400010004%EDI0012%	2400010004	Edilizia in materiale deperibile	Struttura B30:A424
+%2400010004%EDI0013%	2400010004	Edilizia in materiale deperibile	Struttura B29:A458
+%2400010004%EDI0014%	2400010004	Edilizia in materiale deperibile	Struttura B29:A18
+%2400010004%EDI0015%	2400010004	Edilizia in materiale deperibile	Struttura B29:A791
+%2400010004%EDI0016%	2400010004	Edilizia in materiale deperibile	Sito B3
+%2400010004%EDI0017%	2400010004	Edilizia in materiale deperibile	Sito B3
+%2400010005%EDI0001%	2400010005	Edilizia in materiale deperibile	Struttura B26:XIX
+%2400010005%EDI0002%	2400010005	Edilizia in materiale deperibile	Struttura B26:XXII
+%2400010005%EDI0003%	2400010005	Edilizia in materiale deperibile	Struttura B26:A1327
+%2400010005%EDI0004%	2400010005	Edilizia in materiale deperibile	Struttura B26:A1231
+%2400010005%EDI0005%	2400010005	Edilizia in materiale deperibile	Struttura B26:A1084
+%2400010005%EDI0006%	2400010005	Edilizia in materiale deperibile	Struttura B26:A8
+%2400010006%EDI0001%	2400010006	Edilizia in materiale deperibile	Struttura B5:II
+%2400010006%EDI0002%	2400010006	Edilizia in materiale deperibile	Struttura B5:III
+%2400010006%EDI0003%	2400010006	Edilizia in materiale deperibile	Struttura B7:A15
+%2400010006%EDI0004%	2400010006	Edilizia in materiale deperibile	Struttura B7:I
+%2400010006%EDI0005%	2400010006	Edilizia in materiale deperibile	Struttura B34:A26
+%2400010006%EDI0006%	2400010006	Edilizia in materiale deperibile	Struttura B5:A479
+%2400010006%EDI0007%	2400010006	Edilizia in materiale deperibile	Struttura B7:III
+%2400010006%EDI0008%	2400010006	Edilizia in materiale deperibile	Struttura B7:A36
+%2400010006%EDI0009%	2400010006	Edilizia in materiale deperibile	Struttura B7:II
+%2400010007%EDI0001%	2400010007	Edilizia in materiale deperibile	Struttura B31:III
+%2400010007%EDI0002%	2400010007	Edilizia in materiale deperibile	Struttura B31:A222
+%2400010007%EDI0003%	2400010007	Edilizia in materiale deperibile	Struttura B31:A20
+%2400010007%EDI0004%	2400010007	Edilizia in materiale deperibile	Struttura B31:A215
+%2400010008%EDI0001%	2400010008	Edilizia in materiale deperibile	Struttura B42:I
+%2400010008%EDI0002%	2400010008	Edilizia in materiale deperibile	Struttura B42:A72
+%2410010001%EDI0001%	2410010001	Edilizia in materiale deperibile	Casa 6
+%2410020001%EDI0001%	2410020001	Edilizia in materiale deperibile	Casa 1
+%2410020001%EDI0002%	2410020001	Edilizia in materiale deperibile	Casa 2
+%2410020001%EDI0003%	2410020001	Edilizia in materiale deperibile	Casa 3
+%2410020001%EDI0004%	2410020001	Edilizia in materiale deperibile	Casa 5
+%2410030001%EDI0001%	2410030001	Edilizia in materiale deperibile	Bâtiment A (Sc 2)
+%2410030001%EDI0002%	2410030001	Edilizia in materiale deperibile	Bâtiment B (Sc 1)
+%2410030001%EDI0003%	2410030001	Edilizia in materiale deperibile	Bâtiment C (Sc  1)
+%2410030001%EDI0004%	2410030001	Edilizia in materiale deperibile	Bâtiment D (Sc 1)
+%2410030001%EDI0005%	2410030001	Edilizia in materiale deperibile	Bâtiment (Sc 6)
+%2410040001%EDI0001%	2410040001	Edilizia in materiale deperibile	Bâtiment de Sc 17-18
+%2430010001%EDI0001%	2430010001	Edilizia in materiale deperibile	Casa 9
+%2430010001%EDI0002%	2430010001	Edilizia in materiale deperibile	Casa 10
+%2430010001%EDI0003%	2430010001	Edilizia in materiale deperibile	
+%2430010001%EDI0004%	2430010001	Edilizia in materiale deperibile	Casa 11
+%2430010001%EDI0005%	2430010001	Edilizia in materiale deperibile	Casa 19
+%2430010001%EDI0006%	2430010001	Edilizia in materiale deperibile	Casa 22
+%2430010001%EDI0007%	2430010001	Edilizia in materiale deperibile	Casa 35
+%2430010001%EDI0008%	2430010001	Edilizia in materiale deperibile	Casa 8
+%2430010001%EDI0009%	2430010001	Edilizia in materiale deperibile	Casa 15
+%2430010001%EDI0010%	2430010001	Edilizia in materiale deperibile	Casa 26
+%2430010001%EDI0011%	2430010001	Edilizia in materiale deperibile	Casa 27
+%2440010001%EDI0001%	2440010001	Edilizia in materiale deperibile	Casa 1
+%2440010001%EDI0002%	2440010001	Edilizia in materiale deperibile	Casa 1
+%2440010001%EDI0003%	2440010001	Edilizia in materiale deperibile	Casa 8
+%2440010001%EDI0004%	2440010001	Edilizia in materiale deperibile	Casa 2
+%2440020001%EDI0001%	2440020001	Edilizia in materiale deperibile	
+%2440020001%EDI0002%	2440020001	Edilizia in materiale deperibile	
+%2440030001%EDI0001%	2440030001	Edilizia in materiale deperibile	
+%2440040001%EDI0001%	2440040001	Edilizia in materiale deperibile	
+%2440050001%EDI0001%	2440050001	Edilizia in materiale deperibile	Grubenhaus 1
+%2440050001%EDI0002%	2440050001	Edilizia in materiale deperibile	Grubenhaus 2
+%2440060001%EDI0001%	2440060001	Edilizia in materiale deperibile	Grubenhaus 1
+%2350060001%EDI0001%	2350060001	Edilizia in materiale deperibile	Struttura 1
+%2350060001%EDI0002%	2350060001	Edilizia in materiale deperibile	Struttura 3
+%2350060001%EDI0003%	2350060001	Edilizia in materiale deperibile	Struttura 2
+%2440080001%EDI0001%	2440080001	Edilizia in materiale deperibile	Struttura 4
+%2550010001%EDI0001%	2550010001	Edilizia in materiale deperibile	Casa 9/58
+%2550010001%EDI0002%	2550010001	Edilizia in materiale deperibile	Casa 2/58
+%2550010001%EDI0003%	2550010001	Edilizia in materiale deperibile	Casa 1/58
+%2550010001%EDI0004%	2550010001	Edilizia in materiale deperibile	Casa 10/58
+%2550010001%EDI0005%	2550010001	Edilizia in materiale deperibile	Casa 11/58
+%2550010001%EDI0006%	2550010001	Edilizia in materiale deperibile	Casa 2/59
+%2550020001%EDI0001%	2550020001	Edilizia in materiale deperibile	Casa 7
+%2550020001%EDI0002%	2550020001	Edilizia in materiale deperibile	Casa 9
+%2550020001%EDI0003%	2550020001	Edilizia in materiale deperibile	Casa 10
+%2550020001%EDI0004%	2550020001	Edilizia in materiale deperibile	Casa 11
+%2550030001%EDI0001%	2550030001	Edilizia in materiale deperibile	Casa 1/56
+%2550030001%EDI0002%	2550030001	Edilizia in materiale deperibile	Casa 2/56
+%2550030001%EDI0003%	2550030001	Edilizia in materiale deperibile	Casa 3/56
+%2550030001%EDI0004%	2550030001	Edilizia in materiale deperibile	Casa 4/56
+%2550040001%EDI0001%	2550040001	Edilizia in materiale deperibile	Grubenhaus 2
+%2550050001%EDI0001%	2550050001	Edilizia in materiale deperibile	Grubenhaus 1
+%2550060001%EDI0001%	2550060001	Edilizia in materiale deperibile	
+%2570020001%EDI0001%	2570020001	Edilizia in materiale deperibile	Casa 107
+%2570020001%EDI0002%	2570020001	Edilizia in materiale deperibile	Casa 20
+%2570020001%EDI0003%	2570020001	Edilizia in materiale deperibile	Casa 86
+%2570020001%EDI0004%	2570020001	Edilizia in materiale deperibile	Casa 52
+%2570020001%EDI0005%	2570020001	Edilizia in materiale deperibile	Casa 75
+%2570020001%EDI0006%	2570020001	Edilizia in materiale deperibile	Casa 116
+%2570020001%EDI0007%	2570020001	Edilizia in materiale deperibile	Casa 120
+%2570020001%EDI0008%	2570020001	Edilizia in materiale deperibile	Casa 81
+%2570020001%EDI0009%	2570020001	Edilizia in materiale deperibile	Casa 83
+%2570020001%EDI0010%	2570020001	Edilizia in materiale deperibile	Casa 102
+%2570020001%EDI0011%	2570020001	Edilizia in materiale deperibile	Casa 43
+%2570020001%EDI0012%	2570020001	Edilizia in materiale deperibile	Casa 53
+%2570020001%EDI0013%	2570020001	Edilizia in materiale deperibile	Casa 106
+%2570020001%EDI0014%	2570020001	Edilizia in materiale deperibile	Casa 109
+%2570020001%EDI0015%	2570020001	Edilizia in materiale deperibile	Casa 110
+%2570020001%EDI0016%	2570020001	Edilizia in materiale deperibile	Casa 113
+%2570020001%EDI0017%	2570020001	Edilizia in materiale deperibile	Casa 24
+%2570020001%EDI0018%	2570020001	Edilizia in materiale deperibile	Casa 25
+%2570020001%EDI0019%	2570020001	Edilizia in materiale deperibile	Casa 35
+%2570020001%EDI0020%	2570020001	Edilizia in materiale deperibile	Casa 37
+%2570020001%EDI0021%	2570020001	Edilizia in materiale deperibile	Casa 82
+%2570020001%EDI0022%	2570020001	Edilizia in materiale deperibile	Casa 94
+%2570020001%EDI0023%	2570020001	Edilizia in materiale deperibile	Casa 95
+%2570020001%EDI0024%	2570020001	Edilizia in materiale deperibile	Casa 96
+%2570020001%EDI0025%	2570020001	Edilizia in materiale deperibile	Casa 97
+%2570020001%EDI0026%	2570020001	Edilizia in materiale deperibile	Oggetto 111
+%2570020001%EDI0027%	2570020001	Edilizia in materiale deperibile	Oggetto 49
+%2570020001%EDI0028%	2570020001	Edilizia in materiale deperibile	Oggetto 42
+%2570030001%EDI0001%	2570030001	Edilizia in materiale deperibile	
+%2570040001%EDI0001%	2570040001	Edilizia in materiale deperibile	
+%2570040001%EDI0002%	2570040001	Edilizia in materiale deperibile	Casa 4/57
+%2570040001%EDI0003%	2570040001	Edilizia in materiale deperibile	Casa 5/57
+%2570040001%EDI0004%	2570040001	Edilizia in materiale deperibile	Casa 1/57
+%2570050001%EDI0001%	2570050001	Edilizia in materiale deperibile	Casa 58
+%2570050001%EDI0002%	2570050001	Edilizia in materiale deperibile	Casa 5
+%2570050001%EDI0003%	2570050001	Edilizia in materiale deperibile	Casa 10
+%2570050001%EDI0004%	2570050001	Edilizia in materiale deperibile	Casa 11
+%2570050001%EDI0005%	2570050001	Edilizia in materiale deperibile	Casa 22
+%2570050001%EDI0006%	2570050001	Edilizia in materiale deperibile	Casa 24
+%2570050001%EDI0007%	2570050001	Edilizia in materiale deperibile	Casa 35
+%2570050001%EDI0008%	2570050001	Edilizia in materiale deperibile	Casa 38
+%2570050001%EDI0009%	2570050001	Edilizia in materiale deperibile	Casa 26
+%2570050001%EDI0010%	2570050001	Edilizia in materiale deperibile	Casa 34
+%2570050001%EDI0011%	2570050001	Edilizia in materiale deperibile	Casa 12
+%2570050001%EDI0012%	2570050001	Edilizia in materiale deperibile	Casa 70
+%2570060001%EDI0001%	2570060001	Edilizia in materiale deperibile	Casa 3
+%2570060001%EDI0002%	2570060001	Edilizia in materiale deperibile	
+%2570060001%EDI0003%	2570060001	Edilizia in materiale deperibile	Casa 20
+%2570060001%EDI0004%	2570060001	Edilizia in materiale deperibile	Casa 21
+%2570060001%EDI0005%	2570060001	Edilizia in materiale deperibile	Casa 22
+%2570070001%EDI0001%	2570070001	Edilizia in materiale deperibile	Casa 55/68
+%2570070001%EDI0002%	2570070001	Edilizia in materiale deperibile	Casa 32/71
+%2570080001%EDI0001%	2570080001	Edilizia in materiale deperibile	Casa 57
+%2570090001%EDI0001%	2570090001	Edilizia in materiale deperibile	Escavazione 1034
+%2570100001%EDI0001%	2570100001	Edilizia in materiale deperibile	Escavazione 4/57
+%2570110001%EDI0001%	2570110001	Edilizia in materiale deperibile	
+%2570120001%EDI0001%	2570120001	Edilizia in materiale deperibile	Casa 1
+%2570120001%EDI0002%	2570120001	Edilizia in materiale deperibile	Casa 2
+%2570120001%EDI0003%	2570120001	Edilizia in materiale deperibile	Casa 3
+%2570120001%EDI0004%	2570120001	Edilizia in materiale deperibile	Blockhaus 3
+%2570120001%EDI0005%	2570120001	Edilizia in materiale deperibile	Blockhaus 2
+%2570120001%EDI0006%	2570120001	Edilizia in materiale deperibile	Blockhaus 1
+%2570120001%EDI0007%	2570120001	Edilizia in materiale deperibile	Casa 4
+%2570120002%EDI0001%	2570120002	Edilizia in materiale deperibile	
+%2570130001%EDI0001%	2570130001	Edilizia in materiale deperibile	Casa D/54
+%2570130001%EDI0002%	2570130001	Edilizia in materiale deperibile	Casa Ih/59
+%2570140001%EDI0001%	2570140001	Edilizia in materiale deperibile	Grubenhaus 1
+%2570140001%EDI0002%	2570140001	Edilizia in materiale deperibile	Grubenhaus 2
+%2570140001%EDI0003%	2570140001	Edilizia in materiale deperibile	Grubenhaus 3
+%2570140001%EDI0004%	2570140001	Edilizia in materiale deperibile	Grubenhaus 6
+%2570140001%EDI0005%	2570140001	Edilizia in materiale deperibile	Grubenhaus 7
+%2570140001%EDI0006%	2570140001	Edilizia in materiale deperibile	Casa quadrante MM/XII
+%2570150001%EDI0001%	2570150001	Edilizia in materiale deperibile	Grubenhaus 1/58
+%2570150001%EDI0002%	2570150001	Edilizia in materiale deperibile	Grubenhaus 1/58
+%2570160001%EDI0001%	2570160001	Edilizia in materiale deperibile	Casa C
+%2570160001%EDI0002%	2570160001	Edilizia in materiale deperibile	Casa D
+%2570160001%EDI0003%	2570160001	Edilizia in materiale deperibile	Casa B
+%2570170001%EDI0001%	2570170001	Edilizia in materiale deperibile	
+%2570180001%EDI0001%	2570180001	Edilizia in materiale deperibile	Grubenhaus 12/S
+%2570190001%EDI0001%	2570190001	Edilizia in materiale deperibile	Casa 1
+%2570190001%EDI0002%	2570190001	Edilizia in materiale deperibile	Casa 2
+%2570190001%EDI0003%	2570190001	Edilizia in materiale deperibile	Casa 6
+%2570200001%EDI0001%	2570200001	Edilizia in materiale deperibile	Casa 6
+%2570210001%EDI0001%	2570210001	Edilizia in materiale deperibile	Casa 79
+%2570210001%EDI0002%	2570210001	Edilizia in materiale deperibile	Case 46, 127, 128
+%2570210001%EDI0003%	2570210001	Edilizia in materiale deperibile	Case 20, 21, 22, 23, 25, 27
+%2570210001%EDI0004%	2570210001	Edilizia in materiale deperibile	
+%2570220001%EDI0001%	2570220001	Edilizia in materiale deperibile	
+%2160400004%EDI0002%	2160400004	Edilizia in materiale deperibile	Schnitt 4, Schicht D2
+%2160400004%EDI0003%	2160400004	Edilizia in materiale deperibile	Schnitt 4, Schicht D3
+%0012440001%EDI0001%	0012440001	Edilizia in materiale deperibile	sondaggio TPY
+%0110320005%EDI0001%	0110320005	Edilizia in materiale deperibile	
+%0110320003%EDI0001%	0110320003	Edilizia in materiale deperibile	Settore H2
+%0560520003%EDI0003%	0560520003	Edilizia in materiale deperibile	Fase VI
+%0560520003%EDI0004%	0560520003	Edilizia in materiale deperibile	
+%0171020005%EDI0010%	0171020005	Edilizia in materiale deperibile	Saggio F, vicenda b
+%0171020005%EDI0009%	0171020005	Edilizia in materiale deperibile	Saggio E, vicenda d
+%0171020005%EDI0011%	0171020005	Edilizia in materiale deperibile	Saggio E, vicenda f
+%0171020005%EDI0012%	0171020005	Edilizia in materiale deperibile	Saggio F, vicenda g
+%0171020005%EDI0013%	0171020005	Edilizia in materiale deperibile	Edificio IV
+%0171020005%EDI0014%	0171020005	Edilizia in materiale deperibile	Edificio V
+%0020160003%EDI0001%	0020160003	Edilizia in materiale deperibile	
+%0560390003%EDI0006%	0560390003	Edilizia in materiale deperibile	Capanna 4, palizzata
+%0390140004%EDI0001%	0390140004	Infrastruttura	
+%0390140004%EDI0002%	0390140004	Edilizia in materiale deperibile	Edificio 2 (portico)
+%0480190001%EDI0002%	0480190001	Edilizia in materiale deperibile	
+%0450060002%EDI0003%	0450060002	Edilizia in materiale deperibile	
+%0170820001%EDI0003%	0170820001	Edilizia in materiale deperibile	Edificio VII
+%0170820001%EDI0004%	0170820001	Edilizia in materiale deperibile	Edificio XI
+%0061470002%EDI0003%	0061470002	Edilizia in materiale deperibile	Aree B, C, D
+%0061470002%EDI0004%	0061470002	Edilizia in materiale deperibile	Area G
+%0061470002%EDI0005%	0061470002	Edilizia in materiale deperibile	
+%0460170079%EDI0001%	0460170079	Edilizia in materiale deperibile	
+%0460170010%EDI0001%	0460170010	Edilizia in materiale deperibile	
+%0460170010%EDI0002%	0460170010	Edilizia in materiale deperibile	Struttura Z
+%0380060001%EDI0002%	0380060001	Edilizia in materiale deperibile	
+%0781420001%EDI0001%	0781420001	Edilizia in materiale deperibile	Sondaggi L52-53 e K-L-M50
+%0781420001%EDI0002%	0781420001	Edilizia in materiale deperibile	
+%0781420001%EDI0003%	0781420001	Edilizia in materiale deperibile	
+%0180830002%EDI0003%	0180830002	Edilizia in materiale deperibile	Trincea II
+%0230910011%EDI0004%	0230910011	Edilizia in materiale deperibile	
+%0560560002%EDI0001%	0560560002	Edilizia in materiale deperibile	
+%0580580002%EDI0001%	0580580002	Edilizia in materiale deperibile	
+%0460060001%EDI0001%	0460060001	Edilizia in materiale deperibile	Settore Bb
+%0680280001%EDI0004%	0680280001	Edilizia in materiale deperibile	Struttura 36
+%0680280001%EDI0005%	0680280001	Edilizia in materiale deperibile	Struttura 37
+%0680280003%EDI0003%	0680280003	Edilizia in materiale deperibile	Struttura II-43
+%0680280003%EDI0005%	0680280003	Edilizia in materiale deperibile	Struttura IV-46
+%0021480002%EDI0007%	0021480002	Edilizia in materiale deperibile	
+%0021480002%EDI0008%	0021480002	Edilizia in materiale deperibile	Quadrante N-E, fase 9
+%0021480002%EDI0014%	0021480002	Edilizia in materiale deperibile	Quadrante N-E
+%0021480002%EDI0015%	0021480002	Edilizia in materiale deperibile	Quadrante N-E, cinta
+%0570180001%EDI0001%	0570180001	Edilizia in materiale deperibile	Saggio I, fase recente
+%0570180001%EDI0002%	0570180001	Edilizia in materiale deperibile	Saggio I, fase antica
+%0151460009%EDI0001%	0151460009	Edilizia in materiale deperibile	
+%0222170001%EDI0001%	0222170001	Edilizia in materiale deperibile	
+%0651040002%EDI0001%	0651040002	Edilizia in materiale deperibile	
+%0750570001%EDI0002%	0750570001	Edilizia in materiale deperibile	Settore NE, struttura US104
+%0750570001%EDI0003%	0750570001	Edilizia in materiale deperibile	Settore NE, struttura US110
+%0750570001%EDI0004%	0750570001	Edilizia in materiale deperibile	Settore NE, struttura US499
+%0560030002%EDI0001%	0560030002	Edilizia in materiale deperibile	
+%0690170001%EDI0001%	0690170001	Edilizia in materiale deperibile	
+%0680090001%EDI0001%	0680090001	Edilizia in materiale deperibile	
+%0670040001%EDI0005%	0670040001	Edilizia in materiale deperibile	
+%0670040001%EDI0006%	0670040001	Edilizia in materiale deperibile	
+%0670420002%EDI0001%	0670420002	Edilizia in materiale deperibile	
+%0570140001%EDI0001%	0570140001	Edilizia in materiale deperibile	
+%0060750002%EDI0001%	0060750002	Edilizia in materiale deperibile	
+%0210560001%EDI0001%	0210560001	Edilizia in materiale deperibile	
+%0470120009%EDI0001%	0470120009	Edilizia in materiale deperibile	
+%0200360001%EDI0001%	0200360001	Infrastruttura	Zona b, vano R
+%0200360001%EDI0002%	0200360001	Infrastruttura	Zona b, vano R
+%0200360001%EDI0003%	0200360001	Infrastruttura	Zona b
+%0200360001%EDI0004%	0200360001	Edilizia in materiale deperibile	Zona c
+%0200360001%EDI0005%	0200360001	Edilizia in materiale deperibile	Portico R
+%0200360001%EDI0006%	0200360001	Infrastruttura	Portico R
+%0200360001%EDI0007%	0200360001	Edilizia in materiale deperibile	vano W2, pars rustica
+%0200360001%EDI0008%	0200360001	Edilizia in materiale deperibile	portico W3, pars rustica
+%0200360001%EDI0009%	0200360001	Edilizia in materiale deperibile	pars rustica
+%0200360001%EDI0010%	0200360001	Edilizia in materiale deperibile	Portico N
+%0530110005%EDI0001%	0530110005	Edilizia in materiale deperibile	
+%0750570009%EDI0001%	0750570009	Edilizia in materiale deperibile	Fase IV (Posthole 251)
+%0380080003%EDI0024%	0380080003	Infrastruttura	Periodo III/1, steccati
+%0170290006%EDI0002%	0170290006	Edilizia in muratura	
+%0170290047%EDI0002%	0170290047	Edilizia in materiale deperibile	
+%0170290053%EDI0001%	0170290053	Edilizia in materiale deperibile	
+%2410050009%EDI0001%	2410050009	Edilizia in materiale deperibile	
+%0520220001%EDI0001%	0520220001	Edilizia in materiale deperibile	C1
+%0170290099%EDI0001%	0170290099	Edilizia in materiale deperibile	
+%0170290103%EDI0002%	0170290103	Edilizia in materiale deperibile	
+%0170290106%EDI0001%	0170290106	Edilizia in muratura	
+%0520220001%EDI0002%	0520220001	Edilizia in materiale deperibile	C2
+%0520220001%EDI0003%	0520220001	Edilizia in materiale deperibile	C3
+%0520220001%EDI0004%	0520220001	Edilizia in materiale deperibile	C4
+%0520220001%EDI0005%	0520220001	Edilizia in materiale deperibile	C5
+%0520220001%EDI0006%	0520220001	Edilizia in materiale deperibile	C6
+%0520220001%EDI0007%	0520220001	Edilizia in materiale deperibile	C7
+%0520220001%EDI0008%	0520220001	Edilizia in materiale deperibile	C8
+%0520220001%EDI0009%	0520220001	Edilizia in materiale deperibile	T9
+%0520220001%EDI0010%	0520220001	Edilizia in materiale deperibile	C10
+%0520220001%EDI0011%	0520220001	Edilizia in materiale deperibile	C11
+%0520220001%EDI0012%	0520220001	Edilizia in materiale deperibile	C12a
+%0520220001%EDI0013%	0520220001	Edilizia in materiale deperibile	SB12b
+%0520220001%EDI0014%	0520220001	Edilizia in materiale deperibile	SB12c
+%0520220001%EDI0015%	0520220001	Edilizia in materiale deperibile	SB13
+%0520220001%EDI0016%	0520220001	Edilizia in materiale deperibile	SB/C14
+%0520220001%EDI0017%	0520220001	Edilizia in materiale deperibile	SB15
+%0520220001%EDI0018%	0520220001	Edilizia in materiale deperibile	SB17
+%0520220001%EDI0019%	0520220001	Edilizia in materiale deperibile	C18
+%0520220001%EDI0020%	0520220001	Infrastruttura	SB19
+%0520220001%EDI0021%	0520220001	Edilizia in materiale deperibile	T/SB20
+%0520220001%EDI0022%	0520220001	Edilizia in materiale deperibile	SB21
+%0520220001%EDI0023%	0520220001	Edilizia in materiale deperibile	SB22
+%0520220001%EDI0024%	0520220001	Edilizia in materiale deperibile	SB24
+%0520220001%EDI0025%	0520220001	Edilizia in materiale deperibile	C25
+%0520220001%EDI0026%	0520220001	Infrastruttura	SB27
+%0520220001%EDI0027%	0520220001	Edilizia in materiale deperibile	C28
+%0520220001%EDI0028%	0520220001	Edilizia in materiale deperibile	SB30
+%0520220001%EDI0029%	0520220001	Edilizia in materiale deperibile	SB31
+%0520220001%EDI0030%	0520220001	Edilizia in materiale deperibile	C32
+%0520220001%EDI0031%	0520220001	Edilizia in materiale deperibile	SB33
+%0520220001%EDI0032%	0520220001	Infrastruttura	SB34
+%0520220001%EDI0033%	0520220001	Edilizia in materiale deperibile	C35
+%0520220001%EDI0034%	0520220001	Edilizia in materiale deperibile	SB36
+%0520220001%EDI0035%	0520220001	Edilizia in materiale deperibile	SB37
+%0520220001%EDI0036%	0520220001	Edilizia in materiale deperibile	C38
+%0520220001%EDI0037%	0520220001	Edilizia in materiale deperibile	C39
+%0520220001%EDI0038%	0520220001	Edilizia in materiale deperibile	C40
+%0520220001%EDI0039%	0520220001	Infrastruttura	SB41
+%0520220001%EDI0040%	0520220001	Infrastruttura	SB42
+%0520220001%EDI0041%	0520220001	Edilizia in materiale deperibile	SB43
+%0520220001%EDI0042%	0520220001	Edilizia in materiale deperibile	C44
+%0520220001%EDI0044%	0520220001	Edilizia in materiale deperibile	ED01
+%0520220001%EDI0045%	0520220001	Edilizia in materiale deperibile	ED23
+%0520220001%EDI0046%	0520220001	Edilizia in materiale deperibile	ED24
+%0520220001%EDI0047%	0520220001	Edilizia in materiale deperibile	ED25
+%0520220001%EDI0048%	0520220001	Edilizia in materiale deperibile	ED52
+%0520220001%EDI0049%	0520220001	Edilizia in materiale deperibile	PL1
+%0520220001%EDI0050%	0520220001	Infrastruttura	PL2
+%0520220001%EDI0051%	0520220001	Infrastruttura	V5
+%0390100002%EDI0001%	0390100002	Edilizia in materiale deperibile	
+%0200300012%EDI0001%	0200300012	Edilizia in materiale deperibile	US 525
+%0170290111%EDI0001%	0170290111	Edilizia in materiale deperibile	Settore 1
+%0170290112%EDI0001%	0170290112	Edilizia in materiale deperibile	Fase 4
+%0500310042%EDI0001%	0500310042	Edilizia in materiale deperibile	
+%0500310042%EDI0002%	0500310042	Edilizia in materiale deperibile	
+%0170290099%EDI0003%	0170290099	Edilizia in materiale deperibile	
+%0181100025%EDI0001%	0181100025	Edilizia in materiale deperibile	Fase 2
+%0171030002%EDI0002%	0171030002	Edilizia in materiale deperibile	
+%0170290118%EDI0001%	0170290118	Edilizia in materiale deperibile	
+%0170290119%EDI0001%	0170290119	Edilizia in materiale deperibile	
+%0170290119%EDI0002%	0170290119	Edilizia in materiale deperibile	
+%0151460040%EDI0001%	0151460040	Edilizia in materiale deperibile	
+%0151180003%EDI0001%	0151180003	Edilizia in materiale deperibile	vano sud
+%0340140003%EDI0001%	0340140003	Edilizia in materiale deperibile	
+%0460170046%EDI0001%	0460170046	Edilizia in materiale deperibile	
+%0021580012%EDI0001%	0021580012	Edilizia in muratura	
+%0050050011%EDI0001%	0050050011	Edilizia in materiale deperibile	US 99, 102, 103, 104, 105, 106 e 107
+%0040030018%EDI0001%	0040030018	Edilizia in materiale deperibile	
+%0012720018%EDI0001%	0012720018	Edilizia in muratura	
+%0012720019%EDI0001%	0012720019	Edilizia in materiale deperibile	Cortile N
+%0050050008%EDI0001%	0050050008	Edilizia in muratura	
+%0050050009%EDI0001%	0050050009	Edilizia in materiale deperibile	US 395, 322, 362, 521, 1012
+%0050050012%EDI0001%	0050050012	Edilizia in materiale deperibile	
+%0031060004%EDI0001%	0031060004	Edilizia in materiale deperibile	
+%0040030019%EDI0001%	0040030019	Edilizia in materiale deperibile	US 118 e 120
+%0040030012%EDI0001%	0040030012	Edilizia in materiale deperibile	Settore W, vano cantinato
+%0012720020%EDI0001%	0012720020	Edilizia in materiale deperibile	Settore occidentale
+%0061740005%EDI0001%	0061740005	Edilizia in materiale deperibile	
+%0040030019%EDI0002%	0040030019	Edilizia in materiale deperibile	US 115, 117 e 119
+%0061740006%EDI0001%	0061740006	Edilizia in materiale deperibile	
+%0012720020%EDI0002%	0012720020	Edilizia in materiale deperibile	Settore occidentale
+%0050050011%EDI0002%	0050050011	Edilizia in materiale deperibile	US 79, 81, 83, 85, 87, 88, 90
+%0960040004%EDI0001%	0960040004	Edilizia in materiale deperibile	Sondaggio W
+%0040030012%EDI0002%	0040030012	Edilizia in materiale deperibile	Settore W, vano cantinato
+%0031060005%EDI0001%	0031060005	Edilizia in muratura	
+%0031060005%EDI0002%	0031060005	Edilizia in materiale deperibile	
+%0031060005%EDI0003%	0031060005	Infrastruttura	
+%0012720021%EDI0002%	0012720021	Edilizia in materiale deperibile	Settore W, ambiente G
+%0012720021%EDI0004%	0012720021	Edilizia in materiale deperibile	Settore D
+%0170180001%EDI0001%	0170180001	Edilizia in materiale deperibile	
+%0040030021%EDI0001%	0040030021	Edilizia in materiale deperibile	
+%0170180002%EDI0001%	0170180002	Edilizia in materiale deperibile	
+%0040030009%EDI0001%	0040030009	Edilizia in materiale deperibile	
+%0012720003%EDI0002%	0012720003	Infrastruttura	Settore SW
+%0012720003%EDI0003%	0012720003	Edilizia in materiale deperibile	Settore N
+%0132060001%EDI0001%	0132060001	Edilizia in materiale deperibile	Fase III
+%0010780003%EDI0001%	0010780003	Edilizia in muratura	
+%0470120001%EDI0001%	0470120001	Edilizia in materiale deperibile	area sommitale
+%0470120001%EDI0002%	0470120001	Edilizia in materiale deperibile	Area 150-300
+%0061060001%EDI0001%	0061060001	Edilizia in materiale deperibile	
+%0170290012%EDI0006%	0170290012	Edilizia in materiale deperibile	Periodo 3.I, US 139, 184
+%0170290012%EDI0007%	0170290012	Edilizia in materiale deperibile	Periodo 3.III, US 129
+%0170290012%EDI0008%	0170290012	Edilizia in materiale deperibile	Periodo 3.IV, US 110, 114, 116
+%0170290012%EDI0009%	0170290012	Edilizia in materiale deperibile	Settore 1, Periodo II.1
+%0170290012%EDI0010%	0170290012	Edilizia in materiale deperibile	Settore 1, Periodo II.3
+%0170290012%EDI0011%	0170290012	Edilizia in materiale deperibile	Settore 1, Periodo II.4
+%0170290012%EDI0012%	0170290012	Edilizia in materiale deperibile	Settore 1, Periodo II.5
+%0170290012%EDI0013%	0170290012	Edilizia in materiale deperibile	Settore 1, Periodo II.5
+%0170290012%EDI0014%	0170290012	Edilizia in materiale deperibile	Settore 1, Periodo II.6
+%0170290012%EDI0015%	0170290012	Edilizia in materiale deperibile	Settore 2
+%0170290012%EDI0016%	0170290012	Edilizia in materiale deperibile	Settore 3
+%0170290012%EDI0017%	0170290012	Edilizia in materiale deperibile	Settore 5
+%0170290012%EDI0018%	0170290012	Edilizia in materiale deperibile	Settore 6
+%0170290115%EDI0003%	0170290115	Edilizia in materiale deperibile	
+%0170290111%EDI0005%	0170290111	Edilizia in materiale deperibile	Settore 1
+%0170290053%EDI0002%	0170290053	Edilizia in materiale deperibile	
+%0170280002%EDI0001%	0170280002	Edilizia in materiale deperibile	
+%0170280002%EDI0002%	0170280002	Edilizia in materiale deperibile	
+%0170850001%EDI0002%	0170850001	Edilizia in materiale deperibile	Saggio A
+%0190360006%EDI0001%	0190360006	Edilizia in materiale deperibile	US 6, 66, 28,
+%0200300013%EDI0001%	0200300013	Edilizia in materiale deperibile	
+%0131880002%EDI0001%	0131880002	Edilizia in materiale deperibile	Settore N
+%0180370002%EDI0001%	0180370002	Edilizia in materiale deperibile	
+%0280600002%EDI0001%	0280600002	Edilizia in materiale deperibile	
+%0390100001%EDI0001%	0390100001	Edilizia in materiale deperibile	
+%0190360008%EDI0001%	0190360008	Edilizia in materiale deperibile	
+%0310150001%EDI0001%	0310150001	Edilizia in materiale deperibile	
+%0340270008%EDI0001%	0340270008	Edilizia in materiale deperibile	
+%0181100031%EDI0001%	0181100031	Edilizia in muratura	
+%0181100032%EDI0001%	0181100032	Edilizia in muratura	
+%0730270002%EDI0001%	0730270002	Edilizia in muratura	
+%0171790009%EDI0003%	0171790009	Infrastruttura	Saggio 2
+%0171790010%EDI0001%	0171790010	Edilizia in materiale deperibile	Fase IIa
+%0171790010%EDI0002%	0171790010	Edilizia in materiale deperibile	Fase IIIa
+%0171790010%EDI0003%	0171790010	Edilizia in materiale deperibile	Fase IV, Va-b, VI
+%0171790003%EDI0002%	0171790003	Infrastruttura	Settore Sud
+%0171790003%EDI0003%	0171790003	Edilizia in materiale deperibile	
+%0190660001%EDI0001%	0190660001	Edilizia in materiale deperibile	Ambiente 48
+%0530110263%EDI0001%	0530110263	Edilizia in materiale deperibile	
+%0530180493%EDI0003%	0530180493	Edilizia in materiale deperibile	EH, settore VI
+%0530180488%EDI0002%	0530180488	Edilizia in materiale deperibile	Forum, settore V
+%0530180488%EDI0003%	0530180488	Edilizia in materiale deperibile	Forum, settore V/P5
+%0530180493%EDI0001%	0530180493	Edilizia in materiale deperibile	EH, settore VI
+%0530180493%EDI0002%	0530180493	Edilizia in materiale deperibile	EH, settore VI
+%0530180493%EDI0004%	0530180493	Edilizia in materiale deperibile	EH, settore VI
+%0530180493%EDI0005%	0530180493	Edilizia in materiale deperibile	EH, settore VI
+%0130040001%EDI0001%	0130040001	Edilizia in materiale deperibile	Fase 1
+%0520320019%EDI0001%	0520320019	Edilizia in materiale deperibile	Ambiente 1
+%0520320003%EDI0002%	0520320003	Edilizia in materiale deperibile	Area 73000/Fase 10
+%0520320003%EDI0005%	0520320003	Edilizia in materiale deperibile	Area 13000/Fase 13
+%0520320003%EDI0006%	0520320003	Edilizia in materiale deperibile	Area 13000/Fase 14
+%0520320003%EDI0007%	0520320003	Edilizia in materiale deperibile	Area 13000/Fase 16
+%0520320003%EDI0009%	0520320003	Edilizia in materiale deperibile	Area 13000/Fase 18
+%0520320003%EDI0010%	0520320003	Edilizia in materiale deperibile	Area 13000/Fase 20
+%0520320003%EDI0011%	0520320003	Edilizia in materiale deperibile	Area 3000-4000/Fase 22
+%0520320003%EDI0012%	0520320003	Edilizia in materiale deperibile	Area 13000/Fase 22
+%0520320003%EDI0013%	0520320003	Edilizia in materiale deperibile	Area 10000/Fase 25
+%0520320003%EDI0014%	0520320003	Edilizia in materiale deperibile	Area 3000-4000-6000-13000/Fase 30
+%0520320003%EDI0016%	0520320003	Edilizia in materiale deperibile	Area 6000/Fase 32
+%0520320003%EDI0017%	0520320003	Edilizia in materiale deperibile	Area 4000-6000/Fase 34
+%0520320003%EDI0018%	0520320003	Edilizia in materiale deperibile	Area 6000/Fase 36
+%0520320003%EDI0020%	0520320003	Edilizia in materiale deperibile	Area 6000/Fase 38
+%0340270011%EDI0001%	0340270011	Edilizia in materiale deperibile	
+%0690860002%EDI0002%	0690860002	Edilizia in materiale deperibile	Periodo IV, Ambiente E
+%0690860002%EDI0003%	0690860002	Edilizia in materiale deperibile	Periodo IV, Ambiente B
+%0350330006%EDI0001%	0350330006	Edilizia in materiale deperibile	
+%0380080004%EDI0001%	0380080004	Edilizia in materiale deperibile	House 4
+%0380080004%EDI0002%	0380080004	Edilizia in materiale deperibile	Building 5
+%0380080004%EDI0003%	0380080004	Edilizia in materiale deperibile	Building 3
+%0380080004%EDI0004%	0380080004	Edilizia in materiale deperibile	House 13
+%0380080004%EDI0005%	0380080004	Edilizia in materiale deperibile	Structure 1
+%0380080004%EDI0006%	0380080004	Edilizia in materiale deperibile	Structure 2
+%0380080004%EDI0007%	0380080004	Edilizia in materiale deperibile	House 8
+%0380080004%EDI0008%	0380080004	Edilizia in materiale deperibile	House 11
+%0380080012%EDI0001%	0380080012	Edilizia in materiale deperibile	
+%0380080004%EDI0009%	0380080004	Edilizia in materiale deperibile	Buliding 9
+%0380080004%EDI0010%	0380080004	Edilizia in materiale deperibile	
+%0380080003%EDI0025%	0380080003	Infrastruttura	Periodo III/2, steccati
+%0380080003%EDI0026%	0380080003	Infrastruttura	Periodo IV/1, steccati
+%0380080003%EDI0027%	0380080003	Edilizia in materiale deperibile	Periodo IV/1, US1527
+%0380080003%EDI0028%	0380080003	Edilizia in materiale deperibile	Periodo IV/2, Struttura 10
+%0380080003%EDI0029%	0380080003	Edilizia in materiale deperibile	Periodo IV/2, Struttura 12
+%0380080003%EDI0030%	0380080003	Edilizia in materiale deperibile	Periodo III/3, US1866
+%0590190002%EDI0001%	0590190002	Edilizia in materiale deperibile	
+%0360230013%EDI0001%	0360230013	Edilizia in materiale deperibile	
+%0340140004%EDI0001%	0340140004	Edilizia in materiale deperibile	
+%0350330008%EDI0001%	0350330008	Edilizia in materiale deperibile	
+%0580910088%EDI0001%	0580910088	Edilizia in muratura	
+%0580910104%EDI0001%	0580910104	Edilizia in materiale deperibile	
+%0350380001%EDI0001%	0350380001	Edilizia in materiale deperibile	
+%0680280001%EDI0007%	0680280001	Edilizia in materiale deperibile	Campagna 1995
+%0680210005%EDI0001%	0680210005	Edilizia in materiale deperibile	
+%0680210005%EDI0002%	0680210005	Edilizia in materiale deperibile	
+%0060970002%EDI0002%	0060970002	Edilizia in materiale deperibile	Area A
+%0060970002%EDI0003%	0060970002	Edilizia in materiale deperibile	Area A
+%0060970002%EDI0004%	0060970002	Infrastruttura	Area A
+%0050050016%EDI0001%	0050050016	Edilizia in materiale deperibile	
+%0960760001%EDI0001%	0960760001	Edilizia in materiale deperibile	US 68
+%0520320003%EDI0022%	0520320003	Edilizia in materiale deperibile	Area 3000/Fase 10
+%0520320003%EDI0023%	0520320003	Edilizia in materiale deperibile	Area 6000/Fase 22
+%0520320003%EDI0024%	0520320003	Edilizia in materiale deperibile	Area 13000/Fase 36
+%0520320003%EDI0025%	0520320003	Edilizia in materiale deperibile	Area 3000/Fase 41
+%0300260076%EDI0001%	0300260076	Edilizia in materiale deperibile	Periodo III, US 435, 429, 433-568
+%0300260076%EDI0002%	0300260076	Infrastruttura	
+%0390140004%EDI0005%	0390140004	Edilizia in materiale deperibile	Ambiente B
+%0610750001%EDI0001%	0610750001	Edilizia in materiale deperibile	B
+%0610750001%EDI0002%	0610750001	Edilizia in materiale deperibile	C
+%0610750001%EDI0003%	0610750001	Edilizia in materiale deperibile	D
+%0610750001%EDI0004%	0610750001	Edilizia in materiale deperibile	E
+%0610750001%EDI0005%	0610750001	Edilizia in materiale deperibile	A
+%0610750001%EDI0006%	0610750001	Edilizia in materiale deperibile	
+%0500270032%EDI0001%	0500270032	Edilizia in materiale deperibile	
+%0500270032%EDI0002%	0500270032	Edilizia in materiale deperibile	
+%0500270032%EDI0003%	0500270032	Edilizia in materiale deperibile	
+%0580380003%EDI0001%	0580380003	Edilizia in materiale deperibile	
+%0580380003%EDI0002%	0580380003	Edilizia in materiale deperibile	
+%0580380003%EDI0003%	0580380003	Edilizia in materiale deperibile	
+%0040030006%EDI0002%	0040030006	Edilizia in materiale deperibile	
+%0090560003%EDI0006%	0090560003	Edilizia in materiale deperibile	Loggia Castello Nuovo, vano F
+%0090560003%EDI0007%	0090560003	Edilizia in materiale deperibile	Porticato Loggia Castello Nuovo
+%0090560003%EDI0009%	0090560003	Edilizia in materiale deperibile	Loggia Castello Nuovo, vano G
+%0021580001%EDI0002%	0021580001	Edilizia in materiale deperibile	Cortile E, ambienti c-d
+%0042150001%EDI0002%	0042150001	Edilizia in materiale deperibile	Saggi a-b
+%0010130001%EDI0002%	0010130001	Edilizia in materiale deperibile	Scavo 1998, fase 4
+%0010780002%EDI0001%	0010780002	Edilizia in materiale deperibile	
+%0040610001%EDI0002%	0040610001	Edilizia in materiale deperibile	
+%0460190001%EDI0001%	0460190001	Edilizia in materiale deperibile	settore 1100
+%0040400003%EDI0001%	0040400003	Edilizia in materiale deperibile	Area G, fase II
+%0480170004%EDI0001%	0480170004	Edilizia in materiale deperibile	
+%0480170003%EDI0001%	0480170003	Edilizia in materiale deperibile	
+%0480170038%EDI0001%	0480170038	Edilizia in materiale deperibile	
+%0750570009%EDI0005%	0750570009	Edilizia in materiale deperibile	Fase IV SE corner
+%0040400002%EDI0003%	0040400002	Edilizia in materiale deperibile	proprietà Brignone, complesso est
+%0040750001%EDI0001%	0040750001	Edilizia in materiale deperibile	
+%0040750001%EDI0002%	0040750001	Edilizia in materiale deperibile	
+%0040750001%EDI0003%	0040750001	Edilizia in materiale deperibile	
+%0580910009%EDI0001%	0580910009	Edilizia in materiale deperibile	
+%0580910111%EDI0001%	0580910111	Edilizia in materiale deperibile	
+%0041630002%EDI0011%	0041630002	Edilizia in materiale deperibile	Saggio VI
+%0151460021%EDI0001%	0151460021	Edilizia in muratura	Periodo IV; US 1389, 1408
+%0012720002%EDI0004%	0012720002	Edilizia in materiale deperibile	
+%0060010003%EDI0001%	0060010003	Edilizia in materiale deperibile	settore orientale
+%0060010003%EDI0002%	0060010003	Edilizia in materiale deperibile	settore occidentale
+%0060010003%EDI0003%	0060010003	Edilizia in materiale deperibile	
+%0020160002%EDI0001%	0020160002	Edilizia in materiale deperibile	“Finestra”
+%0380010002%EDI0001%	0380010002	Edilizia in materiale deperibile	
+%0380080013%EDI0001%	0380080013	Edilizia in materiale deperibile	
+%0560310003%EDI0001%	0560310003	Edilizia in materiale deperibile	
+%0160240017%EDI0001%	0160240017	Edilizia in materiale deperibile	
+%0171290002%EDI0001%	0171290002	Edilizia in materiale deperibile	
+%0300870001%EDI0001%	0300870001	Infrastruttura	Fase 3
+%0300870001%EDI0002%	0300870001	Edilizia in materiale deperibile	Fase 3
+%0300870001%EDI0003%	0300870001	Edilizia in materiale deperibile	Fase 3
+%0300870001%EDI0004%	0300870001	Edilizia in materiale deperibile	Fase 4
+%0750320002%EDI0001%	0750320002	Edilizia in materiale deperibile	
+%0780730001%EDI0001%	0780730001	Edilizia in materiale deperibile	
+%0800050001%EDI0001%	0800050001	Edilizia in materiale deperibile	
+%0171870002%EDI0001%	0171870002	Edilizia in materiale deperibile	
+%0131200001%EDI0001%	0131200001	Edilizia in materiale deperibile	
+%1000050010%EDI0001%	1000050010	Edilizia in materiale deperibile	
+%0170140001%EDI0001%	0170140001	Edilizia in materiale deperibile	
+%0171290001%EDI0001%	0171290001	Edilizia in materiale deperibile	
+%0171630001%EDI0002%	0171630001	Edilizia in materiale deperibile	scavi 1995-1996
+%0270420010%EDI0001%	0270420010	Infrastruttura	
+%0080550001%EDI0001%	0080550001	Edilizia in materiale deperibile	
+%0790110001%EDI0001%	0790110001	Edilizia in materiale deperibile	
+%0090040001%EDI0001%	0090040001	Edilizia in materiale deperibile	
+%0400120006%EDI0001%	0400120006	Edilizia in materiale deperibile	Cortile della Magnolia, scavi 1998
+%0400120006%EDI0002%	0400120006	Edilizia in materiale deperibile	scavi 1999
+%0460190001%EDI0002%	0460190001	Edilizia in materiale deperibile	Settore 1100
+%0450060002%EDI0004%	0450060002	Edilizia in materiale deperibile	scavi 1998
+%0450110001%EDI0001%	0450110001	Edilizia in materiale deperibile	
+%0750400002%EDI0001%	0750400002	Edilizia in materiale deperibile	
+%0170290004%EDI0002%	0170290004	Edilizia in materiale deperibile	
+%0171030003%EDI0001%	0171030003	Edilizia in materiale deperibile	
+%0171790010%EDI0004%	0171790010	Edilizia in materiale deperibile	via Antiche Mura 11
+%0370080001%EDI0001%	0370080001	Edilizia in materiale deperibile	
+%0300040008%EDI0001%	0300040008	Edilizia in materiale deperibile	
+%0580380004%EDI0001%	0580380004	Edilizia in materiale deperibile	
+%0470130001%EDI0001%	0470130001	Edilizia in materiale deperibile	US 318
+%0470130001%EDI0002%	0470130001	Edilizia in materiale deperibile	
+%0470130001%EDI0003%	0470130001	Edilizia in materiale deperibile	
+%0470120001%EDI0003%	0470120001	Edilizia in materiale deperibile	
+%0530100001%EDI0001%	0530100001	Edilizia in materiale deperibile	Area 1, settore 1, periodo IV/1
+%0530100001%EDI0002%	0530100001	Edilizia in materiale deperibile	Area 1, settore 4, periodo IV/1
+%0530050001%EDI0001%	0530050001	Edilizia in materiale deperibile	
+%0750810002%EDI0001%	0750810002	Edilizia in materiale deperibile	Fossa 1
+%0750810002%EDI0002%	0750810002	Edilizia in materiale deperibile	Fossa 2
+%0570270002%EDI0001%	0570270002	Edilizia in materiale deperibile	Fase 5.2
+%0670080004%EDI0001%	0670080004	Edilizia in materiale deperibile	
+%0370320004%EDI0001%	0370320004	Edilizia in materiale deperibile	Ambiente D
+%0370320004%EDI0002%	0370320004	Edilizia in materiale deperibile	
+%0370320005%EDI0001%	0370320005	Edilizia in materiale deperibile	
+%0680260001%EDI0001%	0680260001	Edilizia in materiale deperibile	
+%0520010006%EDI0001%	0520010006	Edilizia in materiale deperibile	Area 5, ambiente IV (periodo III)
+%0520010006%EDI0002%	0520010006	Edilizia in materiale deperibile	Area 7, ambiente VI (periodo IV)
+%0490060005%EDI0001%	0490060005	Edilizia in materiale deperibile	Area 3000
+%0490060005%EDI0002%	0490060005	Edilizia in materiale deperibile	Area 1000
+%0470080002%EDI0001%	0470080002	Edilizia in materiale deperibile	
+%0560070001%EDI0001%	0560070001	Edilizia in materiale deperibile	Ambiente 3
+%0800360004%EDI0001%	0800360004	Edilizia in materiale deperibile	
+%0031120001%EDI0001%	0031120001	Edilizia in materiale deperibile	Periodo II
+%0061390001%EDI0001%	0061390001	Infrastruttura	
+%0090490001%EDI0001%	0090490001	Edilizia in materiale deperibile	
+%0340270002%EDI0001%	0340270002	Infrastruttura	
+%0340270002%EDI0002%	0340270002	Edilizia in materiale deperibile	
+%0340270002%EDI0003%	0340270002	Edilizia in materiale deperibile	
+%0340270002%EDI0004%	0340270002	Edilizia in materiale deperibile	
+%0350330007%EDI0001%	0350330007	Edilizia in materiale deperibile	
+%0690460005%EDI0001%	0690460005	Edilizia in materiale deperibile	
+%0230590001%EDI0001%	0230590001	Edilizia in materiale deperibile	
+%0170330001%EDI0001%	0170330001	Edilizia in materiale deperibile	
+%0120530002%EDI0001%	0120530002	Edilizia in materiale deperibile	
+%0171190003%EDI0001%	0171190003	Edilizia in materiale deperibile	Periodo II.2
+%0171790003%EDI0004%	0171790003	Edilizia in materiale deperibile	
+%0560590001%EDI0001%	0560590001	Edilizia in materiale deperibile	Ambiente D, fase I
+%0560590001%EDI0002%	0560590001	Edilizia in materiale deperibile	Ambiente G, fase III
+%0560590001%EDI0003%	0560590001	Edilizia in materiale deperibile	Ambiente K
+%0230530001%EDI0001%	0230530001	Infrastruttura	Area TNV
+%0480280019%EDI0001%	0480280019	Edilizia in materiale deperibile	
+%0500320015%EDI0001%	0500320015	Edilizia in materiale deperibile	Area 1000
+%0500320015%EDI0002%	0500320015	Edilizia in materiale deperibile	Area 4000
+%0090420002%EDI0002%	0090420002	Edilizia in materiale deperibile	
+%0530110338%EDI0001%	0530110338	Edilizia in materiale deperibile	Saggio A
+%0530210002%EDI0001%	0530210002	Edilizia in materiale deperibile	Area 200, ambiente II, US 1162-1163
+%0530210002%EDI0002%	0530210002	Edilizia in materiale deperibile	Area 3000. ambiente III, US 3105
+%0530210002%EDI0003%	0530210002	Edilizia in materiale deperibile	Area 2000
+%0530210002%EDI0004%	0530210002	Edilizia in materiale deperibile	Area 5000, ambiente II
+%0530210002%EDI0005%	0530210002	Edilizia in materiale deperibile	Area 4000
+%0940120001%EDI0003%	0940120001	Edilizia in materiale deperibile	Atrio del San Vincenzo Maggiore
+%0940120001%EDI0004%	0940120001	Edilizia in materiale deperibile	Antecucina
+%0221230003%EDI0001%	0221230003	Edilizia in materiale deperibile	
+%0930420001%EDI0001%	0930420001	Edilizia in materiale deperibile	
+%0170620001%EDI0001%	0170620001	Edilizia in materiale deperibile	
+%0010820002%EDI0001%	0010820002	Edilizia in materiale deperibile	
+%0020310001%EDI0001%	0020310001	Edilizia in materiale deperibile	
+%0012590001%EDI0001%	0012590001	Edilizia in materiale deperibile	
+%0200460001%EDI0001%	0200460001	Edilizia in materiale deperibile	Periodo I
+%0200460001%EDI0002%	0200460001	Edilizia in materiale deperibile	Periodo II
+%0770140002%EDI0001%	0770140002	Infrastruttura	
+%0720130004%EDI0001%	0720130004	Edilizia in materiale deperibile	Saggio III, periodo I/A-B
+%0090290012%EDI0001%	0090290012	Edilizia in materiale deperibile	Area 3000, periodo Ib
+%0090290013%EDI0001%	0090290013	Edilizia in materiale deperibile	
+%0530270006%EDI0001%	0530270006	Edilizia in materiale deperibile	Area 2000
+%0680400001%EDI0001%	0680400001	Edilizia in materiale deperibile	Settore 1
+%0171560001%EDI0001%	0171560001	Edilizia in materiale deperibile	
+%0200100002%EDI0001%	0200100002	Edilizia in materiale deperibile	Saggi A-B
+%0350330006%EDI0003%	0350330006	Edilizia in materiale deperibile	
+%0530180488%EDI0004%	0530180488	Edilizia in materiale deperibile	Forum, settore III
+%0530180488%EDI0005%	0530180488	Edilizia in materiale deperibile	Forum, settore III
+%0530180488%EDI0006%	0530180488	Edilizia in materiale deperibile	
+%0580910016%EDI0004%	0580910016	Edilizia in materiale deperibile	Mitreo Crypta Balbi
+%0151460003%EDI0002%	0151460003	Edilizia in muratura	Periodo III/IV
+%0151490001%EDI0003%	0151490001	Edilizia in muratura	Saggio A
+%0151490002%EDI0002%	0151490002	Edilizia in muratura	Periodo I
+%0020160003%EDI0002%	0020160003	Infrastruttura	
+%0460050001%EDI0001%	0460050001	Edilizia in materiale deperibile	
+%0190920001%EDI0001%	0190920001	Edilizia in materiale deperibile	
+%0560500004%EDI0001%	0560500004	Edilizia in materiale deperibile	
+%0520350001%EDI0001%	0520350001	Edilizia in materiale deperibile	
+%0520350001%EDI0002%	0520350001	Edilizia in materiale deperibile	
+%0520350001%EDI0003%	0520350001	Edilizia in materiale deperibile	
+%0520350001%EDI0004%	0520350001	Edilizia in materiale deperibile	
+%0010900002%EDI0001%	0010900002	Edilizia in materiale deperibile	
+%0010900002%EDI0002%	0010900002	Infrastruttura	
+%0010900002%EDI0003%	0010900002	Edilizia in materiale deperibile	
+%2360000002%EDI0001%	2360000002	Edilizia in materiale deperibile	
+%0020680001%EDI0001%	0020680001	Edilizia in materiale deperibile	
+%0530240002%EDI0004%	0530240002	Edilizia in materiale deperibile	Periodo V/A-D. Edificio A (area I, settori 2, 4, 6)
+%0530240002%EDI0005%	0530240002	Edilizia in materiale deperibile	Periodo V/A-D. Edificio B (area II, settore 2)
+%0530240002%EDI0006%	0530240002	Edilizia in materiale deperibile	Periodo V/A-B, Edificio C (area III, settore 3)
+%0530240002%EDI0007%	0530240002	Edilizia in materiale deperibile	Periodo V/A-D, Edificio D (area III, settore 3)
+%0530240002%EDI0008%	0530240002	Edilizia in materiale deperibile	Periodo V/A-D, Edificio E (area III, settore 5)
+%0530240002%EDI0009%	0530240002	Edilizia in materiale deperibile	Periodo V/A-D. Edificio F (area III, settore 4)
+%0530240002%EDI0010%	0530240002	Edilizia in materiale deperibile	Periodo V/C-D, Attività 16 (area II, settore 2)
+%0530240002%EDI0011%	0530240002	Edilizia in materiale deperibile	Periodo VI/A-E, Edificio B (area III, settore 3)
+%0530240002%EDI0012%	0530240002	Edilizia in materiale deperibile	Periodo VI/A-E, Attività 30 (area III, settore 3)
+%0530240002%EDI0013%	0530240002	Edilizia in materiale deperibile	Periodo VI/A-E, Attività 32 (area III, settore 5)
+%0530240002%EDI0014%	0530240002	Edilizia in materiale deperibile	Periodo VI/A-E, Edificio D (area III, settore 4)
+%0530240002%EDI0015%	0530240002	Edilizia in materiale deperibile	Periodo VI/A-E, Edificio E (area III, settore 4)
+%0530240002%EDI0016%	0530240002	Edilizia in materiale deperibile	Periodo VI/A-E, Edificio F (area III, settore 4)
+%0530240002%EDI0017%	0530240002	Edilizia in materiale deperibile	Periodo VI/A-E, Attività 36 (area III, settore 4)
+%0530240002%EDI0018%	0530240002	Edilizia in materiale deperibile	Periodo VII/A-C, Edificio B (area III, settore 3)
+%0530240002%EDI0019%	0530240002	Edilizia in materiale deperibile	Periodo VII/A-C, Edificio C (area III, settore 5)
+%0530240002%EDI0020%	0530240002	Edilizia in materiale deperibile	Periodo VII/A-C, Edificio D (area III, settore 4)
+%0530240002%EDI0021%	0530240002	Edilizia in materiale deperibile	Periodo VII/B, Edificio E (area III, settore 4)
+%0170290053%EDI0002%	0170290053	Edilizia in materiale deperibile	
+%0520100014%EDI0001%	0520100014	Edilizia in materiale deperibile	Area 4, edificio 1
+%0520100014%EDI0002%	0520100014	Edilizia in materiale deperibile	Area 4, edificio 2
+%0520100014%EDI0003%	0520100014	Edilizia in materiale deperibile	C01
+%0520100014%EDI0004%	0520100014	Edilizia in materiale deperibile	C02
+%0520100014%EDI0005%	0520100014	Edilizia in materiale deperibile	C03
+%0520100014%EDI0006%	0520100014	Edilizia in materiale deperibile	P01
+%0520100014%EDI0007%	0520100014	Edilizia in materiale deperibile	C05a
+%0520100014%EDI0008%	0520100014	Edilizia in materiale deperibile	C06/C10
+%0520100014%EDI0009%	0520100014	Edilizia in materiale deperibile	C07
+%0520100014%EDI0010%	0520100014	Edilizia in materiale deperibile	C08
+%0520100014%EDI0011%	0520100014	Edilizia in materiale deperibile	C11
+%0520100014%EDI0012%	0520100014	Edilizia in materiale deperibile	Area 5, capanna circolare
+%0520100014%EDI0013%	0520100014	Edilizia in materiale deperibile	Area 5, capanna rettangolare
+%0520100014%EDI0014%	0520100014	Edilizia in materiale deperibile	Area 1, Situazione di buche di palo
+%0580910028%EDI0001%	0580910028	Edilizia in muratura	Casa di Amore e Psiche
+%0580910028%EDI0002%	0580910028	Edilizia in muratura	Casa presso il Serapeo
+%0580910028%EDI0003%	0580910028	Edilizia in muratura	Casa sul decumano
+%0580910028%EDI0004%	0580910028	Edilizia in muratura	Casa dei Dioscuri
+%0580910028%EDI0005%	0580910028	Edilizia in muratura	Domus del Tempio Rotondo
+%0580910028%EDI0006%	0580910028	Edilizia in muratura	Domus delle Colonne
+%0580910028%EDI0007%	0580910028	Edilizia in muratura	Domus di via della Caupona
+%0580910028%EDI0008%	0580910028	Edilizia in muratura	Domus del Protiro
+%0580910028%EDI0009%	0580910028	Edilizia in muratura	Domus della Fortuna Annonaria
+%0260510007%EDI0001%	0260510007	Edilizia in materiale deperibile	
+%0010900002%EDI0004%	0010900002	Edilizia in materiale deperibile	
+%0010900002%EDI0005%	0010900002	Edilizia in materiale deperibile	
+%0010900002%EDI0006%	0010900002	Edilizia in materiale deperibile	
+%0530110271%EDI0002%	0530110271	Edilizia in materiale deperibile	
+%0530110353%EDI0001%	0530110353	Edilizia in materiale deperibile	
+%0530110353%EDI0002%	0530110353	Edilizia in materiale deperibile	
+%0530110353%EDI0003%	0530110353	Infrastruttura	
+%0530110347%EDI0001%	0530110347	Edilizia in materiale deperibile	
+%0500260036%EDI0001%	0500260036	Edilizia in materiale deperibile	
+%0460170046%EDI0003%	0460170046	Edilizia in materiale deperibile	
+%0110270011%EDI0001%	0110270011	Edilizia in materiale deperibile	
+%0110270005%EDI0001%	0110270005	Edilizia in materiale deperibile	
+%0520110010%EDI0002%	0520110010	Edilizia in materiale deperibile	
+%0520110024%EDI0001%	0520110024	Edilizia in materiale deperibile	
+%0221160003%EDI0001%	0221160003	Edilizia in materiale deperibile	
+%0221160003%EDI0002%	0221160003	Edilizia in materiale deperibile	
+%0210290001%EDI0001%	0210290001	Edilizia in materiale deperibile	
+%0220470003%EDI0001%	0220470003	Edilizia in materiale deperibile	
+%0220470003%EDI0002%	0220470003	Edilizia in materiale deperibile	
+%0220470003%EDI0003%	0220470003	Edilizia in materiale deperibile	
+%0220470003%EDI0004%	0220470003	Edilizia in materiale deperibile	
+%0221230003%EDI0002%	0221230003	Edilizia in materiale deperibile	Settore A
+%0221690002%EDI0001%	0221690002	Edilizia in materiale deperibile	
+%0580910016%EDI0005%	0580910016	Edilizia in materiale deperibile	
+%0710280001%EDI0001%	0710280001	Edilizia in materiale deperibile	
+%0720230001%EDI0001%	0720230001	Edilizia in materiale deperibile	Edificio A
+%0720230001%EDI0002%	0720230001	Edilizia in materiale deperibile	Riuso Edificio B
+%0720130003%EDI0001%	0720130003	Edilizia in materiale deperibile	
+%0720130005%EDI0001%	0720130005	Edilizia in materiale deperibile	
+%0710050001%EDI0001%	0710050001	Edilizia in materiale deperibile	
+%0720130004%EDI0002%	0720130004	Edilizia in materiale deperibile	
+%0720130004%EDI0003%	0720130004	Edilizia in materiale deperibile	
+%0350200001%EDI0001%	0350200001	Edilizia in materiale deperibile	
+%0140720003%EDI0001%	0140720003	Edilizia in materiale deperibile	sondaggio nord
+%0140720003%EDI0002%	0140720003	Edilizia in materiale deperibile	saggio sud-est
+%0140400001%EDI0001%	0140400001	Edilizia in materiale deperibile	
+%0120150001%EDI0001%	0120150001	Edilizia in materiale deperibile	
+%0120440003%EDI0001%	0120440003	Edilizia in materiale deperibile	
+%0430160003%EDI0001%	0430160003	Edilizia in materiale deperibile	
+%0430160001%EDI0001%	0430160001	Edilizia in materiale deperibile	
+%0170330001%EDI0002%	0170330001	Edilizia in materiale deperibile	mappale 183
+%0120030004%EDI0001%	0120030004	Edilizia in materiale deperibile	
+%0151460021%EDI0002%	0151460021	Edilizia in materiale deperibile	Periodo IV
+%0151460005%EDI0002%	0151460005	Edilizia in materiale deperibile	Fase 2
+%0151460005%EDI0003%	0151460005	Edilizia in materiale deperibile	Fase 3
+%0151460005%EDI0004%	0151460005	Edilizia in materiale deperibile	Fase 3
+%0151460020%EDI0005%	0151460020	Edilizia in materiale deperibile	Lotto III - Periodo VII
+%0200610001%EDI0001%	0200610001	Edilizia in materiale deperibile	Edificio I
+%0200610001%EDI0002%	0200610001	Edilizia in materiale deperibile	Edificio II
+%0190530001%EDI0001%	0190530001	Edilizia in materiale deperibile	
+%0160240001%EDI0004%	0160240001	Edilizia in materiale deperibile	settore nord, US 1145
+%0170290001%EDI0018%	0170290001	Edilizia in materiale deperibile	Periodo VI
+%0170290001%EDI0019%	0170290001	Edilizia in materiale deperibile	Periodo III, fase 1
+%0170290001%EDI0020%	0170290001	Edilizia in materiale deperibile	Periodo V-VI
+%0170290001%EDI0021%	0170290001	Edilizia in materiale deperibile	Periodo V-VI
+%0170290001%EDI0022%	0170290001	Edilizia in materiale deperibile	Periodo V-VI
+%0170290001%EDI0023%	0170290001	Edilizia in materiale deperibile	Periodo V-VI
+%0530270037%EDI0001%	0530270037	Edilizia in materiale deperibile	periodo I
+%0530270037%EDI0002%	0530270037	Edilizia in materiale deperibile	periodo II, fase 2
+%0530270037%EDI0003%	0530270037	Edilizia in materiale deperibile	periodo II, fase 5
+%0680280001%EDI0008%	0680280001	Edilizia in materiale deperibile	Struttura 35(2)
+%0160570002%EDI0002%	0160570002	Edilizia in materiale deperibile	Edificio II
+%0200300002%EDI0004%	0200300002	Infrastruttura	Settore A
+%0162130002%EDI0001%	0162130002	Edilizia in materiale deperibile	Fase 2
+%0162130002%EDI0002%	0162130002	Edilizia in materiale deperibile	Fase 3
+%0800620002%EDI0001%	0800620002	Edilizia in materiale deperibile	
+%0791430003%EDI0001%	0791430003	Edilizia in materiale deperibile	
+%0791430003%EDI0002%	0791430003	Edilizia in materiale deperibile	
+%1010220001%EDI0001%	1010220001	Edilizia in materiale deperibile	
+%0791430003%EDI0003%	0791430003	Edilizia in materiale deperibile	
+%0791430003%EDI0004%	0791430003	Edilizia in materiale deperibile	
+%0791430003%EDI0005%	0791430003	Edilizia in materiale deperibile	
+%0791430003%EDI0006%	0791430003	Edilizia in materiale deperibile	
+%0791430003%EDI0007%	0791430003	Edilizia in materiale deperibile	
+%0220980004%EDI0001%	0220980004	Edilizia in materiale deperibile	
+%0220980004%EDI0002%	0220980004	Edilizia in materiale deperibile	
+%0221230003%EDI0003%	0221230003	Edilizia in materiale deperibile	Settore A
+%0221230003%EDI0004%	0221230003	Edilizia in materiale deperibile	Settore A
+%0390140004%EDI0006%	0390140004	Edilizia in materiale deperibile	
+%0530270006%EDI0002%	0530270006	Edilizia in materiale deperibile	Area 3000
+%0530210002%EDI0006%	0530210002	Edilizia in materiale deperibile	Area 4000
+%0530210002%EDI0007%	0530210002	Edilizia in materiale deperibile	Area 6500
+%0410440003%EDI0001%	0410440003	Edilizia in materiale deperibile	
+%0750810002%EDI0003%	0750810002	Edilizia in materiale deperibile	
+%0750810002%EDI0004%	0750810002	Edilizia in materiale deperibile	
+%0750810002%EDI0005%	0750810002	Edilizia in materiale deperibile	
+%0750810002%EDI0006%	0750810002	Infrastruttura	
+%0750810002%EDI0007%	0750810002	Edilizia in materiale deperibile	
+%0041300001%EDI0001%	0041300001	Edilizia in materiale deperibile	
+%0041300001%EDI0002%	0041300001	Edilizia in materiale deperibile	
+%0170290118%EDI0002%	0170290118	Edilizia in materiale deperibile	
+%0690580004%EDI0001%	0690580004	Edilizia in materiale deperibile	Saggio A
+%0690580005%EDI0001%	0690580005	Edilizia in materiale deperibile	Saggio A
+%0690580006%EDI0001%	0690580006	Edilizia in materiale deperibile	
+%0230120001%EDI0001%	0230120001	Edilizia in materiale deperibile	Settore Q
+%0230120001%EDI0002%	0230120001	Edilizia in materiale deperibile	Settore S
+%0230120001%EDI0003%	0230120001	Edilizia in materiale deperibile	Settore Z
+%0230120001%EDI0004%	0230120001	Edilizia in materiale deperibile	Settore Z
+%0230120001%EDI0005%	0230120001	Edilizia in materiale deperibile	Settore T
+%0230120001%EDI0006%	0230120001	Infrastruttura	Settore T
+%0230120001%EDI0007%	0230120001	Edilizia in materiale deperibile	Settore T
+%0230120001%EDI0008%	0230120001	Edilizia in materiale deperibile	Settore M
+%0230120001%EDI0009%	0230120001	Edilizia in materiale deperibile	Settore F
+%0230120001%EDI0010%	0230120001	Edilizia in materiale deperibile	Settore F
+%0230120001%EDI0011%	0230120001	Edilizia in materiale deperibile	Settore F
+%0230120001%EDI0012%	0230120001	Edilizia in materiale deperibile	Settore C
+%0230120001%EDI0013%	0230120001	Edilizia in materiale deperibile	Settore C
+%0230120001%EDI0014%	0230120001	Edilizia in materiale deperibile	Settore F
+%0230120001%EDI0015%	0230120001	Edilizia in materiale deperibile	Settore F
+%0230120001%EDI0016%	0230120001	Edilizia in materiale deperibile	Settore V
+%0230120001%EDI0017%	0230120001	Edilizia in materiale deperibile	Settori V e L
+%0230120001%EDI0018%	0230120001	Edilizia in materiale deperibile	via Pascoli
+%0230120001%EDI0019%	0230120001	Edilizia in materiale deperibile	via Pascoli
+%0230120001%EDI0020%	0230120001	Edilizia in materiale deperibile	via Pascoli
+%0970360001%EDI0001%	0970360001	Edilizia in muratura	Edificio I o Grande Edificio
+%0021580018%EDI0001%	0021580018	Edilizia in materiale deperibile	
+%0680270004%EDI0003%	0680270004	Edilizia in materiale deperibile	
+%0530240002%EDI0022%	0530240002	Edilizia in materiale deperibile	
+%0490200002%EDI0001%	0490200002	Edilizia in materiale deperibile	
+%0280370002%EDI0001%	0280370002	Edilizia in materiale deperibile	
+%0020610001%EDI0001%	0020610001	Edilizia in materiale deperibile	
+%0770030005%EDI0001%	0770030005	Edilizia in materiale deperibile	
+%0770030005%EDI0002%	0770030005	Edilizia in materiale deperibile	
+%0781230002%EDI0001%	0781230002	Edilizia in materiale deperibile	
+%0940120001%EDI0005%	0940120001	Edilizia in materiale deperibile	
+%0970360001%EDI0006%	0970360001	Edilizia in muratura	Edificio II
+%0970360001%EDI0007%	0970360001	Edilizia in muratura	Edificio III
+%0970360001%EDI0008%	0970360001	Edilizia in muratura	Edificio IV
+%0970360001%EDI0009%	0970360001	Edilizia in muratura	Edificio V
+%0970360001%EDI0010%	0970360001	Edilizia in muratura	Edificio VI
+%0970360001%EDI0011%	0970360001	Edilizia in muratura	Edificio X
+%0970360001%EDI0012%	0970360001	Edilizia in muratura	Edificio XI
+%0970360001%EDI0013%	0970360001	Edilizia in muratura	Edificio XII
+%0970360001%EDI0014%	0970360001	Edilizia in muratura	Edificio VIII
+%0970360001%EDI0015%	0970360001	Edilizia in muratura	Edificio IX
+%0970360001%EDI0016%	0970360001	Edilizia in muratura	Edificio VII
+%0970360001%EDI0017%	0970360001	Edilizia in muratura	Edifici XIV, XV
+%0180830002%EDI0004%	0180830002	Edilizia in muratura	
+%0530110337%EDI0001%	0530110337	Edilizia in materiale deperibile	
+%0530110339%EDI0001%	0530110339	Edilizia in materiale deperibile	
+%0530110359%EDI0001%	0530110359	Edilizia in materiale deperibile	
+%0530110340%EDI0001%	0530110340	Edilizia in materiale deperibile	
+%0530110341%EDI0001%	0530110341	Edilizia in materiale deperibile	
+%0530110338%EDI0002%	0530110338	Edilizia in materiale deperibile	Saggio A
+%0530110338%EDI0003%	0530110338	Edilizia in materiale deperibile	Saggio B
+%0530110338%EDI0004%	0530110338	Edilizia in materiale deperibile	Saggio B
+%0530110338%EDI0005%	0530110338	Edilizia in materiale deperibile	Saggio B
+%0530110340%EDI0002%	0530110340	Edilizia in materiale deperibile	
+%0530110340%EDI0003%	0530110340	Edilizia in materiale deperibile	
+%0110270032%EDI0001%	0110270032	Edilizia in materiale deperibile	
+%0110270033%EDI0001%	0110270033	Edilizia in materiale deperibile	US 1302
+%0610270001%EDI0001%	0610270001	Edilizia in materiale deperibile	
+%0260690001%EDI0001%	0260690001	Edilizia in materiale deperibile	Saggio 8
+%0410330001%EDI0001%	0410330001	Edilizia in materiale deperibile	Saggio C, Area 1
+%0410330001%EDI0002%	0410330001	Edilizia in materiale deperibile	Saggio B
+%0280550002%EDI0001%	0280550002	Infrastruttura	
+%0520100014%EDI0015%	0520100014	Edilizia in materiale deperibile	
+%0300260088%EDI0001%	0300260088	Edilizia in materiale deperibile	
+%0060710001%EDI0001%	0060710001	Edilizia in materiale deperibile	
+%0230530002%EDI0001%	0230530002	Edilizia in materiale deperibile	
+%0240870001%EDI0001%	0240870001	Edilizia in materiale deperibile	
+%0170720002%EDI0001%	0170720002	Edilizia in materiale deperibile	Struttura 1
+%0150880001%EDI0001%	0150880001	Edilizia in materiale deperibile	
+%0530270001%EDI0001%	0530270001	Edilizia in materiale deperibile	
+%0490020002%EDI0001%	0490020002	Edilizia in materiale deperibile	
+%0090060001%EDI0001%	0090060001	Edilizia in materiale deperibile	Area 300
+%0090060001%EDI0002%	0090060001	Edilizia in materiale deperibile	Area 300
+%0230360001%EDI0003%	0230360001	Edilizia in materiale deperibile	Area 5000
+%0040290002%EDI0001%	0040290002	Edilizia in materiale deperibile	
+%0171630001%EDI0003%	0171630001	Edilizia in materiale deperibile	
+%0490060005%EDI0003%	0490060005	Edilizia in materiale deperibile	
+%0520030011%EDI0001%	0520030011	Edilizia in materiale deperibile	C03
+%0520220013%EDI0001%	0520220013	Edilizia in materiale deperibile	
+%0230360001%EDI0004%	0230360001	Edilizia in materiale deperibile	Area 5000, fase I
+%0230360001%EDI0005%	0230360001	Edilizia in materiale deperibile	Area 6000, fase 3
+%0930430002%EDI0001%	0930430002	Edilizia in materiale deperibile	Saggio 2
+%0930430002%EDI0002%	0930430002	Edilizia in materiale deperibile	Saggio 3
+%0530270001%EDI0002%	0530270001	Edilizia in materiale deperibile	
+%0530270001%EDI0003%	0530270001	Edilizia in materiale deperibile	
+%0530270001%EDI0004%	0530270001	Edilizia in materiale deperibile	
+%0710580001%EDI0001%	0710580001	Edilizia in materiale deperibile	
+%0710580001%EDI0002%	0710580001	Edilizia in materiale deperibile	
+%0710580001%EDI0003%	0710580001	Edilizia in materiale deperibile	
+%0710580001%EDI0004%	0710580001	Edilizia in materiale deperibile	
+%0710580001%EDI0005%	0710580001	Edilizia in materiale deperibile	
+%0710580001%EDI0006%	0710580001	Edilizia in materiale deperibile	
+%0830480002%EDI0001%	0830480002	Infrastruttura	
+%0301370002%EDI0003%	0301370002	Edilizia in materiale deperibile	
+%0040400002%EDI0004%	0040400002	Edilizia in muratura	
+%0010780002%EDI0002%	0010780002	Edilizia in muratura	
+%0012280001%EDI0002%	0012280001	Edilizia in muratura	Edificio 1
+%0012280001%EDI0003%	0012280001	Edilizia in muratura	Edificio 2
+%0012720003%EDI0004%	0012720003	Edilizia in muratura	
+%0012720006%EDI0004%	0012720006	Edilizia in muratura	Cortile A, fase II
+%0031060001%EDI0002%	0031060001	Edilizia in muratura	
+%0040030008%EDI0002%	0040030008	Edilizia in muratura	
+%0040400002%EDI0005%	0040400002	Edilizia in muratura	
+%0040610001%EDI0003%	0040610001	Edilizia in muratura	
+%0060010001%EDI0003%	0060010001	Edilizia in muratura	
+%0060010001%EDI0004%	0060010001	Edilizia in muratura	
+%0060970002%EDI0005%	0060970002	Edilizia in muratura	Area A
+%0090520002%EDI0002%	0090520002	Edilizia in muratura	
+%0100250003%EDI0002%	0100250003	Edilizia in muratura	
+%0150110001%EDI0001%	0150110001	Edilizia in muratura	
+%0152210002%EDI0001%	0152210002	Edilizia in muratura	Settore B
+%0170180001%EDI0002%	0170180001	Edilizia in muratura	
+%0170290004%EDI0003%	0170290004	Edilizia in muratura	n. 49
+%0170290004%EDI0004%	0170290004	Edilizia in muratura	Angolo via Paganora, area ex Hotel Gallo
+%0170290106%EDI0002%	0170290106	Edilizia in muratura	Collegio Arici
+%0170290006%EDI0003%	0170290006	Edilizia in muratura	
+%0170290073%EDI0001%	0170290073	Edilizia in muratura	
+%0170290011%EDI0003%	0170290011	Edilizia in muratura	
+%0170290016%EDI0003%	0170290016	Edilizia in muratura	
+%0171290001%EDI0002%	0171290001	Edilizia in muratura	
+%0171630001%EDI0004%	0171630001	Edilizia in muratura	
+%0200360001%EDI0011%	0200360001	Edilizia in muratura	
+%0200360001%EDI0012%	0200360001	Edilizia in muratura	Periodo III
+%0280550002%EDI0003%	0280550002	Edilizia in muratura	Edificio I
+%0300800002%EDI0003%	0300800002	Edilizia in muratura	
+%0301320001%EDI0001%	0301320001	Edilizia in muratura	
+%0390140004%EDI0007%	0390140004	Edilizia in muratura	
+%0390140004%EDI0008%	0390140004	Edilizia in muratura	
+%0390140004%EDI0009%	0390140004	Edilizia in muratura	Edificio 2
+%0390140004%EDI0010%	0390140004	Edilizia in muratura	Edifici 3-4
+%0390140004%EDI0011%	0390140004	Edilizia in muratura	Edificio 9
+%0390140004%EDI0012%	0390140004	Edilizia in muratura	Edificio 6
+%0390140004%EDI0014%	0390140004	Edilizia in muratura	Edificio 11
+%0390140010%EDI0001%	0390140010	Edilizia in muratura	
+%0450060005%EDI0002%	0450060005	Edilizia in muratura	Edificio con tramezzi
+%0450060005%EDI0003%	0450060005	Edilizia in muratura	
+%0450060005%EDI0004%	0450060005	Edilizia in muratura	
+%0460180001%EDI0001%	0460180001	Edilizia in muratura	
+%0460180001%EDI0002%	0460180001	Edilizia in muratura	Bagno o Buche di Nerone
+%0490070001%EDI0001%	0490070001	Edilizia in muratura	
+%0500260036%EDI0002%	0500260036	Edilizia in muratura	
+%0500260036%EDI0003%	0500260036	Edilizia in muratura	
+%0500270032%EDI0004%	0500270032	Edilizia in muratura	
+%0490170016%EDI0001%	0490170016	Edilizia in muratura	
+%0490170016%EDI0002%	0490170016	Edilizia in muratura	Grandi Terme
+%0490170016%EDI0003%	0490170016	Edilizia in muratura	Schola
+%0490170016%EDI0004%	0490170016	Edilizia in muratura	Horrea
+%0530100001%EDI0003%	0530100001	Edilizia in muratura	
+%0560070001%EDI0002%	0560070001	Edilizia in muratura	A1
+%0560310003%EDI0002%	0560310003	Edilizia in muratura	
+%0580410001%EDI0001%	0580410001	Edilizia in muratura	Saggio A
+%0580410001%EDI0002%	0580410001	Edilizia in muratura	
+%0580410001%EDI0003%	0580410001	Edilizia in muratura	Vano I
+%0040030014%EDI0001%	0040030014	Edilizia in muratura	
+%0360230030%EDI0001%	0360230030	Edilizia in muratura	
+%0650670001%EDI0001%	0650670001	Edilizia in muratura	
+%0012720026%EDI0001%	0012720026	Edilizia in muratura	
+%0161130002%EDI0001%	0161130002	Edilizia in muratura	
+%0170290132%EDI0001%	0170290132	Edilizia in muratura	
+%0170290133%EDI0001%	0170290133	Edilizia in muratura	
+%0170290133%EDI0002%	0170290133	Edilizia in muratura	
+%0190360009%EDI0001%	0190360009	Edilizia in muratura	
+%0151460047%EDI0001%	0151460047	Edilizia in muratura	
+%0970830002%EDI0001%	0970830002	Edilizia in muratura	
+%0151460048%EDI0001%	0151460048	Edilizia in muratura	
+%0140180001%EDI0001%	0140180001	Edilizia in muratura	
+%0140180001%EDI0002%	0140180001	Edilizia in muratura	
+%0300070001%EDI0002%	0300070001	Edilizia in muratura	
+%0300070001%EDI0003%	0300070001	Edilizia in muratura	
+%0300090011%EDI0001%	0300090011	Edilizia in muratura	
+%0300090011%EDI0002%	0300090011	Edilizia in muratura	
+%0090340002%EDI0001%	0090340002	Edilizia in muratura	
+%0670410011%EDI0001%	0670410011	Edilizia in muratura	
+%0670410012%EDI0001%	0670410012	Edilizia in muratura	
+%0670310001%EDI0001%	0670310001	Edilizia in muratura	
+%0580580002%EDI0002%	0580580002	Edilizia in muratura	
+%0580910022%EDI0001%	0580910022	Edilizia in muratura	Periodo III
+%0580910022%EDI0002%	0580910022	Edilizia in muratura	Periodo IV
+%0580910022%EDI0003%	0580910022	Edilizia in muratura	Periodo IV, “Piccola domus”
+%0580910088%EDI0002%	0580910088	Edilizia in muratura	Periodo 2, Fase II
+%0590190001%EDI0001%	0590190001	Edilizia in muratura	
+%0670470002%EDI0006%	0670470002	Edilizia in muratura	
+%0680020002%EDI0001%	0680020002	Edilizia in muratura	
+%0680110002%EDI0001%	0680110002	Edilizia in muratura	
+%0680280001%EDI0009%	0680280001	Edilizia in muratura	
+%0680280001%EDI0010%	0680280001	Edilizia in muratura	
+%0680300001%EDI0002%	0680300001	Edilizia in muratura	
+%0680300004%EDI0001%	0680300004	Edilizia in muratura	
+%0680350005%EDI0001%	0680350005	Edilizia in muratura	
+%0680350006%EDI0001%	0680350006	Edilizia in muratura	
+%0680350008%EDI0001%	0680350008	Edilizia in muratura	
+%0680410003%EDI0001%	0680410003	Edilizia in muratura	
+%0680410004%EDI0001%	0680410004	Edilizia in muratura	
+%0680410005%EDI0001%	0680410005	Edilizia in muratura	
+%0710280001%EDI0002%	0710280001	Edilizia in muratura	
+%0710630001%EDI0001%	0710630001	Edilizia in muratura	
+%0710630001%EDI0002%	0710630001	Edilizia in muratura	
+%0730270001%EDI0001%	0730270001	Edilizia in muratura	
+%0760710001%EDI0001%	0760710001	Edilizia in muratura	Periodo 2 B, 2 C
+%0760710001%EDI0002%	0760710001	Edilizia in muratura	Periodo 3 A, 3 B
+%0791470001%EDI0001%	0791470001	Edilizia in muratura	
+%0810090001%EDI0001%	0810090001	Edilizia in muratura	
+%0840070001%EDI0001%	0840070001	Edilizia in muratura	
+%0840070001%EDI0002%	0840070001	Edilizia in muratura	
+%0900690002%EDI0001%	0900690002	Edilizia in muratura	
+%0900690002%EDI0002%	0900690002	Edilizia in muratura	
+%0940120001%EDI0006%	0940120001	Edilizia in muratura	
+%0940120001%EDI0007%	0940120001	Edilizia in muratura	
+%0940120001%EDI0008%	0940120001	Edilizia in muratura	
+%0970380003%EDI0001%	0970380003	Edilizia in muratura	
+%0970380003%EDI0002%	0970380003	Edilizia in muratura	
+%0970420003%EDI0001%	0970420003	Edilizia in muratura	Edificio A3
+%0970420003%EDI0002%	0970420003	Edilizia in muratura	Edificio A4
+%0970420003%EDI0003%	0970420003	Edilizia in muratura	Edificio A5
+%0970420003%EDI0004%	0970420003	Edilizia in muratura	Edificio A6
+%0970420003%EDI0005%	0970420003	Edilizia in muratura	Edificio A7
+%0970420003%EDI0007%	0970420003	Edilizia in muratura	Edificio A9
+%0970420003%EDI0008%	0970420003	Edilizia in muratura	Edifici A1 e A2
+%0970420003%EDI0009%	0970420003	Edilizia in muratura	
+%0800620001%EDI0001%	0800620001	Edilizia in muratura	
+%0680300006%EDI0001%	0680300006	Edilizia in muratura	
+%0680260001%EDI0002%	0680260001	Edilizia in muratura	
+%0960770001%EDI0001%	0960770001	Edilizia in muratura	
+%0960770001%EDI0002%	0960770001	Edilizia in muratura	

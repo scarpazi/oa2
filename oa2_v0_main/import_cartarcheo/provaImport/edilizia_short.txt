@@ -1,0 +1,28 @@
+﻿%0010130001%EDI0001%	0010130001	Edilizia in materiale deperibile	Ambiente E
+%0010780001%EDI0001%	0010780001	Edilizia in materiale deperibile	
+%0010780002%EDI0001%	0010780002	Edilizia in materiale deperibile	
+%0010780002%EDI0002%	0010780002	Edilizia in materiale deperibile	
+%0011620001%EDI0001%	0011620001	Edilizia in materiale deperibile	Area a S dell’Iseion
+%0010780001%EDI0004%	0170290001	Edilizia in materiale deperibile	Edificio IV
+%0010780001%EDI0005%	0170290001	Edilizia in materiale deperibile	Edificio XXIX
+%0010780001%EDI0006%	0170290001	Edilizia in materiale deperibile	Edificio XXX
+%0170290001%EDI0007%	0170290001	Edilizia in materiale deperibile	Palizzata edifici III, IV
+%0010820001%EDI0001%	0010820001	Edilizia in materiale deperibile	Edificio II
+%2120010001%EDI0038%	2120010001	Infrastruttura	
+%2120010001%EDI0039%	2120010001	Infrastruttura	
+%2120010001%EDI0040%	2120010001	Infrastruttura	
+%0010820001%EDI0002%	0010820001	Edilizia in muratura	
+%0580910028%EDI0001%	0580910028	Edilizia in muratura	Casa di Amore e Psiche
+%0580910028%EDI0002%	0580910028	Edilizia in muratura	Casa presso il Serapeo
+%0010820001%EDI0003%	0010820001	Edilizia in muratura	Casa sul decumano
+%0010820001%EDI0004%	0010820001	Edilizia in muratura	Casa dei Dioscuri
+%0580910028%EDI0005%	0580910028	Edilizia in muratura	Domus del Tempio Rotondo
+%0010780002%EDI0003%	0010780002	Infrastruttura	
+%0690580004%EDI0001%	0690580004	Edilizia in materiale deperibile	Saggio A
+%0011250001%EDI0002%	0011250001	Infrastruttura	Settore T
+%0230120001%EDI0007%	0230120001	Edilizia in materiale deperibile	Settore T
+%0770030005%EDI0001%	0770030005	Edilizia in materiale deperibile	
+%0770030005%EDI0002%	0770030005	Edilizia in materiale deperibile	
+%0011250001%EDI0001%	0011250001	Edilizia in materiale deperibile	
+%0011250001%EDI0005%	0011250001	Edilizia in materiale deperibile	
+%0011250001%EDI0006%	0011250001	Edilizia in muratura	Edificio II	
