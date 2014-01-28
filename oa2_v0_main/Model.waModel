@@ -7,14 +7,14 @@
 		"__CDATA" : "\n\t\t\n\t\t\n\t",
 		"model" : 
 		{
-			"workspaceLeft" : 1153,
-			"workspaceTop" : 2652,
+			"workspaceLeft" : 0,
+			"workspaceTop" : 3358,
 			"__CDATA" : "\n\t\t\t\n\t\t",
 			"scriptMode" : "manual",
 			"relationCurve" : 
 			{
-				"run" : "true",
-				"mode" : "1"
+				"run" : false,
+				"mode" : 1
 			}
 		},
 		"classes" : 
@@ -45,7 +45,7 @@
 				"panel" : 
 				{
 					"isOpen" : "true",
-					"pathVisible" : "false",
+					"pathVisible" : true,
 					"__CDATA" : "\n\t\t\t\t\t\n\t\t\t\t",
 					"position" : 
 					{
@@ -67,8 +67,8 @@
 					"__CDATA" : "\n\t\t\t\t\t\n\t\t\t\t",
 					"position" : 
 					{
-						"X" : "579",
-						"Y" : "3039"
+						"X" : 611,
+						"Y" : 3201
 					}
 				}
 			},
@@ -115,8 +115,8 @@
 					"__CDATA" : "\n\t\t\t\t\t\n\t\t\t\t",
 					"position" : 
 					{
-						"X" : "812",
-						"Y" : "2902"
+						"X" : 1018,
+						"Y" : 2906
 					}
 				}
 			},
@@ -226,8 +226,8 @@
 					"__CDATA" : "\n\t\t\t\t\t\n\t\t\t\t",
 					"position" : 
 					{
-						"X" : "1231",
-						"Y" : "2905"
+						"X" : 1376,
+						"Y" : 2904
 					}
 				}
 			},
@@ -295,8 +295,50 @@
 					"__CDATA" : "\n\t\t\t\t\t\n\t\t\t\t",
 					"position" : 
 					{
-						"X" : "317",
-						"Y" : "3103"
+						"X" : 317,
+						"Y" : 3199
+					}
+				}
+			},
+			"Dictionary" : 
+			{
+				"panelColor" : "rgb(183, 221, 232)",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 27,
+						"Y" : 3919
+					}
+				}
+			},
+			"Dictionary_lemma" : 
+			{
+				"panelColor" : "rgb(183, 221, 232)",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 24,
+						"Y" : 4114
+					}
+				}
+			},
+			"Toponymdefinition" : 
+			{
+				"panelColor" : "#B7DDE8",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 461,
+						"Y" : 3918
 					}
 				}
 			}
@@ -490,6 +532,131 @@
 			[
 				{
 					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "Dictionary",
+			"className" : "Dictionary",
+			"collectionName" : "DictionaryCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "name",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"limiting_length" : 100,
+					"not_null" : true,
+					"type" : "string",
+					"indexKind" : "auto",
+					"identifying" : true
+				},
+				{
+					"name" : "dictionary_lemmas",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "Dictionary_lemmaCollection",
+					"reversePath" : true,
+					"path" : "dictionary"
+				},
+				{
+					"name" : "notes",
+					"kind" : "storage",
+					"scope" : "public",
+					"limiting_length" : 500,
+					"type" : "string"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "Dictionary_lemma",
+			"className" : "Dictionary_lemma",
+			"collectionName" : "Dictionary_lemmaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "dictionary",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "Dictionary",
+					"path" : "Dictionary"
+				},
+				{
+					"name" : "lemma",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"limiting_length" : 100,
+					"not_null" : true,
+					"type" : "string",
+					"indexKind" : "auto",
+					"identifying" : true
+				},
+				{
+					"name" : "notes",
+					"kind" : "storage",
+					"scope" : "public",
+					"limiting_length" : 500,
+					"type" : "string"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "Toponymdefinition",
+			"className" : "Toponymdefinition",
+			"collectionName" : "ToponymdefinitionCollection",
+			"scope" : "public",
+			"publishAsJSGlobal" : true,
+			"extends" : "Dictionary_lemma",
+			"restrictingQuery" : 
+			[
+				{
+					"queryStatement" : "dicname = \"toponym.definition\""
+				}
+			],
+			"attributes" : 
+			[
+				{
+					"name" : "dicname",
+					"kind" : "alias",
+					"scope" : "public",
+					"type" : "string",
+					"path" : "dictionary.name"
 				}
 			]
 		},
@@ -995,6 +1162,7 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"uuid" : "73B2132A86BD41C8963B274EDDCBC697",
+					"indexed" : true,
 					"unique" : true,
 					"autosequence" : true,
 					"type" : "long"
@@ -1111,13 +1279,51 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"uuid" : "3694B6EB5FE94898AE05C894787BFC13",
-					"type" : "string"
+					"indexed" : true,
+					"limiting_length" : 150,
+					"not_null" : true,
+					"type" : "string",
+					"indexKind" : "auto",
+					"autoComplete" : true,
+					"identifying" : true
 				},
 				{
-					"name" : "type",
+					"name" : "definition",
 					"kind" : "storage",
 					"scope" : "public",
 					"uuid" : "BE87113576614DB985A5C551D3E32D82",
+					"indexed" : true,
+					"limiting_length" : 30,
+					"not_null" : true,
+					"type" : "string",
+					"indexKind" : "auto",
+					"autoComplete" : true
+				},
+				{
+					"name" : "administrative",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"not_null" : true,
+					"type" : "bool",
+					"indexKind" : "cluster",
+					"identifying" : true
+				},
+				{
+					"name" : "historical",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"not_null" : true,
+					"type" : "bool",
+					"indexKind" : "cluster",
+					"identifying" : true
+				},
+				{
+					"name" : "notes",
+					"kind" : "storage",
+					"scope" : "public",
+					"limiting_length" : 500,
 					"type" : "string"
 				},
 				{
@@ -1125,6 +1331,7 @@
 					"kind" : "relatedEntities",
 					"scope" : "public",
 					"type" : "ToponymRelCollection",
+					"indexKind" : "auto",
 					"reversePath" : true,
 					"path" : "rel_toponym"
 				},
@@ -1133,6 +1340,7 @@
 					"kind" : "relatedEntities",
 					"scope" : "public",
 					"type" : "LandscapeElementCollection",
+					"indexKind" : "auto",
 					"reversePath" : true,
 					"path" : "main_toponym"
 				}
@@ -1152,6 +1360,23 @@
 			"extends" : "Toponym",
 			"attributes" : 
 			[
+				{
+					"name" : "definition",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"limiting_length" : 30,
+					"not_null" : true,
+					"type" : "string"
+				},
+				{
+					"name" : "historical",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"not_null" : true,
+					"type" : "bool"
+				},
 				{
 					"name" : "related_toponyms",
 					"kind" : "relatedEntities",
