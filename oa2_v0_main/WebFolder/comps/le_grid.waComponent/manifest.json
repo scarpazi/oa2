@@ -1,6 +1,0 @@
-{
-    "name"    : "le_grid",    
-    "html"    : "le_grid.html",
-    "styles"  : [],
-    "scripts" : ["le_grid.js"]
-}
