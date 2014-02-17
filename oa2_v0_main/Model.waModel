@@ -8,13 +8,29 @@
 		"model" : 
 		{
 			"workspaceLeft" : 0,
-			"workspaceTop" : 3358,
+			"workspaceTop" : 3852,
 			"__CDATA" : "\n\t\t\t\n\t\t",
 			"scriptMode" : "manual",
 			"relationCurve" : 
 			{
 				"run" : false,
 				"mode" : 1
+			},
+			"lastScriptLocation" : 
+			{
+				"Toponymdefinition" : 
+				{
+					"method" : "Toponymdefinition/Toponymdefinition-methods.js"
+				},
+				"Dictionary" : 
+				{
+					"method" : "Dictionary/Dictionary-methods.js"
+				},
+				"Dictionary_lemma" : 
+				{
+					"method" : "Dictionary_lemma/Dictionary_lemma-methods.js",
+					"computed" : "Dictionary_lemma/Dictionary_lemma-events.js"
+				}
 			}
 		},
 		"classes" : 
@@ -67,8 +83,8 @@
 					"__CDATA" : "\n\t\t\t\t\t\n\t\t\t\t",
 					"position" : 
 					{
-						"X" : 611,
-						"Y" : 3201
+						"X" : 616,
+						"Y" : 3226
 					}
 				}
 			},
@@ -296,7 +312,7 @@
 					"position" : 
 					{
 						"X" : 317,
-						"Y" : 3199
+						"Y" : 3221
 					}
 				}
 			},
@@ -323,8 +339,8 @@
 					"pathVisible" : true,
 					"position" : 
 					{
-						"X" : 24,
-						"Y" : 4114
+						"X" : 41,
+						"Y" : 4201
 					}
 				}
 			},
@@ -337,8 +353,8 @@
 					"pathVisible" : true,
 					"position" : 
 					{
-						"X" : 461,
-						"Y" : 3918
+						"X" : 418,
+						"Y" : 3924
 					}
 				}
 			}
@@ -579,6 +595,16 @@
 					"type" : "string"
 				}
 			],
+			"methods" : 
+			[
+				{
+					"name" : "get_lemmas",
+					"applyTo" : "entity",
+					"scope" : "publicOnServer",
+					"from" : "model.Dictionary.entityMethods.get_lemmas",
+					"userDefined" : true
+				}
+			],
 			"key" : 
 			[
 				{
@@ -609,6 +635,13 @@
 					"scope" : "public",
 					"type" : "Dictionary",
 					"path" : "Dictionary"
+				},
+				{
+					"name" : "dictionary_name",
+					"kind" : "alias",
+					"scope" : "public",
+					"type" : "string",
+					"path" : "dictionary.name"
 				},
 				{
 					"name" : "lemma",
@@ -1162,7 +1195,6 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"uuid" : "73B2132A86BD41C8963B274EDDCBC697",
-					"indexed" : true,
 					"unique" : true,
 					"autosequence" : true,
 					"type" : "long"

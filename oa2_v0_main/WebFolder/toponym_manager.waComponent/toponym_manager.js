@@ -11,6 +11,9 @@ function constructor (id) {
 	// @endregion// @endlock
 
 	this.load = function (data) {// @lock
+//		debugger;
+		var dic = ds.Dictionary.query('name == toponym.definition');
+		ds.d_toponym_def = dic.toArray("dictionary_lemmas");
 
 	// @region namespaceDeclaration// @startlock
 	// @endregion// @endlock
