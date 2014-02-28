@@ -1,1 +1,0 @@
-model.Dictionary.entityMethods.get_lemmas = function() {	return this.toArray("dictionary_lemmas");};
