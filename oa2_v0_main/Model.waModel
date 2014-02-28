@@ -8,7 +8,7 @@
 		"model" : 
 		{
 			"workspaceLeft" : 0,
-			"workspaceTop" : 3852,
+			"workspaceTop" : 3817,
 			"__CDATA" : "\n\t\t\t\n\t\t",
 			"scriptMode" : "manual",
 			"relationCurve" : 
@@ -18,10 +18,6 @@
 			},
 			"lastScriptLocation" : 
 			{
-				"Toponymdefinition" : 
-				{
-					"method" : "Toponymdefinition/Toponymdefinition-methods.js"
-				},
 				"Dictionary" : 
 				{
 					"method" : "Dictionary/Dictionary-methods.js"
@@ -339,22 +335,8 @@
 					"pathVisible" : true,
 					"position" : 
 					{
-						"X" : 41,
-						"Y" : 4201
-					}
-				}
-			},
-			"Toponymdefinition" : 
-			{
-				"panelColor" : "#B7DDE8",
-				"panel" : 
-				{
-					"isOpen" : "true",
-					"pathVisible" : true,
-					"position" : 
-					{
-						"X" : 418,
-						"Y" : 3924
+						"X" : 40,
+						"Y" : 4118
 					}
 				}
 			}
@@ -584,6 +566,7 @@
 					"kind" : "relatedEntities",
 					"scope" : "public",
 					"type" : "Dictionary_lemmaCollection",
+					"indexKind" : "auto",
 					"reversePath" : true,
 					"path" : "dictionary"
 				},
@@ -593,16 +576,6 @@
 					"scope" : "public",
 					"limiting_length" : 500,
 					"type" : "string"
-				}
-			],
-			"methods" : 
-			[
-				{
-					"name" : "get_lemmas",
-					"applyTo" : "entity",
-					"scope" : "publicOnServer",
-					"from" : "model.Dictionary.entityMethods.get_lemmas",
-					"userDefined" : true
 				}
 			],
 			"key" : 
@@ -634,6 +607,7 @@
 					"kind" : "relatedEntity",
 					"scope" : "public",
 					"type" : "Dictionary",
+					"indexKind" : "auto",
 					"path" : "Dictionary"
 				},
 				{
@@ -641,6 +615,7 @@
 					"kind" : "alias",
 					"scope" : "public",
 					"type" : "string",
+					"indexKind" : "auto",
 					"path" : "dictionary.name"
 				},
 				{
@@ -649,10 +624,8 @@
 					"scope" : "public",
 					"indexed" : true,
 					"limiting_length" : 100,
-					"not_null" : true,
 					"type" : "string",
-					"indexKind" : "auto",
-					"identifying" : true
+					"indexKind" : "auto"
 				},
 				{
 					"name" : "notes",
@@ -666,30 +639,6 @@
 			[
 				{
 					"name" : "ID"
-				}
-			]
-		},
-		{
-			"name" : "Toponymdefinition",
-			"className" : "Toponymdefinition",
-			"collectionName" : "ToponymdefinitionCollection",
-			"scope" : "public",
-			"publishAsJSGlobal" : true,
-			"extends" : "Dictionary_lemma",
-			"restrictingQuery" : 
-			[
-				{
-					"queryStatement" : "dicname = \"toponym.definition\""
-				}
-			],
-			"attributes" : 
-			[
-				{
-					"name" : "dicname",
-					"kind" : "alias",
-					"scope" : "public",
-					"type" : "string",
-					"path" : "dictionary.name"
 				}
 			]
 		},
@@ -781,6 +730,7 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"uuid" : "1041E2B769E74D37A681147BFCFC1566",
+					"indexed" : true,
 					"unique" : true,
 					"autosequence" : true,
 					"type" : "long"
@@ -799,6 +749,7 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"uuid" : "BECE3EFD14694560A2458D4234EE0491",
+					"indexed" : true,
 					"unique" : true,
 					"type" : "string"
 				},

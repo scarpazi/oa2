@@ -2,11 +2,16 @@
 WAF.onAfterInit = function onAfterInit() {// @lock
 
 // @region namespaceDeclaration// @startlock
-	var livequery = {};	// @textField
 	var search = {};	// @button
+	var livequery = {};	// @textField
 // @endregion// @endlock
 
 // eventHandlers// @lock
+
+	search.click = function search_click (event)// @startlock
+	{// @endlock
+		sources.site.query('name = :1 order by name', {params : [queryStr + '*']});
+	};// @lock
 
 	livequery.keyup = function livequery_keyup (event)// @startlock
 	{// @endlock
@@ -14,13 +19,8 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 		sources.site.query('name = :1 order by name', { params: [theName + "*"]});
 	};// @lock
 
-	search.click = function search_click (event)// @startlock
-	{// @endlock
-		sources.site.query('name = :1 order by name', {params : [queryStr + '*']});
-	};// @lock
-
 // @region eventManager// @startlock
-	WAF.addListener("livequery", "keyup", livequery.keyup, "WAF");
 	WAF.addListener("search", "click", search.click, "WAF");
+	WAF.addListener("livequery", "keyup", livequery.keyup, "WAF");
 // @endregion
 };// @endlock
