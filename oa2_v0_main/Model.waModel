@@ -8,12 +8,12 @@
 		"model" : 
 		{
 			"workspaceLeft" : 0,
-			"workspaceTop" : 3358,
+			"workspaceTop" : 6164,
 			"__CDATA" : "\n\t\t\t\n\t\t",
 			"scriptMode" : "manual",
 			"relationCurve" : 
 			{
-				"run" : false,
+				"run" : true,
 				"mode" : 1
 			}
 		},
@@ -280,8 +280,8 @@
 					"__CDATA" : "\n\t\t\t\t\t\n\t\t\t\t",
 					"position" : 
 					{
-						"X" : "369",
-						"Y" : "300"
+						"X" : 389,
+						"Y" : 357
 					}
 				}
 			},
@@ -339,6 +339,34 @@
 					{
 						"X" : 461,
 						"Y" : 3918
+					}
+				}
+			},
+			"Media" : 
+			{
+				"panelColor" : "#E5B9B7",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 164,
+						"Y" : 6245
+					}
+				}
+			},
+			"Image" : 
+			{
+				"panelColor" : "#D88CFF",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 174,
+						"Y" : 6455
 					}
 				}
 			}
@@ -822,6 +850,14 @@
 							"userDefined" : true
 						}
 					]
+				},
+				{
+					"name" : "mediaCollection",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "MediaCollection",
+					"reversePath" : true,
+					"path" : "LaElRef"
 				}
 			],
 			"methods" : 
@@ -838,6 +874,74 @@
 			[
 				{
 					"name" : "leID"
+				}
+			]
+		},
+		{
+			"name" : "Media",
+			"className" : "Media",
+			"collectionName" : "MediaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "name",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "description",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "ToElRef",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "TopographicElement",
+					"path" : "TopographicElement"
+				},
+				{
+					"name" : "LaElRef",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "LandscapeElement",
+					"path" : "LandscapeElement"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "Image",
+			"className" : "Image",
+			"collectionName" : "ImageCollection",
+			"scope" : "public",
+			"extends" : "Media",
+			"attributes" : 
+			[
+				{
+					"name" : "img",
+					"kind" : "calculated",
+					"scope" : "public",
+					"type" : "image",
+					"scriptKind" : "javascript"
 				}
 			]
 		},
@@ -1162,7 +1266,6 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"uuid" : "73B2132A86BD41C8963B274EDDCBC697",
-					"indexed" : true,
 					"unique" : true,
 					"autosequence" : true,
 					"type" : "long"
@@ -1213,6 +1316,14 @@
 					"type" : "RefersToPersonCollection",
 					"reversePath" : true,
 					"path" : "sitecomp"
+				},
+				{
+					"name" : "mediaCollection",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "MediaCollection",
+					"reversePath" : true,
+					"path" : "ToElRef"
 				}
 			],
 			"key" : 
