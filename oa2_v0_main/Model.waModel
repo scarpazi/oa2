@@ -7,8 +7,8 @@
 		"__CDATA" : "\n\t\t\n\t\t\n\t",
 		"model" : 
 		{
-			"workspaceLeft" : 0,
-			"workspaceTop" : 379,
+			"workspaceLeft" : 14,
+			"workspaceTop" : 385,
 			"__CDATA" : "\n\t\t\t\n\t\t",
 			"scriptMode" : "manual",
 			"relationCurve" : 
@@ -449,6 +449,18 @@
 					"type" : "bool"
 				},
 				{
+					"name" : "Journal",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "bool"
+				},
+				{
+					"name" : "Miscellaneous",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "bool"
+				},
+				{
 					"name" : "Type",
 					"kind" : "relatedEntity",
 					"scope" : "public",
@@ -849,14 +861,7 @@
 					"kind" : "calculated",
 					"scope" : "public",
 					"type" : "string",
-					"scriptKind" : "javascript",
-					"onGet" : 
-					[
-						{
-							"from" : "model.Georef_points.XYcoord.onGet",
-							"userDefined" : true
-						}
-					]
+					"scriptKind" : "javascript"
 				}
 			],
 			"key" : 
@@ -1010,24 +1015,7 @@
 					"kind" : "calculated",
 					"scope" : "public",
 					"type" : "string",
-					"scriptKind" : "javascript",
-					"onGet" : 
-					[
-						{
-							"from" : "model.LandscapeElement.XYcoord.onGet",
-							"userDefined" : true
-						}
-					]
-				}
-			],
-			"methods" : 
-			[
-				{
-					"name" : "getXYcoord",
-					"applyTo" : "entity",
-					"scope" : "publicOnServer",
-					"from" : "model.LandscapeElement.entityMethods.getXYcoord",
-					"userDefined" : true
+					"scriptKind" : "javascript"
 				}
 			],
 			"key" : 
