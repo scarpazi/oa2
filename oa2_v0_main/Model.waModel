@@ -8,7 +8,7 @@
 		"model" : 
 		{
 			"workspaceLeft" : 0,
-			"workspaceTop" : 3817,
+			"workspaceTop" : 2233,
 			"__CDATA" : "\n\t\t\t\n\t\t",
 			"scriptMode" : "manual",
 			"relationCurve" : 
@@ -49,23 +49,6 @@
 					}
 				}
 			},
-			"Toponym" : 
-			{
-				"panelColor" : "rgb(191, 191, 191)",
-				"isMinimized" : "false",
-				"__CDATA" : "\n\t\t\t\t\n\t\t\t",
-				"panel" : 
-				{
-					"isOpen" : "true",
-					"pathVisible" : true,
-					"__CDATA" : "\n\t\t\t\t\t\n\t\t\t\t",
-					"position" : 
-					{
-						"X" : "303",
-						"Y" : "2901"
-					}
-				}
-			},
 			"ToponymRel" : 
 			{
 				"panelColor" : "rgb(191, 191, 191)",
@@ -74,13 +57,13 @@
 				"panel" : 
 				{
 					"isOpen" : "true",
-					"pathVisible" : "false",
+					"pathVisible" : true,
 					"resizedHeight" : "100",
 					"__CDATA" : "\n\t\t\t\t\t\n\t\t\t\t",
 					"position" : 
 					{
-						"X" : 616,
-						"Y" : 3226
+						"X" : 748,
+						"Y" : 2907
 					}
 				}
 			},
@@ -297,21 +280,6 @@
 					}
 				}
 			},
-			"Toponym_nation" : 
-			{
-				"panelColor" : "#BFBFBF",
-				"__CDATA" : "\n\t\t\t\t\n\t\t\t",
-				"panel" : 
-				{
-					"isOpen" : "true",
-					"__CDATA" : "\n\t\t\t\t\t\n\t\t\t\t",
-					"position" : 
-					{
-						"X" : 317,
-						"Y" : 3221
-					}
-				}
-			},
 			"Dictionary" : 
 			{
 				"panelColor" : "rgb(183, 221, 232)",
@@ -337,6 +305,39 @@
 					{
 						"X" : 40,
 						"Y" : 4118
+					}
+				}
+			},
+			"Toponym_adm" : 
+			{
+				"panelColor" : "#BFBFBF",
+				"__CDATA" : "\n\t\t\t\t\n\t\t\t",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"__CDATA" : "\n\t\t\t\t\t\n\t\t\t\t",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 315,
+						"Y" : 3279
+					}
+				}
+			},
+			"Toponym" : 
+			{
+				"panelColor" : "rgb(191, 191, 191)",
+				"isMinimized" : "false",
+				"__CDATA" : "\n\t\t\t\t\n\t\t\t",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"__CDATA" : "\n\t\t\t\t\t\n\t\t\t\t",
+					"position" : 
+					{
+						"X" : "303",
+						"Y" : "2901"
 					}
 				}
 			}
@@ -611,7 +612,7 @@
 					"path" : "Dictionary"
 				},
 				{
-					"name" : "dictionary_name",
+					"name" : "dictionaryname",
 					"kind" : "alias",
 					"scope" : "public",
 					"type" : "string",
@@ -1146,6 +1147,7 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"uuid" : "73B2132A86BD41C8963B274EDDCBC697",
+					"indexed" : true,
 					"unique" : true,
 					"autosequence" : true,
 					"type" : "long"
@@ -1253,6 +1255,7 @@
 					"scope" : "public",
 					"uuid" : "D757DE0A869F4BD7BDB4E6E32EA27814",
 					"indexed" : true,
+					"unique" : true,
 					"autosequence" : true,
 					"type" : "long",
 					"indexKind" : "btree"
@@ -1264,11 +1267,9 @@
 					"uuid" : "3694B6EB5FE94898AE05C894787BFC13",
 					"indexed" : true,
 					"limiting_length" : 150,
-					"not_null" : true,
 					"type" : "string",
 					"indexKind" : "auto",
-					"autoComplete" : true,
-					"identifying" : true
+					"autoComplete" : false
 				},
 				{
 					"name" : "definition",
@@ -1277,36 +1278,37 @@
 					"uuid" : "BE87113576614DB985A5C551D3E32D82",
 					"indexed" : true,
 					"limiting_length" : 30,
-					"not_null" : true,
 					"type" : "string",
 					"indexKind" : "auto",
-					"autoComplete" : true
+					"autoComplete" : false
 				},
 				{
 					"name" : "administrative",
 					"kind" : "storage",
 					"scope" : "public",
 					"indexed" : true,
-					"not_null" : true,
 					"type" : "bool",
-					"indexKind" : "cluster",
-					"identifying" : true
+					"indexKind" : "cluster"
 				},
 				{
 					"name" : "historical",
 					"kind" : "storage",
 					"scope" : "public",
 					"indexed" : true,
-					"not_null" : true,
 					"type" : "bool",
-					"indexKind" : "cluster",
-					"identifying" : true
+					"indexKind" : "cluster"
 				},
 				{
 					"name" : "notes",
 					"kind" : "storage",
 					"scope" : "public",
 					"limiting_length" : 500,
+					"type" : "string"
+				},
+				{
+					"name" : "adm_type",
+					"kind" : "storage",
+					"scope" : "public",
 					"type" : "string"
 				},
 				{
@@ -1336,11 +1338,17 @@
 			]
 		},
 		{
-			"name" : "Toponym_nation",
-			"className" : "Toponym_nation",
-			"collectionName" : "Toponym_nationCollection",
+			"name" : "Toponym_adm",
+			"className" : "Toponym_adm",
+			"collectionName" : "Toponym_admCollection",
 			"scope" : "public",
 			"extends" : "Toponym",
+			"restrictingQuery" : 
+			[
+				{
+					"queryStatement" : "administrative==true"
+				}
+			],
 			"attributes" : 
 			[
 				{
@@ -1349,7 +1357,6 @@
 					"scope" : "public",
 					"indexed" : true,
 					"limiting_length" : 30,
-					"not_null" : true,
 					"type" : "string"
 				},
 				{
@@ -1357,7 +1364,6 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"indexed" : true,
-					"not_null" : true,
 					"type" : "bool"
 				},
 				{
@@ -1366,6 +1372,21 @@
 					"scope" : "public",
 					"type" : "ToponymRelCollection",
 					"path" : "rel_toponym"
+				},
+				{
+					"name" : "adm_directrel_up",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "Toponym_adm",
+					"path" : "Toponym_adm"
+				},
+				{
+					"name" : "adm_directrel_down",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "Toponym_admCollection",
+					"reversePath" : true,
+					"path" : "adm_directrel_up"
 				}
 			]
 		},
