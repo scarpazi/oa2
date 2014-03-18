@@ -13,10 +13,16 @@ function constructor (id) {
 	this.load = function (data) {// @lock
 
 	// @region namespaceDeclaration// @startlock
+	var tnext = {};	// @buttonImage
 	var tfilter = {};	// @textField
 	// @endregion// @endlock
 
 	// eventHandlers// @lock
+
+	tnext.click = function tnext_click (event)// @startlock
+	{// @endlock
+		toponym.next;
+	};// @lock
 
 	tfilter.keyup = function tfilter_keyup (event)// @startlock
 	{// @endlock
@@ -27,6 +33,7 @@ function constructor (id) {
 	};// @lock
 
 	// @region eventManager// @startlock
+	WAF.addListener(this.id + "_tnext", "click", tnext.click, "WAF");
 	WAF.addListener(this.id + "_tfilter", "keyup", tfilter.keyup, "WAF");
 	// @endregion// @endlock
 

@@ -750,7 +750,6 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"uuid" : "BECE3EFD14694560A2458D4234EE0491",
-					"indexed" : true,
 					"unique" : true,
 					"type" : "string"
 				},
