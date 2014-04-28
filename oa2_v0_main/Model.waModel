@@ -7,8 +7,8 @@
 		"__CDATA" : "\n\t\t\n\t\t\n\t",
 		"model" : 
 		{
-			"workspaceLeft" : 14,
-			"workspaceTop" : 385,
+			"workspaceLeft" : 16,
+			"workspaceTop" : 273,
 			"__CDATA" : "\n\t\t\t\n\t\t",
 			"scriptMode" : "manual",
 			"relationCurve" : 
@@ -395,6 +395,19 @@
 					{
 						"X" : 383,
 						"Y" : 708
+					}
+				}
+			},
+			"AuthorAsPerson" : 
+			{
+				"panelColor" : "#C3D69B",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"position" : 
+					{
+						"X" : 43,
+						"Y" : 803
 					}
 				}
 			}
@@ -1143,6 +1156,13 @@
 					"name" : "ID"
 				}
 			]
+		},
+		{
+			"name" : "AuthorAsPerson",
+			"className" : "AuthorAsPerson",
+			"collectionName" : "AuthorAsPersonCollection",
+			"scope" : "public",
+			"extends" : "Person"
 		},
 		{
 			"name" : "Project",
