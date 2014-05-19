@@ -26,14 +26,14 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 	button9.click = function button9_click (event)// @startlock
 	{// @endlock
 		if ($bibliographic_reference.Journal && $bibliographic_reference.volume)
-            { $$(getHtmlId('autoForm3')).hide();
-              $$(getHtmlId('autoForm8')).hide();
-              $$(getHtmlId('autoForm7')).show();}
+            { $$('#autoForm3')).hide();
+              $$('#autoForm8')).hide();
+              $$('#autoForm7')).show();}
         else
         if ($bibliographic_reference.Journal)
-			{ $$(getHtmlId('autoForm7')).hide();
-              $$(getHtmlId('autoForm8')).hide();
-              $$(getHtmlId('autoForm3')).show();};
+			{ $$('#autoForm7')).hide();
+              $$('#autoForm8')).hide();
+              $$('#autoForm3')).show();};
 
 	};// @lock
 
