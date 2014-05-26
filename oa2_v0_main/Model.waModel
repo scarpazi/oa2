@@ -8,7 +8,7 @@
 		"model" : 
 		{
 			"workspaceLeft" : 0,
-			"workspaceTop" : 2233,
+			"workspaceTop" : 2810,
 			"__CDATA" : "\n\t\t\t\n\t\t",
 			"scriptMode" : "manual",
 			"relationCurve" : 
@@ -308,22 +308,6 @@
 					}
 				}
 			},
-			"Toponym_adm" : 
-			{
-				"panelColor" : "#BFBFBF",
-				"__CDATA" : "\n\t\t\t\t\n\t\t\t",
-				"panel" : 
-				{
-					"isOpen" : "true",
-					"__CDATA" : "\n\t\t\t\t\t\n\t\t\t\t",
-					"pathVisible" : true,
-					"position" : 
-					{
-						"X" : 315,
-						"Y" : 3279
-					}
-				}
-			},
 			"Toponym" : 
 			{
 				"panelColor" : "rgb(191, 191, 191)",
@@ -338,6 +322,19 @@
 					{
 						"X" : "303",
 						"Y" : "2901"
+					}
+				}
+			},
+			"ToponymAdm" : 
+			{
+				"panelColor" : "#D8D8D8",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"position" : 
+					{
+						"X" : 319,
+						"Y" : 3250
 					}
 				}
 			}
@@ -731,7 +728,6 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"uuid" : "1041E2B769E74D37A681147BFCFC1566",
-					"indexed" : true,
 					"unique" : true,
 					"autosequence" : true,
 					"type" : "long"
@@ -1146,7 +1142,6 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"uuid" : "73B2132A86BD41C8963B274EDDCBC697",
-					"indexed" : true,
 					"unique" : true,
 					"autosequence" : true,
 					"type" : "long"
@@ -1337,55 +1332,15 @@
 			]
 		},
 		{
-			"name" : "Toponym_adm",
-			"className" : "Toponym_adm",
-			"collectionName" : "Toponym_admCollection",
+			"name" : "ToponymAdm",
+			"className" : "ToponymAdm",
+			"collectionName" : "ToponymAdmCollection",
 			"scope" : "public",
 			"extends" : "Toponym",
 			"restrictingQuery" : 
 			[
 				{
-					"queryStatement" : "administrative==true"
-				}
-			],
-			"attributes" : 
-			[
-				{
-					"name" : "definition",
-					"kind" : "storage",
-					"scope" : "public",
-					"indexed" : true,
-					"limiting_length" : 30,
-					"type" : "string"
-				},
-				{
-					"name" : "historical",
-					"kind" : "storage",
-					"scope" : "public",
-					"indexed" : true,
-					"type" : "bool"
-				},
-				{
-					"name" : "related_toponyms",
-					"kind" : "relatedEntities",
-					"scope" : "public",
-					"type" : "ToponymRelCollection",
-					"path" : "rel_toponym"
-				},
-				{
-					"name" : "adm_directrel_up",
-					"kind" : "relatedEntity",
-					"scope" : "public",
-					"type" : "Toponym_adm",
-					"path" : "Toponym_adm"
-				},
-				{
-					"name" : "adm_directrel_down",
-					"kind" : "relatedEntities",
-					"scope" : "public",
-					"type" : "Toponym_admCollection",
-					"reversePath" : true,
-					"path" : "adm_directrel_up"
+					"queryStatement" : "administrative == true"
 				}
 			]
 		},
