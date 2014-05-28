@@ -7,7 +7,7 @@ function constructor (id) {
 
 	// @region beginComponentDeclaration// @startlock
 	var $comp = this;
-	this.name = 'toponym_manager';
+	this.name = 'othermedia';
 	// @endregion// @endlock
 
 	this.load = function (data) {// @lock

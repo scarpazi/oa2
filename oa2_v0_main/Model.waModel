@@ -8,13 +8,13 @@
 		"model" : 
 		{
 			"workspaceLeft" : 0,
-			"workspaceTop" : 6164,
+			"workspaceTop" : 300,
 			"__CDATA" : "\n\t\t\t\n\t\t",
 			"scriptMode" : "manual",
 			"relationCurve" : 
 			{
 				"run" : true,
-				"mode" : 1
+				"mode" : 2
 			}
 		},
 		"classes" : 
@@ -194,8 +194,8 @@
 					"__CDATA" : "\n\t\t\t\t\t\n\t\t\t\t",
 					"position" : 
 					{
-						"X" : "35",
-						"Y" : "720"
+						"X" : 20,
+						"Y" : 778
 					}
 				}
 			},
@@ -280,8 +280,8 @@
 					"__CDATA" : "\n\t\t\t\t\t\n\t\t\t\t",
 					"position" : 
 					{
-						"X" : 389,
-						"Y" : 357
+						"X" : 361,
+						"Y" : 484
 					}
 				}
 			},
@@ -342,31 +342,31 @@
 					}
 				}
 			},
-			"Media" : 
+			"GraphicElement" : 
 			{
-				"panelColor" : "#E5B9B7",
+				"panelColor" : "#C3D69B",
 				"panel" : 
 				{
 					"isOpen" : "true",
 					"pathVisible" : true,
 					"position" : 
 					{
-						"X" : 164,
-						"Y" : 6245
+						"X" : 35,
+						"Y" : 450
 					}
 				}
 			},
-			"Image" : 
+			"OtherMedia" : 
 			{
-				"panelColor" : "#D88CFF",
+				"panelColor" : "#C4BD97",
 				"panel" : 
 				{
 					"isOpen" : "true",
 					"pathVisible" : true,
 					"position" : 
 					{
-						"X" : 174,
-						"Y" : 6455
+						"X" : 38,
+						"Y" : 906
 					}
 				}
 			}
@@ -764,6 +764,85 @@
 			]
 		},
 		{
+			"name" : "GraphicElement",
+			"className" : "GraphicElement",
+			"collectionName" : "GraphicElementCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "imgName",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "imgDescrip",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "imgFile",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "image"
+				},
+				{
+					"name" : "authorID",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "Person",
+					"path" : "Person"
+				},
+				{
+					"name" : "lERef",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "LandscapeElement",
+					"path" : "LandscapeElement"
+				},
+				{
+					"name" : "tElRef",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "TopographicElement",
+					"path" : "TopographicElement"
+				},
+				{
+					"name" : "imgDate",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "date",
+					"simpleDate" : false,
+					"defaultFormat" : 
+					[
+						{
+							"format" : "dd/",
+							"locale" : "it",
+							"presentation" : "text"
+						}
+					]
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
 			"name" : "LandscapeElement",
 			"className" : "LandscapeElement",
 			"collectionName" : "LandscapeElementCollection",
@@ -776,6 +855,7 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"uuid" : "1041E2B769E74D37A681147BFCFC1566",
+					"indexed" : true,
 					"unique" : true,
 					"autosequence" : true,
 					"type" : "long"
@@ -794,6 +874,7 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"uuid" : "BECE3EFD14694560A2458D4234EE0491",
+					"indexed" : true,
 					"unique" : true,
 					"type" : "string"
 				},
@@ -852,12 +933,20 @@
 					]
 				},
 				{
-					"name" : "mediaCollection",
+					"name" : "graphicElementCollection",
 					"kind" : "relatedEntities",
 					"scope" : "public",
-					"type" : "MediaCollection",
+					"type" : "GraphicElementCollection",
 					"reversePath" : true,
-					"path" : "LaElRef"
+					"path" : "lERef"
+				},
+				{
+					"name" : "otherMediaCollection",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "OtherMediaCollection",
+					"reversePath" : true,
+					"path" : "lEref"
 				}
 			],
 			"methods" : 
@@ -878,9 +967,9 @@
 			]
 		},
 		{
-			"name" : "Media",
-			"className" : "Media",
-			"collectionName" : "MediaCollection",
+			"name" : "OtherMedia",
+			"className" : "OtherMedia",
+			"collectionName" : "OtherMediaCollection",
 			"scope" : "public",
 			"attributes" : 
 			[
@@ -895,53 +984,56 @@
 					"indexKind" : "btree"
 				},
 				{
-					"name" : "name",
+					"name" : "mediaName",
 					"kind" : "storage",
 					"scope" : "public",
 					"type" : "string"
 				},
 				{
-					"name" : "description",
+					"name" : "mediaDescript",
 					"kind" : "storage",
 					"scope" : "public",
 					"type" : "string"
 				},
 				{
-					"name" : "ToElRef",
+					"name" : "mediaFile",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "blob"
+				},
+				{
+					"name" : "authorID",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "Person",
+					"path" : "Person"
+				},
+				{
+					"name" : "lEref",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "LandscapeElement",
+					"path" : "LandscapeElement"
+				},
+				{
+					"name" : "tElRef",
 					"kind" : "relatedEntity",
 					"scope" : "public",
 					"type" : "TopographicElement",
 					"path" : "TopographicElement"
 				},
 				{
-					"name" : "LaElRef",
-					"kind" : "relatedEntity",
+					"name" : "mediaDate",
+					"kind" : "storage",
 					"scope" : "public",
-					"type" : "LandscapeElement",
-					"path" : "LandscapeElement"
+					"type" : "date",
+					"simpleDate" : false
 				}
 			],
 			"key" : 
 			[
 				{
 					"name" : "ID"
-				}
-			]
-		},
-		{
-			"name" : "Image",
-			"className" : "Image",
-			"collectionName" : "ImageCollection",
-			"scope" : "public",
-			"extends" : "Media",
-			"attributes" : 
-			[
-				{
-					"name" : "img",
-					"kind" : "calculated",
-					"scope" : "public",
-					"type" : "image",
-					"scriptKind" : "javascript"
 				}
 			]
 		},
@@ -992,6 +1084,22 @@
 					"type" : "LandscapeElementCollection",
 					"reversePath" : true,
 					"path" : "owner"
+				},
+				{
+					"name" : "graphicElementCollection",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "GraphicElementCollection",
+					"reversePath" : true,
+					"path" : "authorID"
+				},
+				{
+					"name" : "otherMediaCollection",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "OtherMediaCollection",
+					"reversePath" : true,
+					"path" : "authorID"
 				}
 			],
 			"key" : 
@@ -1266,6 +1374,7 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"uuid" : "73B2132A86BD41C8963B274EDDCBC697",
+					"indexed" : true,
 					"unique" : true,
 					"autosequence" : true,
 					"type" : "long"
@@ -1318,12 +1427,20 @@
 					"path" : "sitecomp"
 				},
 				{
-					"name" : "mediaCollection",
+					"name" : "graphicElementCollection",
 					"kind" : "relatedEntities",
 					"scope" : "public",
-					"type" : "MediaCollection",
+					"type" : "GraphicElementCollection",
 					"reversePath" : true,
-					"path" : "ToElRef"
+					"path" : "tElRef"
+				},
+				{
+					"name" : "otherMediaCollection",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "OtherMediaCollection",
+					"reversePath" : true,
+					"path" : "tElRef"
 				}
 			],
 			"key" : 
