@@ -7,13 +7,13 @@
 		"__CDATA" : "\n\t\t\n\t\t\n\t",
 		"model" : 
 		{
-			"workspaceLeft" : 0,
-			"workspaceTop" : 3358,
+			"workspaceLeft" : 16,
+			"workspaceTop" : 273,
 			"__CDATA" : "\n\t\t\t\n\t\t",
 			"scriptMode" : "manual",
 			"relationCurve" : 
 			{
-				"run" : false,
+				"run" : true,
 				"mode" : 1
 			}
 		},
@@ -194,8 +194,8 @@
 					"__CDATA" : "\n\t\t\t\t\t\n\t\t\t\t",
 					"position" : 
 					{
-						"X" : "35",
-						"Y" : "720"
+						"X" : 49,
+						"Y" : 1109
 					}
 				}
 			},
@@ -341,11 +341,167 @@
 						"Y" : 3918
 					}
 				}
+			},
+			"Bibliographic_reference" : 
+			{
+				"panelColor" : "rgb(84, 141, 212)",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 10,
+						"Y" : 434
+					}
+				}
+			},
+			"Volume" : 
+			{
+				"panelColor" : "#CCC1D9",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 372,
+						"Y" : 609
+					}
+				}
+			},
+			"Journal_Publication" : 
+			{
+				"panelColor" : "#B8CCE4",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 392,
+						"Y" : 865
+					}
+				}
+			},
+			"Miscellaneous_Papers" : 
+			{
+				"panelColor" : "#B7DDE8",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 383,
+						"Y" : 708
+					}
+				}
+			},
+			"AuthorAsPerson" : 
+			{
+				"panelColor" : "#C3D69B",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"position" : 
+					{
+						"X" : 43,
+						"Y" : 803
+					}
+				}
 			}
 		}
 	},
 	"dataClasses" : 
 	[
+		{
+			"name" : "Bibliographic_reference",
+			"className" : "Bibliographic_reference",
+			"collectionName" : "Bibliographic_referenceCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "First_Name",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"type" : "string",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "Last_Name",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "Year",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "number"
+				},
+				{
+					"name" : "Title",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "Title_Integration",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "volume",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "bool"
+				},
+				{
+					"name" : "Journal",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "bool"
+				},
+				{
+					"name" : "Miscellaneous",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "bool"
+				},
+				{
+					"name" : "Type",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "Volume",
+					"path" : "Volume"
+				},
+				{
+					"name" : "Type2",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "Journal_Publication",
+					"path" : "Journal_Publication"
+				},
+				{
+					"name" : "Type3",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "Miscellaneous_Papers",
+					"path" : "Miscellaneous_Papers"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "First_Name"
+				}
+			]
+		},
 		{
 			"name" : "ChronRange",
 			"className" : "ChronRange",
@@ -718,14 +874,70 @@
 					"kind" : "calculated",
 					"scope" : "public",
 					"type" : "string",
-					"scriptKind" : "javascript",
-					"onGet" : 
-					[
-						{
-							"from" : "model.Georef_points.XYcoord.onGet",
-							"userDefined" : true
-						}
-					]
+					"scriptKind" : "javascript"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "Journal_Publication",
+			"className" : "Journal_Publication",
+			"collectionName" : "Journal_PublicationCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "Publication_Data",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "Index",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "Filing_Data",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "Descriptive_Data",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "Categories",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "Author",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "Bibliographic_referenceCollection",
+					"reversePath" : true,
+					"path" : "Type2"
 				}
 			],
 			"key" : 
@@ -748,6 +960,7 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"uuid" : "1041E2B769E74D37A681147BFCFC1566",
+					"indexed" : true,
 					"unique" : true,
 					"autosequence" : true,
 					"type" : "long"
@@ -766,6 +979,7 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"uuid" : "BECE3EFD14694560A2458D4234EE0491",
+					"indexed" : true,
 					"unique" : true,
 					"type" : "string"
 				},
@@ -814,30 +1028,76 @@
 					"kind" : "calculated",
 					"scope" : "public",
 					"type" : "string",
-					"scriptKind" : "javascript",
-					"onGet" : 
-					[
-						{
-							"from" : "model.LandscapeElement.XYcoord.onGet",
-							"userDefined" : true
-						}
-					]
-				}
-			],
-			"methods" : 
-			[
-				{
-					"name" : "getXYcoord",
-					"applyTo" : "entity",
-					"scope" : "publicOnServer",
-					"from" : "model.LandscapeElement.entityMethods.getXYcoord",
-					"userDefined" : true
+					"scriptKind" : "javascript"
 				}
 			],
 			"key" : 
 			[
 				{
 					"name" : "leID"
+				}
+			]
+		},
+		{
+			"name" : "Miscellaneous_Papers",
+			"className" : "Miscellaneous_Papers",
+			"collectionName" : "Miscellaneous_PapersCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "Publication_Data",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "Index",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "Filing_Data",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "Descriptive_Data",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "Categories",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "Author",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "Bibliographic_referenceCollection",
+					"reversePath" : true,
+					"path" : "Type3"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
 				}
 			]
 		},
@@ -896,6 +1156,13 @@
 					"name" : "ID"
 				}
 			]
+		},
+		{
+			"name" : "AuthorAsPerson",
+			"className" : "AuthorAsPerson",
+			"collectionName" : "AuthorAsPersonCollection",
+			"scope" : "public",
+			"extends" : "Person"
 		},
 		{
 			"name" : "Project",
@@ -1418,6 +1685,69 @@
 					"uuid" : "9E7E2E8F998E4C759F448F526FAB8694",
 					"type" : "Toponym",
 					"path" : "Toponym"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "Volume",
+			"className" : "Volume",
+			"collectionName" : "VolumeCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "Publication_Data",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "Index",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "Filing_Data",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "Descriptive_Data",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "Categories",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "Author",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "Bibliographic_referenceCollection",
+					"reversePath" : true,
+					"path" : "Type"
 				}
 			],
 			"key" : 
