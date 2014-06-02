@@ -26,3 +26,5 @@ sessionID.json
 *.waBackup
 # Wakanda Remote Model Cache
 *.waRemoteModel
+
+oa2_v0_main/DataFolder/journal.waJournal

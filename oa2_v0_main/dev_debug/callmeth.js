@@ -1,0 +1,1 @@
+﻿//debugger;var dic = ds.Dictionary.query('name == toponym.definition');//var diclemmas = dic.get_lemmas();var diclemmas = dic.toArray("dictionary_lemmas");
