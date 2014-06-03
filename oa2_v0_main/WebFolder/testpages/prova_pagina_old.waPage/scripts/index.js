@@ -1,4 +1,3 @@
-﻿
 WAF.onAfterInit = function onAfterInit() {// @lock
 
 // @region namespaceDeclaration// @startlock

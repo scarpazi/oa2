@@ -1,3 +1,4 @@
+﻿
 (function Component (id) {// @lock
 
 // Add the code that needs to be shared between components here
@@ -6,7 +7,7 @@ function constructor (id) {
 
 	// @region beginComponentDeclaration// @startlock
 	var $comp = this;
-	this.name = 'a_comptest';
+	this.name = 'media';
 	// @endregion// @endlock
 
 	this.load = function (data) {// @lock

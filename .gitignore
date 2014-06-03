@@ -28,3 +28,11 @@ sessionID.json
 *.waRemoteModel
 
 oa2_v0_main/DataFolder/journal.waJournal
+
+oa2_v0_main/Backups/lastBackup.json
+
+oa2_v0_main/DataFolder/data.waData
+
+oa2_v0_main/DataFolder/data.WakTDef
+
+oa2_v0_main/DataFolder/journal.waJournal

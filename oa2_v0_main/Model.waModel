@@ -7,8 +7,8 @@
 		"__CDATA" : "\n\t\t\n\t\t\n\t",
 		"model" : 
 		{
-			"workspaceLeft" : 16,
-			"workspaceTop" : 273,
+			"workspaceLeft" : 0,
+			"workspaceTop" : 300,
 			"__CDATA" : "\n\t\t\t\n\t\t",
 			"scriptMode" : "manual",
 			"relationCurve" : 
@@ -275,8 +275,8 @@
 					"__CDATA" : "\n\t\t\t\t\t\n\t\t\t\t",
 					"position" : 
 					{
-						"X" : "369",
-						"Y" : "300"
+						"X" : 361,
+						"Y" : 484
 					}
 				}
 			},
@@ -404,6 +404,34 @@
 					{
 						"X" : 43,
 						"Y" : 803
+					}
+				}
+			},
+			"GraphicElement" : 
+			{
+				"panelColor" : "#C3D69B",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 35,
+						"Y" : 450
+					}
+				}
+			},
+			"OtherMedia" : 
+			{
+				"panelColor" : "#C4BD97",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 38,
+						"Y" : 906
 					}
 				}
 			}
@@ -928,6 +956,85 @@
 			]
 		},
 		{
+			"name" : "GraphicElement",
+			"className" : "GraphicElement",
+			"collectionName" : "GraphicElementCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "imgName",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "imgDescrip",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "imgFile",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "image"
+				},
+				{
+					"name" : "authorID",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "Person",
+					"path" : "Person"
+				},
+				{
+					"name" : "lERef",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "LandscapeElement",
+					"path" : "LandscapeElement"
+				},
+				{
+					"name" : "tElRef",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "TopographicElement",
+					"path" : "TopographicElement"
+				},
+				{
+					"name" : "imgDate",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "date",
+					"simpleDate" : false,
+					"defaultFormat" : 
+					[
+						{
+							"format" : "dd/",
+							"locale" : "it",
+							"presentation" : "text"
+						}
+					]
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
 			"name" : "LandscapeElement",
 			"className" : "LandscapeElement",
 			"collectionName" : "LandscapeElementCollection",
@@ -1008,7 +1115,30 @@
 					"kind" : "calculated",
 					"scope" : "public",
 					"type" : "string",
-					"scriptKind" : "javascript"
+					"scriptKind" : "javascript",
+					"onGet" : 
+					[
+						{
+							"from" : "model.LandscapeElement.XYcoord.onGet",
+							"userDefined" : true
+						}
+					]
+				},
+				{
+					"name" : "graphicElementCollection",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "GraphicElementCollection",
+					"reversePath" : true,
+					"path" : "lERef"
+				},
+				{
+					"name" : "otherMediaCollection",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "OtherMediaCollection",
+					"reversePath" : true,
+					"path" : "lEref"
 				}
 			],
 			"key" : 
@@ -1082,6 +1212,77 @@
 			]
 		},
 		{
+			"name" : "OtherMedia",
+			"className" : "OtherMedia",
+			"collectionName" : "OtherMediaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "mediaName",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "mediaDescript",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "mediaFile",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "blob"
+				},
+				{
+					"name" : "authorID",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "Person",
+					"path" : "Person"
+				},
+				{
+					"name" : "lEref",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "LandscapeElement",
+					"path" : "LandscapeElement"
+				},
+				{
+					"name" : "tElRef",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "TopographicElement",
+					"path" : "TopographicElement"
+				},
+				{
+					"name" : "mediaDate",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "date",
+					"simpleDate" : false
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
 			"name" : "Person",
 			"className" : "Person",
 			"collectionName" : "PersonCollection",
@@ -1128,6 +1329,22 @@
 					"type" : "LandscapeElementCollection",
 					"reversePath" : true,
 					"path" : "owner"
+				},
+				{
+					"name" : "graphicElementCollection",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "GraphicElementCollection",
+					"reversePath" : true,
+					"path" : "authorID"
+				},
+				{
+					"name" : "otherMediaCollection",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "OtherMediaCollection",
+					"reversePath" : true,
+					"path" : "authorID"
 				}
 			],
 			"key" : 
@@ -1459,6 +1676,22 @@
 					"type" : "RefersToPersonCollection",
 					"reversePath" : true,
 					"path" : "sitecomp"
+				},
+				{
+					"name" : "graphicElementCollection",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "GraphicElementCollection",
+					"reversePath" : true,
+					"path" : "tElRef"
+				},
+				{
+					"name" : "otherMediaCollection",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "OtherMediaCollection",
+					"reversePath" : true,
+					"path" : "tElRef"
 				}
 			],
 			"key" : 
