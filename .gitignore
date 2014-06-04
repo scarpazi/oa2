@@ -41,4 +41,8 @@ sessionID.json
 
 #OA2_specific
 #oa2_v0_main/Backups/*.*
+<<<<<<< HEAD
 #oa2_v0_main/DataFolder/*.*
+=======
+#oa2_v0_main/DataFolder/*.*
+>>>>>>> FETCH_HEAD
