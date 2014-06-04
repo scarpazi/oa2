@@ -3,7 +3,7 @@
 	<folder path="./WebFolder/">
 		<tag name="webFolder"/>
 	</folder>
-	<folder path="./WebFolder/Text_files/">
+	<folder path="./DataFolder/">
 		<tag name="dataFolder"/>
 	</folder>
 	<file path="./Model.waModel">

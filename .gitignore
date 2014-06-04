@@ -1,38 +1,112 @@
 # OS X
 *.DS_Store
 ._*
+
 # Wakanda data
-#*.waData
+*.waData
+*.waJournal
+
 # Wakanda preferences
 *.waPreferences
+
 # Wakanda log
 *.waLog
 */Logs
 studio_log*
+
 # Wakanda code symbols
 *.waSym
 *.waSymData
+
 # Wakanda index
 *.waIndex
 *.waIndx
 *.Match
+
 # Wakanda User and Group cache
 *.cacheUAG
+
 # Wakanda breakpoints
 breakpoints.json
+
 # Wakanda session ID cache
 sessionID.json
+
 # Wakanda backup
 *.waBackup
+
 # Wakanda Remote Model Cache
 *.waRemoteModel
 
-oa2_v0_main/DataFolder/journal.waJournal
 
-oa2_v0_main/Backups/lastBackup.json
+#OA2_specific
+oa2_v0_main/Backups/*.*
+oa2_v0_main/DataFolder/*.*
 
-oa2_v0_main/DataFolder/data.waData
+oa2_v0_main/WebFolder/testpages/topomanag_old.waComponent/toponym-manager.css
 
-oa2_v0_main/DataFolder/data.WakTDef
+oa2_v0_main/WebFolder/testpages/topomanag_old.waComponent/toponym-manager.html
 
-oa2_v0_main/DataFolder/journal.waJournal
+oa2_v0_main/WebFolder/testpages/topomanag_old.waComponent/toponym-manager.js
+
+oa2_v0_main/WebFolder/testpages/topomanag_old.waComponent/toponym-manager.package.json
+
+oa2_v0_main/WebFolder/testandoldpages/a_pagestest.waPage/index.html
+
+oa2_v0_main/WebFolder/testandoldpages/a_pagestest.waPage/index.package.json
+
+oa2_v0_main/WebFolder/testandoldpages/a_pagestest.waPage/styles/index.css
+
+oa2_v0_main/WebFolder/testandoldpages/le_UItest.waPage/index.html
+
+oa2_v0_main/WebFolder/testandoldpages/le_UItest.waPage/styles/index-tablet.css
+
+oa2_v0_main/WebFolder/testandoldpages/le_UItest.waPage/styles/index.css
+
+oa2_v0_main/WebFolder/testandoldpages/prova_pagina_old.waPage/index.html
+
+oa2_v0_main/WebFolder/testandoldpages/topomanag_old.waComponent/manifest.json
+
+oa2_v0_main/WebFolder/testpages/a_pagestest.waPage/index.html
+
+oa2_v0_main/WebFolder/testpages/a_pagestest.waPage/index.package.json
+
+oa2_v0_main/WebFolder/testpages/a_pagestest.waPage/styles/index.css
+
+oa2_v0_main/WebFolder/testandoldpages/admin_test.waPage/index.html
+
+oa2_v0_main/WebFolder/testpages/admin_test.waPage/index.html
+
+oa2_v0_main/WebFolder/testandoldpages/admin_test.waPage/index.package.json
+
+oa2_v0_main/WebFolder/testandoldpages/admin_test.waPage/scripts/index.js
+
+oa2_v0_main/WebFolder/testandoldpages/admin_test.waPage/styles/index.css
+
+oa2_v0_main/WebFolder/testandoldpages/le_UItest.waPage/index-tablet.html
+
+oa2_v0_main/WebFolder/testandoldpages/le_UItest.waPage/index.package.json
+
+oa2_v0_main/WebFolder/testandoldpages/prova_pagina_old.waPage/index.package.json
+
+oa2_v0_main/WebFolder/testandoldpages/prova_pagina_old.waPage/scripts/index.js
+
+oa2_v0_main/WebFolder/testandoldpages/prova_pagina_old.waPage/styles/index.css
+
+oa2_v0_main/WebFolder/testpages/SU_main.waPage/index.package.json
+
+oa2_v0_main/Backups/backup_2014-06-03_14-47-57/DataFolder/Text_files/Text_files/09 universitdifoggia biblioteca_user-friendly.pdf
+
+oa2_v0_main/Backups/backup_2014-06-03_14-47-57/DataFolder/Text_files/Text_files/domanda_di_laurea_11_12.pdf
+
+oa2_v0_main/Backups/backup_2014-06-03_14-47-57/DataFolder/Text_files/Text_files/progetto_Montecorvino.pdf
+
+oa2_v0_main/Backups/backup_2014-06-03_14-47-57/DataFolder/Text_files/Text_files/Prospettodel20_03_12BC-LMAore14_00.pdf
+
+oa2_v0_main/Backups/backup_2014-06-03_14-47-57/DataFolder/Text_files/Text_files/seav_socios.pdf
+
+oa2_v0_main/WebFolder/a_toolbarstd.waComponent/a_toolbarstd.js
+
+oa2_v0_main/WebFolder/webcomps/a_vocabs.waComponent/a_vocabs.js
+
+oa2_v0_main/WebFolder/webcomps/media.waComponent/media.js
