@@ -1017,7 +1017,6 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"uuid" : "1041E2B769E74D37A681147BFCFC1566",
-					"indexed" : true,
 					"unique" : true,
 					"autosequence" : true,
 					"type" : "long"
@@ -1036,7 +1035,6 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"uuid" : "BECE3EFD14694560A2458D4234EE0491",
-					"indexed" : true,
 					"unique" : true,
 					"type" : "string"
 				},
@@ -1580,7 +1578,6 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"uuid" : "73B2132A86BD41C8963B274EDDCBC697",
-					"indexed" : true,
 					"unique" : true,
 					"autosequence" : true,
 					"type" : "long"
