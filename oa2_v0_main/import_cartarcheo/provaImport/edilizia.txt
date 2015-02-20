@@ -22,7 +22,7 @@
 %0012720006%EDI0002%	0012720006	Edilizia in materiale deperibile	Cortile A, fase V
 %0012720006%EDI0003%	0012720006	Edilizia in materiale deperibile	Cortile B
 %0020540002%EDI0001%	0020540002	Edilizia in materiale deperibile	
-%0021480002%EDI0009%	0021480002	Edilizia in materiale deperibile	Quadrante N-E, US218
+%0021480002%EDI0009%	0021480002	Edilizia in materiale deperibile	Quadrante N-E, US 218
 %0021480002%EDI0010%	0021480002	Edilizia in materiale deperibile	Quadrante N-E
 %0021480002%EDI0011%	0021480002	Edilizia in materiale deperibile	Quadrante N-E
 %0021480002%EDI0012%	0021480002	Edilizia in materiale deperibile	Quadrante N-E, US334
