@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?><solution>
-	<project path="../oa2_v0_main/oa2_v0_main.waProject" startupProject="true"/>
+	<project path="../oa2_main/oa2_main.waProject"/>
 	<file path="./Settings.waSettings">
 		<tag name="settings"/>
 	</file>
