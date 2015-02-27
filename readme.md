@@ -1,4 +1,4 @@
-![##openarcheo2](oa2_v0_main/WebFolder/images/oa2_hlogo_1024.gif)
+![##openarcheo2](oa2_main/WebFolder/images/oa2_hlogo_1024.gif)
 ## a wholly different archaeological information system
 <br>
 <br>
