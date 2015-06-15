@@ -1,1 +1,0 @@
-model.LandscapeElement.entityMethods.getXYcoord = function () {				return "ppp";			};
