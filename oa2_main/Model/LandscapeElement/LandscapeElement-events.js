@@ -1,1 +1,1 @@
-model.LandscapeElement.XYcoord.onGet = function () {				//getXYcoord();			};
+model.LandscapeElement.XYcoord.onGet = function () {				//getXYcoord();			};model.LandscapeElement.defcalc.onGet = function() {	return this.def1 + '|' + this.def2};
