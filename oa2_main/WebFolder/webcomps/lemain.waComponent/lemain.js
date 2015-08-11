@@ -22,7 +22,7 @@ function constructor (id) {
 	{// @endlock
 		var theName = $$("idquerystring").getValue();
 		sources.landscapeElement.query('name = :1 order by name', { params: [theName + "*"]});
-	
+
 	};// @lock
 
 	// @region eventManager// @startlock
