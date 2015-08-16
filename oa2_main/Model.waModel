@@ -7,8 +7,8 @@
 		"__CDATA" : "\n\t\t\n\t\t\n\t",
 		"model" : 
 		{
-			"workspaceLeft" : 405,
-			"workspaceTop" : 900,
+			"workspaceLeft" : 1305,
+			"workspaceTop" : 5704,
 			"__CDATA" : "\n\t\t\t\n\t\t",
 			"scriptMode" : "manual",
 			"relationCurve" : 
@@ -2073,10 +2073,10 @@
 					"indexKind" : "btree"
 				},
 				{
-					"name" : "attribute1",
+					"name" : "name",
 					"kind" : "storage",
 					"scope" : "public",
-					"type" : "image"
+					"type" : "string"
 				},
 				{
 					"name" : "landscapeElementCollection",
@@ -2210,7 +2210,7 @@
 					"scope" : "public",
 					"type" : "RepoDocCollection",
 					"reversePath" : true,
-					"path" : "lEref"
+					"path" : "le_ref"
 				},
 				{
 					"name" : "sources",
@@ -2225,6 +2225,14 @@
 					"kind" : "storage",
 					"scope" : "public",
 					"type" : "string"
+				},
+				{
+					"name" : "toponymRefCollection",
+					"kind" : "relatedEntities",
+					"scope" : "public",
+					"type" : "ToponymRefCollection",
+					"reversePath" : true,
+					"path" : "leref"
 				}
 			],
 			"key" : 
@@ -2764,15 +2772,17 @@
 					"path" : "Person"
 				},
 				{
-					"name" : "lEref",
+					"name" : "le_ref",
 					"kind" : "relatedEntity",
+					"matchColumn" : "lEref",
 					"scope" : "public",
 					"type" : "LandscapeElement",
 					"path" : "LandscapeElement"
 				},
 				{
-					"name" : "tElRef",
+					"name" : "te_ref",
 					"kind" : "relatedEntity",
+					"matchColumn" : "tElRef",
 					"scope" : "public",
 					"type" : "TopographicElement",
 					"path" : "TopographicElement"
@@ -3429,7 +3439,7 @@
 					"scope" : "public",
 					"type" : "RepoDocCollection",
 					"reversePath" : true,
-					"path" : "tElRef"
+					"path" : "te_ref"
 				},
 				{
 					"name" : "daCollection",
@@ -3685,6 +3695,19 @@
 					"scope" : "public",
 					"type" : "Toponym",
 					"path" : "Toponym"
+				},
+				{
+					"name" : "leref",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "LandscapeElement",
+					"path" : "LandscapeElement"
+				},
+				{
+					"name" : "lemain",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "bool"
 				}
 			],
 			"key" : 

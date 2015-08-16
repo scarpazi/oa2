@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html><section data-group="[['dialog1','container1','richText4','image1','button1','button2','button3','container2','container3','button4','button5']]">
+    <meta name="generator" content="Wakanda GUIDesigner"/>
+    <meta name="WAF.catalog" content="LandscapeElement,Toponym"/>
+    <meta data-type="dataSource" data-lib="WAF" data-source="Toponym" data-source-type="dataClass" data-dataType="string" data-autoLoad="true" name="WAF.config.datasources" data-scope="local" data-id="{id}toponym" content="toponym"/>
+    <meta data-type="dataSource" data-lib="WAF" data-source="LandscapeElement" data-source-type="dataClass" data-dataType="string" data-autoLoad="true" name="WAF.config.datasources" data-scope="local" data-id="{id}landscapeElement" content="landscapeElement"/>		<div id="{id}richText2" data-type="richText" data-lib="WAF" data-binding="{id}landscapeElement.ID" class="waf-widget waf-richText" data-autoWidth="true" data-label="ID" data-label-position="left" data-target="_blank" data-overflow="Hidden" data-plainText="true" data-constraint-left="true" data-constraint-top="true"></div>
+		<label id="{id}label1" data-type="label" data-lib="WAF" for="{id}richText2" data-valign="middle" data-margin="5" class="waf-widget waf-label waf-label-richtext" data-constraint-left="true" data-constraint-top="true">ID</label>
+				<div id="{id}richText3" data-type="richText" data-lib="WAF" data-binding="{id}landscapeElement.name" class="waf-widget waf-richText" data-autoWidth="true" data-label="name" data-label-position="left" data-target="_blank" data-overflow="Hidden" data-plainText="true" data-constraint-left="true" data-constraint-top="true"></div>
+		<label id="{id}label3" data-type="label" data-lib="WAF" for="{id}richText3" data-valign="middle" data-margin="5" class="waf-widget waf-label waf-label-richtext" data-constraint-left="true" data-constraint-top="true">name</label>
+			<div id="{id}dataGrid2" data-type="dataGrid" data-lib="WAF" data-binding="{id}toponym" class="waf-widget waf-dataGrid" data-label="" data-label-position="top" data-selection-mode="single" data-display-error="true" data-footer-text="item(s)" data-column="[{'sourceAttID':'name','colID':'name','width':'150','title':'Name'},{'sourceAttID':'definition','colID':'definition','width':'150','title':'Definition'},{'sourceAttID':'administrative','colID':'administrative','width':'150','title':'Adm.'},{'sourceAttID':'historical','colID':'historical','width':'150','title':'Hist.'}]" data-constraint-left="true" data-constraint-top="true" data-readOnly="true"></div>
+				<div id="{id}dialog1" data-type="dialog" data-lib="WAF" data-front="true" data-hideOnOutsideClick="false" class="waf-widget waf-dialog waf-container" data-constraint-left="true" data-constraint-top="true" data-linked-tag="{id}container1,{id}richText4,{id}image1,{id}button1,{id}button2,{id}button3,{id}container2,{id}container3,{id}button4,{id}button5">
+	 	 	<div id="{id}container1" data-type="container" data-lib="WAF" class="waf-widget waf-container waf-container-level-1 waf-level-1 waf-widget-header waf-dialog-header" data-label="" data-label-position="top" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="true">
+	 	 	 	<div id="{id}richText4" data-type="richText" data-lib="WAF" class="waf-widget waf-richText waf-dialog-header-title" data-autoWidth="false" data-label="" data-label-position="left" data-target="_blank" data-overflow="Hidden" data-plainText="true" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="true">Dialog Title</div>
+ 	 	 		<div id="{id}image1" data-type="image" data-lib="WAF" class="waf-widget waf-image waf-dialog-header-icon" data-target="_blank" data-label="" data-label-position="left" data-fit="0" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="false" data-src="/walib/WAF/widget/dialog/images/alert.png"></div>
+ 	 	 		<button id="{id}button1" data-type="button" data-lib="WAF" class="waf-widget waf-button waf-dialog-header-buttons waf-dialog-header-maximize" data-action="simple" data-target="_blank" data-constraint-left="false" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="true" data-text="+"></button>
+ 	 	 		<button id="{id}button2" data-type="button" data-lib="WAF" class="waf-widget waf-button waf-dialog-header-buttons waf-dialog-header-minimize" data-action="simple" data-target="_blank" data-constraint-left="false" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="true" data-text="-"></button>
+ 	 	 		<button id="{id}button3" data-type="button" data-lib="WAF" class="waf-widget waf-button waf-dialog-header-buttons waf-dialog-header-close" data-action="simple" data-target="_blank" data-constraint-left="false" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="true" data-text="x"></button>
+ 	 	 	</div>
+ 	 		<div id="{id}container2" data-type="container" data-lib="WAF" class="waf-widget waf-container waf-container-level-1 waf-level-1 waf-widget-body waf-dialog-body" data-label="" data-label-position="top" data-context="['protected','allowDrop','allowBind']" data-constraint-left="true" data-constraint-top="true" data-constraint-bottom="true" data-constraint-right="true"></div>
+ 	 		<div id="{id}container3" data-type="container" data-lib="WAF" class="waf-widget waf-container waf-container-level-1 waf-level-1 waf-widget-footer waf-dialog-footer" data-label="" data-label-position="top" data-context="['protected']" data-constraint-left="true" data-constraint-top="false" data-constraint-bottom="true" data-constraint-right="true">
+	 	 	 	<button id="{id}button4" data-type="button" data-lib="WAF" class="waf-widget waf-button waf-role-cancel" data-action="simple" data-target="_blank" data-context="['protected']" data-constraint-left="false" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="true" data-text="Cancel" data-role="cancel"></button>
+ 	 	 		<button id="{id}button5" data-type="button" data-lib="WAF" class="waf-widget waf-button waf-role-confirm" data-action="simple" data-target="_blank" data-context="['protected']" data-constraint-left="false" data-constraint-top="true" data-constraint-bottom="false" data-constraint-right="true" data-text="OK" data-role="confirm"></button>
+ 	 	 	</div>
+ 	 	</div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	</section>

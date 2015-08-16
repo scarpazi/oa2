@@ -40,11 +40,9 @@ function constructor (id) {
 
 	// @region namespaceDeclaration// @startlock
 	var tgrid = {};	// @dataGrid
-	var tlast = {};	// @buttonImage
-	var tnnext = {};	// @buttonImage
 	var tfirst = {};	// @buttonImage
-	var tprev = {};	// @buttonImage
 	var tnext = {};	// @buttonImage
+	var tlast = {};	// @buttonImage
 	var tfilter = {};	// @textField
 	// @endregion// @endlock
 
@@ -86,30 +84,6 @@ function constructor (id) {
 				  $$(getHtmlId('terrtab')).hide();}
 	};// @lock
 
-	tlast.click = function tlast_click (event)// @startlock
-	{// @endlock
-		if ($comp.sources.toponym.administrative)		
-				{ $$(getHtmlId('tadmtab')).show();
-				  $$(getHtmlId('tgentab')).hide();
-				  $$(getHtmlId('thisttab')).hide();
-				  $$(getHtmlId('terrtab')).hide();}
-			else if ($comp.sources.toponym.historical)
-				{ $$(getHtmlId('tadmtab')).hide();
-				  $$(getHtmlId('tgentab')).hide();
-				  $$(getHtmlId('thisttab')).show();
-				  $$(getHtmlId('terrtab')).hide();}
-			else
-				{ $$(getHtmlId('tadmtab')).hide();
-				  $$(getHtmlId('tgentab')).show();
-				  $$(getHtmlId('thisttab')).hide();
-				  $$(getHtmlId('terrtab')).hide();}
-	};// @lock
-
-	tnnext.click = function tnnext_click (event)// @startlock
-	{// @endlock
-		$$('toponym-manager').tCondUI
-	};// @lock
-
 	tfirst.click = function tfirst_click (event)// @startlock
 	{// @endlock
 		if ($comp.sources.toponym.administrative && $comp.sources.toponym.historical)
@@ -136,7 +110,7 @@ function constructor (id) {
 
 	};// @lock
 
-	tprev.click = function tprev_click (event)// @startlock
+	tnext.click = function tnext_click (event)// @startlock
 	{// @endlock
 		if ($comp.sources.toponym.administrative && $comp.sources.toponym.historical)
 			{ $$(getHtmlId('tadmtab')).hide();
@@ -162,7 +136,7 @@ function constructor (id) {
 
 	};// @lock
 
-	tnext.click = function tnext_click (event)// @startlock
+	tlast.click = function tlast_click (event)// @startlock
 	{// @endlock
 			if ($comp.sources.toponym.administrative)		
 				{ $$(getHtmlId('tadmtab')).show();
@@ -192,11 +166,9 @@ function constructor (id) {
 
 	// @region eventManager// @startlock
 	WAF.addListener(this.id + "_tgrid", "onRowClick", tgrid.onRowClick, "WAF");
-	WAF.addListener(this.id + "_tlast", "click", tlast.click, "WAF");
-	WAF.addListener(this.id + "_tnnext", "click", tnnext.click, "WAF");
 	WAF.addListener(this.id + "_tfirst", "click", tfirst.click, "WAF");
-	WAF.addListener(this.id + "_tprev", "click", tprev.click, "WAF");
 	WAF.addListener(this.id + "_tnext", "click", tnext.click, "WAF");
+	WAF.addListener(this.id + "_tlast", "click", tlast.click, "WAF");
 	WAF.addListener(this.id + "_tfilter", "keyup", tfilter.keyup, "WAF");
 	// @endregion// @endlock
 
