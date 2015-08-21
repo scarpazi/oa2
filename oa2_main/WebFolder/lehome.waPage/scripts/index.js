@@ -4,8 +4,8 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 // @region namespaceDeclaration// @startlock
 	var ledefedit = {};	// @button
 	var documentEvent = {};	// @document
-	var twob_ok = {};	// @button
-	var twob_cancel = {};	// @button
+	var twobok = {};	// @button
+	var twobcancel = {};	// @button
 	var idquerystring = {};	// @textField
 // @endregion// @endlock
 
@@ -32,12 +32,12 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 
 	};// @lock
 
-	twob_ok.click = function twob_ok_click (event)// @startlock
+	twobok.click = function twobok_click (event)// @startlock
 	{// @endlock
 		$$('twob_dialog').closeDialog(); //ok button
 	};// @lock
 
-	twob_cancel.click = function twob_cancel_click (event)// @startlock
+	twobcancel.click = function twobcancel_click (event)// @startlock
 	{// @endlock
 		$$('twob_dialog').closeDialog(); //cancel button
 	};// @lock
@@ -52,8 +52,8 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 // @region eventManager// @startlock
 	WAF.addListener("ledefedit", "click", ledefedit.click, "WAF");
 	WAF.addListener("document", "onLoad", documentEvent.onLoad, "WAF");
-	WAF.addListener("twob_ok", "click", twob_ok.click, "WAF");
-	WAF.addListener("twob_cancel", "click", twob_cancel.click, "WAF");
+	WAF.addListener("twobok", "click", twobok.click, "WAF");
+	WAF.addListener("twobcancel", "click", twobcancel.click, "WAF");
 	WAF.addListener("idquerystring", "keyup", idquerystring.keyup, "WAF");
 // @endregion
 };// @endlock

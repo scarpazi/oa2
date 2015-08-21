@@ -7,8 +7,8 @@
 		"__CDATA" : "\n\t\t\n\t\t\n\t",
 		"model" : 
 		{
-			"workspaceLeft" : 1305,
-			"workspaceTop" : 5704,
+			"workspaceLeft" : 0,
+			"workspaceTop" : 0,
 			"__CDATA" : "\n\t\t\t\n\t\t",
 			"scriptMode" : "manual",
 			"relationCurve" : 
@@ -22,15 +22,15 @@
 				{
 					"method" : "Dictionary/Dictionary-methods.js"
 				},
-				"Dictionary_lemma" : 
-				{
-					"method" : "Dictionary_lemma/Dictionary_lemma-methods.js",
-					"computed" : "Dictionary_lemma/Dictionary_lemma-events.js"
-				},
 				"LandscapeElement" : 
 				{
 					"method" : "LandscapeElement/LandscapeElement-methods.js",
 					"computed" : "LandscapeElement/LandscapeElement-events.js"
+				},
+				"DictionaryLemma" : 
+				{
+					"method" : "Dictionary_lemma/Dictionary_lemma-methods.js",
+					"computed" : "Dictionary_lemma/Dictionary_lemma-events.js"
 				}
 			}
 		},
@@ -571,20 +571,6 @@
 					}
 				}
 			},
-			"Dictionary_lemma" : 
-			{
-				"panelColor" : "rgb(255, 255, 255)",
-				"panel" : 
-				{
-					"isOpen" : "true",
-					"pathVisible" : true,
-					"position" : 
-					{
-						"X" : 2900,
-						"Y" : 1500
-					}
-				}
-			},
 			"Image" : 
 			{
 				"panelColor" : "rgb(255, 255, 255)",
@@ -792,11 +778,192 @@
 						"Y" : 500
 					}
 				}
+			},
+			"DictionaryLemma" : 
+			{
+				"panelColor" : "rgb(255, 255, 255)",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 2900,
+						"Y" : 1500
+					}
+				}
+			},
+			"A" : 
+			{
+				"panelColor" : "#7F7F7F",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 25,
+						"Y" : 20
+					}
+				}
+			},
+			"Aa" : 
+			{
+				"panelColor" : "#B2A2C7",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 35,
+						"Y" : 194
+					}
+				}
+			},
+			"Aaa" : 
+			{
+				"panelColor" : "#4FA997",
+				"panel" : 
+				{
+					"isOpen" : "true",
+					"pathVisible" : true,
+					"position" : 
+					{
+						"X" : 35,
+						"Y" : 394
+					}
+				}
 			}
 		}
 	},
 	"dataClasses" : 
 	[
+		{
+			"name" : "A",
+			"className" : "A",
+			"collectionName" : "ACollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "nation",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "regions",
+					"kind" : "relatedEntities",
+					"matchColumn" : "aaCollection",
+					"scope" : "public",
+					"type" : "AaCollection",
+					"reversePath" : true,
+					"path" : "nation"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "Aa",
+			"className" : "Aa",
+			"collectionName" : "AaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "nation",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "A",
+					"path" : "A"
+				},
+				{
+					"name" : "region",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				},
+				{
+					"name" : "provinces",
+					"kind" : "relatedEntities",
+					"matchColumn" : "aaaCollection",
+					"scope" : "public",
+					"type" : "AaaCollection",
+					"reversePath" : true,
+					"path" : "region"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
+		{
+			"name" : "Aaa",
+			"className" : "Aaa",
+			"collectionName" : "AaaCollection",
+			"scope" : "public",
+			"attributes" : 
+			[
+				{
+					"name" : "ID",
+					"kind" : "storage",
+					"scope" : "public",
+					"indexed" : true,
+					"unique" : true,
+					"autosequence" : true,
+					"type" : "long",
+					"indexKind" : "btree"
+				},
+				{
+					"name" : "region",
+					"kind" : "relatedEntity",
+					"scope" : "public",
+					"type" : "Aa",
+					"path" : "Aa"
+				},
+				{
+					"name" : "province",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
+				}
+			],
+			"key" : 
+			[
+				{
+					"name" : "ID"
+				}
+			]
+		},
 		{
 			"name" : "Bibliographic_title",
 			"className" : "Bibliographic_title",
@@ -1790,13 +1957,14 @@
 					"identifying" : true
 				},
 				{
-					"name" : "dictionary_lemmas",
+					"name" : "lemmas",
 					"kind" : "relatedEntities",
+					"matchColumn" : "dictionary_lemmas",
 					"scope" : "public",
-					"type" : "Dictionary_lemmaCollection",
+					"type" : "DictionaryLemmaCollection",
 					"indexKind" : "auto",
 					"reversePath" : true,
-					"path" : "dictionary"
+					"path" : "dicobject"
 				},
 				{
 					"name" : "notes",
@@ -1814,9 +1982,10 @@
 			]
 		},
 		{
-			"name" : "Dictionary_lemma",
-			"className" : "Dictionary_lemma",
-			"collectionName" : "Dictionary_lemmaCollection",
+			"name" : "DictionaryLemma",
+			"className" : "DictionaryLemma",
+			"collectionName" : "DictionaryLemmaCollection",
+			"matchTable" : "Dictionary_lemma",
 			"scope" : "public",
 			"attributes" : 
 			[
@@ -1831,30 +2000,56 @@
 					"indexKind" : "btree"
 				},
 				{
-					"name" : "dictionary",
+					"name" : "dicobject",
 					"kind" : "relatedEntity",
+					"matchColumn" : "dicobj,dictionary",
 					"scope" : "public",
 					"type" : "Dictionary",
 					"indexKind" : "auto",
 					"path" : "Dictionary"
 				},
 				{
-					"name" : "dictionaryname",
+					"name" : "dicname",
 					"kind" : "alias",
+					"matchColumn" : "dictionaryname",
 					"scope" : "public",
 					"type" : "string",
-					"indexKind" : "auto",
-					"path" : "dictionary.name"
+					"path" : "dicobject.name"
+				},
+				{
+					"name" : "dicnotes",
+					"kind" : "alias",
+					"matchColumn" : "dictionarynotes",
+					"scope" : "public",
+					"type" : "string",
+					"path" : "dicobject.notes"
 				},
 				{
 					"name" : "value",
 					"kind" : "storage",
-					"matchColumn" : "lemma",
+					"matchColumn" : "value1,value2,value,lemma",
 					"scope" : "public",
 					"indexed" : true,
 					"limiting_length" : 100,
 					"type" : "string",
 					"indexKind" : "auto"
+				},
+				{
+					"name" : "primarylemma",
+					"kind" : "relatedEntity",
+					"matchColumn" : "primary_value,primary_value,value1,value2,value1",
+					"scope" : "public",
+					"type" : "DictionaryLemma",
+					"path" : "DictionaryLemma"
+				},
+				{
+					"name" : "secondarylemmas",
+					"kind" : "relatedEntities",
+					"matchColumn" : "secondary_values,secondaryvalues,secondary_values,dictionary_lemmaCollection",
+					"scope" : "public",
+					"type" : "DictionaryLemmaCollection",
+					"reversePath" : true,
+					"path" : "primarylemma"
 				},
 				{
 					"name" : "notes",
