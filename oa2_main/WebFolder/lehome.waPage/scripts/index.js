@@ -13,9 +13,9 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 
 	ledefedit.click = function ledefedit_click (event)// @startlock
 	{// @endlock
-		$$('twob_dialog').displayDialog();
-		$$('twob_dialog').addClass('le_def_edit');
-		$$('twob_dialog_comp').loadComponent({ 
+		$$('twobDialog').displayDialog();
+		$$('twobDialog').addClass('le_def_edit');
+		$$('twobcomp').loadComponent({ 
     		path: "/webcomps/le_def.waComponent",
     		userData: { dialogtitle: "Specific data"},
     		onSuccess: function () {
@@ -27,21 +27,23 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 	documentEvent.onLoad = function documentEvent_onLoad (event)// @startlock
 	{// @endlock
 		//hide generic two button dialog
-		$$('twob_dialog').addClass('hidetop');
-		$$('twob_dialog').closeDialog();
+		$$('twobDialog').addClass('hidetop');
+		$$('twobDialog').closeDialog();
 
 	};// @lock
 
+// twobDialog buttons (ok and cancel)
 	twobok.click = function twobok_click (event)// @startlock
 	{// @endlock
-		$$('twob_dialog').closeDialog(); //ok button
+		$$('twobDialog').closeDialog(); //ok button
 	};// @lock
 
 	twobcancel.click = function twobcancel_click (event)// @startlock
 	{// @endlock
-		$$('twob_dialog').closeDialog(); //cancel button
+		$$('twobDialog').closeDialog(); //cancel button
 	};// @lock
 
+// query on keyup
 	idquerystring.keyup = function idquerystring_keyup (event)// @startlock
 	{// @endlock
 		var theName = $$("idquerystring").getValue();

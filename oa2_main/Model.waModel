@@ -7,8 +7,8 @@
 		"__CDATA" : "\n\t\t\n\t\t\n\t",
 		"model" : 
 		{
-			"workspaceLeft" : 0,
-			"workspaceTop" : 0,
+			"workspaceLeft" : 2405,
+			"workspaceTop" : 1400,
 			"__CDATA" : "\n\t\t\t\n\t\t",
 			"scriptMode" : "manual",
 			"relationCurve" : 
@@ -1951,10 +1951,8 @@
 					"scope" : "public",
 					"indexed" : true,
 					"limiting_length" : 100,
-					"not_null" : true,
 					"type" : "string",
-					"indexKind" : "auto",
-					"identifying" : true
+					"indexKind" : "auto"
 				},
 				{
 					"name" : "lemmas",
@@ -2025,9 +2023,9 @@
 					"path" : "dicobject.notes"
 				},
 				{
-					"name" : "value",
+					"name" : "lvalue",
 					"kind" : "storage",
-					"matchColumn" : "value1,value2,value,lemma",
+					"matchColumn" : "value,value1,value2,value,lemma",
 					"scope" : "public",
 					"indexed" : true,
 					"limiting_length" : 100,
@@ -2041,6 +2039,13 @@
 					"scope" : "public",
 					"type" : "DictionaryLemma",
 					"path" : "DictionaryLemma"
+				},
+				{
+					"name" : "plvalue",
+					"kind" : "alias",
+					"scope" : "public",
+					"type" : "string",
+					"path" : "primarylemma.lvalue"
 				},
 				{
 					"name" : "secondarylemmas",
