@@ -11,7 +11,7 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 	{// @endlock
 		// *** Opentip tooltips ***
 		var oa2logoTip = new Opentip($("#oa2logo"));
-		oa2logoTip.setContent("va'n mona");
+		oa2logoTip.setContent("a wholly different archaeological management system");
 		
 		// *** load components ***
 		$$('diclemmaComponent').loadComponent ({ 

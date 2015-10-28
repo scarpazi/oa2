@@ -7,8 +7,8 @@
 		"__CDATA" : "\n\t\t\n\t\t\n\t",
 		"model" : 
 		{
-			"workspaceLeft" : 2405,
-			"workspaceTop" : 1400,
+			"workspaceLeft" : 405,
+			"workspaceTop" : 1900,
 			"__CDATA" : "\n\t\t\t\n\t\t",
 			"scriptMode" : "manual",
 			"relationCurve" : 
@@ -30,7 +30,7 @@
 				"DictionaryLemma" : 
 				{
 					"method" : "Dictionary_lemma/Dictionary_lemma-methods.js",
-					"computed" : "Dictionary_lemma/Dictionary_lemma-events.js"
+					"computed" : "DictionaryLemma/DictionaryLemma-events.js"
 				}
 			}
 		},
@@ -2062,6 +2062,38 @@
 					"scope" : "public",
 					"limiting_length" : 500,
 					"type" : "string"
+				},
+				{
+					"name" : "isPrimary",
+					"kind" : "calculated",
+					"scope" : "public",
+					"type" : "bool",
+					"scriptKind" : "javascript",
+					"onGet" : 
+					[
+						{
+							"from" : "$mainModel.DictionaryLemma.isPrimary.onGet",
+							"userDefined" : true
+						}
+					]
+				},
+				{
+					"name" : "leDef1Collection",
+					"kind" : "relatedEntities",
+					"matchColumn" : "landscapeElementCollection",
+					"scope" : "public",
+					"type" : "LandscapeElementCollection",
+					"reversePath" : true,
+					"path" : "def1Obj"
+				},
+				{
+					"name" : "leDef2Collection",
+					"kind" : "relatedEntities",
+					"matchColumn" : "landscapeElementCollection_1",
+					"scope" : "public",
+					"type" : "LandscapeElementCollection",
+					"reversePath" : true,
+					"path" : "def2Obj"
 				}
 			],
 			"key" : 
@@ -2340,19 +2372,23 @@
 					"path" : "Landscape"
 				},
 				{
-					"name" : "def1",
-					"kind" : "storage",
+					"name" : "def1Obj",
+					"kind" : "relatedEntity",
+					"matchColumn" : "def1",
 					"scope" : "public",
-					"type" : "string"
+					"type" : "DictionaryLemma",
+					"path" : "DictionaryLemma"
 				},
 				{
-					"name" : "def2",
-					"kind" : "storage",
+					"name" : "def2Obj",
+					"kind" : "relatedEntity",
+					"matchColumn" : "def2",
 					"scope" : "public",
-					"type" : "string"
+					"type" : "DictionaryLemma",
+					"path" : "DictionaryLemma"
 				},
 				{
-					"name" : "defcalc",
+					"name" : "defComplete",
 					"kind" : "calculated",
 					"scope" : "public",
 					"type" : "string",
@@ -2360,7 +2396,7 @@
 					"onGet" : 
 					[
 						{
-							"from" : "$mainModel.LandscapeElement.defcalc.onGet",
+							"from" : "$mainModel.LandscapeElement.defComplete.onGet",
 							"userDefined" : true
 						}
 					]
@@ -2373,16 +2409,18 @@
 					"path" : "RecordStamp"
 				},
 				{
-					"name" : "main_toponym",
+					"name" : "mainToponym",
 					"kind" : "relatedEntity",
+					"matchColumn" : "main_toponym",
 					"scope" : "public",
 					"uuid" : "AC99A0D9DE4A47DF9E39C72265DC5ECF",
 					"type" : "Toponym",
 					"path" : "Toponym"
 				},
 				{
-					"name" : "origin_project",
+					"name" : "originProject",
 					"kind" : "relatedEntity",
+					"matchColumn" : "origin_project",
 					"scope" : "public",
 					"uuid" : "8C2E585BBBA541018770AB87BD46FE0C",
 					"type" : "Project",
@@ -2421,8 +2459,9 @@
 					"path" : "le_ref"
 				},
 				{
-					"name" : "brief_desc",
+					"name" : "briefDesc",
 					"kind" : "storage",
+					"matchColumn" : "brief_desc",
 					"scope" : "public",
 					"type" : "string"
 				},
@@ -2438,7 +2477,7 @@
 			"key" : 
 			[
 				{
-					"name" : "leID"
+					"name" : "ID"
 				}
 			]
 		},
@@ -2712,7 +2751,7 @@
 					"scope" : "public",
 					"type" : "LandscapeElementCollection",
 					"reversePath" : true,
-					"path" : "origin_project"
+					"path" : "originProject"
 				},
 				{
 					"name" : "da_ref",
@@ -3619,11 +3658,11 @@
 					"type" : "string"
 				},
 				{
-					"name" : "sitename",
-					"kind" : "alias",
+					"name" : "name",
+					"kind" : "storage",
+					"matchColumn" : "sitename",
 					"scope" : "public",
-					"type" : "string",
-					"path" : "le.name"
+					"type" : "string"
 				},
 				{
 					"name" : "graphicElementCollection",
@@ -3681,6 +3720,12 @@
 					"scope" : "public",
 					"type" : "LandscapeElement",
 					"path" : "LandscapeElement"
+				},
+				{
+					"name" : "name",
+					"kind" : "storage",
+					"scope" : "public",
+					"type" : "string"
 				},
 				{
 					"name" : "daCollection",
@@ -3781,7 +3826,7 @@
 					"type" : "LandscapeElementCollection",
 					"indexKind" : "auto",
 					"reversePath" : true,
-					"path" : "main_toponym"
+					"path" : "mainToponym"
 				},
 				{
 					"name" : "decontextualized_artifactCollection",

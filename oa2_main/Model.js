@@ -46,3 +46,5 @@ include("./Model/Toponym_adm/Toponym_adm-events.js");
 
 include("./Model/ToponymRel/ToponymRel-events.js");
 include("./Model/ToponymRel/ToponymRel-methods.js");
+
+include("./Model/DictionaryLemma/DictionaryLemma-events.js");

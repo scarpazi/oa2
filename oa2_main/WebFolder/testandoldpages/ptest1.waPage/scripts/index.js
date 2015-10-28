@@ -2,11 +2,22 @@
 WAF.onAfterInit = function onAfterInit() {// @lock
 
 // @region namespaceDeclaration// @startlock
-	var documentEvent = {};	// @document
+	var button6 = {};	// @button
 	var button1 = {};	// @button
+	var documentEvent = {};	// @document
 // @endregion// @endlock
 
 // eventHandlers// @lock
+
+	button6.click = function button6_click (event)// @startlock
+	{// @endlock
+		var1 = dictionaryLemma.primarylemma.count();
+	};// @lock
+
+	button1.click = function button1_click (event)// @startlock
+	{// @endlock
+		sources.dictionaryLemma.query('plvalue = :1 order by plvalue', {params : [queryStr + '*']});
+	};// @lock
 
 	documentEvent.onLoad = function documentEvent_onLoad (event)// @startlock
 	{// @endlock
@@ -18,13 +29,9 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 
 	};// @lock
 
-	button1.mouseover = function button1_mouseover (event)// @startlock
-	{// @endlock
-
-	};// @lock
-
 // @region eventManager// @startlock
+	WAF.addListener("button6", "click", button6.click, "WAF");
+	WAF.addListener("button1", "click", button1.click, "WAF");
 	WAF.addListener("document", "onLoad", documentEvent.onLoad, "WAF");
-	WAF.addListener("button1", "mouseover", button1.mouseover, "WAF");
 // @endregion
 };// @endlock

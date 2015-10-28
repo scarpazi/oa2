@@ -38,7 +38,7 @@ function constructor (id) {
 	};
 
 
-	dicSearchfn ()
+	function dicSearchfn ()
 	{
 		var theDic = $$(getHtmlId('dicSearchCombo')).getValue();
 		var theLemma = $$(getHtmlId('lSearchTextfield')).getValue();
