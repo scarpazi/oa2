@@ -17,7 +17,7 @@
 <br>
 <br>
 <br>
-![##archeomedsites_logo](oa2_main/WebFolder/images/archeomedsites_logo.jpg)
+![##archeomedsites_logo](oa2_main/WebFolder/images/archeomedsites_logo.png)
 <br>
 <br>
 ****
