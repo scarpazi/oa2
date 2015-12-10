@@ -17,6 +17,8 @@
 <br>
 <br>
 <br>
+![##prin_logo](oa2_main/WebFolder/images/prin_miur_logo.png)
+<br>
 ![##archeomedsites_logo](oa2_main/WebFolder/images/archeomedsites_logo.png)
 <br>
 <br>
