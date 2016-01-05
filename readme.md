@@ -26,9 +26,10 @@ Research Unit: University of Siena (Italy). Department of Historical Sciences an
 RU coordinator: Prof. M. Valenti<br>
 RU project title: *Archaeology of Tuscan landscapes between Late Antiquity and the Middle Ages. Research, applications and web 2.0*<br>
 <br>
+<br>
 ![##openarcheo2](oa2main/web/images/prin_miur_logo.gif)
 <br>
-*ENPI CBCMED – Mediterranean Sea Basin Programme 2007-2013<br>
+ENPI CBCMED – Mediterranean Sea Basin Programme 2007-2013<br>
 ARCHEOMEDSITES. Safeguard, valorisation and management quality. Use of the management models for the archeological sites and urban contexts<br>
 Work-package 4.10 (Municipality of Siena in collaboration with the Department of Historical Sciences and Cultural Heritage of the University of Siena): Providing an archeological Geographic Information System to the 3 Countries involved and supplying the necessary training for its functioning.<br>
 
