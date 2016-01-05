@@ -1,4 +1,4 @@
-![##openarcheo2](oa2_main/WebFolder/images/oa2_hlogo_1024.gif)
+![##openarcheo2](oa2main/web/images/oa2_hlogo_1024.gif)
 ## a wholly different archaeological information system
 <br>
 <br>
@@ -17,7 +17,7 @@
 <br>
 <br>
 <br>
-![##openarcheo2](oa2_main/WebFolder/images/archeomedsites_logo_800.jpg)
+![##openarcheo2](oa2main/web/images/archeomedsites_logo_800.jpg)
 ****
 *oa2 is being developed within the projects: *<br><br>
 *PRIN 2010-2011. Global archaeology and history of the rural landscapes of Italy between Late Antiquity and the Middle Ages. Integrated systems of sources, methods and techniques for a sustainable development*<br>
