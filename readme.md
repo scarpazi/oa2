@@ -40,5 +40,5 @@ Work-package 4.10 (Municipality of Siena in collaboration with the Department of
 ****
 <br>
 <br>
-![##madewithWakanda](oa2main/web/images/wakanda.png)
+![##madewithWakanda](oa2main/web/images/madewak_99x75.png)
 <br> Made with Wakanda (www.wakanda.org)
