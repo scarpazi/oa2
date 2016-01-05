@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?><solution>
-	<project path="../oa2_main/oa2_main.waProject"/>
-	<file path="./Settings.waSettings">
+	<project path="../oa2main/oa2main.waProject"/>
+	<file path="./settings.waSettings">
 		<tag name="settings"/>
 	</file>
-	<file path="./Directory.waDirectory">
+	<file path="./directory.waDirectory">
 		<tag name="directory"/>
 	</file>
 </solution>

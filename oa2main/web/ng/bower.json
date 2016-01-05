@@ -1,0 +1,17 @@
+{
+  "name": "oa2",
+  "version": "0.1.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.4",
+    "angular-wakanda": "~1.0.2",
+    "bootstrap-css": "~3.3.4"
+  }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<folder path="./database/DataFolder/">
+		<tag name="dataFolder"/>
+	</folder>
+	<folder path="./web/">
+		<tag name="webFolder"/>
+	</folder>
+	<file path="./backend/Permissions.waPerm">
+		<tag name="permissions"/>
+	</file>
+	<file path="./backend/Settings.waSettings">
+		<tag name="settings"/>
+	</file>
+	<file path="./database/Model.waModel">
+		<tag name="catalog"/>
+	</file>
+</project>
