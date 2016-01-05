@@ -40,14 +40,14 @@ sessionID.json
 *.waRemoteModel
 
 #OA2_specific
-<<<<<<< HEAD
+#<<<<<<< HEAD
 #oa2_v0_main/Backups/*.*
-<<<<<<< HEAD
+#<<<<<<< HEAD
 #oa2_v0_main/DataFolder/*.*
-=======
+#=======
 #oa2_v0_main/DataFolder/*.*
->>>>>>> FETCH_HEAD
-=======
-oa2_v0_main/Backups/*.*
-oa2_v0_main/DataFolder/*.*
->>>>>>> FETCH_HEAD
+#>>>>>>> FETCH_HEAD
+#=======
+#oa2_v0_main/Backups/*.*
+#oa2_v0_main/DataFolder/*.*
+#>>>>>>> FETCH_HEAD

@@ -1,0 +1,1 @@
+﻿model.DictionaryLemma.isPrimary.onGet = function() {	if (this.plvalue)   		{return false;}   else   		{return true};   		};
