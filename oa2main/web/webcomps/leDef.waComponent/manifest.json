@@ -1,1 +1,10 @@
-﻿{"name":"leDef","html":"leDef.html","scripts":["leDef.js"],"styles":["leDef.css"]}
+{
+	"name": "leDef",
+	"html": "leDef.html",
+	"scripts": [
+		"leDef.js"
+	],
+	"styles": [
+		"leDef.css"
+	]
+}

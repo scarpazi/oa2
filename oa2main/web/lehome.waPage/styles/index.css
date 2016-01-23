@@ -3,200 +3,277 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
-#richText12 {
-	z-index: 5;
-	width: 70px;
-	height: 13px;
-	top: 11px;
-	left: 30px;
-	position: absolute;
-}
-
-#container30 {
-	z-index: 3;
-	top: 40px;
-	bottom: -2px;
+#tagsCont {
+	top: 23px;
+	bottom: 0px;
 	left: 0px;
 	right: 0px;
 	position: absolute;
 }
 
-#container29 {
-	z-index: 4;
-	height: 40px;
-	top: 0px;
-	left: 0px;
-	right: 0px;
+#chronEndPrec {
+	z-index: 1;
+	width: 50px;
+	height: 25px;
+	top: 120px;
+	left: 364px;
 	position: absolute;
+	font-weight: normal;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-size: 18px;
+	color: rgb(127, 127, 127);
 }
 
-#container28 {
+#chronStartPrec {
 	z-index: 2;
-	height: 40px;
-	top: 375px;
-	left: 0px;
-	right: 0px;
+	width: 202px;
+	height: 27px;
+	top: 120px;
+	left: 65px;
 	position: absolute;
+	font-weight: normal;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-size: 18px;
+	color: rgb(127, 127, 127);
 }
 
-#richText11 {
-	z-index: 5;
-	width: 55px;
-	height: 13px;
-	top: 11px;
-	left: 30px;
-	position: absolute;
-}
-
-#container27 {
+#chronEndMeaning {
 	z-index: 3;
-	top: 40px;
-	bottom: -1px;
-	left: 0px;
-	right: 0px;
-	position: absolute;
-}
-
-#container26 {
-	z-index: 4;
-	height: 40px;
-	top: 0px;
-	left: 0px;
-	right: 0px;
-	position: absolute;
-}
-
-#container25 {
-	z-index: 2;
-	height: 40px;
-	top: 335px;
-	left: 0px;
-	right: 0px;
-	position: absolute;
-}
-
-#richText9 {
-	z-index: 5;
-	width: 59px;
-	height: 13px;
-	top: 11px;
-	left: 30px;
-	position: absolute;
-}
-
-#container24 {
-	z-index: 3;
-	top: 40px;
-	bottom: -1px;
-	left: 0px;
-	right: 0px;
-	position: absolute;
-}
-
-#container23 {
-	z-index: 4;
-	height: 40px;
-	top: 0px;
-	left: 0px;
-	right: 0px;
-	position: absolute;
-}
-
-#container22 {
-	z-index: 2;
-	height: 255px;
+	width: 200px;
+	height: 25px;
 	top: 80px;
-	left: 0px;
-	right: 0px;
+	left: 364px;
 	position: absolute;
+	font-weight: normal;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-size: 18px;
+	color: rgb(76, 76, 76);
 }
 
-#richText8 {
-	z-index: 5;
-	width: 93px;
-	height: 13px;
-	top: 11px;
-	left: 30px;
-	position: absolute;
-}
-
-#container21 {
-	z-index: 3;
-	top: 40px;
-	bottom: -1px;
-	left: 0px;
-	right: 0px;
-	position: absolute;
-}
-
-#container20 {
+#chronStartMeaning {
 	z-index: 4;
-	height: 40px;
-	top: 0px;
-	left: 0px;
-	right: 0px;
+	width: 200px;
+	height: 27px;
+	top: 80px;
+	left: 65px;
 	position: absolute;
+	font-weight: normal;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	color: rgb(76, 76, 76);
+	font-size: 18px;
 }
 
-#container19 {
-	z-index: 2;
-	height: 40px;
-	top: 40px;
-	left: 0px;
-	right: 0px;
-	position: absolute;
-}
-
-#richText7 {
+#chronSep {
 	z-index: 5;
-	width: 72px;
+	width: 35px;
+	height: 70px;
+	top: 0px;
+	left: 324px;
+	position: absolute;
+	font-weight: normal;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-size: 60px;
+	text-align: center;
+}
+
+#chronEnd {
+	z-index: 6;
+	width: 250px;
+	height: 65px;
+	top: 10px;
+	left: 364px;
+	position: absolute;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-size: 48px;
+	font-weight: bold;
+}
+
+#chronStart {
+	z-index: 7;
+	width: 250px;
+	height: 65px;
+	top: 10px;
+	left: 65px;
+	position: absolute;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-size: 48px;
+	font-weight: bold;
+}
+
+#label6 {
+	width: auto;
 	height: 13px;
-	top: 11px;
-	left: 30px;
+	top: 127px;
+	left: 14px;
 	position: absolute;
 }
 
-#container18 {
-	z-index: 3;
-	top: 40px;
-	bottom: -1px;
+#sourcesCont {
+	width: 681px;
+	height: 591px;
+	top: 23px;
 	left: 0px;
-	right: 0px;
 	position: absolute;
 }
 
-#container17 {
-	z-index: 4;
-	height: 40px;
-	top: 0px;
-	left: 0px;
-	right: 0px;
-	position: absolute;
-}
-
-#container16 {
-	z-index: 2;
-	height: 40px;
-	top: 0px;
-	left: 0px;
-	right: 0px;
-	position: absolute;
-}
-
-#accordion2 {
-	z-index: 43;
-	width: 651px;
-	height: 415px;
-	top: 180px;
-	left: 15px;
-	position: absolute;
-}
-
-#container64 {
-	width: 294px;
-	height: 211px;
+#stampTab {
+	width: 110px;
+	height: 23px;
 	top: auto;
 	left: auto;
+	position: absolute;
+}
+
+#tagsTab {
+	width: 110px;
+	height: 23px;
+	top: auto;
+	left: auto;
+	position: absolute;
+}
+
+#sourcesTab {
+	width: 110px;
+	height: 23px;
+	top: auto;
+	left: auto;
+	position: absolute;
+}
+
+#descTab {
+	width: 110px;
+	height: 23px;
+	top: auto;
+	left: auto;
+	position: absolute;
+}
+
+#chronTab {
+	width: 110px;
+	height: 23px;
+	top: auto;
+	left: auto;
+	position: absolute;
+}
+
+#topoMain {
+	width: 563px;
+	height: 25px;
+	top: 124px;
+	left: 108px;
+	position: absolute;
+	font-weight: normal;
+	font-size: 18px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+
+#defComplete {
+	width: 530px;
+	height: 25px;
+	top: 95px;
+	left: 108px;
+	position: absolute;
+	font-weight: normal;
+	font-size: 18px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+
+#defButton {
+	width: 25px;
+	height: 22px;
+	top: 95px;
+	left: 645px;
+	position: absolute;
+	font-weight: normal;
+	font-size: 18px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+
+#label2 {
+	z-index: 40;
+	width: auto;
+	height: 13px;
+	top: 161px;
+	left: 30px;
+	position: absolute;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	text-align: right;
+}
+
+#label1 {
+	z-index: 2;
+	width: auto;
+	height: 13px;
+	top: 87px;
+	left: 14px;
+	position: absolute;
+	font-family: 'Lucida grande', 'Segoe UI', Tahoma, sans-serif;
+}
+
+#richText38 {
+	z-index: 2;
+	width: 526px;
+	height: 21px;
+	top: 132px;
+	left: 116px;
+	position: absolute;
+	font-weight: normal;
+	font-size: 18px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+
+#label5 {
+	z-index: 2;
+	width: auto;
+	height: 13px;
+	top: 136px;
+	left: 36px;
+	position: absolute;
+	font-family: 'Lucida grande', 'Segoe UI', Tahoma, sans-serif;
+}
+
+#richText35 {
+	z-index: 1;
+	width: 110px;
+	height: 23px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+#richText33 {
+	z-index: 1;
+	width: 110px;
+	height: 23px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+#richText32 {
+	z-index: 1;
+	width: 110px;
+	height: 23px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+#richText31 {
+	z-index: 1;
+	width: 110px;
+	height: 23px;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+#richText21 {
+	z-index: 1;
+	width: 110px;
+	height: 23px;
+	top: 0px;
+	left: 0px;
 	position: absolute;
 }
 
@@ -204,140 +281,39 @@
 	font-family: Tahoma, Verdana, Segoe, sans-serif;
 }
 
-#richText5 {
-	z-index: 41;
-	width: 10px;
-	height: 41px;
-	top: 87px;
-	left: 362px;
-	position: absolute;
-	color: rgb(191, 0, 0);
-	font-weight: bold;
-	font-size: 30px;
-}
-
-#richText10 {
-	z-index: 40;
-	width: 250px;
-	height: 21px;
-	top: 95px;
-	left: 382px;
-	position: absolute;
-	font-size: 18px;
-	font-weight: bold;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
-}
-
-#richText34 {
-	z-index: 37;
-	width: 250px;
-	height: 21px;
-	top: 95px;
-	left: 108px;
-	position: absolute;
-	font-size: 18px;
-	font-weight: bold;
-	text-align: right;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
-}
-
 #label37 {
-	z-index: 37;
+	z-index: 35;
 	width: auto;
 	height: 13px;
-	top: 99px;
+	top: 101px;
 	left: 51px;
 	position: absolute;
 	font-family: 'Lucida grande', 'Segoe UI', Tahoma, sans-serif;
-}
-
-#richText30 {
-	z-index: 30;
-	height: 21px;
-	top: 124px;
-	left: 108px;
-	right: 10px;
-	position: absolute;
-	font-weight: normal;
-	font-size: 18px;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	text-align: right;
 }
 
 #label31 {
-	z-index: 30;
+	z-index: 43;
 	width: auto;
 	height: 13px;
-	top: 128px;
-	left: 28px;
+	top: 130px;
+	left: 23px;
 	right: 578px;
 	position: absolute;
 	font-family: 'Lucida grande', 'Segoe UI', Tahoma, sans-serif;
-}
-
-#richText29 {
-	z-index: 29;
-	width: 80px;
-	height: 30px;
-	top: 48px;
-	left: 28px;
-	position: absolute;
-	font-weight: bold;
-	font-size: 24px;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	text-align: right;
+	min-width: 80px;
 }
 
 #label30 {
-	z-index: 29;
+	z-index: 38;
 	width: auto;
 	height: 13px;
-	top: 56px;
-	left: 12px;
+	top: 31px;
+	left: 634px;
+	right: 36px;
 	position: absolute;
 	font-family: 'Lucida grande', 'Segoe UI', Tahoma, sans-serif;
-}
-
-#richText22 {
-	z-index: 28;
-	height: 40px;
-	top: 48px;
-	left: 168px;
-	right: 10px;
-	position: absolute;
-	font-weight: bold;
-	color: rgb(191, 0, 0);
-	font-size: 30px;
-	font-family: Tahoma, Verdana, Segoe, sans-serif;
-}
-
-#label29 {
-	z-index: 28;
-	width: auto;
-	height: 13px;
-	top: 61px;
-	left: 134px;
-	position: absolute;
-	font-family: 'Lucida grande', 'Segoe UI', Tahoma, sans-serif;
-}
-
-#button2 {
-	z-index: 27;
-	width: 22px;
-	height: 22px;
-	top: 96px;
-	left: 654px;
-	position: absolute;
-	-webkit-box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px inset, transparent 0px 0px 0px 0px;
-	 -moz-box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px inset, transparent 0px 0px 0px 0px;
-	 box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px inset, transparent 0px 0px 0px 0px;
-	box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px inset, transparent 0px 0px 0px 0px;
-	background-color: rgb(229, 229, 229);
-	 background-image:url("data:image/svg+xml;base64, PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgMSAxIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj48bGluZWFyR3JhZGllbnQgaWQ9IndhZi1pZS1ncmFkaWVudCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHg9IjAiIHk9IjAiIHgyPSIwIiB5Mj0iMTAwJSI+PHN0b3Agc3RvcC1jb2xvcj0iI2ZmZmZmZiIgb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIHN0b3AtY29sb3I9IiNmZmZmZmYiIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyR3JhZGllbnQ+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCN3YWYtaWUtZ3JhZGllbnQpIiAvPjwvc3ZnPg==");
-	 background-image:-webkit-gradient(linear,0% 0%, 0% 100%,color-stop(0, rgba(255, 255, 255, 0)),color-stop(1, rgba(255, 255, 255, 0)));
-	 background-image:-webkit-linear-gradient(top, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
-	 background-image:-moz-linear-gradient(top, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
-	 background-image:-ms-linear-gradient(top, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
-	 background-image:-o-linear-gradient(top, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
-	 background-image:linear-gradient(top, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
 }
 
 #main_menuicon {
@@ -423,33 +399,6 @@
 	position: absolute;
 }
 
-#richText28 {
-	z-index: 1;
-	width: 80px;
-	height: 37px;
-	top: 0px;
-	left: 0px;
-	position: absolute;
-}
-
-#richText27 {
-	z-index: 1;
-	width: 79px;
-	height: 37px;
-	top: 0px;
-	left: 0px;
-	position: absolute;
-}
-
-#richText26 {
-	z-index: 1;
-	width: 80px;
-	height: 37px;
-	top: 0px;
-	left: 0px;
-	position: absolute;
-}
-
 #richText25 {
 	z-index: 1;
 	width: 246px;
@@ -500,7 +449,7 @@
 	height: 90px;
 	top: 5px;
 	left: 5px;
-	right: 5px;
+	right: 22px;
 	position: absolute;
 	border-top-width: 1px;
 	border-right-width: 1px;
@@ -537,33 +486,6 @@
 	background-repeat: no-repeat;
 }
 
-#formview {
-	z-index: 1;
-	width: 80px;
-	top: 0px;
-	bottom: 0px;
-	left: 0px;
-	position: absolute;
-}
-
-#gisview {
-	z-index: 2;
-	width: 80px;
-	height: 37px;
-	top: 0px;
-	left: 0px;
-	position: absolute;
-}
-
-#repoview {
-	z-index: 3;
-	width: 80px;
-	height: 37px;
-	top: 0px;
-	left: 0px;
-	position: absolute;
-}
-
 #idquerystring {
 	z-index: 12;
 	width: 110px;
@@ -574,11 +496,11 @@
 }
 
 #cmain {
-	z-index: 5;
+	z-index: 3;
 	height: 1200px;
 	top: 150px;
 	left: 5px;
-	right: 5px;
+	right: 22px;
 	position: absolute;
 	background-color: rgb(255, 255, 255);
 	-webkit-box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, transparent 0px 0px 0px 0px inset;
@@ -740,11 +662,11 @@
 }
 
 #controlbar {
-	z-index: 3;
+	z-index: 2;
 	height: 40px;
 	top: 105px;
 	left: 5px;
-	right: 5px;
+	right: 22px;
 	position: absolute;
 	background-color: transparent;
 	-webkit-box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px inset;
@@ -837,30 +759,6 @@
 	top: -3px;
 	left: -5px;
 	position: absolute;
-}
-
-#mainviews {
-	z-index: 4;
-	width: 245px;
-	top: 0px;
-	bottom: 2px;
-	right: 500px;
-	position: absolute;
-	border-top-style: none;
-	border-right-style: none;
-	border-bottom-style: none;
-	border-left-style: none;
-	border-top-width: 0px;
-	border-right-width: 0px;
-	border-bottom-width: 0px;
-	border-left-width: 0px;
-}
-
-#mainviews .waf-menuItem {
-	font-family: Syncopate;
-	font-size: 12px;
-	line-height: 12px;
-	text-shadow: rgba(255, 255, 255, 0) 0px 0px 0px;
 }
 
 #ledel {
@@ -1013,7 +911,7 @@
 
 #cmainlist {
 	z-index: 1;
-	width: 133px;
+	width: 460px;
 	height: 171px;
 	top: 0px;
 	left: 0px;
@@ -1022,7 +920,7 @@
 
 #cmainbottom {
 	z-index: 2;
-	width: 133px;
+	width: 460px;
 	height: 1027px;
 	top: 171px;
 	left: 0px;
@@ -1031,7 +929,7 @@
 
 #cmainmid {
 	z-index: 1;
-	width: 133px;
+	width: 460px;
 	height: 814px;
 	top: 0px;
 	left: 0px;
@@ -1049,7 +947,7 @@
 
 #cmaingis {
 	z-index: 2;
-	width: -548px;
+	width: -221px;
 	height: 814px;
 	top: 0px;
 	left: 681px;
@@ -1120,7 +1018,7 @@
 
 #cmainmedia {
 	z-index: 2;
-	width: 133px;
+	width: 460px;
 	height: 213px;
 	top: 814px;
 	left: 0px;
@@ -1355,5 +1253,111 @@
 	left: 0px;
 	right: 0px;
 	position: absolute;
+}
+
+#leMainTab {
+	z-index: 42;
+	width: 681px;
+	height: 614px;
+	top: 200px;
+	left: 0px;
+	position: absolute;
+}
+
+#leMainTabMenubar {
+	z-index: 1;
+	top: 0px;
+	bottom: 591px;
+	left: 0px;
+	right: 111px;
+	position: absolute;
+}
+
+#leMainTabMenubar > .waf-menuItem:not(.waf-menuItem-last) {
+	margin-right: 5px;
+}
+
+#leMainTabMenubar > .waf-menuItem {
+	margin-bottom: 0px;
+}
+
+#lMain {
+	z-index: 41;
+	width: 563px;
+	height: 21px;
+	top: 157px;
+	left: 108px;
+	position: absolute;
+	font-size: 18px;
+	font-weight: bold;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	text-align: left;
+}
+
+#stampCont {
+	z-index: 6;
+	top: 23px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	position: absolute;
+}
+
+#descCont {
+	z-index: 4;
+	top: 23px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	position: absolute;
+}
+
+#chronCont {
+	z-index: 3;
+	top: 23px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	position: absolute;
+}
+
+#name {
+	z-index: 39;
+	height: 40px;
+	top: 50px;
+	left: 17px;
+	right: 10px;
+	position: absolute;
+	font-weight: bold;
+	color: rgb(191, 0, 0);
+	font-size: 30px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+
+#id {
+	z-index: 39;
+	height: 15px;
+	top: 30px;
+	left: 650px;
+	right: 0px;
+	position: absolute;
+	font-weight: bold;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-size: 12px;
+}
+
+#chronText {
+	z-index: 2;
+	top: 170px;
+	bottom: 390px;
+	left: 0px;
+	right: -2px;
+	position: absolute;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	background-color: rgb(229, 229, 229);
+	color: rgb(51, 51, 51);
+	text-align: center;
 }
 

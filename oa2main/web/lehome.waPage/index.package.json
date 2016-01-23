@@ -68,10 +68,17 @@
 			"type": "widget"
 		},
 		{
+			"id": "Widget/tabView",
+			"type": "widget"
+		},
+		{
 			"package": "default"
 		},
 		{
 			"package": "Leaflet"
+		},
+		{
+			"package": "Text"
 		},
 		{
 			"file": "styles/index.css"

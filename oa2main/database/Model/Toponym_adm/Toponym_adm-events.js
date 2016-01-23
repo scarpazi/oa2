@@ -1,1 +1,0 @@
-model.Toponym_adm.namedef.onGet = function() {    return this.name + ' (' + this.definition + ')';};
