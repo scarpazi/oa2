@@ -1,1 +1,29 @@
-﻿{"name":"oa2_main/webcomps/leDef.waComponent","version":"1.0.0","webComponent":"webcomps/leDef.waComponent/leDef.js","loadDependencies":[{"id":"Widget/combobox","type":"widget"},{"id":"Widget/label","type":"widget"},{"id":"Widget/richText","type":"widget"},{"id":"webcomps/leDef.waComponent/leDef.html","path":"WEBFOLDER","type":"html"},{"id":"webcomps/leDef.waComponent/leDef.css","path":"WEBFOLDER","type":"style"},{"id":"webcomps/leDef.waComponent/leDef.js","path":"WEBFOLDER","type":"script"}]}
+{
+	"name": "oa2_main/webcomps/leDef.waComponent",
+	"version": "1.0.0",
+	"webComponent": "webcomps/leDef.waComponent/leDef.js",
+	"loadDependencies": [
+		{
+			"id": "Widget/combobox",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/label",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/richText",
+			"type": "widget"
+		},
+		{
+			"file": "leDef.html"
+		},
+		{
+			"file": "leDef.css"
+		},
+		{
+			"file": "leDef.js"
+		}
+	],
+	"type": "component"
+}

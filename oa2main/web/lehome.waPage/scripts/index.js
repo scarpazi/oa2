@@ -2,7 +2,7 @@
 WAF.onAfterInit = function onAfterInit() {// @lock
 
 // @region namespaceDeclaration// @startlock
-	var button2 = {};	// @button
+	var defButton = {};	// @button
 	var documentEvent = {};	// @document
 	var leDialogOk = {};	// @button
 	var leDialogCancel = {};	// @button
@@ -11,7 +11,7 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 
 // eventHandlers// @lock
 
-	button2.click = function button2_click (event)// @startlock
+	defButton.click = function defButton_click (event)// @startlock
 	{// @endlock
 		$$('leDialog').displayDialog();
 		$$('leDialog').addClass('leDefEdit');
@@ -60,7 +60,7 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 	};// @lock
 
 // @region eventManager// @startlock
-	WAF.addListener("button2", "click", button2.click, "WAF");
+	WAF.addListener("defButton", "click", defButton.click, "WAF");
 	WAF.addListener("document", "onLoad", documentEvent.onLoad, "WAF");
 	WAF.addListener("leDialogOk", "click", leDialogOk.click, "WAF");
 	WAF.addListener("leDialogCancel", "click", leDialogCancel.click, "WAF");
