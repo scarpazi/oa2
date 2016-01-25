@@ -100,7 +100,7 @@
 }
 
 #{id}plemmaedit {
-	z-index: 13;
+	z-index: 12;
 	width: 22px;
 	height: 22px;
 	top: 75px;
@@ -121,7 +121,7 @@
 }
 
 #{id}plemmaText {
-	z-index: 12;
+	z-index: 11;
 	width: 340px;
 	height: 22px;
 	top: 75px;
@@ -134,7 +134,7 @@
 }
 
 #{id}label6 {
-	z-index: 12;
+	z-index: 11;
 	width: auto;
 	height: 16px;
 	top: 78px;
@@ -218,20 +218,6 @@
 	color: rgb(102, 102, 102);
 }
 
-#{id}label3 {
-	z-index: 7;
-	width: auto;
-	height: 16px;
-	top: 15px;
-	left: 5px;
-	position: absolute;
-	font-family: Syncopate;
-	font-size: 12px;
-	min-width: 90px;
-	max-width: 90px;
-	text-align: right;
-}
-
 #{id}lemmaTextfield {
 	z-index: 5;
 	width: 300px;
@@ -283,15 +269,6 @@
 	text-align: right;
 }
 
-#{id}dlContainer {
-	z-index: 1;
-	top: 0px;
-	bottom: 0px;
-	left: 0px;
-	right: 0px;
-	position: absolute;
-}
-
 #{id}dlContSplit {
 	z-index: 1;
 	top: 28px;
@@ -338,7 +315,7 @@
 }
 
 #{id}dicedit {
-	z-index: 14;
+	z-index: 13;
 	width: 22px;
 	height: 22px;
 	top: 10px;
@@ -359,7 +336,7 @@
 }
 
 #{id}dlDialog {
-	z-index: 2;
+	z-index: 4;
 	width: 200px;
 	height: 200px;
 	top: 200px;
@@ -804,5 +781,14 @@
 	 background-image:-ms-linear-gradient(top, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
 	 background-image:-o-linear-gradient(top, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
 	 background-image:linear-gradient(top, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
+}
+
+#{id}dicChoice {
+	z-index: 1;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	position: absolute;
 }
 

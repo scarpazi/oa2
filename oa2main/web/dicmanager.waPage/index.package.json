@@ -25,6 +25,16 @@
 			"type": "widget"
 		},
 		{
+			"id": "webcomps/dic.waComponent/dic.package.json",
+			"path": "WEBFOLDER",
+			"type": "component"
+		},
+		{
+			"id": "webcomps/diclemma.waComponent/diclemma.package.json",
+			"path": "WEBFOLDER",
+			"type": "component"
+		},
+		{
 			"package": "default"
 		},
 		{
@@ -48,6 +58,9 @@
 		},
 		{
 			"file": "scripts/index.js"
+		},
+		{
+			"file": "styles/dicmanagerCustom.css"
 		}
 	]
 }

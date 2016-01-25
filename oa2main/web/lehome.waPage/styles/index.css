@@ -911,7 +911,7 @@
 
 #cmainlist {
 	z-index: 1;
-	width: 460px;
+	width: 760px;
 	height: 171px;
 	top: 0px;
 	left: 0px;
@@ -920,7 +920,7 @@
 
 #cmainbottom {
 	z-index: 2;
-	width: 460px;
+	width: 760px;
 	height: 1027px;
 	top: 171px;
 	left: 0px;
@@ -929,7 +929,7 @@
 
 #cmainmid {
 	z-index: 1;
-	width: 460px;
+	width: 760px;
 	height: 814px;
 	top: 0px;
 	left: 0px;
@@ -947,7 +947,7 @@
 
 #cmaingis {
 	z-index: 2;
-	width: -221px;
+	width: 79px;
 	height: 814px;
 	top: 0px;
 	left: 681px;
@@ -1018,7 +1018,7 @@
 
 #cmainmedia {
 	z-index: 2;
-	width: 460px;
+	width: 760px;
 	height: 213px;
 	top: 814px;
 	left: 0px;

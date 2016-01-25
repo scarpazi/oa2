@@ -4,6 +4,7 @@
 */
 
 #diclemmaComponent {
+	z-index: 7;
 	top: 365px;
 	bottom: 5px;
 	left: 5px;
@@ -17,10 +18,10 @@
 	border-right-width: 0px;
 	border-bottom-style: none;
 	border-bottom-width: 0px;
-	z-index: 7;
 }
 
 #oa2logo {
+	z-index: 3;
 	width: 94px;
 	top: 7px;
 	bottom: 9px;
@@ -30,10 +31,10 @@
 	border-left-width: 0px;
 	border-right-width: 0px;
 	border-bottom-width: 0px;
-	z-index: 3;
 }
 
 #dictlabel {
+	z-index: 2;
 	width: 548px;
 	top: 50px;
 	bottom: 5px;
@@ -54,19 +55,19 @@
 	border-right-width: 0px;
 	border-bottom-width: 0px;
 	font-family: Syncopate;
-	z-index: 2;
 }
 
 #archeomedsiteslogo {
+	z-index: 1;
 	width: 60px;
 	top: 2px;
 	bottom: 41px;
 	right: 1px;
 	position: absolute;
-	z-index: 1;
 }
 
 #titlebar {
+	z-index: 6;
 	height: 90px;
 	top: 5px;
 	left: 5px;
@@ -104,16 +105,15 @@
 	 background-image:-ms-linear-gradient(left, rgb(255, 255, 255) 0%,rgba(255, 255, 255, 0) 100%);
 	 background-image:-o-linear-gradient(left, rgb(255, 255, 255) 0%,rgba(255, 255, 255, 0) 100%);
 	 background-image:linear-gradient(left, rgb(255, 255, 255) 0%,rgba(255, 255, 255, 0) 100%);
-	z-index: 6;
 	background-repeat: no-repeat;
 }
 
 #dicComponent {
+	z-index: 5;
 	height: 250px;
 	top: 105px;
 	left: 5px;
 	right: 5px;
 	position: absolute;
-	z-index: 5;
 }
 

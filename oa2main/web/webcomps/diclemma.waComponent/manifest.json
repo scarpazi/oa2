@@ -2,9 +2,11 @@
 	"name": "diclemma",
 	"html": "diclemma.html",
 	"scripts": [
-		"diclemma.js"
+		"diclemma.js",
+		"opentip-jquery.js"
 	],
 	"styles": [
-		"diclemma.css"
+		"diclemma.css",
+		"diclemmaCustom.css"
 	]
 }
