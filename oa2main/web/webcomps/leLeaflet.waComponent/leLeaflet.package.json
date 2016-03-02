@@ -1,0 +1,26 @@
+{
+	"name": "oa2main/webcomps/leLeaflet.waComponent",
+	"type": "component",
+	"version": "1.0.0",
+	"webComponent": "webcomps/leLeaflet.waComponent/leLeaflet.js",
+	"loadDependencies": [
+		{
+			"package": "Leaflet"
+		},
+		{
+			"package": "Text"
+		},
+		{
+			"file": "leLeaflet.html"
+		},
+		{
+			"file": "leLeaflet.css"
+		},
+		{
+			"file": "leLeaflet.js"
+		},
+		{
+			"file": "leLeafletCustom.css"
+		}
+	]
+}

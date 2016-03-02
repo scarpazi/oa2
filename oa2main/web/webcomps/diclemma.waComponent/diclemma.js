@@ -104,7 +104,7 @@ function constructor (id) {
     		path: "/webcomps/diclemmaSetdic.waComponent",
    			userData: { },
    			onSuccess: function () {
-				$$(getHtmlId('dlDialog')).move(550,210);
+				$$(getHtmlId('dlDialog')).move(550,100);
 				$$(getHtmlId('dlDialog')).resize(400,300);		
 				$$(getHtmlId('dlDialogOk')).setRight(30);
 				$$(getHtmlId('dlDialogOk')).setWidth(80);
@@ -140,7 +140,7 @@ function constructor (id) {
     			path: "/webcomps/diclemmaSetpl.waComponent",
     			userData: { },
     			onSuccess: function () {
-					$$(getHtmlId('dlDialog')).move(550,210);
+					$$(getHtmlId('dlDialog')).move(550,100);
 					$$(getHtmlId('dlDialog')).resize(400,300);		
 					$$(getHtmlId('dlDialogOk')).setRight(30);
 					$$(getHtmlId('dlDialogOk')).setWidth(80);

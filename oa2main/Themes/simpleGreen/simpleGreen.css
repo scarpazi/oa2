@@ -1,0 +1,1323 @@
+/*
+* This file is part of Wakanda software, licensed by 4D under
+*  (i) the GNU General Public License version 3 (GNU GPL v3), or
+*  (ii) the Affero General Public License version 3 (AGPL v3) or
+*  (iii) a commercial license.
+* This file remains the exclusive property of 4D and/or its licensors
+* and is protected by national and international legislations.
+* In any event, Licensee's compliance with the terms and conditions
+* of the applicable license constitutes a prerequisite to any use of this file.
+* Except as otherwise expressly stated in the applicable license,
+* such license does not include any other license or rights on this file,
+* 4D's and/or its licensors' trademarks and/or other proprietary rights.
+* Consequently, no title, copyright or other proprietary rights
+* other than those specified in the applicable license is granted.
+*/
+html {
+  min-height: 100%;
+}
+.waf-theme.simpleGreen *:focus {
+  box-shadow: none;
+  outline: none;
+}
+.waf-theme.simpleGreen .waf-widget-header,
+.waf-theme.simpleGreen .waf-container.waf-widget-header {
+  border-width: 0 0 1px 0;
+  border-style: solid;
+  border-color: #d2d3d4;
+  border-radius: 4px;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  box-shadow: 0 -4px 0 0 rgba(0, 0, 0, 0.05) inset;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f0f0f0));
+  background-image: -webkit-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: -moz-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: linear-gradient(to bottom, #ffffff 0%, #f0f0f0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff0f0f0', GradientType=0);
+  font-size: 16px;
+  font-weight: bold;
+}
+.waf-theme.simpleGreen .waf-widget-body,
+.waf-theme.simpleGreen .waf-container.waf-widget-body {
+  background-color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-widget-footer,
+.waf-theme.simpleGreen .waf-container.waf-widget-footer {
+  border-width: 1px 0 0 0;
+  border-style: solid;
+  border-color: #d2d3d4;
+  border-radius: 4px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  box-shadow: 0 -4px 0 0 rgba(0, 0, 0, 0.05) inset;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f0f0f0));
+  background-image: -webkit-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: -moz-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: linear-gradient(to bottom, #ffffff 0%, #f0f0f0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff0f0f0', GradientType=0);
+}
+.waf-theme.simpleGreen .waf-widget .waf-dataGrid-row.waf-widget-odd,
+.waf-theme.simpleGreen .waf-widget-odd {
+  background-color: rgba(210, 211, 212, 0.050000000000000044);
+}
+.waf-theme.simpleGreen .waf-accordion {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d2d3d4;
+  border-radius: 4px;
+  background-color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-accordion .accordion-section {
+  border-width: 1px 0 0;
+  border-style: inherit;
+  border-color: inherit;
+  border-radius: 0;
+  box-shadow: none;
+}
+.waf-theme.simpleGreen .waf-accordion .accordion-section:first-of-type {
+  border-top-width: 0;
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+}
+.waf-theme.simpleGreen .waf-accordion .accordion-section:last-of-type {
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+}
+.waf-theme.simpleGreen .waf-accordion .accordion-section .waf-accordion-header {
+  box-shadow: 0 -4px 0 0 rgba(0, 0, 0, 0.05) inset;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f0f0f0));
+  background-image: -webkit-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: -moz-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: linear-gradient(to bottom, #ffffff 0%, #f0f0f0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff0f0f0', GradientType=0);
+  font-size: 16px;
+  font-weight: bold;
+  border-width: 0 0 1px 0;
+  border-style: inherit;
+  border-color: inherit;
+  border-radius: 0;
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+  box-shadow: none;
+}
+.waf-theme.simpleGreen .waf-accordion .accordion-section.waf-state-collapsed .waf-accordion-header {
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+  border-bottom-width: 0;
+}
+.waf-theme.simpleGreen .waf-accordion .accordion-section .waf-accordion-content {
+  background-color: #ffffff;
+  border-width: 0;
+  border-style: inherit;
+  border-color: inherit;
+  border-radius: 0;
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+  box-shadow: none;
+}
+.waf-theme.simpleGreen .waf-accordion .accordion-section .waf-accordion-icon {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  top: 0;
+  width: 25px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: 16px 15px;
+}
+.waf-theme.simpleGreen .waf-accordion .accordion-section .waf-accordion-header {
+  box-shadow: 0 -4px 0 0 #e4e4e4 inset;
+}
+.waf-theme.simpleGreen .waf-accordion .accordion-section .waf-accordion-header .waf-richText {
+  font-weight: normal;
+}
+.waf-theme.simpleGreen .waf-accordion .accordion-section .waf-accordion-content {
+  background-color: #f3f3f3;
+  box-shadow: 0 4px 0 0 #e4e4e4 inset;
+}
+.waf-theme.simpleGreen .waf-accordion .accordion-section.waf-state-collapsed .waf-accordion-icon {
+  background-image: url('images/widget-oldAccordion-expand.png');
+}
+.waf-theme.simpleGreen .waf-accordion .accordion-section.waf-state-expanded .waf-accordion-icon {
+  background-image: url('images/widget-oldAccordion-collapse.png');
+}
+.waf-theme.simpleGreen .waf-autoForm {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d2d3d4;
+  border-radius: 4px;
+  background-color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-autoForm .waf-icon path {
+  fill: #313131;
+}
+.waf-theme.simpleGreen .waf-autoForm .waf-toolbar {
+  padding-left: 0;
+}
+.waf-theme.simpleGreen .waf-autoForm .waf-autoForm-missingBinding {
+  color: #313131;
+}
+.waf-theme.simpleGreen .waf-button {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  border-width: 1px;
+  border-style: solid;
+  border-color: transparent;
+  border-radius: 4px;
+  background-color: #ebebeb;
+  color: #616161;
+  box-shadow: 0 -4px 0 0 rgba(0, 0, 0, 0.1) inset;
+  line-height: 1.5;
+  -webkit-transition-property: box-shadow, background-color;
+  -webkit-transition-duration: 150ms;
+  transition-property: box-shadow, background-color;
+  transition-duration: 150ms;
+  font-family: "Myriad Pro", sans-serif;
+  font-size: 14px;
+  padding: 0;
+}
+.waf-theme.simpleGreen .waf-button.waf-state-hover {
+  box-shadow: none;
+}
+.waf-theme.simpleGreen .waf-button.waf-state-active {
+  background-color: #d2d2d2;
+  box-shadow: 0 4px 0 0 rgba(0, 0, 0, 0.1) inset;
+}
+.waf-theme.simpleGreen .waf-button.waf-state-focus {
+  outline: none;
+}
+.waf-theme.simpleGreen .waf-button.waf-state-disabled {
+  opacity: 0.4;
+}
+.waf-theme.simpleGreen .waf-button.waf-role-success {
+  border-color: transparent;
+  background-color: #90b900;
+  color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-button.waf-role-success.waf-state-active {
+  background-color: #799b02;
+}
+.waf-theme.simpleGreen .waf-button.waf-role-warning {
+  border-color: transparent;
+  background-color: #f99601;
+  color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-button.waf-role-warning.waf-state-active {
+  background-color: #d47f00;
+}
+.waf-theme.simpleGreen .waf-button.waf-role-danger {
+  border-color: transparent;
+  background-color: #e74a20;
+  color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-button.waf-role-danger.waf-state-active {
+  background-color: #c7350c;
+}
+.waf-theme.simpleGreen .waf-button.waf-role-info {
+  border-color: transparent;
+  background-color: #3fa0fb;
+  color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-button.waf-role-info.waf-state-active {
+  background-color: #2285e1;
+}
+.waf-theme.simpleGreen .waf-buttonImage {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  border-width: 1px;
+  border-style: solid;
+  border-color: transparent;
+  border-radius: 4px;
+  background-color: #ebebeb;
+  color: #616161;
+  box-shadow: 0 -4px 0 0 rgba(0, 0, 0, 0.1) inset;
+  line-height: 1.5;
+  -webkit-transition-property: box-shadow, background-color;
+  -webkit-transition-duration: 150ms;
+  transition-property: box-shadow, background-color;
+  transition-duration: 150ms;
+  font-family: "Myriad Pro", sans-serif;
+  font-size: 14px;
+}
+.waf-theme.simpleGreen .waf-buttonImage.waf-state-hover {
+  box-shadow: none;
+}
+.waf-theme.simpleGreen .waf-buttonImage.waf-state-active {
+  background-color: #d2d2d2;
+  box-shadow: 0 4px 0 0 rgba(0, 0, 0, 0.1) inset;
+}
+.waf-theme.simpleGreen .waf-buttonImage.waf-state-focus {
+  outline: none;
+}
+.waf-theme.simpleGreen .waf-buttonImage.waf-state-disabled {
+  opacity: 0.4;
+}
+.waf-theme.simpleGreen .waf-buttonImage.waf-role-success {
+  border-color: transparent;
+  background-color: #90b900;
+  color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-buttonImage.waf-role-success.waf-state-active {
+  background-color: #799b02;
+}
+.waf-theme.simpleGreen .waf-buttonImage.waf-role-warning {
+  border-color: transparent;
+  background-color: #f99601;
+  color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-buttonImage.waf-role-warning.waf-state-active {
+  background-color: #d47f00;
+}
+.waf-theme.simpleGreen .waf-buttonImage.waf-role-danger {
+  border-color: transparent;
+  background-color: #e74a20;
+  color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-buttonImage.waf-role-danger.waf-state-active {
+  background-color: #c7350c;
+}
+.waf-theme.simpleGreen .waf-buttonImage.waf-role-info {
+  border-color: transparent;
+  background-color: #3fa0fb;
+  color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-buttonImage.waf-role-info.waf-state-active {
+  background-color: #2285e1;
+}
+.waf-theme.simpleGreen .waf-canvas {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d2d3d4;
+  border-radius: 4px;
+  background-color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-checkbox .waf-checkbox-box {
+  position: absolute;
+  width: 80%;
+  height: 80%;
+  left: 9.999999999999998%;
+  top: 9.999999999999998%;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #bcbcbc;
+  border-radius: 4px;
+  box-shadow: 2px 2px #f1f1f1 inset;
+}
+.waf-theme.simpleGreen .waf-checkbox .waf-checkbox-icon {
+  position: absolute;
+  width: 80%;
+  height: 80%;
+  left: 9.999999999999998%;
+  top: 9.999999999999998%;
+}
+.waf-theme.simpleGreen .waf-checkbox .waf-checkbox-icon.waf-icon-svg {
+  display: none;
+}
+.waf-theme.simpleGreen .waf-checkbox.waf-state-hover .waf-checkbox-icon.waf-icon-svg {
+  display: block;
+}
+.waf-theme.simpleGreen .waf-checkbox.waf-state-hover .waf-checkbox-icon-symbol {
+  fill: transparent;
+}
+.waf-theme.simpleGreen .waf-checkbox.waf-state-hover .waf-checkbox-icon-symbol-shadow {
+  fill: transparent;
+}
+.waf-theme.simpleGreen .waf-checkbox.waf-state-active .waf-checkbox-icon.waf-icon-svg {
+  display: block;
+}
+.waf-theme.simpleGreen .waf-checkbox.waf-state-active .waf-checkbox-icon-symbol {
+  fill: #658200;
+}
+.waf-theme.simpleGreen .waf-checkbox.waf-state-active .waf-checkbox-icon-symbol-shadow {
+  fill: transparent;
+}
+.waf-theme.simpleGreen .waf-checkbox.waf-state-selected .waf-checkbox-icon.waf-icon-svg {
+  display: block;
+}
+.waf-theme.simpleGreen .waf-checkbox.waf-state-selected .waf-checkbox-icon-symbol {
+  fill: #658200;
+}
+.waf-theme.simpleGreen .waf-checkbox.waf-state-selected .waf-checkbox-icon-symbol-shadow {
+  fill: transparent;
+}
+.waf-theme.simpleGreen .waf-checkbox.waf-state-disabled {
+  opacity: 0.4;
+}
+.waf-theme.simpleGreen .waf-combobox {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #bcbcbc;
+  border-radius: 4px;
+  box-shadow: 2px 2px #f1f1f1 inset;
+}
+.waf-theme.simpleGreen .waf-combobox .ui-icon {
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-repeat: no-repeat;
+  background-position: 50%;
+}
+.waf-theme.simpleGreen .waf-combobox input {
+  padding: 5px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.waf-theme.simpleGreen .waf-combobox input:focus {
+  outline: none;
+}
+.waf-theme.simpleGreen .waf-combobox button {
+  border-width: 0 0 0 1px;
+  border-style: inherit;
+  border-color: inherit !important;
+  border-top-left-radius: 0;
+  border-top-right-radius: inherit;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: inherit;
+  background-color: transparent !important;
+  background-image: none !important;
+  box-shadow: none !important;
+}
+.waf-theme.simpleGreen .waf-combobox button .ui-icon {
+  margin: 0;
+}
+.waf-theme.simpleGreen .waf-combobox.waf-state-active button {
+  border-width: 0;
+}
+.waf-theme.simpleGreen .waf-combobox.waf-state-disabled {
+  opacity: 0.4;
+}
+.waf-theme.simpleGreen .waf-combobox .ui-icon {
+  background-image: url('images/widget-oldComboBox.gif');
+}
+.waf-theme.simpleGreen .waf-combobox button {
+  border-left: 0;
+}
+.waf-theme.simpleGreen .waf-combobox-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #bcbcbc;
+  border-radius: 4px;
+  background-color: #ffffff;
+  box-shadow: 2px 2px #f1f1f1 inset;
+  font-size: 14px;
+  line-height: 1.5;
+  border-color: #d2d3d4;
+  border-radius: 0;
+  background-color: #f8f8f8;
+}
+.waf-theme.simpleGreen .waf-combobox-list .ui-menu-item {
+  border-width: 0;
+  border-style: inherit;
+  border-color: inherit;
+}
+.waf-theme.simpleGreen .waf-combobox-list .ui-menu-item a {
+  line-height: 1.5;
+  font-family: "Myriad Pro", sans-serif;
+  font-size: 14px;
+  color: #292929;
+  padding: 3px;
+  padding-left: 6px;
+  display: block;
+  width: 100%;
+  border-width: 0;
+  border-style: inherit;
+  border-color: inherit;
+  border-radius: inherit;
+}
+.waf-theme.simpleGreen .waf-combobox-list .ui-menu-item a.ui-state-hover {
+  margin: 0;
+}
+.waf-theme.simpleGreen .waf-combobox-list .ui-menu-item:first-of-type,
+.waf-theme.simpleGreen .waf-combobox-list .ui-menu-item:first-of-type a {
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+}
+.waf-theme.simpleGreen .waf-combobox-list .ui-menu-item:last-of-type,
+.waf-theme.simpleGreen .waf-combobox-list .ui-menu-item:last-of-type a {
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+}
+.waf-theme.simpleGreen .waf-combobox-list .ui-menu-item a.ui-state-hover,
+.waf-theme.simpleGreen .waf-combobox-list .ui-menu-item a:hover {
+  background-image: none;
+  background-color: #adadad;
+  color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-container {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d2d3d4;
+  border-radius: 4px;
+  background-color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-dataGrid {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d2d3d4;
+  border-radius: 4px;
+  background-color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-dataGrid .waf-dataGrid-header {
+  box-shadow: 0 -4px 0 0 rgba(0, 0, 0, 0.05) inset;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f0f0f0));
+  background-image: -webkit-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: -moz-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: linear-gradient(to bottom, #ffffff 0%, #f0f0f0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff0f0f0', GradientType=0);
+  font-size: 16px;
+  font-weight: bold;
+}
+.waf-theme.simpleGreen .waf-dataGrid .waf-dataGrid-header .waf-icon path {
+  fill: #313131;
+}
+.waf-theme.simpleGreen .waf-dataGrid .waf-dataGrid-footer {
+  box-shadow: 0 -4px 0 0 rgba(0, 0, 0, 0.05) inset;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f0f0f0));
+  background-image: -webkit-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: -moz-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: linear-gradient(to bottom, #ffffff 0%, #f0f0f0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff0f0f0', GradientType=0);
+}
+.waf-theme.simpleGreen .waf-dataGrid .waf-dataGrid-footer .waf-icon path {
+  fill: #313131;
+}
+.waf-theme.simpleGreen .waf-dataGrid .waf-dataGrid-body {
+  background-color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-dataGrid .waf-dataGrid-row {
+  border-width: 0 0 1px 0;
+  border-style: solid;
+  border-color: #dcdcdc;
+  background-color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-dataGrid .waf-dataGrid-row.waf-state-hover {
+  background-color: #f2f2f3;
+}
+.waf-theme.simpleGreen .waf-dataGrid .waf-dataGrid-row.waf-state-active {
+  background-color: #f3fbeb;
+}
+.waf-theme.simpleGreen .waf-dataGrid .waf-dataGrid-row.waf-state-selected {
+  background-color: #90b900;
+}
+.waf-theme.simpleGreen .waf-dataGrid .waf-dataGrid-cell > input[type="text"] {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #bcbcbc;
+  border-radius: 4px;
+  background-color: #ffffff;
+  box-shadow: 2px 2px #f1f1f1 inset;
+  color: #292929;
+  line-height: 1.5;
+  font-family: "Myriad Pro", sans-serif;
+  font-size: 14px;
+  padding-top: 0;
+  padding-bottom: 0;
+  max-width: 100%;
+  height: 100%;
+  outline: none;
+}
+.waf-theme.simpleGreen .waf-dataGrid ul.waf-toolbar {
+  list-style: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+.waf-theme.simpleGreen .waf-dataGrid[data-header-hide="true"] .waf-dataGrid-body {
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+.waf-theme.simpleGreen .waf-dataGrid[data-footer-hide="true"] .waf-dataGrid-body {
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+.waf-theme.simpleGreen .waf-dataGrid .waf-dataGrid-header .waf-dataGrid-cell .content {
+  padding: 5px;
+}
+.waf-theme.simpleGreen .waf-dataGrid .waf-dataGrid-header .waf-dataGrid-cell .waf-sort {
+  margin-top: 7px;
+}
+.waf-theme.simpleGreen .waf-dataGrid .waf-dataGrid-body .waf-datagrid-missingBinding {
+  color: #313131;
+}
+.waf-theme.simpleGreen .waf-dataGrid .waf-dataGrid-body .waf-dataGrid-cell.editing {
+  background-color: transparent;
+}
+.waf-theme.simpleGreen .waf-dataGrid .waf-dataGrid-body .waf-dataGrid-row.waf-state-selected {
+  color: #fff;
+  border-bottom-color: #86a321;
+  box-shadow: 0 1px 0 0 #86a321 inset;
+}
+.waf-theme.simpleGreen .waf-dataGrid .waf-dataGrid-body input.content-edit {
+  background-color: #799b02;
+  box-shadow: 2px 2px rgba(0, 0, 0, 0.05) inset;
+  border-color: rgba(0, 0, 0, 0.2);
+  color: inherit;
+}
+.waf-theme.simpleGreen .waf-dataGrid .waf-status .waf-status-element {
+  line-height: 30px;
+}
+.waf-theme.simpleGreen .waf-dataGrid .waf-status .waf-status-element .waf-toolbar .waf-toolbar-element {
+  top: 4px;
+}
+.waf-theme.simpleGreen .waf-dialog .waf-dialog-header,
+.waf-theme.simpleGreen .waf-dialog .waf-dialog-body,
+.waf-theme.simpleGreen .waf-dialog .waf-dialog-footer {
+  box-shadow: none;
+}
+.waf-theme.simpleGreen .waf-dialog .waf-dialog-body {
+  border-width: 0;
+}
+.waf-theme.simpleGreen .waf-dialog .waf-dialog-header .waf-dialog-header-title {
+  text-align: center;
+}
+.waf-theme.simpleGreen .waf-dialog .waf-dialog-header-title {
+  font-size: 12px;
+}
+.waf-theme.simpleGreen .waf-fileUpload {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #bcbcbc;
+  border-radius: 4px;
+  background-color: #ffffff;
+  box-shadow: 2px 2px #f1f1f1 inset;
+}
+.waf-theme.simpleGreen .waf-fileUpload .waf-fileUpload-paragraph {
+  margin: 0;
+  color: #bcbcbc;
+}
+.waf-theme.simpleGreen .waf-fileUpload.waf-state-disabled {
+  opacity: 0.4;
+}
+.waf-theme.simpleGreen .waf-fileUpload .waf-fileUpload-btnBrowse,
+.waf-theme.simpleGreen .waf-fileUpload .waf-fileUpload-btnUpload,
+.waf-theme.simpleGreen .waf-fileUpload .waf-fileUpload-btnCardinal,
+.waf-theme.simpleGreen .waf-fileUpload .waf-fileUpload-btnDelete {
+  box-shadow: none;
+  background-color: #f1f1f1;
+  border-color: #bcbcbc;
+}
+.waf-theme.simpleGreen .waf-fileUpload .waf-fileUpload-btnUpload {
+  background-image: url(images/widget-oldFileUpload-upload.png);
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+.waf-theme.simpleGreen .waf-fileUpload .waf-fileUpload-fileList-menu {
+  border-radius: 0;
+  background-color: #f8f8f8;
+}
+.waf-theme.simpleGreen .waf-fileUpload .waf-fileUpload-fileList-menu .waf-fileUpload-fileItem.waf-state-hover {
+  background-color: #adadad;
+}
+.waf-theme.simpleGreen .waf-fileUpload .waf-fileUpload-fileList-menu .waf-fileUpload-fileItem.waf-state-hover .waf-fileUpload-fileItem-name {
+  color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-fileUpload .waf-fileUpload-fileList-menu .waf-fileUpload-fileItem.waf-state-hover .waf-fileUpload-fileItem-button button {
+  background-image: url(images/widget-oldFileUpload-delete.png);
+}
+.waf-theme.simpleGreen .waf-frame {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d2d3d4;
+  border-radius: 4px;
+  background-color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-label.waf-state-disabled {
+  opacity: 0.4;
+}
+.waf-theme.simpleGreen .waf-login {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d2d3d4;
+  border-radius: 4px;
+  background-color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-login-dialog {
+  padding: 0;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d2d3d4;
+  border-radius: 4px;
+  background-color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-login-dialog .waf-widget-header {
+  padding: 8px;
+}
+.waf-theme.simpleGreen .waf-login-dialog .waf-widget-header .ui-dialog-title {
+  margin: 0;
+}
+.waf-theme.simpleGreen .waf-login-dialog .waf-widget-body {
+  padding: 8px;
+  border-width: 0;
+  border-radius: inherit;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  line-height: 1.5;
+  font-family: "Myriad Pro", sans-serif;
+  font-size: 14px;
+  color: #292929;
+}
+.waf-theme.simpleGreen .waf-login-dialog .waf-widget-body .waf-login-button {
+  padding: 5px 9px;
+}
+.waf-theme.simpleGreen .waf-matrix .waf-matrix-element {
+  -webkit-transition: border 0.2s ease-in-out, -webkit-box-shadow 0.2s ease-in-out;
+  -moz-transition: border 0.2s ease-in-out, background-image 0.2s ease-in-out, -moz-box-shadow 0.2s ease-in-out;
+  -o-transition: border 0.2s ease-in-out, background-image 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+.waf-theme.simpleGreen .waf-menuBar {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d2d3d4;
+  border-radius: 4px;
+  background-color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-menuItem {
+  border-width: 0;
+  border-style: inherit;
+  border-color: inherit;
+  background-color: #f3f3f3;
+}
+.waf-theme.simpleGreen .waf-menuItem.waf-menuItem-horizontal {
+  border-right-width: 1px;
+}
+.waf-theme.simpleGreen .waf-menuItem.waf-menuItem-horizontal.waf-menuItem-first {
+  border-top-left-radius: inherit;
+  border-bottom-left-radius: inherit;
+}
+.waf-theme.simpleGreen .waf-menuItem.waf-menuItem-horizontal.waf-menuItem-last {
+  border-right-width: 0;
+  border-top-right-radius: inherit;
+  border-bottom-right-radius: inherit;
+}
+.waf-theme.simpleGreen .waf-menuItem.waf-menuItem-vertical {
+  border-bottom-width: 1px;
+}
+.waf-theme.simpleGreen .waf-menuItem.waf-menuItem-vertical.waf-menuItem-first {
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+}
+.waf-theme.simpleGreen .waf-menuItem.waf-menuItem-vertical.waf-menuItem-last {
+  border-bottom-width: 0;
+  border-bottom-left-radius: inherit;
+  border-bottom-right-radius: inherit;
+}
+.waf-theme.simpleGreen .waf-menuItem .waf-richText {
+  padding-left: 14px;
+  padding-right: 14px;
+}
+.waf-theme.simpleGreen .waf-menuItem.waf-menuItem-horizontal {
+  border-right-width: 0;
+}
+.waf-theme.simpleGreen .waf-menuItem.waf-menuItem-horizontal::before {
+  content: '';
+  position: absolute;
+  background-color: #a8c73c;
+  bottom: 0;
+  left: 10px;
+  right: 10px;
+  height: 0;
+  -webkit-transition-property: height;
+  -webkit-transition-duration: 150ms;
+  transition-property: height;
+  transition-duration: 150ms;
+}
+.waf-theme.simpleGreen .waf-menuItem.waf-menuItem-horizontal.waf-state-hover::before {
+  height: 2px;
+}
+.waf-theme.simpleGreen .waf-menuItem.waf-menuItem-horizontal.waf-state-active::before {
+  height: 4px;
+}
+.waf-theme.simpleGreen .waf-menuItem.waf-menuItem-horizontal.waf-state-selected::before {
+  height: 4px;
+}
+.waf-theme.simpleGreen .waf-menuItem.waf-menuItem-vertical {
+  border-bottom-width: 0;
+}
+.waf-theme.simpleGreen .waf-menuItem.waf-menuItem-vertical::before {
+  content: '';
+  position: absolute;
+  background-color: #a8c73c;
+  left: 0;
+  top: 5px;
+  bottom: 5px;
+  width: 0;
+  -webkit-transition-property: width;
+  -webkit-transition-duration: 150ms;
+  transition-property: width;
+  transition-duration: 150ms;
+}
+.waf-theme.simpleGreen .waf-menuItem.waf-menuItem-vertical.waf-state-hover::before {
+  width: 2px;
+}
+.waf-theme.simpleGreen .waf-menuItem.waf-menuItem-vertical.waf-state-active::before {
+  width: 4px;
+}
+.waf-theme.simpleGreen .waf-menuItem.waf-menuItem-vertical.waf-state-selected::before {
+  width: 4px;
+}
+.waf-theme.simpleGreen .waf-progressBar {
+  border-width: 0;
+  border-style: solid;
+  border-color: #bcbcbc;
+  border-radius: 4px;
+  background-color: #f3fbeb;
+  box-shadow: 0 -4px #e1efd3 inset, 0 0 0 1px #dcdcdc inset;
+}
+.waf-theme.simpleGreen .waf-progressBar .waf-progressBar-range {
+  border-width: 0;
+  border-style: solid;
+  border-color: transparent;
+  border-radius: 4px;
+  background-color: #a8c73c;
+  background-clip: content-box;
+  box-shadow: 0 4px #7d942c inset, 0 0 0 1px #7d942c inset;
+}
+.waf-theme.simpleGreen .waf-progressBar .waf-progressBar-range {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.waf-theme.simpleGreen .waf-radioGroup {
+  list-style: none;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+.waf-theme.simpleGreen .waf-radioGroup .waf-radio .waf-radio-box {
+  background-color: #ffffff;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #bcbcbc;
+  border-radius: 100px;
+  box-shadow: 3px 3px 0 0 #f1f1f1 inset;
+}
+.waf-theme.simpleGreen .waf-radioGroup .waf-radio .waf-radio-icon.waf-icon-svg {
+  display: none;
+}
+.waf-theme.simpleGreen .waf-radioGroup .waf-radio .waf-radio-icon-symbol {
+  fill: #658200;
+}
+.waf-theme.simpleGreen .waf-radioGroup .waf-radio .waf-radio-icon-symbol-shadow {
+  fill: transparent;
+}
+.waf-theme.simpleGreen .waf-radioGroup .waf-radio.waf-state-hover .waf-radio-icon.waf-icon-svg {
+  display: block;
+}
+.waf-theme.simpleGreen .waf-radioGroup .waf-radio.waf-state-hover .waf-radio-icon-symbol {
+  fill: #658200;
+}
+.waf-theme.simpleGreen .waf-radioGroup .waf-radio.waf-state-hover .waf-radio-icon-symbol-shadow {
+  fill: transparent;
+}
+.waf-theme.simpleGreen .waf-radioGroup .waf-radio.waf-state-active .waf-radio-icon.waf-icon-svg {
+  display: block;
+}
+.waf-theme.simpleGreen .waf-radioGroup .waf-radio.waf-state-active .waf-radio-icon-symbol {
+  fill: #658200;
+}
+.waf-theme.simpleGreen .waf-radioGroup .waf-radio.waf-state-active .waf-radio-icon-symbol-shadow {
+  fill: transparent;
+}
+.waf-theme.simpleGreen .waf-radioGroup .waf-radio.waf-state-selected .waf-radio-icon.waf-icon-svg {
+  display: block;
+}
+.waf-theme.simpleGreen .waf-radioGroup .waf-radio.waf-state-selected .waf-radio-icon-symbol {
+  fill: #658200;
+}
+.waf-theme.simpleGreen .waf-radioGroup .waf-radio.waf-state-selected .waf-radio-icon-symbol-shadow {
+  fill: transparent;
+}
+.waf-theme.simpleGreen .waf-radioGroup.waf-state-disabled {
+  opacity: 0.4;
+}
+.waf-theme.simpleGreen .waf-select {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #bcbcbc;
+  border-radius: 4px;
+}
+.waf-theme.simpleGreen .waf-slider {
+  border-width: 0;
+  border-style: solid;
+  border-color: #bcbcbc;
+  border-radius: 4px;
+  background: none;
+  /* jquery ui */
+  background-color: #f3fbeb;
+  box-shadow: 0 -4px #e1efd3 inset, 0 0 0 1px #dcdcdc inset;
+}
+.waf-theme.simpleGreen .waf-slider .ui-slider-range {
+  border-width: 0;
+  border-style: solid;
+  border-color: transparent;
+  border-radius: 4px;
+  background-color: #a8c73c;
+  background-clip: content-box;
+  box-shadow: 0 4px #7d942c inset, 0 0 0 1px #7d942c inset;
+}
+.waf-theme.simpleGreen .waf-slider .ui-slider-handle {
+  position: absolute;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d4d4d4;
+  border-radius: 3px;
+  background-image: none;
+  background-color: #ebebeb;
+  box-shadow: 0 2px #ffffff inset;
+}
+.waf-theme.simpleGreen .waf-slider.ui-slider-horizontal .ui-slider-handle {
+  top: -4px;
+  bottom: -4px;
+}
+.waf-theme.simpleGreen .waf-slider.ui-slider-vertical {
+  box-shadow: -4px 0 #e1efd3 inset, 0 0 0 1px #dcdcdc inset;
+}
+.waf-theme.simpleGreen .waf-slider.ui-slider-vertical .ui-slider-range {
+  box-shadow: 4px 0 #7d942c inset, 0 0 0 1px #7d942c inset;
+}
+.waf-theme.simpleGreen .waf-slider.ui-slider-vertical .ui-slider-handle {
+  margin-left: 0;
+  left: -4px;
+  right: -4px;
+  box-shadow: 2px 0 #ffffff inset;
+}
+.waf-theme.simpleGreen .waf-slider.waf-state-disabled {
+  opacity: 0.4;
+}
+.waf-theme.simpleGreen .waf-tabView {
+  border-radius: 4px;
+}
+.waf-theme.simpleGreen .waf-tabView .waf-tabView-menuBar {
+  border-width: 0;
+  border-radius: inherit;
+}
+.waf-theme.simpleGreen .waf-tabView .waf-tabView-menuBar .waf-menItem.waf-state-disabled {
+  opacity: 0.4;
+}
+.waf-theme.simpleGreen .waf-tabView .waf-container {
+  border-radius: inherit;
+}
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-top-left > .waf-tabView-menuBar,
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-top-right > .waf-tabView-menuBar {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-top-left > .waf-container,
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-top-right > .waf-container {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-bottom-left > .waf-tabView-menuBar,
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-bottom-right > .waf-tabView-menuBar {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-bottom-left > .waf-container,
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-bottom-right > .waf-container {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-left-top > .waf-tabView-menuBar,
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-left-bottom > .waf-tabView-menuBar {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-left-top > .waf-container,
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-left-bottom > .waf-container {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-right-top > .waf-tabView-menuBar,
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-right-bottom > .waf-tabView-menuBar {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-right-top > .waf-container,
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-right-bottom > .waf-container {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+.waf-theme.simpleGreen .waf-tabView .waf-tabView-menuBar .waf-menuItem {
+  font-size: 12px;
+}
+.waf-theme.simpleGreen .waf-tabView .waf-tabView-menuBar .waf-menuItem.waf-menuItem-horizontal::before {
+  left: 0;
+  right: 0;
+}
+.waf-theme.simpleGreen .waf-tabView .waf-tabView-menuBar .waf-menuItem.waf-menuItem-horizontal.waf-state-hover::before {
+  height: 1px;
+}
+.waf-theme.simpleGreen .waf-tabView .waf-tabView-menuBar .waf-menuItem.waf-menuItem-horizontal.waf-state-active::before {
+  height: 2px;
+}
+.waf-theme.simpleGreen .waf-tabView .waf-tabView-menuBar .waf-menuItem.waf-menuItem-horizontal.waf-state-selected::before {
+  height: 2px;
+}
+.waf-theme.simpleGreen .waf-tabView .waf-tabView-menuBar .waf-menuItem.waf-menuItem-vertical::before {
+  top: 0;
+  bottom: 0;
+}
+.waf-theme.simpleGreen .waf-tabView .waf-tabView-menuBar .waf-menuItem.waf-menuItem-vertical.waf-state-hover::before {
+  width: 1px;
+}
+.waf-theme.simpleGreen .waf-tabView .waf-tabView-menuBar .waf-menuItem.waf-menuItem-vertical.waf-state-active::before {
+  width: 2px;
+}
+.waf-theme.simpleGreen .waf-tabView .waf-tabView-menuBar .waf-menuItem.waf-menuItem-vertical.waf-state-selected::before {
+  width: 2px;
+}
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-top-left > .waf-tabView-menuBar .waf-menuItem::before,
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-top-right > .waf-tabView-menuBar .waf-menuItem::before {
+  bottom: auto;
+  top: 0;
+}
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-top-left > .waf-tabView-menuBar .waf-menuItem .waf-richText,
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-top-right > .waf-tabView-menuBar .waf-menuItem .waf-richText {
+  padding-top: 4px;
+}
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-right-top > .waf-tabView-menuBar .waf-menuItem::before,
+.waf-theme.simpleGreen .waf-tabView.waf-tabView-menu-position-right-bottom > .waf-tabView-menuBar .waf-menuItem::before {
+  left: auto;
+  right: 0;
+}
+.waf-theme.simpleGreen .waf-textField {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #bcbcbc;
+  border-radius: 4px;
+  background-color: #ffffff;
+  box-shadow: 2px 2px #f1f1f1 inset;
+  color: #292929;
+  line-height: 1.5;
+  font-family: "Myriad Pro", sans-serif;
+  font-size: 14px;
+  padding: 5px;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.waf-theme.simpleGreen .waf-video {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d2d3d4;
+  border-radius: 4px;
+  background-color: #ffffff;
+}
+.waf-theme.simpleGreen {
+  background-color: #ffffff;
+}
+#studio-tmp-bodyContainer.waf-theme.simpleGreen {
+  background-color: transparent !important;
+}
+.waf-theme.simpleGreen {
+  line-height: 1.5;
+  font-family: "Myriad Pro", sans-serif;
+  font-size: 14px;
+  color: #292929;
+}
+.waf-theme.simpleGreen h1,
+.waf-theme.simpleGreen h2,
+.waf-theme.simpleGreen h3,
+.waf-theme.simpleGreen h4,
+.waf-theme.simpleGreen h5,
+.waf-theme.simpleGreen h6 {
+  line-height: 1.5;
+}
+.waf-theme.simpleGreen h1,
+.waf-theme.simpleGreen h2,
+.waf-theme.simpleGreen h3 {
+  margin-top: 28px;
+  margin-bottom: 14px;
+}
+.waf-theme.simpleGreen h4,
+.waf-theme.simpleGreen h5,
+.waf-theme.simpleGreen h6 {
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+.waf-theme.simpleGreen h1 {
+  font-family: "Myriad Pro", sans-serif;
+  font-size: 40px;
+}
+.waf-theme.simpleGreen h2 {
+  font-family: "Myriad Pro", sans-serif;
+  font-size: 34px;
+}
+.waf-theme.simpleGreen h3 {
+  font-family: "Myriad Pro", sans-serif;
+  font-size: 28px;
+}
+.waf-theme.simpleGreen h4 {
+  font-family: "Myriad Pro", sans-serif;
+  font-size: 23px;
+}
+.waf-theme.simpleGreen h5 {
+  font-family: "Myriad Pro", sans-serif;
+  font-size: 20px;
+}
+.waf-theme.simpleGreen h6 {
+  font-family: "Myriad Pro", sans-serif;
+  font-size: 17px;
+}
+.waf-theme.simpleGreen p {
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+.waf-theme.simpleGreen a {
+  color: #292929;
+}
+.waf-theme.simpleGreen ul,
+.waf-theme.simpleGreen ol {
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+.waf-theme.simpleGreen ul ul,
+.waf-theme.simpleGreen ol ul,
+.waf-theme.simpleGreen ul ol,
+.waf-theme.simpleGreen ol ol {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.waf-theme.simpleGreen .waf-ui-textHeaders {
+  font-size: 16px;
+  font-weight: bold;
+}
+.waf-theme.simpleGreen .waf-ui-input {
+  padding: 5px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #bcbcbc;
+  border-radius: 4px;
+  background-color: #ffffff;
+  box-shadow: 2px 2px #f1f1f1 inset;
+  color: #292929;
+  line-height: 1.5;
+  font-family: "Myriad Pro", sans-serif;
+  font-size: 14px;
+}
+.waf-theme.simpleGreen .waf-ui-button {
+  padding: 5px 9px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  border-width: 1px;
+  border-style: solid;
+  border-color: transparent;
+  border-radius: 4px;
+  background-color: #ebebeb;
+  color: #616161;
+  box-shadow: 0 -4px 0 0 rgba(0, 0, 0, 0.1) inset;
+  line-height: 1.5;
+  -webkit-transition-property: box-shadow, background-color;
+  -webkit-transition-duration: 150ms;
+  transition-property: box-shadow, background-color;
+  transition-duration: 150ms;
+  font-family: "Myriad Pro", sans-serif;
+  font-size: 14px;
+}
+.waf-theme.simpleGreen .waf-ui-button:hover {
+  box-shadow: none;
+}
+.waf-theme.simpleGreen .waf-ui-button:active {
+  background-color: #d2d2d2;
+  box-shadow: 0 4px 0 0 rgba(0, 0, 0, 0.1) inset;
+}
+.waf-theme.simpleGreen .waf-ui-button:focus {
+  outline: none;
+}
+.waf-theme.simpleGreen .waf-ui-button.waf-ui-success {
+  border-color: transparent;
+  background-color: #90b900;
+  color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-ui-button.waf-ui-success:active {
+  background-color: #799b02;
+}
+.waf-theme.simpleGreen .waf-ui-button.waf-ui-warning {
+  border-color: transparent;
+  background-color: #f99601;
+  color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-ui-button.waf-ui-warning:active {
+  background-color: #d47f00;
+}
+.waf-theme.simpleGreen .waf-ui-button.waf-ui-danger {
+  border-color: transparent;
+  background-color: #e74a20;
+  color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-ui-button.waf-ui-danger:active {
+  background-color: #c7350c;
+}
+.waf-theme.simpleGreen .waf-ui-button.waf-ui-info {
+  border-color: transparent;
+  background-color: #3fa0fb;
+  color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-ui-button.waf-ui-info:active {
+  background-color: #2285e1;
+}
+.waf-theme.simpleGreen ::-webkit-input-placeholder {
+  color: #bcbcbc;
+}
+.waf-theme.simpleGreen ::-moz-placeholder {
+  color: #bcbcbc;
+}
+.waf-theme.simpleGreen :-ms-input-placeholder {
+  color: #bcbcbc;
+}
+.waf-theme.simpleGreen input:-moz-placeholder {
+  color: #bcbcbc;
+}
+.waf-theme.simpleGreen progress {
+  box-shadow: 2px 2px #f1f1f1 inset;
+}
+.waf-theme.simpleGreen .waf-ui-table {
+  width: 100%;
+  max-width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d2d3d4;
+  font-size: 12px;
+}
+.waf-theme.simpleGreen .waf-ui-table thead,
+.waf-theme.simpleGreen .waf-ui-table tbody,
+.waf-theme.simpleGreen .waf-ui-table tfoot,
+.waf-theme.simpleGreen .waf-ui-table tr,
+.waf-theme.simpleGreen .waf-ui-table th,
+.waf-theme.simpleGreen .waf-ui-table td {
+  border-width: 0;
+  border-style: inherit;
+  border-color: inherit;
+}
+.waf-theme.simpleGreen .waf-ui-table th,
+.waf-theme.simpleGreen .waf-ui-table td {
+  padding: 12px;
+  border-width: 1px;
+}
+.waf-theme.simpleGreen .waf-ui-table thead th {
+  text-align: center;
+}
+.waf-theme.simpleGreen .waf-ui-table thead th,
+.waf-theme.simpleGreen .waf-ui-table thead td {
+  box-shadow: 0 -4px 0 0 rgba(0, 0, 0, 0.05) inset;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f0f0f0));
+  background-image: -webkit-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: -moz-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: linear-gradient(to bottom, #ffffff 0%, #f0f0f0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff0f0f0', GradientType=0);
+  font-size: 16px;
+  font-weight: bold;
+}
+.waf-theme.simpleGreen .waf-ui-table tfoot th,
+.waf-theme.simpleGreen .waf-ui-table tfoot td {
+  box-shadow: 0 -4px 0 0 rgba(0, 0, 0, 0.05) inset;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f0f0f0));
+  background-image: -webkit-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: -moz-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: linear-gradient(to bottom, #ffffff 0%, #f0f0f0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff0f0f0', GradientType=0);
+}
+.waf-theme.simpleGreen .waf-ui-table tbody th {
+  box-shadow: 0 -4px 0 0 rgba(0, 0, 0, 0.05) inset;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f0f0f0));
+  background-image: -webkit-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: -moz-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: linear-gradient(to bottom, #ffffff 0%, #f0f0f0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff0f0f0', GradientType=0);
+  font-size: 16px;
+  font-weight: bold;
+}
+.waf-theme.simpleGreen .waf-ui-table tbody td {
+  background-color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-ui-table .waf-state-loading {
+  height: 120px;
+}
+.waf-theme.simpleGreen .waf-ui-table .waf-state-loading .waf-ui-spinner,
+.waf-theme.simpleGreen .waf-ui-table .waf-state-loading .waf-ui-loader {
+  margin: auto;
+}
+.waf-theme.simpleGreen .waf-ui-box {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #d2d3d4;
+  border-radius: 4px;
+  background-color: #ffffff;
+}
+.waf-theme.simpleGreen .waf-ui-header {
+  box-shadow: 0 -4px 0 0 rgba(0, 0, 0, 0.05) inset;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f0f0f0));
+  background-image: -webkit-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: -moz-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: linear-gradient(to bottom, #ffffff 0%, #f0f0f0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff0f0f0', GradientType=0);
+  font-size: 16px;
+  font-weight: bold;
+}
+.waf-theme.simpleGreen .waf-ui-footer {
+  box-shadow: 0 -4px 0 0 rgba(0, 0, 0, 0.05) inset;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f0f0f0));
+  background-image: -webkit-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: -moz-linear-gradient(top, #ffffff 0%, #f0f0f0 100%);
+  background-image: linear-gradient(to bottom, #ffffff 0%, #f0f0f0 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#fff0f0f0', GradientType=0);
+}
+.waf-theme.simpleGreen .waf-ui-body {
+  background-color: #ffffff;
+}
+/**
+ * -------------------------------------------------------
+ * @section navBar
+ * @section tabBar
+ * -------------------------------------------------------
+ */
+.waf-theme.simpleGreen .waf-ui-navBar {
+  list-style: none;
+}
+.waf-theme.simpleGreen .waf-ui-navBar li {
+  display: block;
+}
+.waf-theme.simpleGreen .waf-ui-tabBar {
+  list-style: none;
+}
+.waf-theme.simpleGreen .waf-ui-tabBar::before,
+.waf-theme.simpleGreen .waf-ui-tabBar::after {
+  content: " ";
+  display: table;
+  clear: both;
+}
+.waf-theme.simpleGreen .waf-ui-tabBar li {
+  display: block;
+  float: left;
+}
+.waf-theme.simpleGreen .waf-ui-spinner {
+  position: relative;
+  overflow: hidden;
+  width: 3em;
+  height: 3em;
+  font-size: 14px;
+  -webkit-animation: waf-kf-spin_2t 1.3s infinite alternate;
+  animation: waf-kf-spin_2t 1.3s infinite alternate;
+}
+@-webkit-keyframes waf-kf-spin_2t {
+  to {
+    -webkit-transform: rotate(2turn);
+    transform: rotate(2turn);
+  }
+}
+@keyframes waf-kf-spin-spin_2t {
+  to {
+    -webkit-transform: rotate(2turn);
+    transform: rotate(2turn);
+  }
+}

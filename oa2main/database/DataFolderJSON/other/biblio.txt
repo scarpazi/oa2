@@ -1,0 +1,33 @@
+ID	Idbiblio	biblioText
+1	Ascheri, 2000	Ascheri M. 2000, Siena nella storia, Siena, Monte dei Paschi di Siena, 287 pp.
+2	Balestracci, Piccinni, 1977	Balestracci D., Piccinni G. 1977, Siena nel Trecento. Assetto urbano e strutture edilizie, Firenze, CLUSF, 1 voll., 201 pp.
+3	Bargagli Petrucci, 1974	Bargagli Petrucci F. 1974, Le fonti di Siena e i loro acquedotti, Siena, Periccioli
+4	Boldrini, 1994	Boldrini E. 1994, Una fornace da ceramica a Siena, «Archeologia Medievale», 1994/21, pp. 225-231
+5	Boldrini, Parenti, 1991	Boldrini E., Parenti R. (a cura di) 1991, Santa Maria della Scala. Archeologia e edilizia sulla piazza dello Spedale, Firenze, All'Insegna del Giglio   (Biblioteca di Archeologia Medievale, 7)
+6	Bortolotti, 1983	Bortolotti L. 1983, Siena. Le città nella storia d’Italia, 1, Roma, Laterza, 238 pp.
+7	Cantini, 2005	Cantini F. 2005, Archeologia urbana a Siena. L’area dell’Ospedale di Santa Maria della Scala prima dell’Ospedale. Altomedioevo, 1, Firenze, All’Insegna del Giglio, 263 pp.
+8	Castelli, Bonucci, 2005	Castelli V., Bonucci S. 2005, Antiche torri di Siena, 1, Siena, Betti, 254 pp.
+9	Causarano, 2005	Causarano M.A. 2005, Interventi archeologici sotto il Duomo di Siena, in Francovich R., Valenti M. (a cura di), Archeologia dei Paesaggi Medievali. Relazione Progetto, Firenze, All'Insegna del Giglio, 
+10	Causarano, 2009	Causarano M.A. 2009, Palazzo Pubblico di Siena, Ala dei Nove: le murature degli ambienti su piazza del Mercato, «Archeologia dell’Architettura», 2007/12, pp. 121-132
+11	Causarano, Mandolesi, 2005	Causarano M.A., Mandolesi L. 2005, Il chiostro della chiesa di San Cristoforo, in Francovich R., Valenti M. (a cura di), Archeologia dei Paesaggi Medievali. Relazione Progetto, Firenze, All'Insegna del Giglio, pp. 51-55
+12	Causarano, Tronti, 2005	Causarano M.A., Tronti C. 2005, Lo scavo di emergenza in via Baroncelli, in Francovich R., Valenti M. (a cura di), Archeologia dei Paesaggi Medievali. Relazione Progetto, Firenze, All'Insegna del Giglio, pp. 56-62
+13	Cresti, Martellucci, 2004	Cresti R., Martellucci M. 2004, Stradario, curiosità e stranezze nei toponimi di Siena, Siena, Betti
+14	Cristofani et alii, 1979 	Cristofani M. et alii 1979, Siena: le origini, testimonianze e miti archeologici. Catalogo della mostra, Siena, dicembre 1979-marzo 1980, Firenze, Leo S. Olschki
+15	Fiorini, 1991	Fiorini A. 1991, Siena: immagini, testimonianze e miti nei toponimi della città, 1, Siena, Alsaba, 406 pp.
+16	Florin, 1983	Florin B. 1983, L’habitat du haut Moyen Age en milieu rural dan le nord de la France: état de la question, Cambrai
+17	Francovich, 1982b	Francovich R. 1982b, La ceramica medievale a Siena e nella Toscana meridionale, Firenze, All'Insegna del Giglio
+18	Francovich, Gelichi 1980d	Francovich R., Gelichi S. 1980d, Per una storia delle produzioni e del consumo della ceramica basso-medievale a Siena e nella Toscana meridionale, in La cèramique mèdièvale en Mèditerranée occidentale (X-XV siècles). Valbonne 11-14 septembre 1978, pp. 137-154
+19	Gabbrielli, 2004	Gabbrielli F. (a cura di) 2004, Palazzo Sansedoni, Siena, Protagon, vol. 1, 504 pp.
+20	Giorgi, Moscadelli, 2005	Giorgi G., Moscadelli S. 2005, Costruire una cattedrale. L’Opera di Santa Maria di Siena tra XII e XIV secolo, München, Deutsche Kunstverlag, 524 pp.   (Die Kirchen von Siena)
+21	Leoncini, 1998	Leoncini A. 1998, Siena in fasce. Topografia e immagini della Sena Vetus, Monteriggioni, Il Leccio
+22	Luna, 1999	Luna A. 1999, Nuove acquisizioni sulla maiolica arcaica senese. I dati dal pozzo della Civetta (Siena), «Archeologia Medievale», 1999/26, pp. 411-427
+23	Lusini, 1921	Lusini V. 1921, Note storiche sulla topografia di Siena, «Bullettino Senese di Storia Patria», 1921/28, pp. 239-341
+24	Nepi, Palazzuoli, Panazza, 1976	Nepi C., Palazzuoli L., Panazza R. 1976, Per lo studio della facies rupestre della città di Siena, «Archeologia Medievale», 1976/3, pp. 413-428
+25	Pallecchi, 2003	Pallecchi S. 2003, Archeologia urbana a Siena: per un’indagine preventiva mirata alla individuazione delle aree di maggior rischio archeologico, 1, Siena, 406 pp.
+26	Pianigiani, 2007	Pianigiani B. 2007, Archeologia dell’architettura in Castel Montone: la chiesa dei Servi di Maria a Siena. Tesi di laurea, Università degli Studi di Siena, Siena
+27	Pozzi, 2003	Pozzi F. 2003, Siena nel Duecento: ricerche nella struttura urbana, Siena, 429 pp.
+28	Siena e l’acqua. Storia e, 1997	Siena e l’acqua. Storia e immagini di una città e delle sue fonti, Siena, Nuova Immagine Editrice, 1997, 207 pp.
+29	Torriti, 1988	Torriti P. 1988, Tutta Siena contrada per contrada, 1, Firenze, Bonechi Edizioni, 478 pp.
+30	Valenti, 2005	Valenti M. 2005, Lo scavo e la ceramica dal Carmine, in Francovich R., Valenti M. (a cura di), Archeologia dei Paesaggi Medievali. Relazione Progetto, Firenze, All'Insegna del Giglio, pp. 35-45
+31	Valenti, 2006	Valenti M. (a cura di) 2006, Il Fortino delle Donne Senesi. Progetto di restauro e recupero. Indagini archeologiche e storiche. Relazioni dei lavori, Siena, Laboratorio di Informatica Applicata all’Archeologia Medievale
+32	Valenti, Causarano, 2005	Valenti M., Causarano M.A. 2005, L’intervento di recupero alla Fonte di Follonica, in Francovich R., Valenti M. (a cura di), Archeologia dei Paesaggi Medievali. Relazione Progetto, Firenze, All'Insegna del Giglio, pp. 46-50

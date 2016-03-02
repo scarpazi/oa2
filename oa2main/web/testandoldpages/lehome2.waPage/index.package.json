@@ -1,0 +1,108 @@
+{
+	"name": "oa2_main/lehome.waPage/index.html",
+	"version": "1.0.0",
+	"loadDependencies": [
+		{
+			"id": "Desktop_Core",
+			"version": "1.0.0",
+			"type": "core"
+		},
+		{
+			"id": "Widget/container",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/image",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/richText",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/label",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/menuBar",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/menuItem",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/icon",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/button",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/buttonImage",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/textField",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/dialog",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/component",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/dataGrid",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/slider",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/accordion",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/tabView",
+			"type": "widget"
+		},
+		{
+			"package": "default"
+		},
+		{
+			"package": "Leaflet"
+		},
+		{
+			"package": "Text"
+		},
+		{
+			"package": "TextArea"
+		},
+		{
+			"file": "styles/index.css"
+		},
+		{
+			"file": "application.css",
+			"path": "WEBFOLDER"
+		},
+		{
+			"file": "styles/lehome_custom.css"
+		},
+		{
+			"file": "css/genstyles.css",
+			"path": "WEBFOLDER"
+		},
+		{
+			"file": "styles/lehome_styles.css"
+		},
+		{
+			"file": "scripts/index.js"
+		}
+	],
+	"type": "page"
+}

@@ -1,0 +1,11 @@
+﻿[
+{"ID":1,"year":450,"precision":"Esatta","meaning":"Mezzo secolo"},
+{"ID":2,"year":1270,"precision":"Esatta","meaning":"Anno"},
+{"ID":3,"year":-749,"precision":"Approssimata","meaning":"Mezzo secolo"},
+{"ID":4,"year":1999,"precision":"Esatta","meaning":"Secolo"},
+{"ID":5,"year":600,"precision":"Esatta","meaning":"Secolo"},
+{"ID":6,"year":1349,"precision":"Esatta","meaning":"Mezzo secolo"},
+{"ID":7,"year":399,"precision":"Esatta","meaning":"Fine secolo"},
+{"ID":8,"year":1993,"precision":"Esatta","meaning":"Anno"},
+{"ID":12,"year":2009,"precision":"Esatta","meaning":"Anno"}
+]

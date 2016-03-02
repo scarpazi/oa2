@@ -1,0 +1,90 @@
+{
+	"name": "oa2main/tehome.waPage/index.html",
+	"type": "page",
+	"version": "1.0.0",
+	"loadDependencies": [
+		{
+			"id": "Desktop_Core",
+			"version": "1.0.0",
+			"type": "core"
+		},
+		{
+			"id": "Widget/component",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/buttonImage",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/icon",
+			"type": "widget"
+		},
+		{
+			"id": "webcomps/teGrid.waComponent/teGrid.package.json",
+			"path": "WEBFOLDER",
+			"type": "component"
+		},
+		{
+			"id": "webcomps/teGIS.waComponent/teGIS.package.json",
+			"path": "WEBFOLDER",
+			"type": "component"
+		},
+		{
+			"id": "webcomps/teMainData.waComponent/teMainData.package.json",
+			"path": "WEBFOLDER",
+			"type": "component"
+		},
+		{
+			"id": "Widget/label",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/textField",
+			"type": "widget"
+		},
+		{
+			"package": "default"
+		},
+		{
+			"package": "Container"
+		},
+		{
+			"package": "Image"
+		},
+		{
+			"package": "Text"
+		},
+		{
+			"package": "TextInput"
+		},
+		{
+			"file": "styles/index.css"
+		},
+		{
+			"file": "application.css",
+			"path": "WEBFOLDER"
+		},
+		{
+			"file": "prototype/application.css",
+			"path": "WEBFOLDER"
+		},
+		{
+			"file": "css/genstyles.css",
+			"path": "WEBFOLDER"
+		},
+		{
+			"file": "css/opentip.css",
+			"path": "WEBFOLDER"
+		},
+		{
+			"file": "styles/tehomeCustom.css"
+		},
+		{
+			"file": "scripts/index.js"
+		},
+		{
+			"file": "scripts/leaflet.contextmenu.js"
+		}
+	]
+}

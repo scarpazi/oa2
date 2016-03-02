@@ -1,0 +1,11 @@
+{
+	"name": "leGrid",
+	"html": "leGrid.html",
+	"scripts": [
+		"leGrid.js"
+	],
+	"styles": [
+		"leGrid.css",
+		"leGridCustom.css"
+	]
+}

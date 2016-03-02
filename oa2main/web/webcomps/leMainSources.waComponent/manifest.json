@@ -1,0 +1,11 @@
+{
+	"name": "leMainSources",
+	"html": "leMainSources.html",
+	"scripts": [
+		"leMainSources.js"
+	],
+	"styles": [
+		"leMainSources.css",
+		"leMainSourcesCustom.css"
+	]
+}

@@ -1,1 +1,0 @@
-model.LandscapeElement.defComplete.onGet = function() {	//return this.def1Obj.lvalue + '|' + this.def2Obj.lvalue;};

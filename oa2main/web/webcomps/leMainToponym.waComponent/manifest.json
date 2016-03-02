@@ -1,0 +1,10 @@
+{
+	"name": "leMainToponym",
+	"html": "leMainToponym.html",
+	"scripts": [
+		"leMainToponym.js"
+	],
+	"styles": [
+		"leMainToponym.css"
+	]
+}

@@ -1,0 +1,14 @@
+.waf-widget.waf-select2 input {
+	width:100%;
+}
+.waf-designer-select2 .select2-choice{
+	height: 100%;
+}
+.waf-designer-select2 .selectableInStudio {
+	width:100%;
+	height:100%;
+	z-index: 999;
+	position:inherit;
+	top:0px;
+	left:0px;
+}

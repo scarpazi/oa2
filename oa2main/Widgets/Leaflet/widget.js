@@ -93,7 +93,8 @@ WAF.define('Leaflet', ['waf-core/widget'], function(widget) {
             var thunderforest = L.tileLayer('http://{s}.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png');
             this._map.addLayer(thunderforest);
 
-            var hillshade = L.tileLayer.wms("http://129.206.228.72/cached/hillshade", {
+            /* HILLSHADE NOT WORKING: doesn't find the layer and keeps timing out in vlient-side (browser)
+			var hillshade = L.tileLayer.wms("http://129.206.228.72/cached/hillshade", {
                 layers: 'europe_wms:hs_srtm_europa',
                 format: 'image/png',
                 opacity: 1,
@@ -101,13 +102,13 @@ WAF.define('Leaflet', ['waf-core/widget'], function(widget) {
                 attribution: 'Hillshade layer by GIScience http://www.osm-wms.de',
                 crs: L.CRS.EPSG900913
             });
-            this._map.addLayer(hillshade); //OSM-WMS Uni Heidelberg
+            this._map.addLayer(hillshade); //OSM-WMS Uni Heidelberg */
 
             var baseLayers = {
-                "OpenStreetMap": openstreetmap,
-                "OpenStreetMap bw": openstreetmapbw,
-                "Hillshade": hillshade,
-                "Thunderforest": thunderforest
+				"Thunderforest": thunderforest,
+				"OpenStreetMap": openstreetmap,
+				"OpenStreetMap bw": openstreetmapbw
+				//"Hillshade": hillshade
             };
 
             /*
@@ -140,6 +141,8 @@ WAF.define('Leaflet', ['waf-core/widget'], function(widget) {
             // Adding layers control and scale bar
             // VERSION WITH OVERLAYS L.control.layers(baseLayers, overlays).addTo(this._map);
             L.control.layers(baseLayers).addTo(this._map);
+			//L.control.layers(baseLayers).addTo(this._map);
+
             L.control.scale().addTo(this._map);
 
             // Listen for updates

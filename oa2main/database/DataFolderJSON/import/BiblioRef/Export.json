@@ -1,0 +1,6788 @@
+[
+  {
+    "ID":1,
+    "pages":"95",
+    "tmpIDoa2Te":"%NSU205%",
+    "tmpIDbiblio":"Ascheri, 2000"
+  },
+  {
+    "ID":2,
+    "pages":"231",
+    "tmpIDoa2Te":"%NSU212%",
+    "tmpIDbiblio":"Ascheri, 2000"
+  },
+  {
+    "ID":3,
+    "pages":"145",
+    "tmpIDoa2Te":"%NSU215%",
+    "tmpIDbiblio":"Ascheri, 2000"
+  },
+  {
+    "ID":4,
+    "pages":"231",
+    "tmpIDoa2Te":"%NSU235%",
+    "tmpIDbiblio":"Ascheri, 2000"
+  },
+  {
+    "ID":5,
+    "pages":"145",
+    "tmpIDoa2Te":"%NSU296%",
+    "tmpIDbiblio":"Ascheri, 2000"
+  },
+  {
+    "ID":6,
+    "pages":"45",
+    "tmpIDoa2Te":"%NSU205%",
+    "tmpIDbiblio":"Balestracci, Piccinni, 1977"
+  },
+  {
+    "ID":7,
+    "pages":"148",
+    "tmpIDoa2Te":"%NSU208%",
+    "tmpIDbiblio":"Balestracci, Piccinni, 1977"
+  },
+  {
+    "ID":8,
+    "pages":"147",
+    "tmpIDoa2Te":"%NSU209%",
+    "tmpIDbiblio":"Balestracci, Piccinni, 1977"
+  },
+  {
+    "ID":9,
+    "pages":"49",
+    "tmpIDoa2Te":"%NSU246%",
+    "tmpIDbiblio":"Balestracci, Piccinni, 1977"
+  },
+  {
+    "ID":10,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU610%",
+    "tmpIDbiblio":"Balestracci, Piccinni, 1977"
+  },
+  {
+    "ID":11,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1020%",
+    "tmpIDbiblio":"Balestracci, Piccinni, 1977"
+  },
+  {
+    "ID":12,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU197%",
+    "tmpIDbiblio":"Balestracci, Piccinni, 1977"
+  },
+  {
+    "ID":13,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU447%",
+    "tmpIDbiblio":"Balestracci, Piccinni, 1977"
+  },
+  {
+    "ID":14,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1035%",
+    "tmpIDbiblio":"Balestracci, Piccinni, 1977"
+  },
+  {
+    "ID":15,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1036%",
+    "tmpIDbiblio":"Balestracci, Piccinni, 1977"
+  },
+  {
+    "ID":16,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1037%",
+    "tmpIDbiblio":"Balestracci, Piccinni, 1977"
+  },
+  {
+    "ID":17,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1038%",
+    "tmpIDbiblio":"Balestracci, Piccinni, 1977"
+  },
+  {
+    "ID":18,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1039%",
+    "tmpIDbiblio":"Balestracci, Piccinni, 1977"
+  },
+  {
+    "ID":19,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1223%",
+    "tmpIDbiblio":"Balestracci, Piccinni, 1977"
+  },
+  {
+    "ID":20,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1224%",
+    "tmpIDbiblio":"Balestracci, Piccinni, 1977"
+  },
+  {
+    "ID":21,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1225%",
+    "tmpIDbiblio":"Balestracci, Piccinni, 1977"
+  },
+  {
+    "ID":22,
+    "pages":"244-248",
+    "tmpIDoa2Te":"%NSU205%",
+    "tmpIDbiblio":"Bargagli Petrucci, 1974"
+  },
+  {
+    "ID":23,
+    "pages":"328-329",
+    "tmpIDoa2Te":"%NSU206%",
+    "tmpIDbiblio":"Bargagli Petrucci, 1974"
+  },
+  {
+    "ID":24,
+    "pages":"278-281",
+    "tmpIDoa2Te":"%NSU208%",
+    "tmpIDbiblio":"Bargagli Petrucci, 1974"
+  },
+  {
+    "ID":25,
+    "pages":"318-319",
+    "tmpIDoa2Te":"%NSU209%",
+    "tmpIDbiblio":"Bargagli Petrucci, 1974"
+  },
+  {
+    "ID":26,
+    "pages":"225-231",
+    "tmpIDoa2Te":"%NSU718%",
+    "tmpIDbiblio":"Boldrini, 1994"
+  },
+  {
+    "ID":27,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1839%",
+    "tmpIDbiblio":"Boldrini, Parenti, 1991"
+  },
+  {
+    "ID":28,
+    "pages":"15",
+    "tmpIDoa2Te":"%NSU1863%",
+    "tmpIDbiblio":"Boldrini, Parenti, 1991"
+  },
+  {
+    "ID":29,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU449%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":30,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU796%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":31,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU447%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":32,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU701%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":33,
+    "pages":"30",
+    "tmpIDoa2Te":"%NSU206%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":34,
+    "pages":"30",
+    "tmpIDoa2Te":"%NSU208%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":35,
+    "pages":"174",
+    "tmpIDoa2Te":"%NSU215%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":36,
+    "pages":"42",
+    "tmpIDoa2Te":"%NSU217%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":37,
+    "pages":"122",
+    "tmpIDoa2Te":"%NSU228%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":38,
+    "pages":"146",
+    "tmpIDoa2Te":"%NSU232%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":39,
+    "pages":"71",
+    "tmpIDoa2Te":"%NSU236%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":40,
+    "pages":"69, 146",
+    "tmpIDoa2Te":"%NSU240%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":41,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU610%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":42,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU196%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":43,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU210%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":44,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU607%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":45,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1027%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":46,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU604%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":47,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU606%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":48,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU448%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":49,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1028%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":50,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1039%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":51,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU446%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":52,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU416%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":53,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU451%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":54,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU419%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":55,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU417%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":56,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU425%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":57,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU422%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":58,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU603%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":59,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU605%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":60,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU602%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":61,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU194%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":62,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1239%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":63,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1233%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":64,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1234%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":65,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1235%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":66,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1236%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":67,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1237%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":68,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1240%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":69,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1241%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":70,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1242%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":71,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1243%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":72,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1244%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":73,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU199%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":74,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1260%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":75,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1261%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":76,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1262%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":77,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1264%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":78,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1265%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":79,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1266%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":80,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1267%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":81,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1268%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":82,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1880%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":83,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1881%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":84,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1882%",
+    "tmpIDbiblio":"Bortolotti, 1983"
+  },
+  {
+    "ID":85,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1840%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":86,
+    "pages":"34-35",
+    "tmpIDoa2Te":"%NSU1853%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":87,
+    "pages":"38-39",
+    "tmpIDoa2Te":"%NSU1854%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":88,
+    "pages":"40-42",
+    "tmpIDoa2Te":"%NSU1855%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":89,
+    "pages":"44-46",
+    "tmpIDoa2Te":"%NSU1856%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":90,
+    "pages":"44",
+    "tmpIDoa2Te":"%NSU1857%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":91,
+    "pages":"47",
+    "tmpIDoa2Te":"%NSU1858%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":92,
+    "pages":"51",
+    "tmpIDoa2Te":"%NSU1859%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":93,
+    "pages":"54",
+    "tmpIDoa2Te":"%NSU1860%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":94,
+    "pages":"56",
+    "tmpIDoa2Te":"%NSU1861%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":95,
+    "pages":"57",
+    "tmpIDoa2Te":"%NSU1862%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":96,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU407%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":97,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU113%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":98,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1903%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":99,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1547%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":100,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU92%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":101,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1906%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":102,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU404%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":103,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU852%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":104,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU90%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":105,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1907%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":106,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU105%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":107,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU106%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":108,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU617%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":109,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU107%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":110,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU408%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":111,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU109%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":112,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1529%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":113,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU406%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":114,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU102%",
+    "tmpIDbiblio":"Cantini, 2005"
+  },
+  {
+    "ID":115,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU26%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":116,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU54%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":117,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU17%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":118,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU126%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":119,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU27%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":120,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU37%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":121,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU58%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":122,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU13%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":123,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU800%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":124,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU801%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":125,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU802%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":126,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU803%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":127,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU34%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":128,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU804%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":129,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU78%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":130,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU29%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":131,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU28%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":132,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU806%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":133,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU16%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":134,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU808%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":135,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU21%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":136,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU60%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":137,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU76%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":138,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU809%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":139,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU20%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":140,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU15%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":141,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU811%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":142,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU75%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":143,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU68%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":144,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU45%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":145,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU52%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":146,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU18%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":147,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU812%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":148,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU813%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":149,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU19%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":150,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU33%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":151,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU31%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":152,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU43%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":153,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU510%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":154,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU814%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":155,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU59%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":156,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU30%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":157,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU815%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":158,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU66%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":159,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU44%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":160,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU42%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":161,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU74%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":162,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU36%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":163,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU816%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":164,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU9%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":165,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU38%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":166,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU39%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":167,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU817%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":168,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU35%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":169,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU67%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":170,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU818%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":171,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU819%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":172,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU820%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":173,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU72%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":174,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU25%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":175,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU821%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":176,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU77%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":177,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU822%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":178,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU53%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":179,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU823%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":180,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU69%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":181,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU71%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":182,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU824%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":183,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU825%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":184,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU14%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":185,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU827%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":186,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU828%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":187,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU829%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":188,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU830%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":189,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU831%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":190,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU832%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":191,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU833%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":192,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU834%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":193,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU835%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":194,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU836%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":195,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU22%",
+    "tmpIDbiblio":"Castelli, Bonucci, 2005"
+  },
+  {
+    "ID":196,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1841%",
+    "tmpIDbiblio":"Causarano, 2005"
+  },
+  {
+    "ID":197,
+    "pages":"27",
+    "tmpIDoa2Te":"%NSU1864%",
+    "tmpIDbiblio":"Causarano, 2005"
+  },
+  {
+    "ID":198,
+    "pages":"25",
+    "tmpIDoa2Te":"%NSU1865%",
+    "tmpIDbiblio":"Causarano, 2005"
+  },
+  {
+    "ID":199,
+    "pages":"24",
+    "tmpIDoa2Te":"%NSU1866%",
+    "tmpIDbiblio":"Causarano, 2005"
+  },
+  {
+    "ID":200,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1910%",
+    "tmpIDbiblio":"Causarano, 2009"
+  },
+  {
+    "ID":201,
+    "pages":"51-55",
+    "tmpIDoa2Te":"%NSU1845%",
+    "tmpIDbiblio":"Causarano, Mandolesi, 2005"
+  },
+  {
+    "ID":202,
+    "pages":"56-62",
+    "tmpIDoa2Te":"%NSU1846%",
+    "tmpIDbiblio":"Causarano, Tronti, 2005"
+  },
+  {
+    "ID":203,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU732%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":204,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU733%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":205,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU979%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":206,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU980%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":207,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU982%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":208,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU983%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":209,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU985%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":210,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU995%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":211,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU997%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":212,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU999%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":213,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1000%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":214,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1001%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":215,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1002%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":216,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1004%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":217,
+    "pages":"314",
+    "tmpIDoa2Te":"%NSU1005%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":218,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1006%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":219,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1009%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":220,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1010%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":221,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU436%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":222,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU438%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":223,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1029%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":224,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1030%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":225,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1100%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":226,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1101%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":227,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1102%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":228,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1103%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":229,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1105%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":230,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1107%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":231,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1108%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":232,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1110%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":233,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1111%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":234,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1112%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":235,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1113%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":236,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1116%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":237,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1137%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":238,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1762%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":239,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1760%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":240,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1759%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":241,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1755%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":242,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1754%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":243,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1732%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":244,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1702%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":245,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1731%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":246,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1727%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":247,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1726%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":248,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1720%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":249,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1719%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":250,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1718%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":251,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1717%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":252,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1736%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":253,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1737%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":254,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1738%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":255,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1739%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":256,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1713%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":257,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1715%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":258,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1707%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":259,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1701%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":260,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1700%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":261,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1763%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":262,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1741%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":263,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1751%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":264,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1747%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":265,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1750%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":266,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1746%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":267,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1752%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":268,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1749%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":269,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1753%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":270,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1743%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":271,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1695%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":272,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1745%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":273,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1699%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":274,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1698%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":275,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1696%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":276,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1742%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":277,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1692%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":278,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1694%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":279,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1697%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":280,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1646%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":281,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1645%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":282,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1644%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":283,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1642%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":284,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1641%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":285,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1691%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":286,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1640%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":287,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1664%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":288,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1663%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":289,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1670%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":290,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1671%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":291,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1672%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":292,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1665%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":293,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1666%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":294,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1667%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":295,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1668%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":296,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1669%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":297,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1681%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":298,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1678%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":299,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1677%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":300,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1682%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":301,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1636%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":302,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1685%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":303,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1688%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":304,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1686%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":305,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1689%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":306,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1679%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":307,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1684%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":308,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1614%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":309,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1613%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":310,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1616%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":311,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1615%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":312,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1764%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":313,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1652%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":314,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1653%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":315,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1654%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":316,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1657%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":317,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1655%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":318,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1748%",
+    "tmpIDbiblio":"Cresti, Martellucci, 2004"
+  },
+  {
+    "ID":319,
+    "pages":"105-106, 196",
+    "tmpIDoa2Te":"%NSU274%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":320,
+    "pages":"109, 111,  193",
+    "tmpIDoa2Te":"%NSU257%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":321,
+    "pages":"192",
+    "tmpIDoa2Te":"%NSU258%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":322,
+    "pages":"190",
+    "tmpIDoa2Te":"%NSU259%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":323,
+    "pages":"191",
+    "tmpIDoa2Te":"%NSU260%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":324,
+    "pages":"111-112, 193",
+    "tmpIDoa2Te":"%NSU262%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":325,
+    "pages":"193",
+    "tmpIDoa2Te":"%NSU263%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":326,
+    "pages":"113-114, 193",
+    "tmpIDoa2Te":"%NSU266%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":327,
+    "pages":"107, 192",
+    "tmpIDoa2Te":"%NSU267%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":328,
+    "pages":"194",
+    "tmpIDoa2Te":"%NSU269%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":329,
+    "pages":"53-54, 196",
+    "tmpIDoa2Te":"%NSU270%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":330,
+    "pages":"30, 196",
+    "tmpIDoa2Te":"%NSU275%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":331,
+    "pages":"106, 190",
+    "tmpIDoa2Te":"%NSU276%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":332,
+    "pages":"190",
+    "tmpIDoa2Te":"%NSU277%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":333,
+    "pages":"108, 193",
+    "tmpIDoa2Te":"%NSU279%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":334,
+    "pages":"193",
+    "tmpIDoa2Te":"%NSU284%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":335,
+    "pages":"196",
+    "tmpIDoa2Te":"%NSU285%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":336,
+    "pages":"193",
+    "tmpIDoa2Te":"%NSU288%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":337,
+    "pages":"194",
+    "tmpIDoa2Te":"%NSU289%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":338,
+    "pages":"196",
+    "tmpIDoa2Te":"%NSU290%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":339,
+    "pages":"31-45,  191",
+    "tmpIDoa2Te":"%NSU292%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":340,
+    "pages":"191",
+    "tmpIDoa2Te":"%NSU293%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":341,
+    "pages":"191",
+    "tmpIDoa2Te":"%NSU294%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":342,
+    "pages":"194",
+    "tmpIDoa2Te":"%NSU299%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":343,
+    "pages":"191",
+    "tmpIDoa2Te":"%NSU300%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":344,
+    "pages":"192",
+    "tmpIDoa2Te":"%NSU301%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":345,
+    "pages":"109, 111, 193",
+    "tmpIDoa2Te":"%NSU338%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":346,
+    "pages":"194",
+    "tmpIDoa2Te":"%NSU1141%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":347,
+    "pages":"193",
+    "tmpIDoa2Te":"%NSU1145%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":348,
+    "pages":"194",
+    "tmpIDoa2Te":"%NSU1166%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":349,
+    "pages":"193",
+    "tmpIDoa2Te":"%NSU1167%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":350,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1168%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":351,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1147%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":352,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1195%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":353,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1202%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":354,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1177%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":355,
+    "pages":"192",
+    "tmpIDoa2Te":"%NSU1180%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":356,
+    "pages":"192",
+    "tmpIDoa2Te":"%NSU1181%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":357,
+    "pages":"192",
+    "tmpIDoa2Te":"%NSU1182%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":358,
+    "pages":"193",
+    "tmpIDoa2Te":"%NSU1186%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":359,
+    "pages":"193",
+    "tmpIDoa2Te":"%NSU1204%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":360,
+    "pages":"194",
+    "tmpIDoa2Te":"%NSU1206%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":361,
+    "pages":"194",
+    "tmpIDoa2Te":"%NSU1201%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":362,
+    "pages":"194",
+    "tmpIDoa2Te":"%NSU1192%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":363,
+    "pages":"194",
+    "tmpIDoa2Te":"%NSU1193%",
+    "tmpIDbiblio":"Cristofani et alii, 1979 "
+  },
+  {
+    "ID":364,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU197%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":365,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU607%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":366,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU611%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":367,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU735%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":368,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU736%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":369,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU737%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":370,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU738%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":371,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU79%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":372,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU739%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":373,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU98%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":374,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU723%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":375,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU740%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":376,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU741%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":377,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU742%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":378,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU744%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":379,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU745%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":380,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU626%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":381,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU614%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":382,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU119%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":383,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU749%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":384,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU133%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":385,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU185%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":386,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU750%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":387,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU751%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":388,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU624%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":389,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU758%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":390,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU757%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":391,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU730%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":392,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU759%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":393,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU762%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":394,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU760%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":395,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU761%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":396,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU123%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":397,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU122%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":398,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU125%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":399,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU147%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":400,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU204%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":401,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU977%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":402,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU978%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":403,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU979%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":404,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU980%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":405,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU981%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":406,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU982%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":407,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU983%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":408,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU984%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":409,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU985%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":410,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU986%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":411,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU987%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":412,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU988%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":413,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU989%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":414,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU991%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":415,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU992%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":416,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU993%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":417,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU994%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":418,
+    "pages":"141-142",
+    "tmpIDoa2Te":"%NSU996%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":419,
+    "pages":"154",
+    "tmpIDoa2Te":"%NSU997%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":420,
+    "pages":"170-171",
+    "tmpIDoa2Te":"%NSU998%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":421,
+    "pages":"168-169",
+    "tmpIDoa2Te":"%NSU999%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":422,
+    "pages":"166",
+    "tmpIDoa2Te":"%NSU1000%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":423,
+    "pages":"165",
+    "tmpIDoa2Te":"%NSU1001%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":424,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1002%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":425,
+    "pages":"125",
+    "tmpIDoa2Te":"%NSU1003%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":426,
+    "pages":"311",
+    "tmpIDoa2Te":"%NSU1004%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":427,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1005%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":428,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1006%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":429,
+    "pages":"312",
+    "tmpIDoa2Te":"%NSU1007%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":430,
+    "pages":"309",
+    "tmpIDoa2Te":"%NSU1008%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":431,
+    "pages":"308",
+    "tmpIDoa2Te":"%NSU1009%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":432,
+    "pages":"308",
+    "tmpIDoa2Te":"%NSU1010%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":433,
+    "pages":"179",
+    "tmpIDoa2Te":"%NSU1011%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":434,
+    "pages":"201",
+    "tmpIDoa2Te":"%NSU436%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":435,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU438%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":436,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1013%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":437,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1014%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":438,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1015%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":439,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1016%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":440,
+    "pages":"124",
+    "tmpIDoa2Te":"%NSU214%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":441,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU610%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":442,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1017%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":443,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1018%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":444,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1019%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":445,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1020%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":446,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU196%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":447,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1022%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":448,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1024%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":449,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1026%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":450,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU210%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":451,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1027%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":452,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU606%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":453,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1040%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":454,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1041%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":455,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1042%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":456,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1043%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":457,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1044%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":458,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1045%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":459,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1083%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":460,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1089%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":461,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1090%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":462,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1091%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":463,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1092%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":464,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1094%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":465,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU919%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":466,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1095%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":467,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1096%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":468,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU97%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":469,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1097%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":470,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1098%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":471,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1099%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":472,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1100%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":473,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1101%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":474,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1102%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":475,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1103%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":476,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1104%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":477,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1105%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":478,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1106%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":479,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1109%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":480,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1111%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":481,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1112%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":482,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1114%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":483,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1115%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":484,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU917%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":485,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU853%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":486,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1136%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":487,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1137%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":488,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1138%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":489,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1139%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":490,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1140%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":491,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU424%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":492,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1208%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":493,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1209%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":494,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU418%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":495,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU416%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":496,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU451%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":497,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU419%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":498,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU417%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":499,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU453%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":500,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1212%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":501,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1213%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":502,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1214%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":503,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1215%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":504,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1216%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":505,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1217%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":506,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1218%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":507,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU423%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":508,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1219%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":509,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU425%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":510,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU422%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":511,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1222%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":512,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU603%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":513,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU605%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":514,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU602%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":515,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU194%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":516,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1226%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":517,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1227%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":518,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1228%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":519,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1229%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":520,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU608%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":521,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1239%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":522,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1233%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":523,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1234%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":524,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1235%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":525,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1236%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":526,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1237%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":527,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1240%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":528,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1241%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":529,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1242%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":530,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1243%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":531,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1244%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":532,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU199%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":533,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1245%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":534,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1246%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":535,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1247%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":536,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1248%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":537,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU601%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":538,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU195%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":539,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU198%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":540,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1249%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":541,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1250%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":542,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1252%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":543,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1253%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":544,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1255%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":545,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1257%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":546,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1258%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":547,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1260%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":548,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1261%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":549,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1262%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":550,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1263%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":551,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1264%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":552,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1265%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":553,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1266%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":554,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1267%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":555,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1268%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":556,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1497%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":557,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1498%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":558,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1499%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":559,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1500%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":560,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1501%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":561,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1502%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":562,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1504%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":563,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1505%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":564,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1506%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":565,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1507%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":566,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1508%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":567,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1509%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":568,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1510%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":569,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU64%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":570,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU63%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":571,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1511%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":572,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1512%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":573,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1513%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":574,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1514%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":575,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU109%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":576,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1515%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":577,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU91%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":578,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1463%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":579,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1516%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":580,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU102%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":581,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1517%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":582,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU116%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":583,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU118%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":584,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1518%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":585,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU292%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":586,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1519%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":587,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1520%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":588,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1521%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":589,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1522%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":590,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU612%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":591,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1523%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":592,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1524%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":593,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1436%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":594,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1525%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":595,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1526%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":596,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1527%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":597,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1528%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":598,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1529%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":599,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1530%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":600,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1531%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":601,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1533%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":602,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1536%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":603,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1537%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":604,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1538%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":605,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1539%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":606,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1540%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":607,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1541%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":608,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1542%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":609,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1543%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":610,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1544%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":611,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1545%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":612,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1546%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":613,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1547%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":614,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1548%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":615,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU625%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":616,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1549%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":617,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1550%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":618,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU103%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":619,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1552%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":620,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1553%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":621,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1555%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":622,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1556%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":623,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1557%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":624,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1558%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":625,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1559%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":626,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1560%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":627,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU148%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":628,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1561%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":629,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1562%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":630,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU201%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":631,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1563%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":632,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1564%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":633,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1565%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":634,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1566%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":635,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1567%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":636,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1568%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":637,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1569%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":638,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1271%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":639,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU236%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":640,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1570%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":641,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1571%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":642,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU405%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":643,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1572%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":644,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU404%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":645,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1574%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":646,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1307%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":647,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1575%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":648,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1576%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":649,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU215%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":650,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1577%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":651,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1578%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":652,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1284%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":653,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1579%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":654,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1580%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":655,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU7%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":656,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1221%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":657,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU208%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":658,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1310%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":659,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1316%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":660,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU406%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":661,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU713%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":662,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU9%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":663,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU413%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":664,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU452%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":665,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1361%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":666,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1581%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":667,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1582%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":668,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1368%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":669,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU401%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":670,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU8%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":671,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1583%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":672,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU14%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":673,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1584%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":674,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU802%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":675,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU13%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":676,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU50%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":677,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1585%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":678,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU48%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":679,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1586%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":680,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1587%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":681,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1588%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":682,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1589%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":683,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1590%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":684,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1591%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":685,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU233%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":686,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU5%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":687,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1592%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":688,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU444%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":689,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU49%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":690,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU2%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":691,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1593%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":692,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU454%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":693,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1594%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":694,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1595%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":695,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1596%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":696,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1597%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":697,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1598%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":698,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1599%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":699,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1600%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":700,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU411%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":701,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1601%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":702,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1602%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":703,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU407%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":704,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU403%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":705,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1603%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":706,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU209%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":707,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1604%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":708,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU402%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":709,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU443%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":710,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1605%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":711,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1606%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":712,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU51%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":713,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU3%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":714,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":715,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU205%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":716,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1607%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":717,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU149%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":718,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU60%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":719,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1608%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":720,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1609%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":721,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1610%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":722,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1611%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":723,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU20%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":724,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1612%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":725,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1617%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":726,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1618%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":727,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1619%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":728,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1620%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":729,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1630%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":730,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1631%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":731,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1632%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":732,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1633%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":733,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1634%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":734,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1635%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":735,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1637%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":736,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1638%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":737,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1639%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":738,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1643%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":739,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1647%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":740,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1648%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":741,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1650%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":742,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1656%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":743,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1658%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":744,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1659%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":745,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1660%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":746,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1661%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":747,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1662%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":748,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1673%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":749,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1674%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":750,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1675%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":751,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1676%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":752,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1680%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":753,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1683%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":754,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1687%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":755,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1693%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":756,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1703%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":757,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1704%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":758,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1705%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":759,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1706%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":760,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1709%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":761,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1708%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":762,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1710%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":763,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1711%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":764,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1712%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":765,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1714%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":766,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1716%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":767,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1721%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":768,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1722%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":769,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1723%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":770,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1724%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":771,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1725%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":772,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1728%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":773,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1729%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":774,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1730%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":775,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1733%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":776,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1734%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":777,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1740%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":778,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1744%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":779,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1756%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":780,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1757%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":781,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1758%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":782,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1868%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":783,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU146%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":784,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1880%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":785,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1881%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":786,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1882%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":787,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1888%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":788,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1871%",
+    "tmpIDbiblio":"Fiorini, 1991"
+  },
+  {
+    "ID":789,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU604%",
+    "tmpIDbiblio":"Florin, 1983"
+  },
+  {
+    "ID":790,
+    "pages":"195-199",
+    "tmpIDoa2Te":"%NSU322%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":791,
+    "pages":"172",
+    "tmpIDoa2Te":"%NSU318%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":792,
+    "pages":"171",
+    "tmpIDoa2Te":"%NSU303%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":793,
+    "pages":"171",
+    "tmpIDoa2Te":"%NSU304%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":794,
+    "pages":"171-172",
+    "tmpIDoa2Te":"%NSU306%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":795,
+    "pages":"172",
+    "tmpIDoa2Te":"%NSU307%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":796,
+    "pages":"172",
+    "tmpIDoa2Te":"%NSU308%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":797,
+    "pages":"172",
+    "tmpIDoa2Te":"%NSU309%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":798,
+    "pages":"172",
+    "tmpIDoa2Te":"%NSU310%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":799,
+    "pages":"172",
+    "tmpIDoa2Te":"%NSU311%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":800,
+    "pages":"172",
+    "tmpIDoa2Te":"%NSU313%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":801,
+    "pages":"172",
+    "tmpIDoa2Te":"%NSU314%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":802,
+    "pages":"172",
+    "tmpIDoa2Te":"%NSU315%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":803,
+    "pages":"172",
+    "tmpIDoa2Te":"%NSU317%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":804,
+    "pages":"172",
+    "tmpIDoa2Te":"%NSU319%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":805,
+    "pages":"174-194",
+    "tmpIDoa2Te":"%NSU320%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":806,
+    "pages":"174-194",
+    "tmpIDoa2Te":"%NSU321%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":807,
+    "pages":"179-275",
+    "tmpIDoa2Te":"%NSU323%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":808,
+    "pages":"276-322",
+    "tmpIDoa2Te":"%NSU324%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":809,
+    "pages":"34",
+    "tmpIDoa2Te":"%NSU331%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":810,
+    "pages":"34",
+    "tmpIDoa2Te":"%NSU332%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":811,
+    "pages":"29",
+    "tmpIDoa2Te":"%NSU333%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":812,
+    "pages":"30-31",
+    "tmpIDoa2Te":"%NSU334%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":813,
+    "pages":"27",
+    "tmpIDoa2Te":"%NSU350%",
+    "tmpIDbiblio":"Francovich, 1982"
+  },
+  {
+    "ID":814,
+    "pages":"137-139",
+    "tmpIDoa2Te":"%NSU322%",
+    "tmpIDbiblio":"Francovich, Gelichi, 1980"
+  },
+  {
+    "ID":815,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU67%",
+    "tmpIDbiblio":"Gabbrielli, 2004"
+  },
+  {
+    "ID":816,
+    "pages":"430",
+    "tmpIDoa2Te":"%NSU1928%",
+    "tmpIDbiblio":"Giorgi, Moscadelli, 2005"
+  },
+  {
+    "ID":817,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1929%",
+    "tmpIDbiblio":"Giorgi, Moscadelli, 2005"
+  },
+  {
+    "ID":818,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1930%",
+    "tmpIDbiblio":"Giorgi, Moscadelli, 2005"
+  },
+  {
+    "ID":819,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1931%",
+    "tmpIDbiblio":"Giorgi, Moscadelli, 2005"
+  },
+  {
+    "ID":820,
+    "pages":"17-18",
+    "tmpIDoa2Te":"%NSU251%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":821,
+    "pages":"17-18",
+    "tmpIDoa2Te":"%NSU257%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":822,
+    "pages":"18",
+    "tmpIDoa2Te":"%NSU283%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":823,
+    "pages":"12",
+    "tmpIDoa2Te":"%NSU287%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":824,
+    "pages":"12-13, 43-45",
+    "tmpIDoa2Te":"%NSU295%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":825,
+    "pages":"40",
+    "tmpIDoa2Te":"%NSU337%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":826,
+    "pages":"17-18",
+    "tmpIDoa2Te":"%NSU338%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":827,
+    "pages":"12-13, 43-45",
+    "tmpIDoa2Te":"%NSU351%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":828,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU418%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":829,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1142%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":830,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1144%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":831,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1150%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":832,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1151%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":833,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1152%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":834,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1153%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":835,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1154%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":836,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1155%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":837,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1156%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":838,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1159%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":839,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1160%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":840,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1161%",
+    "tmpIDbiblio":"Leoncini, 1998"
+  },
+  {
+    "ID":841,
+    "pages":"411-427",
+    "tmpIDoa2Te":"%NSU306%",
+    "tmpIDbiblio":"Luna, 1999"
+  },
+  {
+    "ID":842,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1017%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":843,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1018%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":844,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU607%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":845,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU416%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":846,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU451%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":847,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU419%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":848,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU417%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":849,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1214%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":850,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1216%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":851,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1218%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":852,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1219%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":853,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1220%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":854,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU603%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":855,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU605%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":856,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU602%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":857,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU194%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":858,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1228%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":859,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1229%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":860,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1905%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":861,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1908%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":862,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1909%",
+    "tmpIDbiblio":"Lusini, 1921"
+  },
+  {
+    "ID":863,
+    "pages":"424-426",
+    "tmpIDoa2Te":"%NSU325%",
+    "tmpIDbiblio":"Nepi, Palazzuoli, Panazza, 1976"
+  },
+  {
+    "ID":864,
+    "pages":"424-426",
+    "tmpIDoa2Te":"%NSU327%",
+    "tmpIDbiblio":"Nepi, Palazzuoli, Panazza, 1976"
+  },
+  {
+    "ID":865,
+    "pages":"418",
+    "tmpIDoa2Te":"%NSU328%",
+    "tmpIDbiblio":"Nepi, Palazzuoli, Panazza, 1976"
+  },
+  {
+    "ID":866,
+    "pages":"421-424",
+    "tmpIDoa2Te":"%NSU329%",
+    "tmpIDbiblio":"Nepi, Palazzuoli, Panazza, 1976"
+  },
+  {
+    "ID":867,
+    "pages":"190-191",
+    "tmpIDoa2Te":"%NSU795%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":868,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1141%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":869,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1142%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":870,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1143%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":871,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1144%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":872,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1145%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":873,
+    "pages":"197, 263",
+    "tmpIDoa2Te":"%NSU1146%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":874,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1147%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":875,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1148%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":876,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1149%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":877,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1150%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":878,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1151%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":879,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1152%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":880,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1153%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":881,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1154%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":882,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1155%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":883,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1156%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":884,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1157%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":885,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1158%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":886,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1159%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":887,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1160%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":888,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1161%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":889,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1162%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":890,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1163%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":891,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1164%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":892,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU258%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":893,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1165%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":894,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1166%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":895,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1167%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":896,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU259%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":897,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1168%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":898,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1169%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":899,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1170%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":900,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU292%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":901,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU300%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":902,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1171%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":903,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1172%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":904,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1173%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":905,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1174%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":906,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU267%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":907,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1175%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":908,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1176%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":909,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU266%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":910,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1178%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":911,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1179%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":912,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1180%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":913,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1181%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":914,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1182%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":915,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1183%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":916,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1184%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":917,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1185%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":918,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1186%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":919,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1187%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":920,
+    "pages":"327-328",
+    "tmpIDoa2Te":"%NSU1188%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":921,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU338%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":922,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1189%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":923,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU251%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":924,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1190%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":925,
+    "pages":"330",
+    "tmpIDoa2Te":"%NSU1191%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":926,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU283%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":927,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU262%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":928,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1192%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":929,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1193%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":930,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU276%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":931,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1194%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":932,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU277%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":933,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1195%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":934,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1196%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":935,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1197%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":936,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU294%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":937,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU293%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":938,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1198%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":939,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1199%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":940,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU269%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":941,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU285%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":942,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1200%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":943,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU274%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":944,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1201%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":945,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1202%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":946,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1203%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":947,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1204%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":948,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1205%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":949,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU288%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":950,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU279%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":951,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU263%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":952,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1206%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":953,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1207%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":954,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU257%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":955,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU260%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":956,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU270%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":957,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU275%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":958,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU284%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":959,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU289%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":960,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU290%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":961,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1177%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":962,
+    "pages":"219",
+    "tmpIDoa2Te":"%NSU1765%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":963,
+    "pages":"219",
+    "tmpIDoa2Te":"%NSU1766%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":964,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1767%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":965,
+    "pages":"220",
+    "tmpIDoa2Te":"%NSU1768%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":966,
+    "pages":"220",
+    "tmpIDoa2Te":"%NSU1769%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":967,
+    "pages":"220",
+    "tmpIDoa2Te":"%NSU1770%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":968,
+    "pages":"214",
+    "tmpIDoa2Te":"%NSU1771%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":969,
+    "pages":"214",
+    "tmpIDoa2Te":"%NSU1772%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":970,
+    "pages":"215",
+    "tmpIDoa2Te":"%NSU1773%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":971,
+    "pages":"215",
+    "tmpIDoa2Te":"%NSU1774%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":972,
+    "pages":"215",
+    "tmpIDoa2Te":"%NSU1775%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":973,
+    "pages":"215",
+    "tmpIDoa2Te":"%NSU1776%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":974,
+    "pages":"216",
+    "tmpIDoa2Te":"%NSU1777%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":975,
+    "pages":"216",
+    "tmpIDoa2Te":"%NSU1778%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":976,
+    "pages":"216",
+    "tmpIDoa2Te":"%NSU1779%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":977,
+    "pages":"216",
+    "tmpIDoa2Te":"%NSU1780%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":978,
+    "pages":"217",
+    "tmpIDoa2Te":"%NSU1781%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":979,
+    "pages":"217",
+    "tmpIDoa2Te":"%NSU1782%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":980,
+    "pages":"217",
+    "tmpIDoa2Te":"%NSU1783%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":981,
+    "pages":"218",
+    "tmpIDoa2Te":"%NSU1784%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":982,
+    "pages":"218",
+    "tmpIDoa2Te":"%NSU1785%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":983,
+    "pages":"197",
+    "tmpIDoa2Te":"%NSU1786%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":984,
+    "pages":"197",
+    "tmpIDoa2Te":"%NSU1787%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":985,
+    "pages":"197",
+    "tmpIDoa2Te":"%NSU1788%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":986,
+    "pages":"198",
+    "tmpIDoa2Te":"%NSU1789%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":987,
+    "pages":"198",
+    "tmpIDoa2Te":"%NSU1790%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":988,
+    "pages":"198",
+    "tmpIDoa2Te":"%NSU1791%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":989,
+    "pages":"198",
+    "tmpIDoa2Te":"%NSU1792%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":990,
+    "pages":"199",
+    "tmpIDoa2Te":"%NSU1793%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":991,
+    "pages":"199",
+    "tmpIDoa2Te":"%NSU1794%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":992,
+    "pages":"199",
+    "tmpIDoa2Te":"%NSU1795%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":993,
+    "pages":"200",
+    "tmpIDoa2Te":"%NSU1796%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":994,
+    "pages":"200",
+    "tmpIDoa2Te":"%NSU1797%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":995,
+    "pages":"200",
+    "tmpIDoa2Te":"%NSU1798%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":996,
+    "pages":"201",
+    "tmpIDoa2Te":"%NSU1799%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":997,
+    "pages":"201",
+    "tmpIDoa2Te":"%NSU1800%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":998,
+    "pages":"202",
+    "tmpIDoa2Te":"%NSU1801%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":999,
+    "pages":"203",
+    "tmpIDoa2Te":"%NSU1802%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1000,
+    "pages":"203",
+    "tmpIDoa2Te":"%NSU1803%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1001,
+    "pages":"203",
+    "tmpIDoa2Te":"%NSU1804%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1002,
+    "pages":"204",
+    "tmpIDoa2Te":"%NSU1805%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1003,
+    "pages":"204",
+    "tmpIDoa2Te":"%NSU1806%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1004,
+    "pages":"204",
+    "tmpIDoa2Te":"%NSU1807%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1005,
+    "pages":"205",
+    "tmpIDoa2Te":"%NSU1808%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1006,
+    "pages":"206",
+    "tmpIDoa2Te":"%NSU1809%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1007,
+    "pages":"206",
+    "tmpIDoa2Te":"%NSU1810%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1008,
+    "pages":"207",
+    "tmpIDoa2Te":"%NSU1811%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1009,
+    "pages":"208",
+    "tmpIDoa2Te":"%NSU1812%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1010,
+    "pages":"208",
+    "tmpIDoa2Te":"%NSU1813%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1011,
+    "pages":"209",
+    "tmpIDoa2Te":"%NSU1814%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1012,
+    "pages":"209",
+    "tmpIDoa2Te":"%NSU1815%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1013,
+    "pages":"210",
+    "tmpIDoa2Te":"%NSU1816%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1014,
+    "pages":"211",
+    "tmpIDoa2Te":"%NSU1817%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1015,
+    "pages":"211",
+    "tmpIDoa2Te":"%NSU1818%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1016,
+    "pages":"211",
+    "tmpIDoa2Te":"%NSU1819%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1017,
+    "pages":"211",
+    "tmpIDoa2Te":"%NSU1820%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1018,
+    "pages":"212",
+    "tmpIDoa2Te":"%NSU1821%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1019,
+    "pages":"212",
+    "tmpIDoa2Te":"%NSU1822%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1020,
+    "pages":"212",
+    "tmpIDoa2Te":"%NSU1823%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1021,
+    "pages":"213",
+    "tmpIDoa2Te":"%NSU1824%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1022,
+    "pages":"213",
+    "tmpIDoa2Te":"%NSU1825%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1023,
+    "pages":"214",
+    "tmpIDoa2Te":"%NSU1826%",
+    "tmpIDbiblio":"Pallecchi, 2003"
+  },
+  {
+    "ID":1024,
+    "pages":"26-27",
+    "tmpIDoa2Te":"%NSU1890%",
+    "tmpIDbiblio":"Pianigiani, 2007"
+  },
+  {
+    "ID":1025,
+    "pages":"23",
+    "tmpIDoa2Te":"%NSU1891%",
+    "tmpIDbiblio":"Pianigiani, 2007"
+  },
+  {
+    "ID":1026,
+    "pages":"29",
+    "tmpIDoa2Te":"%NSU1892%",
+    "tmpIDbiblio":"Pianigiani, 2007"
+  },
+  {
+    "ID":1027,
+    "pages":"32",
+    "tmpIDoa2Te":"%NSU1893%",
+    "tmpIDbiblio":"Pianigiani, 2007"
+  },
+  {
+    "ID":1028,
+    "pages":"13",
+    "tmpIDoa2Te":"%NSU1894%",
+    "tmpIDbiblio":"Pianigiani, 2007"
+  },
+  {
+    "ID":1029,
+    "pages":"14",
+    "tmpIDoa2Te":"%NSU1895%",
+    "tmpIDbiblio":"Pianigiani, 2007"
+  },
+  {
+    "ID":1030,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU610%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1031,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1019%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1032,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1020%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1033,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1021%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1034,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1023%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1035,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1024%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1036,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1025%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1037,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU418%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1038,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1035%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1039,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1210%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1040,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU417%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1041,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1214%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1042,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1215%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1043,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1216%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1044,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU423%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1045,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1227%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1046,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1228%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1047,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1230%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1048,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1231%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1049,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU609%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1050,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1232%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1051,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1239%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1052,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1233%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1053,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1234%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1054,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1235%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1055,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1236%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1056,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1237%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1057,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1240%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1058,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1241%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1059,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1242%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1060,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1243%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1061,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1244%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1062,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU199%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1063,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1246%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1064,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1247%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1065,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1248%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1066,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU601%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1067,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU195%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1068,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU198%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1069,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1249%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1070,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1250%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1071,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1252%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1072,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1253%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1073,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1255%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1074,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1257%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1075,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1258%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1076,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1259%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1077,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1879%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1078,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1880%",
+    "tmpIDbiblio":"Pozzi, 2003"
+  },
+  {
+    "ID":1079,
+    "pages":"67-68",
+    "tmpIDoa2Te":"%NSU206%",
+    "tmpIDbiblio":"Siena e l’acqua, 1997"
+  },
+  {
+    "ID":1080,
+    "pages":"67-68",
+    "tmpIDoa2Te":"%NSU207%",
+    "tmpIDbiblio":"Siena e l’acqua, 1997"
+  },
+  {
+    "ID":1081,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU197%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1082,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU739%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1083,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU98%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1084,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU723%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1085,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU741%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1086,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU747%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1087,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU626%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1088,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU614%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1089,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU119%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1090,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU133%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1091,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU157%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1092,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU185%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1093,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU750%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1094,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU751%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1095,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU753%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1096,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU754%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1097,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU755%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1098,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU756%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1099,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU707%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1100,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU701%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1101,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU204%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1102,
+    "pages":"232",
+    "tmpIDoa2Te":"%NSU212%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1103,
+    "pages":"73",
+    "tmpIDoa2Te":"%NSU215%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1104,
+    "pages":"215",
+    "tmpIDoa2Te":"%NSU216%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1105,
+    "pages":"59-69",
+    "tmpIDoa2Te":"%NSU217%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1106,
+    "pages":"166",
+    "tmpIDoa2Te":"%NSU219%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1107,
+    "pages":"166",
+    "tmpIDoa2Te":"%NSU220%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1108,
+    "pages":"71, 215",
+    "tmpIDoa2Te":"%NSU222%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1109,
+    "pages":"71",
+    "tmpIDoa2Te":"%NSU223%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1110,
+    "pages":"71",
+    "tmpIDoa2Te":"%NSU225%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1111,
+    "pages":"71",
+    "tmpIDoa2Te":"%NSU226%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1112,
+    "pages":"221",
+    "tmpIDoa2Te":"%NSU227%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1113,
+    "pages":"211",
+    "tmpIDoa2Te":"%NSU228%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1114,
+    "pages":"163",
+    "tmpIDoa2Te":"%NSU230%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1115,
+    "pages":"69",
+    "tmpIDoa2Te":"%NSU231%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1116,
+    "pages":"162",
+    "tmpIDoa2Te":"%NSU232%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1117,
+    "pages":"218",
+    "tmpIDoa2Te":"%NSU233%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1118,
+    "pages":"163",
+    "tmpIDoa2Te":"%NSU234%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1119,
+    "pages":"156",
+    "tmpIDoa2Te":"%NSU236%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1120,
+    "pages":"71",
+    "tmpIDoa2Te":"%NSU237%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1121,
+    "pages":"59",
+    "tmpIDoa2Te":"%NSU238%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1122,
+    "pages":"70",
+    "tmpIDoa2Te":"%NSU240%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1123,
+    "pages":"162",
+    "tmpIDoa2Te":"%NSU245%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1124,
+    "pages":"58-59",
+    "tmpIDoa2Te":"%NSU246%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1125,
+    "pages":"73, 124",
+    "tmpIDoa2Te":"%NSU247%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1126,
+    "pages":"247",
+    "tmpIDoa2Te":"%NSU703%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1127,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU887%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1128,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU910%",
+    "tmpIDbiblio":"Torriti, 1988"
+  },
+  {
+    "ID":1129,
+    "pages":"35-45",
+    "tmpIDoa2Te":"%NSU1842%",
+    "tmpIDbiblio":"Valenti, 2005"
+  },
+  {
+    "ID":1130,
+    "pages":"",
+    "tmpIDoa2Te":"%NSU1263%",
+    "tmpIDbiblio":"Valenti, 2006"
+  },
+  {
+    "ID":1131,
+    "pages":"46-50",
+    "tmpIDoa2Te":"%NSU1844%",
+    "tmpIDbiblio":"Valenti, Causarano, 2005"
+  }
+]

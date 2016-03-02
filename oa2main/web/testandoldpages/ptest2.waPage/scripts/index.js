@@ -3,33 +3,44 @@ WAF.onAfterInit = function onAfterInit() {// @lock
 
 // @region namespaceDeclaration// @startlock
 	var button5 = {};	// @button
-	var button2 = {};	// @button
-	var button1 = {};	// @button
+	var button4 = {};	// @button
+	var leDialogOk = {};	// @button
+	var leDialogCancel = {};	// @button
 // @endregion// @endlock
 
 // eventHandlers// @lock
 
 	button5.click = function button5_click (event)// @startlock
 	{// @endlock
-		sources.landscapeElement.mainToponym.set(sources.toponym);
-		sources.landscapeElement.save();
+		$$('dialog1').closeDialog(); //ok button
 	};// @lock
 
-	button2.click = function button2_click (event)// @startlock
+	button4.click = function button4_click (event)// @startlock
 	{// @endlock
-		sources.landscapeElement.def2Obj.set(sources.dictionaryLemma);
-		sources.landscapeElement.save();
+		$$('dialog1').closeDialog(); //cancel button
 	};// @lock
 
-	button1.click = function button1_click (event)// @startlock
+	leDialogOk.click = function leDialogOk_click (event)// @startlock
 	{// @endlock
-		sources.landscapeElement.def1Obj.set(sources.dictionaryLemma);
-		sources.landscapeElement.save();
+		//ok button: sets the selected primary lemma and saves the entity
+		//sources.leMainDs.save();		
+		$$('leDialog').closeDialog(); 
+
+	};// @lock
+
+	leDialogCancel.click = function leDialogCancel_click (event)// @startlock
+	{// @endlock
+		//cancel button
+		//sources.leMainDs.primarylemma.set(pltemp);
+		//sources.leMainDs.save();		
+		$$('leDialog').closeDialog(); //cancel button
+
 	};// @lock
 
 // @region eventManager// @startlock
 	WAF.addListener("button5", "click", button5.click, "WAF");
-	WAF.addListener("button2", "click", button2.click, "WAF");
-	WAF.addListener("button1", "click", button1.click, "WAF");
+	WAF.addListener("button4", "click", button4.click, "WAF");
+	WAF.addListener("leDialogOk", "click", leDialogOk.click, "WAF");
+	WAF.addListener("leDialogCancel", "click", leDialogCancel.click, "WAF");
 // @endregion
 };// @endlock

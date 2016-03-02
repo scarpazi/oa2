@@ -1,0 +1,11 @@
+{
+	"name": "teGIS",
+	"html": "teGIS.html",
+	"scripts": [
+		"teGIS.js"
+	],
+	"styles": [
+		"teGIS.css",
+		"teGISCustom.css"
+	]
+}

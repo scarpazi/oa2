@@ -1,0 +1,11 @@
+{
+	"name": "teMainData",
+	"html": "teMainData.html",
+	"scripts": [
+		"teMainData.js"
+	],
+	"styles": [
+		"teMainData.css",
+		"teMainDataCustom.css"
+	]
+}

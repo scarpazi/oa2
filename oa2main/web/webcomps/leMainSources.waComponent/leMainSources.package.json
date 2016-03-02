@@ -1,0 +1,34 @@
+{
+	"name": "oa2main/webcomps/leMainSources.waComponent",
+	"type": "component",
+	"version": "1.0.0",
+	"webComponent": "webcomps/leMainSources.waComponent/leMainSources.js",
+	"loadDependencies": [
+		{
+			"id": "Widget/dataGrid",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/richText",
+			"type": "widget"
+		},
+		{
+			"package": "Container"
+		},
+		{
+			"package": "Text"
+		},
+		{
+			"file": "leMainSources.html"
+		},
+		{
+			"file": "leMainSources.css"
+		},
+		{
+			"file": "leMainSources.js"
+		},
+		{
+			"file": "leMainSourcesCustom.css"
+		}
+	]
+}

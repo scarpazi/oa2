@@ -1,0 +1,27 @@
+{
+	"name": "oa2main/webcomps/leGrid.waComponent",
+	"type": "component",
+	"version": "1.0.0",
+	"webComponent": "webcomps/leGrid.waComponent/leGrid.js",
+	"loadDependencies": [
+		{
+			"id": "Widget/dataGrid",
+			"type": "widget"
+		},
+		{
+			"package": "Text"
+		},
+		{
+			"file": "leGrid.html"
+		},
+		{
+			"file": "leGrid.css"
+		},
+		{
+			"file": "leGrid.js"
+		},
+		{
+			"file": "leGridCustom.css"
+		}
+	]
+}

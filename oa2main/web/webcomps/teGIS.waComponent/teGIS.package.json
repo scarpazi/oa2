@@ -1,0 +1,36 @@
+{
+	"name": "oa2main/webcomps/teGIS.waComponent",
+	"type": "component",
+	"version": "1.0.0",
+	"webComponent": "webcomps/teGIS.waComponent/teGIS.js",
+	"loadDependencies": [
+		{
+			"package": "Text"
+		},
+		{
+			"package": "Leaflet"
+		},
+		{
+			"file": "teGIS.html"
+		},
+		{
+			"file": "teGIS.css"
+		},
+		{
+			"file": "teGIS.js"
+		},
+		{
+			"file": "teGISCustom.css"
+		},
+		{
+			"id": "dist/leaflet.contextmenu.css",
+			"path": "WEBFOLDER",
+			"type": "style"
+		},
+		{
+			"id": "webgis.waComponent/../dist/leaflet.contextmenu.js",
+			"path": "WEBFOLDER",
+			"type": "script"
+		}
+	]
+}

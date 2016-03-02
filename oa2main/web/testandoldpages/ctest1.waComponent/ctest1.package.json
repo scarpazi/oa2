@@ -1,0 +1,24 @@
+{
+	"name": "oa2main/testandoldpages/ctest1.waComponent",
+	"type": "component",
+	"version": "1.0.0",
+	"webComponent": "testandoldpages/ctest1.waComponent/ctest1.js",
+	"loadDependencies": [
+		{
+			"id": "Widget/dataGrid",
+			"type": "widget"
+		},
+		{
+			"package": "Text"
+		},
+		{
+			"file": "ctest1.html"
+		},
+		{
+			"file": "ctest1.css"
+		},
+		{
+			"file": "ctest1.js"
+		}
+	]
+}

@@ -1,1 +1,12 @@
-﻿{"name":"diclemma","html":"diclemma.html","scripts":["diclemma.js","opentip-jquery.js"],"styles":["diclemma.css","diclemmaCustom.css","/css/genstyles.css","/css/opentip.css"]}
+{
+	"name": "diclemma",
+	"html": "diclemma.html",
+	"scripts": [
+		"diclemma.js",
+		"opentip-jquery.js"
+	],
+	"styles": [
+		"diclemma.css",
+		"diclemmaCustom.css"
+	]
+}

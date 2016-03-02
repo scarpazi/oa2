@@ -1,0 +1,11 @@
+{
+	"name": "leMainBiblio",
+	"html": "leMainBiblio.html",
+	"scripts": [
+		"leMainBiblio.js"
+	],
+	"styles": [
+		"leMainBiblio.css",
+		"leMainBiblioCustom.css"
+	]
+}

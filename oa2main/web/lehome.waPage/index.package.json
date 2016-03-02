@@ -1,5 +1,6 @@
 {
-	"name": "oa2_main/lehome.waPage/index.html",
+	"name": "oa2main/lehome.waPage/index.html",
+	"type": "page",
 	"version": "1.0.0",
 	"loadDependencies": [
 		{
@@ -12,31 +13,26 @@
 			"type": "widget"
 		},
 		{
-			"id": "Widget/image",
+			"id": "Widget/component",
 			"type": "widget"
 		},
 		{
-			"id": "Widget/richText",
-			"type": "widget"
+			"id": "webcomps/leGrid.waComponent/leGrid.package.json",
+			"path": "WEBFOLDER",
+			"type": "component"
+		},
+		{
+			"id": "webcomps/leMainData.waComponent/leMainData.package.json",
+			"path": "WEBFOLDER",
+			"type": "component"
+		},
+		{
+			"id": "webcomps/leGIS.waComponent/leGIS.package.json",
+			"path": "WEBFOLDER",
+			"type": "component"
 		},
 		{
 			"id": "Widget/label",
-			"type": "widget"
-		},
-		{
-			"id": "Widget/menuBar",
-			"type": "widget"
-		},
-		{
-			"id": "Widget/menuItem",
-			"type": "widget"
-		},
-		{
-			"id": "Widget/icon",
-			"type": "widget"
-		},
-		{
-			"id": "Widget/button",
 			"type": "widget"
 		},
 		{
@@ -44,31 +40,23 @@
 			"type": "widget"
 		},
 		{
-			"id": "Widget/textField",
-			"type": "widget"
-		},
-		{
-			"id": "Widget/dialog",
-			"type": "widget"
-		},
-		{
-			"id": "Widget/component",
-			"type": "widget"
-		},
-		{
-			"id": "Widget/dataGrid",
-			"type": "widget"
-		},
-		{
-			"id": "Widget/slider",
-			"type": "widget"
-		},
-		{
-			"id": "Widget/accordion",
+			"id": "Widget/icon",
 			"type": "widget"
 		},
 		{
 			"package": "default"
+		},
+		{
+			"package": "Container"
+		},
+		{
+			"package": "Image"
+		},
+		{
+			"package": "Text"
+		},
+		{
+			"package": "Button"
 		},
 		{
 			"package": "Leaflet"
@@ -81,10 +69,15 @@
 			"path": "WEBFOLDER"
 		},
 		{
-			"file": "styles/lehome_custom.css"
+			"file": "prototype/application.css",
+			"path": "WEBFOLDER"
 		},
 		{
 			"file": "css/genstyles.css",
+			"path": "WEBFOLDER"
+		},
+		{
+			"file": "css/opentip.css",
 			"path": "WEBFOLDER"
 		},
 		{
@@ -92,7 +85,9 @@
 		},
 		{
 			"file": "scripts/index.js"
+		},
+		{
+			"file": "styles/lehomeCustomStyles.css"
 		}
-	],
-	"type": "page"
+	]
 }

@@ -1,0 +1,1 @@
+﻿model.DictionaryLemma.cvalue.onGet = function() {		if (this.primarylemma !== undefined) {		return this.plvalue + '|' + this.lvalue;			} else {		return this.lvalue;			}};model.DictionaryLemma.isPrimary.onGet = function() {	if (this.plvalue)   		{return false;}   else   		{return true};};

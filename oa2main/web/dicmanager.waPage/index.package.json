@@ -1,1 +1,71 @@
-﻿{"name":"oa2_main/dicmanager.waPage/index.html","version":"1.0.0","loadDependencies":[{"id":"Desktop_Core","version":"1.0.0","type":"core"},{"id":"Widget/component","type":"widget"},{"id":"Widget/container","type":"widget"},{"id":"Widget/image","type":"widget"},{"id":"Widget/richText","type":"widget"},{"id":"webcomps/aDict.waComponent/aDict.package.json","path":"WEBFOLDER","type":"component"},{"id":"webcomps/dic.waComponent/dic.package.json","path":"WEBFOLDER","type":"component"},{"id":"webcomps/diclemma.waComponent/diclemma.package.json","path":"WEBFOLDER","type":"component"},{"id":"default","type":"theme"},{"id":"dicmanager.waPage/styles/index.css","path":"WEBFOLDER","type":"style"},{"id":"application.css","path":"WEBFOLDER","type":"style"},{"id":"dicmanager.waPage/styles/dicmanagerCustom.css","path":"WEBFOLDER","type":"style"},{"id":"css/genstyles.css","path":"WEBFOLDER","type":"style"},{"id":"css/opentip.css","path":"WEBFOLDER","type":"style"},{"id":"dicmanager.waPage/scripts/opentip-jquery.js","path":"WEBFOLDER","type":"script"},{"id":"dicmanager.waPage/scripts/index.js","path":"WEBFOLDER","type":"script"}]}
+{
+	"name": "oa2main/testandoldpages/dicmanager.waPage/index.html",
+	"type": "page",
+	"version": "1.0.0",
+	"loadDependencies": [
+		{
+			"id": "Desktop_Core",
+			"version": "1.0.0",
+			"type": "core"
+		},
+		{
+			"id": "Widget/component",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/container",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/image",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/richText",
+			"type": "widget"
+		},
+		{
+			"id": "webcomps/dic.waComponent/dic.package.json",
+			"path": "WEBFOLDER",
+			"type": "component"
+		},
+		{
+			"id": "webcomps/diclemma.waComponent/diclemma.package.json",
+			"path": "WEBFOLDER",
+			"type": "component"
+		},
+		{
+			"id": "webcomps/dicLemma.waComponent/dicLemma.package.json",
+			"path": "WEBFOLDER",
+			"type": "component"
+		},
+		{
+			"package": "default"
+		},
+		{
+			"file": "styles/index.css"
+		},
+		{
+			"file": "application.css",
+			"path": "WEBFOLDER"
+		},
+		{
+			"file": "dicmanager.waPage/styles/dicmanagerCustom.css",
+			"path": "WEBFOLDER"
+		},
+		{
+			"file": "css/genstyles.css",
+			"path": "WEBFOLDER"
+		},
+		{
+			"file": "css/opentip.css",
+			"path": "WEBFOLDER"
+		},
+		{
+			"file": "scripts/index.js"
+		},
+		{
+			"file": "styles/dicmanagerCustom.css"
+		}
+	]
+}

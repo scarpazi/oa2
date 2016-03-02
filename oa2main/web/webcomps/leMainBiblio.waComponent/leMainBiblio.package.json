@@ -1,0 +1,30 @@
+{
+	"name": "oa2main/webcomps/leMainBiblio.waComponent",
+	"type": "component",
+	"version": "1.0.0",
+	"webComponent": "webcomps/leMainBiblio.waComponent/leMainBiblio.js",
+	"loadDependencies": [
+		{
+			"id": "Widget/dataGrid",
+			"type": "widget"
+		},
+		{
+			"package": "Container"
+		},
+		{
+			"package": "Text"
+		},
+		{
+			"file": "leMainBiblio.html"
+		},
+		{
+			"file": "leMainBiblio.css"
+		},
+		{
+			"file": "leMainBiblio.js"
+		},
+		{
+			"file": "leMainBiblioCustom.css"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"name": "leMainData2",
+	"html": "leMainData2.html",
+	"scripts": [
+		"leMainData2.js",
+		"leMainData.js"
+	],
+	"styles": [
+		"leMainData2.css",
+		"leMainData.css",
+		"leMainDataCustom.css"
+	]
+}

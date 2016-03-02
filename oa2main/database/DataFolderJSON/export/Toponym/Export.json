@@ -1,0 +1,9 @@
+﻿[
+{"ID":1,"name":"Toscana","definition":"Coronimo","administrative":true},
+{"ID":2,"name":"Siena, provincia","definition":"Coronimo","administrative":true},
+{"ID":3,"name":"Siena, comune","definition":"Poleonimo","administrative":true},
+{"ID":4,"name":"Poggibonsi, comune","definition":"Poleonimo","administrative":true},
+{"ID":5,"name":"Chiusdino, comune","definition":"Poleonimo","administrative":true},
+{"ID":6,"name":"Coste Castagnoli","definition":"Oronimo (rilievo collinare)","administrative":false},
+{"ID":7,"name":"Fortezza Medicea di Poggio Imperiale","definition":"Altro toponimo","administrative":false}
+]
