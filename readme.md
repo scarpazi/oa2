@@ -5,7 +5,7 @@
 <br>
 
 *2015/01/19:* **check back later…** <br>
-*2016/03/01:* **almost ready for the first release **
+*2016/03/01:* **almost ready for the first release**
 <br>
 <br>
 <br>
