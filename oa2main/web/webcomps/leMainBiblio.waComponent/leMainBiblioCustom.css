@@ -1,0 +1,14 @@
+#{id}biblioGridCont {
+	left:0%;
+	width:30%;
+}
+
+#{id}biblioFormCont {
+	left:30%;
+	width:70%;
+}
+
+#{id}biblioText {
+	top:20%;
+	height:60%;
+}

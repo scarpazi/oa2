@@ -1,0 +1,11 @@
+{
+	"name": "teGrid",
+	"html": "teGrid.html",
+	"scripts": [
+		"teGrid.js"
+	],
+	"styles": [
+		"teGrid.css",
+		"teGridCustom.css"
+	]
+}

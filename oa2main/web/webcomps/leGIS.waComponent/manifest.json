@@ -1,0 +1,11 @@
+{
+	"name": "leGIS",
+	"html": "leGIS.html",
+	"scripts": [
+		"leGIS.js"
+	],
+	"styles": [
+		"leGIS.css",
+		"leGISCustom.css"
+	]
+}

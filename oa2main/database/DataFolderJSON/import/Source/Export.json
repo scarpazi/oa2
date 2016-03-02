@@ -1,0 +1,198 @@
+[
+  {
+    "ID":1,
+    "name":"Comune di Siena, Sistema informativo territoriale",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte cartografica|Altra fonte cartografica",
+    "tmpIDoa2Te":"%NSU765%"
+  },
+  {
+    "ID":2,
+    "name":"Pianta Bonaiuti",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte cartografica|Cartografia storica",
+    "tmpIDoa2Te":"%NSU215%"
+  },
+  {
+    "ID":3,
+    "name":"Pianta Vanni",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte cartografica|Cartografia storica",
+    "tmpIDoa2Te":"%NSU712%"
+  },
+  {
+    "ID":4,
+    "name":"Siena: banca dati delle facciate del centro storico",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte scritta|Fonte documentaria",
+    "tmpIDoa2Te":"%NSU1032%"
+  },
+  {
+    "ID":5,
+    "name":"Siena, depositi archeologici in elevato",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico in elevato",
+    "tmpIDoa2Te":"%NSU834%"
+  },
+  {
+    "ID":6,
+    "name":"Siena, Dipartimento di Archeologia e Storia delle Arti: sezione occasionale",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1835%"
+  },
+  {
+    "ID":7,
+    "name":"Siena, Duomo: deposito stratigrafico",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1864%"
+  },
+  {
+    "ID":8,
+    "name":"Siena, Fonte di Follonica: deposito stratigrafico",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1844%"
+  },
+  {
+    "ID":9,
+    "name":"Siena, fonti documentarie edite",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte scritta|Fonte documentaria",
+    "tmpIDoa2Te":"%NSU197%"
+  },
+  {
+    "ID":10,
+    "name":"Siena, Fortino delle donne Senesi: deposito stratigrafico",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1263%"
+  },
+  {
+    "ID":11,
+    "name":"Siena, Logge del Papa: sezione occasionale",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1827%"
+  },
+  {
+    "ID":12,
+    "name":"Siena, nuova Società Valdimontone: sezione occasionale",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1838%"
+  },
+  {
+    "ID":13,
+    "name":"Siena, Piazza Duomo, fronte Spedale: deposito stratigrafico",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1863%"
+  },
+  {
+    "ID":14,
+    "name":"Siena, piazza Manzoni: sezione occasionale",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1837%"
+  },
+  {
+    "ID":15,
+    "name":"Siena, Porta San Marco: sezione occasionale",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1836%"
+  },
+  {
+    "ID":16,
+    "name":"Siena, ripostiglio di Poggio Cardinale",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Reperti decontestualizzati",
+    "tmpIDoa2Te":"%NSU299%"
+  },
+  {
+    "ID":17,
+    "name":"Siena, San Cristoforo: deposito stratigrafico",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1845%"
+  },
+  {
+    "ID":18,
+    "name":"Siena, Santa Maria della Scala: deposito stratigrafico",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU297%"
+  },
+  {
+    "ID":19,
+    "name":"Siena, Santo Stefano alla Lizza: deposito stratigrafico",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1850%"
+  },
+  {
+    "ID":20,
+    "name":"Siena, via Baroncelli: deposito stratigrafico",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1233%"
+  },
+  {
+    "ID":21,
+    "name":"Siena, via dei Servi: sezione occasionale",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1833%"
+  },
+  {
+    "ID":22,
+    "name":"Siena, via di Salicotto: sezione occasionale",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1832%"
+  },
+  {
+    "ID":23,
+    "name":"Siena, via di Vallepiatta: sezione occasionale",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1830%"
+  },
+  {
+    "ID":24,
+    "name":"Siena, via Garibaldi: deposito stratigrafico",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1849%"
+  },
+  {
+    "ID":25,
+    "name":"Siena, via San Marco 106: sezione occasionale",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1831%"
+  },
+  {
+    "ID":26,
+    "name":"Siena, via San Marco: sezione occasionale",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1829%"
+  },
+  {
+    "ID":27,
+    "name":"Siena, via Santa Caterina: sezione occasionale",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1828%"
+  },
+  {
+    "ID":28,
+    "name":"Siena, vicolo di Coda: sezione occasionale",
+    "briefDesc":"",
+    "tmpDefComplete":"Fonte materiale|Deposito archeologico",
+    "tmpIDoa2Te":"%NSU1834%"
+  }
+]

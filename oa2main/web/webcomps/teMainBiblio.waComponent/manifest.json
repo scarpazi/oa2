@@ -1,0 +1,10 @@
+{
+	"name": "teMainBiblio",
+	"html": "teMainBiblio.html",
+	"scripts": [
+		"teMainBiblio.js"
+	],
+	"styles": [
+		"teMainBiblio.css"
+	]
+}

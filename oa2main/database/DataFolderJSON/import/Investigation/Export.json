@@ -1,0 +1,178 @@
+[
+  {
+    "ID":1,
+    "name":"Acquisizione cartografia SIT Siena",
+    "acronym":"SI_SIT",
+    "state":"Concluso",
+    "briefDesc":"",
+    "notes":"",
+    "tmpDefComplete":"Altra indagine|Studio delle fonti cartografiche",
+    "tmpDirName":"Tixier, Benjamin",
+    "tmpIDoa2Range":"2006|Anno|Precisa|2009|Anno|Precisa"
+  },
+  {
+    "ID":2,
+    "name":"Siena, elevati: osservazione autoptica e/o lettura speditiva",
+    "acronym":"SI_MUR",
+    "state":"Concluso",
+    "briefDesc":"",
+    "notes":"",
+    "tmpDefComplete":"Indagine archeologica sul campo|Studio degli elevati",
+    "tmpDirName":"Tixier, Benjamin",
+    "tmpIDoa2Range":"2007|Anno|Precisa|2007|Anno|Precisa"
+  },
+  {
+    "ID":3,
+    "name":"Siena, Fonte di Follonica: scavo di emergenza",
+    "acronym":"FdF",
+    "state":"Concluso",
+    "briefDesc":"",
+    "notes":"",
+    "tmpDefComplete":"Indagine archeologica sul campo|Scavo stratigrafico di emergenza",
+    "tmpDirName":"Valenti, Marco",
+    "tmpIDoa2Range":"2003|Anno|Precisa|2004|Anno|Precisa"
+  },
+  {
+    "ID":4,
+    "name":"Siena, Fortino delle donne Senesi: scavo di emergenza",
+    "acronym":"FDS",
+    "state":"Concluso",
+    "briefDesc":"",
+    "notes":"",
+    "tmpDefComplete":"Indagine archeologica sul campo|Scavo stratigrafico di emergenza",
+    "tmpDirName":"Valenti, Marco",
+    "tmpIDoa2Range":"2005|Anno|Precisa|2005|Anno|Precisa"
+  },
+  {
+    "ID":5,
+    "name":"Siena, M. Quast, schedatura facciate centro storico",
+    "acronym":"FCSS",
+    "state":"Concluso",
+    "briefDesc":"",
+    "notes":"",
+    "tmpDefComplete":"Altra indagine|Studio delle fonti documentarie",
+    "tmpDirName":"Quast, Matthias",
+    "tmpIDoa2Range":"2004|Anno|Precisa|2006|Anno|Precisa"
+  },
+  {
+    "ID":6,
+    "name":"Siena, osservazione autoptica e documentazione cantieri edili",
+    "acronym":"SI_OSS",
+    "state":"Concluso",
+    "briefDesc":"",
+    "notes":"",
+    "tmpDefComplete":"Indagine archeologica sul campo|Recupero/scasso/sterro",
+    "tmpDirName":"Tixier, Benjamin",
+    "tmpIDoa2Range":"2006|Anno|Precisa|2011|Anno|Precisa"
+  },
+  {
+    "ID":7,
+    "name":"Siena, rinvenimento Poggio Cardinale",
+    "acronym":"",
+    "state":"Concluso",
+    "briefDesc":"",
+    "notes":"Da Cantini 2005 (cronologia indagine da verificare)",
+    "tmpDefComplete":"Altra indagine|Ritrovamento casuale",
+    "tmpDirName":"",
+    "tmpIDoa2Range":"1979|Anno|Precisa|1979|Anno|Precisa"
+  },
+  {
+    "ID":8,
+    "name":"Siena, San Cristoforo: scavo di emergenza",
+    "acronym":"SCF",
+    "state":"Concluso",
+    "briefDesc":"",
+    "notes":"",
+    "tmpDefComplete":"Indagine archeologica sul campo|Scavo stratigrafico di emergenza",
+    "tmpDirName":"Valenti, Marco",
+    "tmpIDoa2Range":"2002|Anno|Precisa|2002|Anno|Precisa"
+  },
+  {
+    "ID":9,
+    "name":"Siena, Santo Stefano alla Lizza: scavo di emergenza",
+    "acronym":"SST",
+    "state":"Concluso",
+    "briefDesc":"",
+    "notes":"",
+    "tmpDefComplete":"Indagine archeologica sul campo|Scavo stratigrafico di emergenza",
+    "tmpDirName":"Valenti, Marco",
+    "tmpIDoa2Range":"2001|Anno|Precisa|2001|Anno|Precisa"
+  },
+  {
+    "ID":10,
+    "name":"Siena, schedatura bibliografia",
+    "acronym":"SI_BIB",
+    "state":"Concluso",
+    "briefDesc":"",
+    "notes":"",
+    "tmpDefComplete":"Altra indagine|Studio delle fonti documentarie",
+    "tmpDirName":"Tixier, Benjamin",
+    "tmpIDoa2Range":"2006|Anno|Precisa|2011|Anno|Precisa"
+  },
+  {
+    "ID":11,
+    "name":"Siena, studio cartografia storica",
+    "acronym":"SI_CS",
+    "state":"Concluso",
+    "briefDesc":"",
+    "notes":"",
+    "tmpDefComplete":"Altra indagine|Studio delle fonti cartografiche",
+    "tmpDirName":"Tixier, Benjamin",
+    "tmpIDoa2Range":"2006|Anno|Precisa|2011|Anno|Precisa"
+  },
+  {
+    "ID":12,
+    "name":"Siena, via Baroncelli: scavo di emergenza",
+    "acronym":"VBA",
+    "state":"Concluso",
+    "briefDesc":"",
+    "notes":"",
+    "tmpDefComplete":"Indagine archeologica sul campo|Scavo stratigrafico di emergenza",
+    "tmpDirName":"Valenti, Marco",
+    "tmpIDoa2Range":"2002|Anno|Precisa|2002|Anno|Precisa"
+  },
+  {
+    "ID":13,
+    "name":"Siena, via Garibaldi: scavo di emergenza",
+    "acronym":"VG",
+    "state":"Concluso",
+    "briefDesc":"",
+    "notes":"",
+    "tmpDefComplete":"Indagine archeologica sul campo|Scavo stratigrafico di emergenza",
+    "tmpDirName":"Valenti, Marco",
+    "tmpIDoa2Range":"2006|Anno|Precisa|2006|Anno|Precisa"
+  },
+  {
+    "ID":14,
+    "name":"Siena, Piazza Duomo: scavo di emergenza 1988",
+    "acronym":"SMS_PD",
+    "state":"Concluso",
+    "briefDesc":"",
+    "notes":"",
+    "tmpDefComplete":"Indagine archeologica sul campo|Scavo stratigrafico preventivo",
+    "tmpDirName":"Francovich, Riccardo",
+    "tmpIDoa2Range":"1988|Anno|Precisa|1988|Anno|Precisa"
+  },
+  {
+    "ID":15,
+    "name":"Siena, Duomo: scavi di emergenza",
+    "acronym":"DU",
+    "state":"Concluso",
+    "briefDesc":"",
+    "notes":"",
+    "tmpDefComplete":"Indagine archeologica sul campo|Scavo stratigrafico preventivo",
+    "tmpDirName":"Valenti, Marco",
+    "tmpIDoa2Range":"2000|Anno|Precisa|2003|Anno|Precisa"
+  },
+  {
+    "ID":16,
+    "name":"Siena, Santa Maria della Scala: scavo stratigrafico programmato",
+    "acronym":"SMS",
+    "state":"Concluso",
+    "briefDesc":"",
+    "notes":"",
+    "tmpDefComplete":"Indagine archeologica sul campo|Scavo stratigrafico programmato",
+    "tmpDirName":"Francovich, Riccardo",
+    "tmpIDoa2Range":"1998|Anno|Precisa|2005|Anno|Precisa"
+  }
+]

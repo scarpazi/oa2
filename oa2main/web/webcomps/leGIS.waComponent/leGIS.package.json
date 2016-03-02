@@ -1,0 +1,26 @@
+{
+	"name": "oa2main/webcomps/leGIS.waComponent",
+	"type": "component",
+	"version": "1.0.0",
+	"webComponent": "webcomps/leGIS.waComponent/leGIS.js",
+	"loadDependencies": [
+		{
+			"package": "Text"
+		},
+		{
+			"package": "Leaflet"
+		},
+		{
+			"file": "leGIS.html"
+		},
+		{
+			"file": "leGIS.css"
+		},
+		{
+			"file": "leGIS.js"
+		},
+		{
+			"file": "leGISCustom.css"
+		}
+	]
+}

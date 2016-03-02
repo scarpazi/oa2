@@ -1,0 +1,39 @@
+{
+	"name": "oa2main/webcomps/teGrid.waComponent",
+	"type": "component",
+	"version": "1.0.0",
+	"webComponent": "webcomps/teGrid.waComponent/teGrid.js",
+	"loadDependencies": [
+		{
+			"id": "Widget/dataGrid",
+			"type": "widget"
+		},
+		{
+			"package": "Text"
+		},
+		{
+			"file": "teGrid.html"
+		},
+		{
+			"file": "teGrid.css"
+		},
+		{
+			"file": "teGrid.js"
+		},
+		{
+			"file": "teGridCustom.css"
+		},
+		{
+			"file": "css/genstyles.css",
+			"path": "WEBFOLDER"
+		},
+		{
+			"file": "css/opentip.css",
+			"path": "WEBFOLDER"
+		},
+		{
+			"file": "prototype/application.css",
+			"path": "WEBFOLDER"
+		}
+	]
+}

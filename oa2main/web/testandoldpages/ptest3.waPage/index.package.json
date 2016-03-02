@@ -1,0 +1,32 @@
+{
+	"name": "oa2main/testandoldpages/ptest3.waPage/index.html",
+	"type": "page",
+	"version": "1.0.0",
+	"loadDependencies": [
+		{
+			"id": "Desktop_Core",
+			"version": "1.0.0",
+			"type": "core"
+		},
+		{
+			"package": "default"
+		},
+		{
+			"package": "Container"
+		},
+		{
+			"file": "styles/index.css"
+		},
+		{
+			"file": "application.css",
+			"path": "WEBFOLDER"
+		},
+		{
+			"file": "prototype/application.css",
+			"path": "WEBFOLDER"
+		},
+		{
+			"file": "scripts/index.js"
+		}
+	]
+}

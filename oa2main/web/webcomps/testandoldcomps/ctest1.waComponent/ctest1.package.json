@@ -1,1 +1,28 @@
-﻿{"name":"oa2_main/webcomps/testandoldcomps/ctest1.waComponent","version":"1.0.0","webComponent":"webcomps/testandoldcomps/ctest1.waComponent/ctest1.js","loadDependencies":[{"id":"Widget/dataGrid","type":"widget"},{"id":"webcomps/testandoldcomps/ctest1.waComponent/ctest1.html","path":"WEBFOLDER","type":"html"},{"id":"webcomps/testandoldcomps/ctest1.waComponent/ctest1.css","path":"WEBFOLDER","type":"style"},{"id":"webcomps/testandoldcomps/ctest1.waComponent/ctest1.js","path":"WEBFOLDER","type":"script"}]}
+{
+	"name": "oa2_main/webcomps/testandoldcomps/ctest1.waComponent",
+	"version": "1.0.0",
+	"webComponent": "webcomps/testandoldcomps/ctest1.waComponent/ctest1.js",
+	"loadDependencies": [
+		{
+			"id": "Widget/dataGrid",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/label",
+			"type": "widget"
+		},
+		{
+			"package": "Text"
+		},
+		{
+			"file": "ctest1.html"
+		},
+		{
+			"file": "ctest1.css"
+		},
+		{
+			"file": "ctest1.js"
+		}
+	],
+	"type": "component"
+}

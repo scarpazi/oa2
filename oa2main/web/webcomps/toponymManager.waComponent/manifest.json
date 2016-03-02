@@ -1,0 +1,12 @@
+{
+	"name": "toponymManager",
+	"html": "toponymManager.html",
+	"scripts": [
+		"toponymManager.js",
+		"toponym-manager.js"
+	],
+	"styles": [
+		"toponymManager.css",
+		"toponym-manager.css"
+	]
+}

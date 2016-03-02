@@ -4,13 +4,15 @@
 		"version": "2",
 		"__CDATA": "\n\t\t\n\t\t\n\t",
 		"model": {
-			"workspaceLeft": 0,
-			"workspaceTop": 0,
+			"workspaceLeft": 1616,
+			"workspaceTop": 4602,
 			"__CDATA": "\n\t\t\t\n\t\t",
 			"scriptMode": "manual",
+			"relShowMode": "true",
+			"inhShowMode": "false",
 			"relationCurve": {
 				"run": true,
-				"mode": 1
+				"mode": 2
 			},
 			"lastScriptLocation": {
 				"Dictionary": {
@@ -21,7 +23,37 @@
 					"computed": "LandscapeElement/LandscapeElement-events.js"
 				},
 				"DictionaryLemma": {
-					"computed": "DictionaryLemma/DictionaryLemma-events.js"
+					"computed": "DictionaryLemma/DictionaryLemma-events.js",
+					"method": "DictionaryLemma/DictionaryLemma-methods.js"
+				},
+				"ChronDate": {
+					"computed": "ChronDate/ChronDate-events.js"
+				},
+				"ChronRange": {
+					"computed": "ChronRange/ChronRange-events.js",
+					"method": "ChronRange/ChronRange-methods.js"
+				},
+				"Source": {
+					"computed": "Source/Source-events.js"
+				},
+				"SourceRef": {
+					"computed": "SourceRef/SourceRef-events.js",
+					"method": "SourceRef/SourceRef-methods.js"
+				},
+				"Investigation": {
+					"computed": "Investigation/Investigation-events.js"
+				},
+				"Person": {
+					"computed": "Person/Person-events.js"
+				},
+				"BiblioRef": {
+					"computed": "BiblioRef/BiblioRef-events.js",
+					"method": "BiblioRef/BiblioRef-methods.js"
+				},
+				"TopographicElement": {
+					"method": "TopographicElement/TopographicElement-methods.js",
+					"computed": "TopographicElement/TopographicElement-events.js",
+					"events": "TopographicElement/TopographicElement-events.js"
 				}
 			}
 		},
@@ -29,6 +61,8 @@
 			"__CDATA": "\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t",
 			"Landscape": {
 				"panelColor": "rgb(255, 78, 89)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -40,6 +74,8 @@
 			},
 			"DecontextualizedArtifact": {
 				"panelColor": "rgb(255, 78, 89)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -56,6 +92,7 @@
 				"flatVisible": "true",
 				"relVisible": "true",
 				"__CDATA": "\n\t\t\t\t\n\t\t\t",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -70,19 +107,23 @@
 			"TopographicElement": {
 				"panelColor": "rgb(255, 78, 89)",
 				"__CDATA": "\n\t\t\t\t\n\t\t\t",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
 					"resizedHeight": "",
 					"__CDATA": "\n\t\t\t\t\t\n\t\t\t\t",
 					"position": {
-						"X": 500,
-						"Y": 2000
+						"X": 910,
+						"Y": 1002
 					}
 				}
 			},
 			"BiblioMiscPaper": {
 				"panelColor": "rgb(184, 204, 228)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -94,6 +135,8 @@
 			},
 			"BiblioJournPaper": {
 				"panelColor": "rgb(184, 204, 228)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -105,6 +148,8 @@
 			},
 			"BiblioVolume": {
 				"panelColor": "rgb(184, 204, 228)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": false,
@@ -116,6 +161,8 @@
 			},
 			"BiblioRef": {
 				"panelColor": "rgb(195, 214, 155)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -127,6 +174,8 @@
 			},
 			"AuthorAsPerson": {
 				"panelColor": "rgb(184, 204, 228)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -139,30 +188,36 @@
 			"Person": {
 				"panelColor": "rgb(84, 141, 212)",
 				"__CDATA": "\n\t\t\t\t\n\t\t\t",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
 					"__CDATA": "\n\t\t\t\t\t\n\t\t\t\t",
 					"position": {
-						"X": 1000,
-						"Y": 2000
+						"X": 921,
+						"Y": 2208
 					}
 				}
 			},
 			"User": {
 				"panelColor": "rgb(141, 179, 226)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": false,
 					"position": {
-						"X": 1400,
-						"Y": 2000
+						"X": 1410,
+						"Y": 2207
 					}
 				}
 			},
 			"RefersToPerson": {
 				"panelColor": "rgb(255, 255, 0)",
 				"__CDATA": "\n\t\t\t\t\n\t\t\t",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": false,
@@ -176,6 +231,8 @@
 			"Project": {
 				"panelColor": "rgb(84, 141, 212)",
 				"__CDATA": "\n\t\t\t\t\n\t\t\t",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -188,6 +245,8 @@
 			},
 			"ProjectRef": {
 				"panelColor": "rgb(195, 214, 155)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -199,6 +258,8 @@
 			},
 			"RepoDoc": {
 				"panelColor": "rgb(84, 141, 212)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -210,6 +271,8 @@
 			},
 			"RepoDocRef": {
 				"panelColor": "rgb(195, 214, 155)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -221,6 +284,8 @@
 			},
 			"SpatialRepSet": {
 				"panelColor": "rgb(84, 141, 212)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"position": {
@@ -231,6 +296,8 @@
 			},
 			"SpatialRep": {
 				"panelColor": "rgb(84, 141, 212)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"position": {
@@ -241,6 +308,8 @@
 			},
 			"SpatialRepRef": {
 				"panelColor": "rgb(195, 214, 155)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -252,9 +321,11 @@
 			},
 			"Source": {
 				"panelColor": "rgb(84, 141, 212)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
-					"pathVisible": false,
+					"pathVisible": true,
 					"position": {
 						"X": 1009,
 						"Y": 4504
@@ -263,16 +334,20 @@
 			},
 			"SourceRel": {
 				"panelColor": "rgb(183, 221, 232)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"position": {
-						"X": 1372,
-						"Y": 4505
+						"X": 1400,
+						"Y": 4506
 					}
 				}
 			},
 			"SourceRef": {
 				"panelColor": "rgb(195, 214, 155)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -286,45 +361,35 @@
 				"panelColor": "rgb(84, 141, 212)",
 				"isMinimized": "false",
 				"__CDATA": "\n\t\t\t\t\n\t\t\t",
+				"relVisible": "true",
+				"inheritedVisible": "false",
+				"methVisible": "true",
+				"flatVisible": "true",
+				"calcuVisible": "true",
+				"scalarVisible": "true",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
 					"__CDATA": "\n\t\t\t\t\t\n\t\t\t\t",
 					"position": {
-						"X": 1000,
-						"Y": 5000
-					}
-				}
-			},
-			"ToponymAdm": {
-				"panelColor": "rgb(84, 141, 212)",
-				"panel": {
-					"isOpen": "true",
-					"pathVisible": false,
-					"position": {
-						"X": 1400,
-						"Y": 5000
-					}
-				}
-			},
-			"ToponymHist": {
-				"panelColor": "rgb(84, 141, 212)",
-				"panel": {
-					"isOpen": "true",
-					"position": {
-						"X": 1400,
-						"Y": 5400
+						"X": 1010,
+						"Y": 5307
 					}
 				}
 			},
 			"ToponymRef": {
 				"panelColor": "rgb(141, 179, 226)",
+				"relVisible": "false",
+				"inheritedVisible": "false",
+				"scalarVisible": "true",
+				"calcuVisible": "true",
+				"flatVisible": "true",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 1400,
-						"Y": 5800
+						"X": 2413,
+						"Y": 5507
 					}
 				}
 			},
@@ -332,22 +397,30 @@
 				"panelColor": "rgb(184, 204, 228)",
 				"isMinimized": "false",
 				"__CDATA": "\n\t\t\t\t\n\t\t\t",
+				"relVisible": "true",
+				"inheritedVisible": "false",
+				"scalarVisible": "false",
+				"calcuVisible": "false",
+				"flatVisible": "false",
+				"methVisible": "true",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
 					"resizedHeight": "100",
 					"__CDATA": "\n\t\t\t\t\t\n\t\t\t\t",
 					"position": {
-						"X": 1800,
-						"Y": 5000
+						"X": 2418,
+						"Y": 5305
 					}
 				}
 			},
 			"ChronDate": {
 				"panelColor": "rgb(255, 255, 255)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
-					"pathVisible": false,
+					"pathVisible": true,
 					"position": {
 						"X": 2500,
 						"Y": 50
@@ -357,6 +430,8 @@
 			"ChronPhase": {
 				"panelColor": "rgb(255, 255, 255)",
 				"__CDATA": "\n\t\t\t\t\n\t\t\t",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": false,
@@ -370,6 +445,9 @@
 			"ChronRange": {
 				"panelColor": "rgb(255, 255, 255)",
 				"__CDATA": "\n\t\t\t\t\n\t\t\t",
+				"relVisible": "true",
+				"inheritedVisible": "false",
+				"methVisible": "true",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -383,6 +461,8 @@
 			"ChronSequence": {
 				"panelColor": "rgb(255, 255, 255)",
 				"__CDATA": "\n\t\t\t\t\n\t\t\t",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -396,6 +476,8 @@
 			"Comment": {
 				"panelColor": "rgb(255, 255, 255)",
 				"isMinimized": "false",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -409,6 +491,8 @@
 				"panelColor": "rgb(255, 255, 255)",
 				"isMinimized": "false",
 				"__CDATA": "\n\t\t\t\t\n\t\t\t",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -421,6 +505,8 @@
 			},
 			"Dictionary": {
 				"panelColor": "rgb(255, 255, 255)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -432,59 +518,72 @@
 			},
 			"Image": {
 				"panelColor": "rgb(255, 255, 255)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 2500,
-						"Y": 2000
+						"X": 2414,
+						"Y": 2209
 					}
 				}
 			},
 			"ImageRef": {
 				"panelColor": "rgb(195, 214, 155)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 2900,
-						"Y": 2000
+						"X": 2813,
+						"Y": 2207
 					}
 				}
 			},
 			"Investigation": {
 				"panelColor": "rgb(255, 255, 255)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
+					"pathVisible": true,
 					"position": {
-						"X": 2500,
-						"Y": 2500
+						"X": 2439,
+						"Y": 2705
 					}
 				}
 			},
 			"InvestigationRef": {
 				"panelColor": "rgb(195, 214, 155)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 2900,
-						"Y": 2500
+						"X": 2914,
+						"Y": 2705
 					}
 				}
 			},
 			"ProducerRef": {
 				"panelColor": "rgb(255, 255, 255)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"position": {
-						"X": 2500,
-						"Y": 3000
+						"X": 2913,
+						"Y": 3004
 					}
 				}
 			},
 			"RecordStamp": {
 				"panelColor": "rgb(255, 255, 255)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -496,38 +595,46 @@
 			},
 			"SpatialLayer": {
 				"panelColor": "rgb(255, 255, 255)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"position": {
-						"X": 2500,
-						"Y": 4000
+						"X": 2516,
+						"Y": 4209
 					}
 				}
 			},
 			"SpatialFeature": {
 				"panelColor": "rgb(255, 255, 255)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 2900,
-						"Y": 4000
+						"X": 2817,
+						"Y": 4202
 					}
 				}
 			},
 			"SpatialFeatureRef": {
 				"panelColor": "rgb(195, 214, 155)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 3322,
-						"Y": 4006
+						"X": 3412,
+						"Y": 4205
 					}
 				}
 			},
 			"Tagset": {
 				"panelColor": "rgb(255, 255, 255)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"position": {
@@ -538,6 +645,8 @@
 			},
 			"Tag": {
 				"panelColor": "rgb(255, 255, 255)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": false,
@@ -549,6 +658,8 @@
 			},
 			"Chronotag": {
 				"panelColor": "rgb(255, 255, 255)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"position": {
@@ -559,6 +670,8 @@
 			},
 			"TagRef": {
 				"panelColor": "rgb(195, 214, 155)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"position": {
@@ -569,6 +682,8 @@
 			},
 			"DictionaryLemma": {
 				"panelColor": "rgb(255, 255, 255)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -580,6 +695,8 @@
 			},
 			"BiblioTitle": {
 				"panelColor": "rgb(84, 141, 212)",
+				"relVisible": "true",
+				"inheritedVisible": "false",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
@@ -589,16 +706,38 @@
 					}
 				}
 			},
-			"TEBuilding": {
-				"panelColor": "rgb(229, 185, 183)",
-				"__CDATA": "\n\t\t\t\t\n\t\t\t",
+			"ToponymAdm": {
+				"panelColor": "rgb(84, 141, 212)",
+				"flatVisible": "true",
+				"inheritedVisible": "false",
+				"scalarVisible": "true",
+				"calcuVisible": "true",
+				"relVisible": "true",
+				"methVisible": "true",
 				"panel": {
 					"isOpen": "true",
 					"pathVisible": true,
-					"__CDATA": "\n\t\t\t\t\t\n\t\t\t\t",
 					"position": {
-						"X": 500,
-						"Y": 2700
+						"X": 1468,
+						"Y": 5307
+					}
+				}
+			},
+			"ToponymHist": {
+				"panelColor": "rgb(84, 141, 212)",
+				"flatVisible": "true",
+				"inheritedVisible": "false",
+				"scalarVisible": "true",
+				"calcuVisible": "true",
+				"relVisible": "true",
+				"methVisible": "true",
+				"methodInhVisible": "false",
+				"panel": {
+					"isOpen": "true",
+					"pathVisible": true,
+					"position": {
+						"X": 1911,
+						"Y": 5306
 					}
 				}
 			}
@@ -734,11 +873,38 @@
 					"primKey": true
 				},
 				{
-					"name": "biblioTitle",
+					"name": "biblioTitleObj",
 					"kind": "relatedEntity",
+					"matchColumn": "biblioTitle",
 					"scope": "public",
 					"type": "BiblioTitle",
 					"path": "BiblioTitle"
+				},
+				{
+					"name": "pages",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "biblioRefShort",
+					"kind": "calculated",
+					"scope": "public",
+					"type": "string",
+					"scriptKind": "javascript",
+					"onGet": [
+						{
+							"from": "$mainModel.BiblioRef.biblioRefShort.onGet",
+							"userDefined": true
+						}
+					]
+				},
+				{
+					"name": "biblioTextCalc",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "biblioTitleObj.biblioText"
 				},
 				{
 					"name": "daRef",
@@ -746,6 +912,49 @@
 					"scope": "public",
 					"type": "DecontextualizedArtifact",
 					"path": "DecontextualizedArtifact"
+				},
+				{
+					"name": "leRef",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "LandscapeElement",
+					"path": "LandscapeElement"
+				},
+				{
+					"name": "teRef",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "TopographicElement",
+					"path": "TopographicElement"
+				},
+				{
+					"name": "tmpIDoa2Te",
+					"kind": "storage",
+					"matchColumn": "tmpIDoa2",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "tmpIDbiblio",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				}
+			],
+			"methods": [
+				{
+					"name": "biblioBindColl",
+					"applyTo": "entityCollection",
+					"scope": "publicOnServer",
+					"from": "$mainModel.BiblioRef.collectionMethods.biblioBindColl",
+					"userDefined": true
+				},
+				{
+					"name": "teBindColl",
+					"applyTo": "entityCollection",
+					"scope": "publicOnServer",
+					"from": "$mainModel.BiblioRef.collectionMethods.teBindColl",
+					"userDefined": true
 				}
 			]
 		},
@@ -756,19 +965,27 @@
 			"scope": "public",
 			"attributes": [
 				{
-					"name": "firstName",
+					"name": "ID",
 					"kind": "storage",
 					"scope": "public",
 					"unique": true,
-					"type": "string",
-					"indexKind": "btree",
+					"autosequence": true,
+					"type": "long",
 					"primKey": true
+				},
+				{
+					"name": "firstName",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string",
+					"indexKind": "auto"
 				},
 				{
 					"name": "lastName",
 					"kind": "storage",
 					"scope": "public",
-					"type": "string"
+					"type": "string",
+					"indexKind": "auto"
 				},
 				{
 					"name": "Year",
@@ -828,12 +1045,25 @@
 					"path": "BiblioMiscPaper"
 				},
 				{
+					"name": "biblioText",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
 					"name": "biblioRefs",
 					"kind": "relatedEntities",
 					"scope": "public",
 					"type": "BiblioRefCollection",
 					"reversePath": true,
-					"path": "biblioTitle"
+					"path": "biblioTitleObj"
+				},
+				{
+					"name": "tmpIDbiblio",
+					"kind": "storage",
+					"matchColumn": "IDbiblio",
+					"scope": "public",
+					"type": "string"
 				}
 			]
 		},
@@ -910,23 +1140,11 @@
 					"primKey": true
 				},
 				{
-					"name": "chronology",
+					"name": "year",
 					"kind": "storage",
+					"matchColumn": "chronology",
 					"scope": "public",
-					"not_null": true,
-					"type": "date",
-					"simpleDate": true,
-					"indexKind": "auto"
-				},
-				{
-					"name": "precision",
-					"kind": "storage",
-					"scope": "public",
-					"not_null": true,
-					"type": "string",
-					"indexKind": "cluster",
-					"maxLength": 50,
-					"autoComplete": true
+					"type": "long"
 				},
 				{
 					"name": "meaning",
@@ -934,9 +1152,32 @@
 					"scope": "public",
 					"not_null": true,
 					"type": "string",
-					"indexKind": "btree",
+					"indexKind": "auto",
 					"maxLength": 50,
 					"autoComplete": true
+				},
+				{
+					"name": "precision",
+					"kind": "storage",
+					"scope": "public",
+					"not_null": true,
+					"type": "string",
+					"indexKind": "auto",
+					"maxLength": 50,
+					"autoComplete": true
+				},
+				{
+					"name": "chronText",
+					"kind": "calculated",
+					"scope": "public",
+					"type": "string",
+					"scriptKind": "javascript",
+					"onGet": [
+						{
+							"from": "$mainModel.ChronDate.chronText.onGet",
+							"userDefined": true
+						}
+					]
 				},
 				{
 					"name": "rangeStart",
@@ -953,6 +1194,13 @@
 					"type": "ChronRangeCollection",
 					"reversePath": true,
 					"path": "end"
+				},
+				{
+					"name": "tmpYearID",
+					"kind": "storage",
+					"matchColumn": "tmpYearPrec",
+					"scope": "public",
+					"type": "string"
 				}
 			]
 		},
@@ -1061,9 +1309,16 @@
 				},
 				{
 					"name": "chronText",
-					"kind": "storage",
+					"kind": "calculated",
 					"scope": "public",
-					"type": "string"
+					"type": "string",
+					"scriptKind": "javascript",
+					"onGet": [
+						{
+							"from": "$mainModel.ChronRange.chronText.onGet",
+							"userDefined": true
+						}
+					]
 				},
 				{
 					"name": "datesChronphase",
@@ -1082,20 +1337,81 @@
 					"path": "chronRangeRef"
 				},
 				{
-					"name": "daRef",
+					"name": "daRefs",
 					"kind": "relatedEntities",
+					"matchColumn": "daRef",
 					"scope": "public",
 					"type": "DecontextualizedArtifactCollection",
 					"reversePath": true,
-					"path": "chronology"
+					"path": "chronologyDa"
 				},
 				{
-					"name": "leRef",
+					"name": "leRefs",
 					"kind": "relatedEntities",
 					"scope": "public",
 					"type": "LandscapeElementCollection",
 					"reversePath": true,
+					"path": "chronologyLe"
+				},
+				{
+					"name": "investigationRefs",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "InvestigationCollection",
+					"reversePath": true,
+					"path": "durationInv"
+				},
+				{
+					"name": "sourceRefs",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "SourceCollection",
+					"reversePath": true,
 					"path": "chronology"
+				},
+				{
+					"name": "teRefs",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "TECollection",
+					"reversePath": true,
+					"path": "chronologyTe"
+				},
+				{
+					"name": "tmpRangeID",
+					"kind": "calculated",
+					"scope": "public",
+					"type": "string",
+					"scriptKind": "javascript",
+					"onGet": [
+						{
+							"from": "$mainModel.ChronRange.tmpRangeID.onGet",
+							"userDefined": true
+						}
+					]
+				},
+				{
+					"name": "tmpYearStartID",
+					"kind": "storage",
+					"matchColumn": "tmpYearPrecStart,tmpYearStartPrec",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "tmpYearEndID",
+					"kind": "storage",
+					"matchColumn": "tmpYearPrecEnd,tmpYearEndPrec",
+					"scope": "public",
+					"type": "string"
+				}
+			],
+			"methods": [
+				{
+					"name": "yearBindColl",
+					"applyTo": "entityCollection",
+					"scope": "publicOnServer",
+					"from": "$mainModel.ChronRange.collectionMethods.yearBindColl",
+					"userDefined": true
 				}
 			]
 		},
@@ -1276,16 +1592,18 @@
 					"path": "TopographicElement"
 				},
 				{
-					"name": "mainToponym",
+					"name": "mainToponymDa",
 					"kind": "relatedEntity",
+					"matchColumn": "mainToponym",
 					"scope": "public",
 					"type": "Toponym",
 					"indexKind": "auto",
 					"path": "Toponym"
 				},
 				{
-					"name": "chronology",
+					"name": "chronologyDa",
 					"kind": "relatedEntity",
+					"matchColumn": "chronology",
 					"scope": "public",
 					"type": "ChronRange",
 					"indexKind": "auto",
@@ -1500,7 +1818,7 @@
 					"type": "DictionaryLemmaCollection",
 					"indexKind": "auto",
 					"reversePath": true,
-					"path": "dicobject"
+					"path": "dicObject"
 				},
 				{
 					"name": "notes",
@@ -1528,26 +1846,29 @@
 					"primKey": true
 				},
 				{
-					"name": "dicobject",
+					"name": "dicObject",
 					"kind": "relatedEntity",
+					"matchColumn": "dicobject",
 					"scope": "public",
 					"type": "Dictionary",
 					"indexKind": "auto",
 					"path": "Dictionary"
 				},
 				{
-					"name": "dicname",
+					"name": "dicName",
 					"kind": "alias",
+					"matchColumn": "dicname",
 					"scope": "public",
 					"type": "string",
-					"path": "dicobject.name"
+					"path": "dicObject.name"
 				},
 				{
-					"name": "dicnotes",
+					"name": "dicNotes",
 					"kind": "alias",
+					"matchColumn": "dicnotes",
 					"scope": "public",
 					"type": "string",
-					"path": "dicobject.notes"
+					"path": "dicObject.notes"
 				},
 				{
 					"name": "lvalue",
@@ -1570,6 +1891,20 @@
 					"scope": "public",
 					"type": "string",
 					"path": "primarylemma.lvalue"
+				},
+				{
+					"name": "cvalue",
+					"kind": "calculated",
+					"scope": "public",
+					"type": "string",
+					"indexKind": "auto",
+					"scriptKind": "javascript",
+					"onGet": [
+						{
+							"from": "$mainModel.DictionaryLemma.cvalue.onGet",
+							"userDefined": true
+						}
+					]
 				},
 				{
 					"name": "secondarylemmas",
@@ -1600,20 +1935,83 @@
 					]
 				},
 				{
-					"name": "leDef1Collection",
+					"name": "allDefsLe",
 					"kind": "relatedEntities",
+					"matchColumn": "allDefLe,allLe,leDef2Collection",
 					"scope": "public",
 					"type": "LandscapeElementCollection",
 					"reversePath": true,
-					"path": "def1Obj"
+					"path": "defObjLe"
 				},
 				{
-					"name": "leDef2Collection",
+					"name": "allDefsTe",
 					"kind": "relatedEntities",
 					"scope": "public",
-					"type": "LandscapeElementCollection",
+					"type": "TECollection",
 					"reversePath": true,
-					"path": "def2Obj"
+					"path": "defObjTe"
+				},
+				{
+					"name": "allDefsSource",
+					"kind": "relatedEntities",
+					"matchColumn": "allDefSource,sourceCollection",
+					"scope": "public",
+					"type": "SourceCollection",
+					"reversePath": true,
+					"path": "defObjSource"
+				},
+				{
+					"name": "allDefsInv",
+					"kind": "relatedEntities",
+					"matchColumn": "investigationCollection",
+					"scope": "public",
+					"type": "InvestigationCollection",
+					"reversePath": true,
+					"path": "defObjInv"
+				},
+				{
+					"name": "allDefsToponym",
+					"kind": "relatedEntities",
+					"matchColumn": "toponymCollection",
+					"scope": "public",
+					"type": "ToponymCollection",
+					"reversePath": true,
+					"path": "defObjToponym"
+				},
+				{
+					"name": "tmpDicID",
+					"kind": "storage",
+					"scope": "public",
+					"type": "long"
+				},
+				{
+					"name": "tmpPlID",
+					"kind": "storage",
+					"scope": "public",
+					"type": "long"
+				}
+			],
+			"methods": [
+				{
+					"name": "dicBindColl",
+					"applyTo": "entityCollection",
+					"scope": "publicOnServer",
+					"from": "$mainModel.DictionaryLemma.collectionMethods.dicBindColl",
+					"userDefined": true
+				},
+				{
+					"name": "dicBindCurr",
+					"applyTo": "entity",
+					"scope": "publicOnServer",
+					"from": "$mainModel.DictionaryLemma.entityMethods.dicBindCurr",
+					"userDefined": true
+				},
+				{
+					"name": "plBindColl",
+					"applyTo": "entityCollection",
+					"scope": "publicOnServer",
+					"from": "$mainModel.DictionaryLemma.collectionMethods.plBindColl",
+					"userDefined": true
 				}
 			]
 		},
@@ -1659,15 +2057,17 @@
 					"path": "Person"
 				},
 				{
-					"name": "lERef",
+					"name": "leRef",
 					"kind": "relatedEntity",
+					"matchColumn": "lERef",
 					"scope": "public",
 					"type": "LandscapeElement",
 					"path": "LandscapeElement"
 				},
 				{
-					"name": "tElRef",
+					"name": "teRef",
 					"kind": "relatedEntity",
+					"matchColumn": "tElRef",
 					"scope": "public",
 					"type": "TopographicElement",
 					"path": "TopographicElement"
@@ -1737,12 +2137,124 @@
 					"primKey": true
 				},
 				{
-					"name": "investigationRefCollection",
+					"name": "name",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "acronym",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "defObjInv",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "DictionaryLemma",
+					"path": "DictionaryLemma"
+				},
+				{
+					"name": "director",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "Person",
+					"path": "Person"
+				},
+				{
+					"name": "directorName",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "director.fullName"
+				},
+				{
+					"name": "durationInv",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "ChronRange",
+					"path": "ChronRange"
+				},
+				{
+					"name": "durationText",
+					"kind": "calculated",
+					"scope": "public",
+					"type": "string",
+					"scriptKind": "javascript",
+					"onGet": [
+						{
+							"from": "$mainModel.Investigation.durationText.onGet",
+							"userDefined": true
+						}
+					]
+				},
+				{
+					"name": "state",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "briefDesc",
+					"kind": "storage",
+					"scope": "public",
+					"limiting_length": 2000,
+					"type": "string",
+					"maxLength": 2000
+				},
+				{
+					"name": "notes",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "sourceMainRef",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "SourceCollection",
+					"reversePath": true,
+					"path": "mainInvestigation"
+				},
+				{
+					"name": "allInvestigationRefs",
 					"kind": "relatedEntities",
 					"scope": "public",
 					"type": "InvestigationRefCollection",
 					"reversePath": true,
 					"path": "investigation"
+				},
+				{
+					"name": "tmpDefComplete",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "tmpDirName",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "tmpIDoa2Te",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "tmpIDoa2Range",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "ppp",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "ChronDate",
+					"path": "durationInv.start"
 				}
 			]
 		},
@@ -1768,6 +2280,13 @@
 					"scope": "public",
 					"type": "Investigation",
 					"path": "Investigation"
+				},
+				{
+					"name": "sourceref",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "Source",
+					"path": "Source"
 				}
 			]
 		},
@@ -1794,12 +2313,21 @@
 					"type": "string"
 				},
 				{
-					"name": "landscapeElementCollection",
+					"name": "allLe",
 					"kind": "relatedEntities",
+					"matchColumn": "allL,landscapeElementCollection",
 					"scope": "public",
 					"type": "LandscapeElementCollection",
 					"reversePath": true,
-					"path": "l"
+					"path": "lLe"
+				},
+				{
+					"name": "allTe",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "TECollection",
+					"reversePath": true,
+					"path": "lTe"
 				}
 			]
 		},
@@ -1822,81 +2350,105 @@
 					"primKey": true
 				},
 				{
-					"name": "leID",
-					"kind": "storage",
-					"scope": "public",
-					"uuid": "2ADD95E19D5F489B8DC94EA9939CCE3C",
-					"type": "string",
-					"indexKind": "btree"
-				},
-				{
 					"name": "name",
 					"kind": "storage",
 					"scope": "public",
 					"uuid": "BECE3EFD14694560A2458D4234EE0491",
-					"unique": true,
 					"type": "string",
 					"indexKind": "btree"
 				},
 				{
-					"name": "l",
+					"name": "lLe",
 					"kind": "relatedEntity",
+					"matchColumn": "l",
 					"scope": "public",
 					"type": "Landscape",
 					"path": "Landscape"
 				},
 				{
-					"name": "def1Obj",
+					"name": "defObjLe",
 					"kind": "relatedEntity",
-					"scope": "public",
-					"type": "DictionaryLemma",
-					"path": "DictionaryLemma"
-				},
-				{
-					"name": "def2Obj",
-					"kind": "relatedEntity",
+					"matchColumn": "defObj,def2Obj",
 					"scope": "public",
 					"type": "DictionaryLemma",
 					"path": "DictionaryLemma"
 				},
 				{
 					"name": "defComplete",
-					"kind": "calculated",
+					"kind": "alias",
 					"scope": "public",
 					"type": "string",
-					"scriptKind": "javascript",
-					"onGet": [
-						{
-							"from": "$mainModel.LandscapeElement.defComplete.onGet",
-							"userDefined": true
-						}
-					]
+					"path": "defObjLe.cvalue"
 				},
 				{
-					"name": "chronology",
+					"name": "chronologyLe",
 					"kind": "relatedEntity",
+					"matchColumn": "chronology",
 					"scope": "public",
 					"type": "ChronRange",
 					"path": "ChronRange"
 				},
 				{
-					"name": "sources",
-					"kind": "relatedEntities",
+					"name": "startYear",
+					"kind": "alias",
 					"scope": "public",
-					"type": "SourceRefCollection",
-					"reversePath": true,
-					"path": "leRef"
+					"type": "long",
+					"path": "chronologyLe.start.year"
 				},
 				{
-					"name": "stamp",
+					"name": "startMean",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "chronologyLe.start.meaning"
+				},
+				{
+					"name": "startPrec",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "chronologyLe.start.precision"
+				},
+				{
+					"name": "endYear",
+					"kind": "alias",
+					"scope": "public",
+					"type": "long",
+					"path": "chronologyLe.end.year"
+				},
+				{
+					"name": "endMean",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "chronologyLe.end.meaning"
+				},
+				{
+					"name": "endPrec",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "chronologyLe.end.precision"
+				},
+				{
+					"name": "chronTextCalc",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "chronologyLe.chronText"
+				},
+				{
+					"name": "stampLe",
 					"kind": "relatedEntity",
+					"matchColumn": "stamp",
 					"scope": "public",
 					"type": "RecordStamp",
 					"path": "RecordStamp"
 				},
 				{
-					"name": "mainToponym",
+					"name": "mainToponymLe",
 					"kind": "relatedEntity",
+					"matchColumn": "mainToponymTe,mainToponym",
 					"scope": "public",
 					"uuid": "AC99A0D9DE4A47DF9E39C72265DC5ECF",
 					"type": "Toponym",
@@ -1906,39 +2458,18 @@
 					"name": "briefDesc",
 					"kind": "storage",
 					"scope": "public",
-					"type": "string"
+					"limiting_length": 5000,
+					"type": "string",
+					"maxLength": 5000,
+					"multiLine": true
 				},
 				{
-					"name": "allTe",
-					"kind": "relatedEntities",
+					"name": "notes",
+					"kind": "storage",
 					"scope": "public",
-					"type": "TECollection",
-					"reversePath": true,
-					"path": "le"
-				},
-				{
-					"name": "graphicElementCollection",
-					"kind": "relatedEntities",
-					"scope": "public",
-					"type": "ImageCollection",
-					"reversePath": true,
-					"path": "lERef"
-				},
-				{
-					"name": "otherMediaCollection",
-					"kind": "relatedEntities",
-					"scope": "public",
-					"type": "RepoDocCollection",
-					"reversePath": true,
-					"path": "leRef"
-				},
-				{
-					"name": "toponymRefCollection",
-					"kind": "relatedEntities",
-					"scope": "public",
-					"type": "ToponymRefCollection",
-					"reversePath": true,
-					"path": "leref"
+					"limiting_length": 2000,
+					"type": "string",
+					"maxLength": 2000
 				},
 				{
 					"name": "lat",
@@ -1951,6 +2482,79 @@
 					"kind": "storage",
 					"scope": "public",
 					"type": "number"
+				},
+				{
+					"name": "allTe",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "TECollection",
+					"reversePath": true,
+					"path": "leTe"
+				},
+				{
+					"name": "allToponymRefs",
+					"kind": "relatedEntities",
+					"matchColumn": "toponymRefCollection",
+					"scope": "public",
+					"type": "ToponymRefCollection",
+					"reversePath": true,
+					"path": "leref"
+				},
+				{
+					"name": "allSourceRefs",
+					"kind": "relatedEntities",
+					"matchColumn": "allSources",
+					"scope": "public",
+					"type": "SourceRefCollection",
+					"reversePath": true,
+					"path": "leRef"
+				},
+				{
+					"name": "leSources",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "SourceCollection",
+					"path": "allSourceRefs.sourceObj"
+				},
+				{
+					"name": "allBiblioTitles",
+					"kind": "relatedEntities",
+					"matchColumn": "biblioRefCollection",
+					"scope": "public",
+					"type": "BiblioRefCollection",
+					"reversePath": true,
+					"path": "leRef"
+				},
+				{
+					"name": "leBiblio",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "BiblioTitleCollection",
+					"path": "allBiblioTitles.biblioTitleObj"
+				},
+				{
+					"name": "allImages",
+					"kind": "relatedEntities",
+					"matchColumn": "allGraphicElements,graphicElementCollection",
+					"scope": "public",
+					"type": "ImageCollection",
+					"reversePath": true,
+					"path": "leRef"
+				},
+				{
+					"name": "allOtherMedia",
+					"kind": "relatedEntities",
+					"matchColumn": "otherMediaCollection",
+					"scope": "public",
+					"type": "RepoDocCollection",
+					"reversePath": true,
+					"path": "leRef"
+				},
+				{
+					"name": "tmpIDoa2Le",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
 				}
 			]
 		},
@@ -1989,6 +2593,19 @@
 					"type": "string",
 					"indexKind": "btree",
 					"maxLength": 30
+				},
+				{
+					"name": "fullName",
+					"kind": "calculated",
+					"scope": "public",
+					"type": "string",
+					"scriptKind": "javascript",
+					"onGet": [
+						{
+							"from": "$mainModel.Person.fullName.onGet",
+							"userDefined": true
+						}
+					]
 				},
 				{
 					"name": "organization",
@@ -2045,12 +2662,12 @@
 					"path": "authorID"
 				},
 				{
-					"name": "teBuildingCollection",
+					"name": "investigationCollection",
 					"kind": "relatedEntities",
 					"scope": "public",
-					"type": "TEBuildingCollection",
+					"type": "InvestigationCollection",
 					"reversePath": true,
-					"path": "owner"
+					"path": "director"
 				}
 			]
 		},
@@ -2059,22 +2676,7 @@
 			"className": "AuthorAsPerson",
 			"collectionName": "AuthorAsPersonCollection",
 			"scope": "public",
-			"extends": "Person",
-			"attributes": [
-				{
-					"name": "firstname",
-					"kind": "storage",
-					"scope": "publicOnServer",
-					"type": "string"
-				},
-				{
-					"name": "lastname",
-					"kind": "storage",
-					"scope": "public",
-					"not_null": true,
-					"type": "string"
-				}
-			]
+			"extends": "Person"
 		},
 		{
 			"name": "User",
@@ -2136,6 +2738,14 @@
 					"type": "long",
 					"indexKind": "btree",
 					"primKey": true
+				},
+				{
+					"name": "sourceCollection",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "SourceCollection",
+					"reversePath": true,
+					"path": "mainProducer"
 				}
 			]
 		},
@@ -2240,6 +2850,13 @@
 					"scope": "public",
 					"type": "Project",
 					"path": "Project"
+				},
+				{
+					"name": "sourceref",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "Source",
+					"path": "Source"
 				}
 			]
 		},
@@ -2285,6 +2902,12 @@
 					"indexKind": "btree"
 				},
 				{
+					"name": "notes",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
 					"name": "projectOfOrigin",
 					"kind": "relatedEntity",
 					"scope": "public",
@@ -2297,7 +2920,15 @@
 					"scope": "public",
 					"type": "LandscapeElementCollection",
 					"reversePath": true,
-					"path": "stamp"
+					"path": "stampLe"
+				},
+				{
+					"name": "teRef",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "TECollection",
+					"reversePath": true,
+					"path": "stampTe"
 				},
 				{
 					"name": "daRef",
@@ -2330,6 +2961,19 @@
 					"type": "PersonCollection",
 					"reversePath": true,
 					"path": "stamp"
+				},
+				{
+					"name": "tmpOwner",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "tmpIDoa2Te",
+					"kind": "storage",
+					"matchColumn": "tmpIDoa2",
+					"scope": "public",
+					"type": "string"
 				}
 			]
 		},
@@ -2504,12 +3148,182 @@
 					"primKey": true
 				},
 				{
-					"name": "sourceRefCollection",
+					"name": "name",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "acronym",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "defObjSource",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "DictionaryLemma",
+					"path": "DictionaryLemma"
+				},
+				{
+					"name": "defComplete",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "defObjSource.cvalue"
+				},
+				{
+					"name": "nameAndDef",
+					"kind": "calculated",
+					"matchColumn": "nameAndType,nameAndDef,nameAndType,nameAndDef,nameAndType,nameAndDef,nameAndType",
+					"scope": "public",
+					"type": "string",
+					"scriptKind": "javascript",
+					"onGet": [
+						{
+							"from": "$mainModel.Source.nameAndDef.onGet",
+							"userDefined": true
+						}
+					]
+				},
+				{
+					"name": "mainProducer",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "ProducerRef",
+					"path": "ProducerRef"
+				},
+				{
+					"name": "mainInvestigation",
+					"kind": "relatedEntity",
+					"matchColumn": "mainIvestigation,mainIvestigarion",
+					"scope": "public",
+					"type": "Investigation",
+					"path": "Investigation"
+				},
+				{
+					"name": "mainInvAcr",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "mainInvestigation.acronym"
+				},
+				{
+					"name": "mainInvName",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "mainInvestigation.name"
+				},
+				{
+					"name": "mainInvDef",
+					"kind": "alias",
+					"matchColumn": "mainInvType",
+					"scope": "public",
+					"type": "string",
+					"path": "mainInvestigation.acronym"
+				},
+				{
+					"name": "mainInvDirector",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "mainInvestigation.directorName"
+				},
+				{
+					"name": "mainInvDuration",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "mainInvestigation.durationText"
+				},
+				{
+					"name": "mainInvState",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "mainInvestigation.state"
+				},
+				{
+					"name": "mainInvDesc",
+					"kind": "alias",
+					"matchColumn": "mainInvdesc",
+					"scope": "public",
+					"type": "string",
+					"path": "mainInvestigation.briefDesc"
+				},
+				{
+					"name": "mainInvNotes",
+					"kind": "alias",
+					"scope": "public",
+					"type": "long",
+					"path": "mainInvestigation.ID"
+				},
+				{
+					"name": "otherInvestigations",
 					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "InvestigationRefCollection",
+					"reversePath": true,
+					"path": "sourceref"
+				},
+				{
+					"name": "chronology",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "ChronRange",
+					"path": "ChronRange"
+				},
+				{
+					"name": "projects",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "ProjectRefCollection",
+					"reversePath": true,
+					"path": "sourceref"
+				},
+				{
+					"name": "briefdesc",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "allSourceRef",
+					"kind": "relatedEntities",
+					"matchColumn": "allRef,sourceRef,sourceRefCollection",
 					"scope": "public",
 					"type": "SourceRefCollection",
 					"reversePath": true,
-					"path": "source"
+					"path": "sourceObj"
+				},
+				{
+					"name": "allLe",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "LandscapeElementCollection",
+					"path": "allSourceRef.leRef"
+				},
+				{
+					"name": "tmpDefComplete",
+					"kind": "storage",
+					"matchColumn": "tmpDef1,type",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "tmpIDoa2Te",
+					"kind": "storage",
+					"matchColumn": "tmpDef2",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "tmpIDoa2Inv",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
 				}
 			]
 		},
@@ -2530,11 +3344,63 @@
 					"primKey": true
 				},
 				{
-					"name": "source",
+					"name": "sourceObj",
 					"kind": "relatedEntity",
+					"matchColumn": "sourceRef,source",
 					"scope": "public",
 					"type": "Source",
 					"path": "Source"
+				},
+				{
+					"name": "sourceName",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "sourceObj.name"
+				},
+				{
+					"name": "sourceAcronym",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "sourceObj.acronym"
+				},
+				{
+					"name": "sourceDefComplete",
+					"kind": "alias",
+					"matchColumn": "sourceType",
+					"scope": "public",
+					"type": "string",
+					"path": "sourceObj.defComplete"
+				},
+				{
+					"name": "sourceNameAndType",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "sourceObj.nameAndDef"
+				},
+				{
+					"name": "sourceMainInv",
+					"kind": "relatedEntity",
+					"matchColumn": "SourceMainInv,mainInv",
+					"scope": "public",
+					"type": "Investigation",
+					"path": "sourceObj.mainInvestigation"
+				},
+				{
+					"name": "sourceDesc",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "sourceObj.briefdesc"
+				},
+				{
+					"name": "notes",
+					"kind": "storage",
+					"scope": "public",
+					"limiting_length": 2000,
+					"type": "string"
 				},
 				{
 					"name": "daRef",
@@ -2551,11 +3417,39 @@
 					"path": "LandscapeElement"
 				},
 				{
-					"name": "notes",
+					"name": "teRef",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "TopographicElement",
+					"path": "TopographicElement"
+				},
+				{
+					"name": "tmpIDoa2Te",
 					"kind": "storage",
 					"scope": "public",
-					"limiting_length": 2000,
 					"type": "string"
+				},
+				{
+					"name": "tmpIDoa2Source",
+					"kind": "storage",
+					"scope": "public",
+					"type": "long"
+				}
+			],
+			"methods": [
+				{
+					"name": "sourceBindColl",
+					"applyTo": "entityCollection",
+					"scope": "publicOnServer",
+					"from": "$mainModel.SourceRef.collectionMethods.sourceBindColl",
+					"userDefined": true
+				},
+				{
+					"name": "teBindColl",
+					"applyTo": "entityCollection",
+					"scope": "publicOnServer",
+					"from": "$mainModel.SourceRef.collectionMethods.teBindColl",
+					"userDefined": true
 				}
 			]
 		},
@@ -2574,6 +3468,13 @@
 					"type": "long",
 					"indexKind": "btree",
 					"primKey": true
+				},
+				{
+					"name": "sourceRef",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "SourceRef",
+					"path": "SourceRef"
 				}
 			]
 		},
@@ -2839,32 +3740,14 @@
 					"unique": true,
 					"autosequence": true,
 					"type": "long",
-					"indexKind": "btree"
-				},
-				{
-					"name": "teID",
-					"kind": "storage",
-					"scope": "public",
-					"uuid": "3E9FD8AD2CD74CEEBB3412EEE3AB1A00",
-					"type": "string",
 					"indexKind": "btree",
 					"primKey": true
 				},
 				{
-					"name": "le",
-					"kind": "relatedEntity",
-					"scope": "public",
-					"uuid": "6D270667E1AD43CC9770A1EB55CD798C",
-					"type": "LandscapeElement",
-					"path": "LandscapeElement"
-				},
-				{
-					"name": "type",
+					"name": "name",
 					"kind": "storage",
 					"scope": "public",
-					"uuid": "A6E708E374304ACB9F27F0A5F071470A",
-					"type": "string",
-					"autoComplete": true
+					"type": "string"
 				},
 				{
 					"name": "internalName",
@@ -2874,79 +3757,225 @@
 					"type": "string"
 				},
 				{
-					"name": "name",
+					"name": "lTe",
+					"kind": "relatedEntity",
+					"matchColumn": "l",
+					"scope": "public",
+					"type": "Landscape",
+					"path": "Landscape"
+				},
+				{
+					"name": "leTe",
+					"kind": "relatedEntity",
+					"matchColumn": "le",
+					"scope": "public",
+					"uuid": "6D270667E1AD43CC9770A1EB55CD798C",
+					"type": "LandscapeElement",
+					"path": "LandscapeElement"
+				},
+				{
+					"name": "defObjTe",
+					"kind": "relatedEntity",
+					"matchColumn": "defObj,type",
+					"scope": "public",
+					"uuid": "A6E708E374304ACB9F27F0A5F071470A",
+					"type": "DictionaryLemma",
+					"path": "DictionaryLemma"
+				},
+				{
+					"name": "defComplete",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "defObjTe.cvalue"
+				},
+				{
+					"name": "chronologyTe",
+					"kind": "relatedEntity",
+					"scope": "public",
+					"type": "ChronRange",
+					"path": "ChronRange"
+				},
+				{
+					"name": "startYear",
+					"kind": "alias",
+					"scope": "public",
+					"type": "long",
+					"path": "chronologyTe.start.year"
+				},
+				{
+					"name": "startMean",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "chronologyTe.start.meaning"
+				},
+				{
+					"name": "startPrec",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "chronologyTe.start.precision"
+				},
+				{
+					"name": "endYear",
+					"kind": "alias",
+					"scope": "public",
+					"type": "long",
+					"path": "chronologyTe.end.year"
+				},
+				{
+					"name": "endMean",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "chronologyTe.end.meaning"
+				},
+				{
+					"name": "endPrec",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "chronologyTe.end.precision"
+				},
+				{
+					"name": "chronTextCalc",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "chronologyTe.chronText"
+				},
+				{
+					"name": "stampTe",
+					"kind": "relatedEntity",
+					"matchColumn": "stamp",
+					"scope": "public",
+					"type": "RecordStamp",
+					"path": "RecordStamp"
+				},
+				{
+					"name": "mainToponymTe",
+					"kind": "relatedEntity",
+					"matchColumn": "mainToponym",
+					"scope": "public",
+					"type": "Toponym",
+					"path": "Toponym"
+				},
+				{
+					"name": "briefDesc",
 					"kind": "storage",
 					"scope": "public",
 					"type": "string"
 				},
 				{
-					"name": "graphicElementCollection",
+					"name": "notes",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "lat",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "long",
+					"kind": "storage",
+					"scope": "public",
+					"type": "number"
+				},
+				{
+					"name": "allSourceRefs",
 					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "SourceRefCollection",
+					"reversePath": true,
+					"path": "teRef"
+				},
+				{
+					"name": "teSources",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "SourceCollection",
+					"path": "allSourceRefs.sourceObj"
+				},
+				{
+					"name": "allDa",
+					"kind": "relatedEntities",
+					"matchColumn": "daCollection",
+					"scope": "public",
+					"type": "DecontextualizedArtifactCollection",
+					"reversePath": true,
+					"path": "teRef"
+				},
+				{
+					"name": "allImages",
+					"kind": "relatedEntities",
+					"matchColumn": "graphicElementCollection",
 					"scope": "public",
 					"type": "ImageCollection",
 					"reversePath": true,
-					"path": "tElRef"
+					"path": "teRef"
 				},
 				{
-					"name": "otherMediaCollection",
+					"name": "allOtherMedia",
 					"kind": "relatedEntities",
+					"matchColumn": "otherMediaCollection",
 					"scope": "public",
 					"type": "RepoDocCollection",
 					"reversePath": true,
 					"path": "teRef"
 				},
 				{
-					"name": "daCollection",
+					"name": "allBiblioTitles",
 					"kind": "relatedEntities",
 					"scope": "public",
-					"type": "DecontextualizedArtifactCollection",
+					"type": "BiblioRefCollection",
 					"reversePath": true,
 					"path": "teRef"
-				}
-			]
-		},
-		{
-			"name": "TEBuilding",
-			"className": "TEBuilding",
-			"collectionName": "TEBuildingCollection",
-			"scope": "public",
-			"extends": "TopographicElement",
-			"attributes": [
-				{
-					"name": "teID",
-					"kind": "storage",
-					"scope": "public",
-					"unique": true,
-					"type": "string",
-					"indexKind": "btree"
 				},
 				{
-					"name": "le",
-					"kind": "relatedEntity",
+					"name": "teBiblio",
+					"kind": "relatedEntities",
 					"scope": "public",
-					"type": "LandscapeElement",
-					"path": "LandscapeElement"
+					"type": "BiblioTitleCollection",
+					"path": "allBiblioTitles.biblioTitleObj"
 				},
 				{
-					"name": "name",
+					"name": "tmpDefComplete",
 					"kind": "storage",
 					"scope": "public",
 					"type": "string"
 				},
 				{
-					"name": "daCollection",
-					"kind": "relatedEntities",
+					"name": "tmpIDoa2Te",
+					"kind": "storage",
+					"matchColumn": "tmpIDoa2",
 					"scope": "public",
-					"type": "DecontextualizedArtifactCollection",
-					"reversePath": true,
-					"path": "teRef"
+					"type": "string"
 				},
 				{
-					"name": "owner",
-					"kind": "relatedEntity",
+					"name": "tmpIDoa2Range",
+					"kind": "storage",
 					"scope": "public",
-					"type": "Person",
-					"path": "Person"
+					"type": "string"
+				}
+			],
+			"methods": [
+				{
+					"name": "chronRangeBindColl",
+					"applyTo": "entityCollection",
+					"scope": "publicOnServer",
+					"from": "$mainModel.TopographicElement.collectionMethods.chronRangeBindColl",
+					"userDefined": true
+				},
+				{
+					"name": "defBindColl",
+					"applyTo": "entityCollection",
+					"scope": "publicOnServer",
+					"from": "$mainModel.TopographicElement.collectionMethods.defBindColl",
+					"userDefined": true
 				}
 			]
 		},
@@ -2980,14 +4009,20 @@
 					"autoComplete": false
 				},
 				{
-					"name": "definition",
-					"kind": "storage",
+					"name": "defObjToponym",
+					"kind": "relatedEntity",
+					"matchColumn": "definition",
 					"scope": "public",
 					"uuid": "BE87113576614DB985A5C551D3E32D82",
-					"limiting_length": 30,
+					"type": "DictionaryLemma",
+					"path": "DictionaryLemma"
+				},
+				{
+					"name": "def",
+					"kind": "alias",
+					"scope": "public",
 					"type": "string",
-					"indexKind": "auto",
-					"autoComplete": false
+					"path": "defObjToponym.cvalue"
 				},
 				{
 					"name": "administrative",
@@ -3004,6 +4039,24 @@
 					"indexKind": "cluster"
 				},
 				{
+					"name": "addressText",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "accessRoads",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "briefDesc",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
 					"name": "notes",
 					"kind": "storage",
 					"scope": "public",
@@ -3011,38 +4064,66 @@
 					"type": "string"
 				},
 				{
+					"name": "allToponymRels",
+					"kind": "relatedEntities",
+					"matchColumn": "toponymRelCollection",
+					"scope": "public",
+					"type": "ToponymRelCollection",
+					"reversePath": true,
+					"path": "toponym1"
+				},
+				{
 					"name": "relatedToponyms",
 					"kind": "relatedEntities",
 					"scope": "public",
-					"type": "ToponymRelCollection",
-					"indexKind": "auto",
-					"reversePath": true,
-					"path": "relatedToponym"
+					"type": "ToponymCollection",
+					"path": "allToponymRels.toponym2"
 				},
 				{
-					"name": "landscapeElementCollection",
+					"name": "allToponymRefs",
 					"kind": "relatedEntities",
-					"scope": "public",
-					"type": "LandscapeElementCollection",
-					"indexKind": "auto",
-					"reversePath": true,
-					"path": "mainToponym"
-				},
-				{
-					"name": "allDa",
-					"kind": "relatedEntities",
-					"scope": "public",
-					"type": "DecontextualizedArtifactCollection",
-					"reversePath": true,
-					"path": "mainToponym"
-				},
-				{
-					"name": "toponymRefCollection",
-					"kind": "relatedEntities",
+					"matchColumn": "toponymRefCollection",
 					"scope": "public",
 					"type": "ToponymRefCollection",
 					"reversePath": true,
 					"path": "toponym"
+				},
+				{
+					"name": "allMainLe",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "LandscapeElementCollection",
+					"reversePath": true,
+					"path": "mainToponymLe"
+				},
+				{
+					"name": "allMainDa",
+					"kind": "relatedEntities",
+					"scope": "public",
+					"type": "DecontextualizedArtifactCollection",
+					"reversePath": true,
+					"path": "mainToponymDa"
+				},
+				{
+					"name": "allTe",
+					"kind": "relatedEntities",
+					"matchColumn": "tECollection",
+					"scope": "public",
+					"type": "TECollection",
+					"reversePath": true,
+					"path": "mainToponymTe"
+				},
+				{
+					"name": "tmpDef",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
+				},
+				{
+					"name": "tmpIDoa2Te",
+					"kind": "storage",
+					"scope": "public",
+					"type": "string"
 				}
 			]
 		},
@@ -3060,45 +4141,39 @@
 			"attributes": [
 				{
 					"name": "admType",
-					"kind": "calculated",
+					"kind": "storage",
 					"scope": "public",
-					"type": "string",
-					"scriptKind": "javascript"
+					"type": "string"
 				},
 				{
 					"name": "address",
-					"kind": "calculated",
+					"kind": "storage",
 					"scope": "public",
-					"type": "string",
-					"scriptKind": "javascript"
+					"type": "string"
 				},
 				{
-					"name": "ZIPCode",
-					"kind": "calculated",
+					"name": "ZIPcode",
+					"kind": "storage",
 					"scope": "public",
-					"type": "string",
-					"scriptKind": "javascript"
+					"type": "string"
 				},
 				{
 					"name": "town",
-					"kind": "calculated",
+					"kind": "storage",
 					"scope": "public",
-					"type": "string",
-					"scriptKind": "javascript"
+					"type": "string"
 				},
 				{
 					"name": "provRegState",
-					"kind": "calculated",
+					"kind": "storage",
 					"scope": "public",
-					"type": "string",
-					"scriptKind": "javascript"
+					"type": "string"
 				},
 				{
 					"name": "nation",
-					"kind": "calculated",
+					"kind": "storage",
 					"scope": "public",
-					"type": "string",
-					"scriptKind": "javascript"
+					"type": "string"
 				}
 			]
 		},
@@ -3107,7 +4182,12 @@
 			"className": "ToponymHist",
 			"collectionName": "ToponymHistCollection",
 			"scope": "public",
-			"extends": "Toponym"
+			"extends": "Toponym",
+			"restrictingQuery": [
+				{
+					"queryStatement": "historical == true"
+				}
+			]
 		},
 		{
 			"name": "ToponymRef",
@@ -3165,15 +4245,25 @@
 					"primKey": true
 				},
 				{
-					"name": "relationTypeype",
+					"name": "toponym1",
+					"kind": "relatedEntity",
+					"matchColumn": "relToponym,reToponym,toponym1,toponym,toponym1",
+					"scope": "public",
+					"type": "Toponym",
+					"path": "Toponym"
+				},
+				{
+					"name": "relationType",
 					"kind": "storage",
+					"matchColumn": "relationTypeype",
 					"scope": "public",
 					"uuid": "DB44B6A32E324BBA9C391EFDA63D2475",
 					"type": "string"
 				},
 				{
-					"name": "relatedToponym",
+					"name": "toponym2",
 					"kind": "relatedEntity",
+					"matchColumn": "relatedToponym",
 					"scope": "public",
 					"uuid": "9E7E2E8F998E4C759F448F526FAB8694",
 					"type": "Toponym",
@@ -3181,5 +4271,6 @@
 				}
 			]
 		}
-	]
+	],
+	"type": []
 }

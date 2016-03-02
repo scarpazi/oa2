@@ -1,0 +1,16 @@
+{
+  "name": "wakanda-tsv",
+  "description": "Basic tab separated/delimited import function for Wakanda",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swelshh/Wakanda-Tab-Delim-Import"
+  },
+  "author": "Welsh Harris <welsh@corebitsdw.com> (https://github.com/swelshh)",
+  "keywords": ["wakanda", "ssjs", "tsv"]
+  "main": "./wakanda-tsv.js",
+  "engines": {
+    "wakanda": "*"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,5960 @@
+[
+  {
+    "ID":1,
+    "tmpYearStartID":"-500|Secolo|Generica",
+    "tmpYearEndID":"99|Secolo|Generica",
+    "tmpIDoa2Range":"-500|Secolo|Generica|99|Secolo|Generica"
+  },
+  {
+    "ID":2,
+    "tmpYearStartID":"-400|Secolo|Precisa",
+    "tmpYearEndID":"-201|Secolo|Precisa",
+    "tmpIDoa2Range":"-400|Secolo|Precisa|-201|Secolo|Precisa"
+  },
+  {
+    "ID":3,
+    "tmpYearStartID":"-400|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"-151|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"-400|Mezzo secolo|Approssimata|-151|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":4,
+    "tmpYearStartID":"-400|Secolo|Approssimata",
+    "tmpYearEndID":"-101|Secolo|Approssimata",
+    "tmpIDoa2Range":"-400|Secolo|Approssimata|-101|Secolo|Approssimata"
+  },
+  {
+    "ID":5,
+    "tmpYearStartID":"-400|Secolo|Generica",
+    "tmpYearEndID":"-101|Secolo|Generica",
+    "tmpIDoa2Range":"-400|Secolo|Generica|-101|Secolo|Generica"
+  },
+  {
+    "ID":6,
+    "tmpYearStartID":"-400|Secolo|Generica",
+    "tmpYearEndID":"-101|Secolo|Generica",
+    "tmpIDoa2Range":"-400|Secolo|Generica|-101|Secolo|Generica"
+  },
+  {
+    "ID":7,
+    "tmpYearStartID":"-350|Mezzo secolo|Precisa",
+    "tmpYearEndID":"-301|Mezzo secolo|Precisa",
+    "tmpIDoa2Range":"-350|Mezzo secolo|Precisa|-301|Mezzo secolo|Precisa"
+  },
+  {
+    "ID":8,
+    "tmpYearStartID":"-350|Mezzo secolo|Precisa",
+    "tmpYearEndID":"-151|Mezzo secolo|Precisa",
+    "tmpIDoa2Range":"-350|Mezzo secolo|Precisa|-151|Mezzo secolo|Precisa"
+  },
+  {
+    "ID":9,
+    "tmpYearStartID":"-300|Secolo|Precisa",
+    "tmpYearEndID":"-101|Secolo|Precisa",
+    "tmpIDoa2Range":"-300|Secolo|Precisa|-101|Secolo|Precisa"
+  },
+  {
+    "ID":10,
+    "tmpYearStartID":"-200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"-151|Mezzo secolo|Precisa",
+    "tmpIDoa2Range":"-200|Mezzo secolo|Precisa|-151|Mezzo secolo|Precisa"
+  },
+  {
+    "ID":11,
+    "tmpYearStartID":"-200|Secolo|Precisa",
+    "tmpYearEndID":"-101|Secolo|Precisa",
+    "tmpIDoa2Range":"-200|Secolo|Precisa|-101|Secolo|Precisa"
+  },
+  {
+    "ID":12,
+    "tmpYearStartID":"-150|Mezzo secolo|Generica",
+    "tmpYearEndID":"499|Secolo|Generica",
+    "tmpIDoa2Range":"-150|Mezzo secolo|Generica|499|Secolo|Generica"
+  },
+  {
+    "ID":13,
+    "tmpYearStartID":"-150|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"499|Secolo|Approssimata",
+    "tmpIDoa2Range":"-150|Mezzo secolo|Approssimata|499|Secolo|Approssimata"
+  },
+  {
+    "ID":14,
+    "tmpYearStartID":"-100|Secolo|Generica",
+    "tmpYearEndID":"-1|Secolo|Generica",
+    "tmpIDoa2Range":"-100|Secolo|Generica|-1|Secolo|Generica"
+  },
+  {
+    "ID":15,
+    "tmpYearStartID":"-100|Secolo|Precisa",
+    "tmpYearEndID":"-1|Secolo|Precisa",
+    "tmpIDoa2Range":"-100|Secolo|Precisa|-1|Secolo|Precisa"
+  },
+  {
+    "ID":16,
+    "tmpYearStartID":"-100|Secolo|Approssimata",
+    "tmpYearEndID":"99|Secolo|Approssimata",
+    "tmpIDoa2Range":"-100|Secolo|Approssimata|99|Secolo|Approssimata"
+  },
+  {
+    "ID":17,
+    "tmpYearStartID":"-100|Secolo|Approssimata",
+    "tmpYearEndID":"99|Secolo|Approssimata",
+    "tmpIDoa2Range":"-100|Secolo|Approssimata|99|Secolo|Approssimata"
+  },
+  {
+    "ID":18,
+    "tmpYearStartID":"-100|Secolo|Generica",
+    "tmpYearEndID":"199|Secolo|Generica",
+    "tmpIDoa2Range":"-100|Secolo|Generica|199|Secolo|Generica"
+  },
+  {
+    "ID":19,
+    "tmpYearStartID":"-100|Secolo|Generica",
+    "tmpYearEndID":"199|Secolo|Generica",
+    "tmpIDoa2Range":"-100|Secolo|Generica|199|Secolo|Generica"
+  },
+  {
+    "ID":20,
+    "tmpYearStartID":"-100|Secolo|Approssimata",
+    "tmpYearEndID":"199|Secolo|Approssimata",
+    "tmpIDoa2Range":"-100|Secolo|Approssimata|199|Secolo|Approssimata"
+  },
+  {
+    "ID":21,
+    "tmpYearStartID":"-100|Secolo|Generica",
+    "tmpYearEndID":"199|Secolo|Generica",
+    "tmpIDoa2Range":"-100|Secolo|Generica|199|Secolo|Generica"
+  },
+  {
+    "ID":22,
+    "tmpYearStartID":"-100|Secolo|Approssimata",
+    "tmpYearEndID":"199|Secolo|Approssimata",
+    "tmpIDoa2Range":"-100|Secolo|Approssimata|199|Secolo|Approssimata"
+  },
+  {
+    "ID":23,
+    "tmpYearStartID":"-100|Secolo|Generica",
+    "tmpYearEndID":"199|Secolo|Generica",
+    "tmpIDoa2Range":"-100|Secolo|Generica|199|Secolo|Generica"
+  },
+  {
+    "ID":24,
+    "tmpYearStartID":"-100|Secolo|Generica",
+    "tmpYearEndID":"199|Secolo|Generica",
+    "tmpIDoa2Range":"-100|Secolo|Generica|199|Secolo|Generica"
+  },
+  {
+    "ID":25,
+    "tmpYearStartID":"-100|Secolo|Generica",
+    "tmpYearEndID":"199|Secolo|Generica",
+    "tmpIDoa2Range":"-100|Secolo|Generica|199|Secolo|Generica"
+  },
+  {
+    "ID":26,
+    "tmpYearStartID":"-100|Secolo|Approssimata",
+    "tmpYearEndID":"199|Secolo|Approssimata",
+    "tmpIDoa2Range":"-100|Secolo|Approssimata|199|Secolo|Approssimata"
+  },
+  {
+    "ID":27,
+    "tmpYearStartID":"-100|Secolo|Generica",
+    "tmpYearEndID":"199|Secolo|Generica",
+    "tmpIDoa2Range":"-100|Secolo|Generica|199|Secolo|Generica"
+  },
+  {
+    "ID":28,
+    "tmpYearStartID":"-100|Secolo|Generica",
+    "tmpYearEndID":"399|Secolo|Generica",
+    "tmpIDoa2Range":"-100|Secolo|Generica|399|Secolo|Generica"
+  },
+  {
+    "ID":29,
+    "tmpYearStartID":"-100|Secolo|Approssimata",
+    "tmpYearEndID":"499|Secolo|Approssimata",
+    "tmpIDoa2Range":"-100|Secolo|Approssimata|499|Secolo|Approssimata"
+  },
+  {
+    "ID":30,
+    "tmpYearStartID":"-100|Secolo|Approssimata",
+    "tmpYearEndID":"1399|Secolo|Approssimata",
+    "tmpIDoa2Range":"-100|Secolo|Approssimata|1399|Secolo|Approssimata"
+  },
+  {
+    "ID":31,
+    "tmpYearStartID":"-50|Mezzo secolo|Precisa",
+    "tmpYearEndID":"-1|Mezzo secolo|Precisa",
+    "tmpIDoa2Range":"-50|Mezzo secolo|Precisa|-1|Mezzo secolo|Precisa"
+  },
+  {
+    "ID":32,
+    "tmpYearStartID":"-50|Mezzo secolo|Precisa",
+    "tmpYearEndID":"199|Secolo|Precisa",
+    "tmpIDoa2Range":"-50|Mezzo secolo|Precisa|199|Secolo|Precisa"
+  },
+  {
+    "ID":33,
+    "tmpYearStartID":"-25|Quarto di secolo|Approssimata",
+    "tmpYearEndID":"474|Quarto di secolo|Approssimata",
+    "tmpIDoa2Range":"-25|Quarto di secolo|Approssimata|474|Quarto di secolo|Approssimata"
+  },
+  {
+    "ID":34,
+    "tmpYearStartID":"0|Secolo|Precisa",
+    "tmpYearEndID":"99|Secolo|Precisa",
+    "tmpIDoa2Range":"0|Secolo|Precisa|99|Secolo|Precisa"
+  },
+  {
+    "ID":35,
+    "tmpYearStartID":"0|Secolo|Approssimata",
+    "tmpYearEndID":"99|Secolo|Approssimata",
+    "tmpIDoa2Range":"0|Secolo|Approssimata|99|Secolo|Approssimata"
+  },
+  {
+    "ID":36,
+    "tmpYearStartID":"0|Secolo|Generica",
+    "tmpYearEndID":"299|Secolo|Generica",
+    "tmpIDoa2Range":"0|Secolo|Generica|299|Secolo|Generica"
+  },
+  {
+    "ID":37,
+    "tmpYearStartID":"0|Secolo|Generica",
+    "tmpYearEndID":"499|Secolo|Generica",
+    "tmpIDoa2Range":"0|Secolo|Generica|499|Secolo|Generica"
+  },
+  {
+    "ID":38,
+    "tmpYearStartID":"100|Mezzo secolo|Precisa",
+    "tmpYearEndID":"149|Mezzo secolo|Precisa",
+    "tmpIDoa2Range":"100|Mezzo secolo|Precisa|149|Mezzo secolo|Precisa"
+  },
+  {
+    "ID":39,
+    "tmpYearStartID":"150|Mezzo secolo|Precisa",
+    "tmpYearEndID":"249|Mezzo secolo|Precisa",
+    "tmpIDoa2Range":"150|Mezzo secolo|Precisa|249|Mezzo secolo|Precisa"
+  },
+  {
+    "ID":40,
+    "tmpYearStartID":"200|Secolo|Generica",
+    "tmpYearEndID":"349|Mezzo secolo|Generica",
+    "tmpIDoa2Range":"200|Secolo|Generica|349|Mezzo secolo|Generica"
+  },
+  {
+    "ID":41,
+    "tmpYearStartID":"200|Secolo|Generica",
+    "tmpYearEndID":"349|Mezzo secolo|Generica",
+    "tmpIDoa2Range":"200|Secolo|Generica|349|Mezzo secolo|Generica"
+  },
+  {
+    "ID":42,
+    "tmpYearStartID":"200|Secolo|Approssimata",
+    "tmpYearEndID":"349|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"200|Secolo|Approssimata|349|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":43,
+    "tmpYearStartID":"200|Secolo|Approssimata",
+    "tmpYearEndID":"499|Secolo|Approssimata",
+    "tmpIDoa2Range":"200|Secolo|Approssimata|499|Secolo|Approssimata"
+  },
+  {
+    "ID":44,
+    "tmpYearStartID":"200|Secolo|Generica",
+    "tmpYearEndID":"499|Secolo|Generica",
+    "tmpIDoa2Range":"200|Secolo|Generica|499|Secolo|Generica"
+  },
+  {
+    "ID":45,
+    "tmpYearStartID":"250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"299|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"250|Mezzo secolo|Approssimata|299|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":46,
+    "tmpYearStartID":"300|Secolo|Approssimata",
+    "tmpYearEndID":"499|Secolo|Approssimata",
+    "tmpIDoa2Range":"300|Secolo|Approssimata|499|Secolo|Approssimata"
+  },
+  {
+    "ID":47,
+    "tmpYearStartID":"350|Mezzo secolo|Precisa",
+    "tmpYearEndID":"449|Mezzo secolo|Precisa",
+    "tmpIDoa2Range":"350|Mezzo secolo|Precisa|449|Mezzo secolo|Precisa"
+  },
+  {
+    "ID":48,
+    "tmpYearStartID":"350|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"499|Secolo|Approssimata",
+    "tmpIDoa2Range":"350|Mezzo secolo|Approssimata|499|Secolo|Approssimata"
+  },
+  {
+    "ID":49,
+    "tmpYearStartID":"400|Secolo|Approssimata",
+    "tmpYearEndID":"499|Secolo|Approssimata",
+    "tmpIDoa2Range":"400|Secolo|Approssimata|499|Secolo|Approssimata"
+  },
+  {
+    "ID":50,
+    "tmpYearStartID":"500|Secolo|Precisa",
+    "tmpYearEndID":"699|Secolo|Precisa",
+    "tmpIDoa2Range":"500|Secolo|Precisa|699|Secolo|Precisa"
+  },
+  {
+    "ID":51,
+    "tmpYearStartID":"500|Secolo|Approssimata",
+    "tmpYearEndID":"1099|Secolo|Approssimata",
+    "tmpIDoa2Range":"500|Secolo|Approssimata|1099|Secolo|Approssimata"
+  },
+  {
+    "ID":52,
+    "tmpYearStartID":"500|Secolo|Generica",
+    "tmpYearEndID":"1149|Mezzo secolo|Generica",
+    "tmpIDoa2Range":"500|Secolo|Generica|1149|Mezzo secolo|Generica"
+  },
+  {
+    "ID":53,
+    "tmpYearStartID":"500|Secolo|Generica",
+    "tmpYearEndID":"1249|Mezzo secolo|Generica",
+    "tmpIDoa2Range":"500|Secolo|Generica|1249|Mezzo secolo|Generica"
+  },
+  {
+    "ID":54,
+    "tmpYearStartID":"500|Secolo|Generica",
+    "tmpYearEndID":"1299|Secolo|Generica",
+    "tmpIDoa2Range":"500|Secolo|Generica|1299|Secolo|Generica"
+  },
+  {
+    "ID":55,
+    "tmpYearStartID":"500|Secolo|Generica",
+    "tmpYearEndID":"1349|Mezzo secolo|Generica",
+    "tmpIDoa2Range":"500|Secolo|Generica|1349|Mezzo secolo|Generica"
+  },
+  {
+    "ID":56,
+    "tmpYearStartID":"500|Secolo|Generica",
+    "tmpYearEndID":"1699|Secolo|Generica",
+    "tmpIDoa2Range":"500|Secolo|Generica|1699|Secolo|Generica"
+  },
+  {
+    "ID":57,
+    "tmpYearStartID":"575|Quarto di secolo|Precisa",
+    "tmpYearEndID":"699|Secolo|Precisa",
+    "tmpIDoa2Range":"575|Quarto di secolo|Precisa|699|Secolo|Precisa"
+  },
+  {
+    "ID":58,
+    "tmpYearStartID":"600|Mezzo secolo|Precisa",
+    "tmpYearEndID":"649|Mezzo secolo|Precisa",
+    "tmpIDoa2Range":"600|Mezzo secolo|Precisa|649|Mezzo secolo|Precisa"
+  },
+  {
+    "ID":59,
+    "tmpYearStartID":"650|Mezzo secolo|Precisa",
+    "tmpYearEndID":"799|Secolo|Precisa",
+    "tmpIDoa2Range":"650|Mezzo secolo|Precisa|799|Secolo|Precisa"
+  },
+  {
+    "ID":60,
+    "tmpYearStartID":"750|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1499|Secolo|Approssimata",
+    "tmpIDoa2Range":"750|Mezzo secolo|Approssimata|1499|Secolo|Approssimata"
+  },
+  {
+    "ID":61,
+    "tmpYearStartID":"800|Secolo|Precisa",
+    "tmpYearEndID":"899|Secolo|Precisa",
+    "tmpIDoa2Range":"800|Secolo|Precisa|899|Secolo|Precisa"
+  },
+  {
+    "ID":62,
+    "tmpYearStartID":"900|Secolo|Precisa",
+    "tmpYearEndID":"1099|Secolo|Precisa",
+    "tmpIDoa2Range":"900|Secolo|Precisa|1099|Secolo|Precisa"
+  },
+  {
+    "ID":63,
+    "tmpYearStartID":"900|Secolo|Approssimata",
+    "tmpYearEndID":"1174|Quarto di secolo|Approssimata",
+    "tmpIDoa2Range":"900|Secolo|Approssimata|1174|Quarto di secolo|Approssimata"
+  },
+  {
+    "ID":64,
+    "tmpYearStartID":"950|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"950|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":65,
+    "tmpYearStartID":"1000|Secolo|Precisa",
+    "tmpYearEndID":"1149|Mezzo secolo|Precisa",
+    "tmpIDoa2Range":"1000|Secolo|Precisa|1149|Mezzo secolo|Precisa"
+  },
+  {
+    "ID":66,
+    "tmpYearStartID":"1000|Secolo|Precisa",
+    "tmpYearEndID":"1199|Secolo|Precisa",
+    "tmpIDoa2Range":"1000|Secolo|Precisa|1199|Secolo|Precisa"
+  },
+  {
+    "ID":67,
+    "tmpYearStartID":"1000|Secolo|Approssimata",
+    "tmpYearEndID":"1199|Secolo|Approssimata",
+    "tmpIDoa2Range":"1000|Secolo|Approssimata|1199|Secolo|Approssimata"
+  },
+  {
+    "ID":68,
+    "tmpYearStartID":"1000|Secolo|Precisa",
+    "tmpYearEndID":"1199|Secolo|Precisa",
+    "tmpIDoa2Range":"1000|Secolo|Precisa|1199|Secolo|Precisa"
+  },
+  {
+    "ID":69,
+    "tmpYearStartID":"1000|Secolo|Generica",
+    "tmpYearEndID":"1199|Secolo|Generica",
+    "tmpIDoa2Range":"1000|Secolo|Generica|1199|Secolo|Generica"
+  },
+  {
+    "ID":70,
+    "tmpYearStartID":"1000|Secolo|Generica",
+    "tmpYearEndID":"1199|Secolo|Generica",
+    "tmpIDoa2Range":"1000|Secolo|Generica|1199|Secolo|Generica"
+  },
+  {
+    "ID":71,
+    "tmpYearStartID":"1000|Secolo|Generica",
+    "tmpYearEndID":"1399|Secolo|Generica",
+    "tmpIDoa2Range":"1000|Secolo|Generica|1399|Secolo|Generica"
+  },
+  {
+    "ID":72,
+    "tmpYearStartID":"1000|Secolo|Generica",
+    "tmpYearEndID":"1399|Secolo|Generica",
+    "tmpIDoa2Range":"1000|Secolo|Generica|1399|Secolo|Generica"
+  },
+  {
+    "ID":73,
+    "tmpYearStartID":"1000|Secolo|Generica",
+    "tmpYearEndID":"1399|Secolo|Generica",
+    "tmpIDoa2Range":"1000|Secolo|Generica|1399|Secolo|Generica"
+  },
+  {
+    "ID":74,
+    "tmpYearStartID":"1000|Secolo|Approssimata",
+    "tmpYearEndID":"1799|Secolo|Approssimata",
+    "tmpIDoa2Range":"1000|Secolo|Approssimata|1799|Secolo|Approssimata"
+  },
+  {
+    "ID":75,
+    "tmpYearStartID":"1000|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1000|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":76,
+    "tmpYearStartID":"1000|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1000|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":77,
+    "tmpYearStartID":"1000|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1000|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":78,
+    "tmpYearStartID":"1000|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1000|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":79,
+    "tmpYearStartID":"1010|Anno|Precisa",
+    "tmpYearEndID":"1599|Secolo|Precisa",
+    "tmpIDoa2Range":"1010|Anno|Precisa|1599|Secolo|Precisa"
+  },
+  {
+    "ID":80,
+    "tmpYearStartID":"1010|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1010|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":81,
+    "tmpYearStartID":"1012|Anno|Precisa",
+    "tmpYearEndID":"1781|Anno|Precisa",
+    "tmpIDoa2Range":"1012|Anno|Precisa|1781|Anno|Precisa"
+  },
+  {
+    "ID":82,
+    "tmpYearStartID":"1028|Anno|Precisa",
+    "tmpYearEndID":"1599|Secolo|Precisa",
+    "tmpIDoa2Range":"1028|Anno|Precisa|1599|Secolo|Precisa"
+  },
+  {
+    "ID":83,
+    "tmpYearStartID":"1043|Anno|Precisa",
+    "tmpYearEndID":"1299|Secolo|Precisa",
+    "tmpIDoa2Range":"1043|Anno|Precisa|1299|Secolo|Precisa"
+  },
+  {
+    "ID":84,
+    "tmpYearStartID":"1050|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1149|Mezzo secolo|Precisa",
+    "tmpIDoa2Range":"1050|Mezzo secolo|Precisa|1149|Mezzo secolo|Precisa"
+  },
+  {
+    "ID":85,
+    "tmpYearStartID":"1050|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1249|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"1050|Mezzo secolo|Approssimata|1249|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":86,
+    "tmpYearStartID":"1050|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1299|Secolo|Precisa",
+    "tmpIDoa2Range":"1050|Mezzo secolo|Precisa|1299|Secolo|Precisa"
+  },
+  {
+    "ID":87,
+    "tmpYearStartID":"1050|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1299|Secolo|Precisa",
+    "tmpIDoa2Range":"1050|Mezzo secolo|Precisa|1299|Secolo|Precisa"
+  },
+  {
+    "ID":88,
+    "tmpYearStartID":"1052|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1052|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":89,
+    "tmpYearStartID":"1070|Anno|Precisa",
+    "tmpYearEndID":"1783|Anno|Precisa",
+    "tmpIDoa2Range":"1070|Anno|Precisa|1783|Anno|Precisa"
+  },
+  {
+    "ID":90,
+    "tmpYearStartID":"1073|Anno|Generica",
+    "tmpYearEndID":"1299|Secolo|Generica",
+    "tmpIDoa2Range":"1073|Anno|Generica|1299|Secolo|Generica"
+  },
+  {
+    "ID":91,
+    "tmpYearStartID":"1075|Quarto di secolo|Approssimata",
+    "tmpYearEndID":"1399|Secolo|Approssimata",
+    "tmpIDoa2Range":"1075|Quarto di secolo|Approssimata|1399|Secolo|Approssimata"
+  },
+  {
+    "ID":92,
+    "tmpYearStartID":"1075|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1599|Secolo|Precisa",
+    "tmpIDoa2Range":"1075|Quarto di secolo|Precisa|1599|Secolo|Precisa"
+  },
+  {
+    "ID":93,
+    "tmpYearStartID":"1081|Anno|Approssimata",
+    "tmpYearEndID":"1399|Secolo|Approssimata",
+    "tmpIDoa2Range":"1081|Anno|Approssimata|1399|Secolo|Approssimata"
+  },
+  {
+    "ID":94,
+    "tmpYearStartID":"1081|Anno|Approssimata",
+    "tmpYearEndID":"1799|Secolo|Approssimata",
+    "tmpIDoa2Range":"1081|Anno|Approssimata|1799|Secolo|Approssimata"
+  },
+  {
+    "ID":95,
+    "tmpYearStartID":"1084|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1084|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":96,
+    "tmpYearStartID":"1086|Anno|Generica",
+    "tmpYearEndID":"1199|Secolo|Generica",
+    "tmpIDoa2Range":"1086|Anno|Generica|1199|Secolo|Generica"
+  },
+  {
+    "ID":97,
+    "tmpYearStartID":"1088|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1088|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":98,
+    "tmpYearStartID":"1093|Anno|Precisa",
+    "tmpYearEndID":"1940|Anno|Precisa",
+    "tmpIDoa2Range":"1093|Anno|Precisa|1940|Anno|Precisa"
+  },
+  {
+    "ID":99,
+    "tmpYearStartID":"1093|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1093|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":100,
+    "tmpYearStartID":"1100|Secolo|Precisa",
+    "tmpYearEndID":"1199|Secolo|Precisa",
+    "tmpIDoa2Range":"1100|Secolo|Precisa|1199|Secolo|Precisa"
+  },
+  {
+    "ID":101,
+    "tmpYearStartID":"1100|Secolo|Generica",
+    "tmpYearEndID":"1199|Secolo|Generica",
+    "tmpIDoa2Range":"1100|Secolo|Generica|1199|Secolo|Generica"
+  },
+  {
+    "ID":102,
+    "tmpYearStartID":"1100|Secolo|Approssimata",
+    "tmpYearEndID":"1269|Anno|Approssimata",
+    "tmpIDoa2Range":"1100|Secolo|Approssimata|1269|Anno|Approssimata"
+  },
+  {
+    "ID":103,
+    "tmpYearStartID":"1100|Secolo|Generica",
+    "tmpYearEndID":"1299|Secolo|Generica",
+    "tmpIDoa2Range":"1100|Secolo|Generica|1299|Secolo|Generica"
+  },
+  {
+    "ID":104,
+    "tmpYearStartID":"1100|Secolo|Generica",
+    "tmpYearEndID":"1299|Secolo|Generica",
+    "tmpIDoa2Range":"1100|Secolo|Generica|1299|Secolo|Generica"
+  },
+  {
+    "ID":105,
+    "tmpYearStartID":"1100|Secolo|Precisa",
+    "tmpYearEndID":"1369|Anno|Precisa",
+    "tmpIDoa2Range":"1100|Secolo|Precisa|1369|Anno|Precisa"
+  },
+  {
+    "ID":106,
+    "tmpYearStartID":"1100|Secolo|Approssimata",
+    "tmpYearEndID":"1399|Secolo|Approssimata",
+    "tmpIDoa2Range":"1100|Secolo|Approssimata|1399|Secolo|Approssimata"
+  },
+  {
+    "ID":107,
+    "tmpYearStartID":"1100|Secolo|Approssimata",
+    "tmpYearEndID":"1499|Secolo|Approssimata",
+    "tmpIDoa2Range":"1100|Secolo|Approssimata|1499|Secolo|Approssimata"
+  },
+  {
+    "ID":108,
+    "tmpYearStartID":"1100|Secolo|Approssimata",
+    "tmpYearEndID":"1499|Secolo|Approssimata",
+    "tmpIDoa2Range":"1100|Secolo|Approssimata|1499|Secolo|Approssimata"
+  },
+  {
+    "ID":109,
+    "tmpYearStartID":"1100|Secolo|Approssimata",
+    "tmpYearEndID":"1599|Secolo|Approssimata",
+    "tmpIDoa2Range":"1100|Secolo|Approssimata|1599|Secolo|Approssimata"
+  },
+  {
+    "ID":110,
+    "tmpYearStartID":"1100|Secolo|Approssimata",
+    "tmpYearEndID":"1785|Anno|Approssimata",
+    "tmpIDoa2Range":"1100|Secolo|Approssimata|1785|Anno|Approssimata"
+  },
+  {
+    "ID":111,
+    "tmpYearStartID":"1100|Secolo|Approssimata",
+    "tmpYearEndID":"1899|Secolo|Approssimata",
+    "tmpIDoa2Range":"1100|Secolo|Approssimata|1899|Secolo|Approssimata"
+  },
+  {
+    "ID":112,
+    "tmpYearStartID":"1100|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1100|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":113,
+    "tmpYearStartID":"1100|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1100|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":114,
+    "tmpYearStartID":"1100|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1100|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":115,
+    "tmpYearStartID":"1100|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1100|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":116,
+    "tmpYearStartID":"1100|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1100|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":117,
+    "tmpYearStartID":"1100|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1100|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":118,
+    "tmpYearStartID":"1100|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1100|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":119,
+    "tmpYearStartID":"1100|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1100|Mezzo secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":120,
+    "tmpYearStartID":"1108|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1108|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":121,
+    "tmpYearStartID":"1114|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1114|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":122,
+    "tmpYearStartID":"1150|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1220|Anno|Precisa",
+    "tmpIDoa2Range":"1150|Mezzo secolo|Precisa|1220|Anno|Precisa"
+  },
+  {
+    "ID":123,
+    "tmpYearStartID":"1150|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1249|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"1150|Mezzo secolo|Approssimata|1249|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":124,
+    "tmpYearStartID":"1150|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1249|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"1150|Mezzo secolo|Approssimata|1249|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":125,
+    "tmpYearStartID":"1150|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1249|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"1150|Mezzo secolo|Approssimata|1249|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":126,
+    "tmpYearStartID":"1150|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1262|Anno|Precisa",
+    "tmpIDoa2Range":"1150|Mezzo secolo|Precisa|1262|Anno|Precisa"
+  },
+  {
+    "ID":127,
+    "tmpYearStartID":"1150|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1599|Secolo|Approssimata",
+    "tmpIDoa2Range":"1150|Mezzo secolo|Approssimata|1599|Secolo|Approssimata"
+  },
+  {
+    "ID":128,
+    "tmpYearStartID":"1150|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1816|Anno|Approssimata",
+    "tmpIDoa2Range":"1150|Mezzo secolo|Approssimata|1816|Anno|Approssimata"
+  },
+  {
+    "ID":129,
+    "tmpYearStartID":"1150|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1936|Anno|Precisa",
+    "tmpIDoa2Range":"1150|Mezzo secolo|Precisa|1936|Anno|Precisa"
+  },
+  {
+    "ID":130,
+    "tmpYearStartID":"1150|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1150|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":131,
+    "tmpYearStartID":"1150|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1150|Mezzo secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":132,
+    "tmpYearStartID":"1150|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1150|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":133,
+    "tmpYearStartID":"1150|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1150|Mezzo secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":134,
+    "tmpYearStartID":"1150|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1150|Mezzo secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":135,
+    "tmpYearStartID":"1150|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1150|Mezzo secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":136,
+    "tmpYearStartID":"1175|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1599|Secolo|Precisa",
+    "tmpIDoa2Range":"1175|Quarto di secolo|Precisa|1599|Secolo|Precisa"
+  },
+  {
+    "ID":137,
+    "tmpYearStartID":"1175|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1175|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":138,
+    "tmpYearStartID":"1193|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1193|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":139,
+    "tmpYearStartID":"1200|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1249|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Approssimata|1249|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":140,
+    "tmpYearStartID":"1200|Inizi secolo|Approssimata",
+    "tmpYearEndID":"1254|Anno|Approssimata",
+    "tmpIDoa2Range":"1200|Inizi secolo|Approssimata|1254|Anno|Approssimata"
+  },
+  {
+    "ID":141,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1299|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1299|Secolo|Approssimata"
+  },
+  {
+    "ID":142,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1299|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1299|Secolo|Approssimata"
+  },
+  {
+    "ID":143,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1299|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1299|Secolo|Approssimata"
+  },
+  {
+    "ID":144,
+    "tmpYearStartID":"1200|Secolo|Generica",
+    "tmpYearEndID":"1299|Secolo|Generica",
+    "tmpIDoa2Range":"1200|Secolo|Generica|1299|Secolo|Generica"
+  },
+  {
+    "ID":145,
+    "tmpYearStartID":"1200|Secolo|Generica",
+    "tmpYearEndID":"1299|Secolo|Generica",
+    "tmpIDoa2Range":"1200|Secolo|Generica|1299|Secolo|Generica"
+  },
+  {
+    "ID":146,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1299|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1299|Secolo|Approssimata"
+  },
+  {
+    "ID":147,
+    "tmpYearStartID":"1200|Inizi secolo|Approssimata",
+    "tmpYearEndID":"1299|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Inizi secolo|Approssimata|1299|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":148,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1299|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1299|Secolo|Approssimata"
+  },
+  {
+    "ID":149,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1299|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1299|Secolo|Approssimata"
+  },
+  {
+    "ID":150,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1299|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1299|Secolo|Precisa"
+  },
+  {
+    "ID":151,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1299|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1299|Secolo|Precisa"
+  },
+  {
+    "ID":152,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1299|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1299|Secolo|Precisa"
+  },
+  {
+    "ID":153,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1309|Decennio|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1309|Decennio|Approssimata"
+  },
+  {
+    "ID":154,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1324|Quarto di secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1324|Quarto di secolo|Approssimata"
+  },
+  {
+    "ID":155,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1324|Quarto di secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1324|Quarto di secolo|Precisa"
+  },
+  {
+    "ID":156,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1327|Anno|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1327|Anno|Precisa"
+  },
+  {
+    "ID":157,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1337|Anno|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1337|Anno|Approssimata"
+  },
+  {
+    "ID":158,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1349|Mezzo secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1349|Mezzo secolo|Precisa"
+  },
+  {
+    "ID":159,
+    "tmpYearStartID":"1200|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1349|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Approssimata|1349|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":160,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1349|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1349|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":161,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1361|Anno|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1361|Anno|Approssimata"
+  },
+  {
+    "ID":162,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1399|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1399|Secolo|Approssimata"
+  },
+  {
+    "ID":163,
+    "tmpYearStartID":"1200|Secolo|Generica",
+    "tmpYearEndID":"1399|Secolo|Generica",
+    "tmpIDoa2Range":"1200|Secolo|Generica|1399|Secolo|Generica"
+  },
+  {
+    "ID":164,
+    "tmpYearStartID":"1200|Quarto di secolo|Approssimata",
+    "tmpYearEndID":"1399|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Quarto di secolo|Approssimata|1399|Secolo|Approssimata"
+  },
+  {
+    "ID":165,
+    "tmpYearStartID":"1200|Secolo|Generica",
+    "tmpYearEndID":"1399|Secolo|Generica",
+    "tmpIDoa2Range":"1200|Secolo|Generica|1399|Secolo|Generica"
+  },
+  {
+    "ID":166,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1399|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1399|Secolo|Approssimata"
+  },
+  {
+    "ID":167,
+    "tmpYearStartID":"1200|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1399|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Approssimata|1399|Secolo|Approssimata"
+  },
+  {
+    "ID":168,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1399|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1399|Secolo|Approssimata"
+  },
+  {
+    "ID":169,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1439|Anno|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1439|Anno|Approssimata"
+  },
+  {
+    "ID":170,
+    "tmpYearStartID":"1200|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1449|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Approssimata|1449|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":171,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1499|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1499|Secolo|Approssimata"
+  },
+  {
+    "ID":172,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1499|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1499|Secolo|Precisa"
+  },
+  {
+    "ID":173,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1499|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1499|Secolo|Approssimata"
+  },
+  {
+    "ID":174,
+    "tmpYearStartID":"1200|Secolo|Generica",
+    "tmpYearEndID":"1499|Secolo|Generica",
+    "tmpIDoa2Range":"1200|Secolo|Generica|1499|Secolo|Generica"
+  },
+  {
+    "ID":175,
+    "tmpYearStartID":"1200|Secolo|Generica",
+    "tmpYearEndID":"1499|Secolo|Generica",
+    "tmpIDoa2Range":"1200|Secolo|Generica|1499|Secolo|Generica"
+  },
+  {
+    "ID":176,
+    "tmpYearStartID":"1200|Secolo|Generica",
+    "tmpYearEndID":"1499|Secolo|Generica",
+    "tmpIDoa2Range":"1200|Secolo|Generica|1499|Secolo|Generica"
+  },
+  {
+    "ID":177,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1499|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1499|Secolo|Precisa"
+  },
+  {
+    "ID":178,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1554|Anno|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1554|Anno|Approssimata"
+  },
+  {
+    "ID":179,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1580|Anno|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1580|Anno|Approssimata"
+  },
+  {
+    "ID":180,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1599|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1599|Secolo|Approssimata"
+  },
+  {
+    "ID":181,
+    "tmpYearStartID":"1200|Secolo|Generica",
+    "tmpYearEndID":"1599|Secolo|Generica",
+    "tmpIDoa2Range":"1200|Secolo|Generica|1599|Secolo|Generica"
+  },
+  {
+    "ID":182,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1599|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1599|Secolo|Approssimata"
+  },
+  {
+    "ID":183,
+    "tmpYearStartID":"1200|Secolo|Generica",
+    "tmpYearEndID":"1599|Secolo|Generica",
+    "tmpIDoa2Range":"1200|Secolo|Generica|1599|Secolo|Generica"
+  },
+  {
+    "ID":184,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1699|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1699|Secolo|Approssimata"
+  },
+  {
+    "ID":185,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1799|Anno|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1799|Anno|Approssimata"
+  },
+  {
+    "ID":186,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1799|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1799|Secolo|Approssimata"
+  },
+  {
+    "ID":187,
+    "tmpYearStartID":"1200|Mezzo secolo|Generica",
+    "tmpYearEndID":"1799|Secolo|Generica",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Generica|1799|Secolo|Generica"
+  },
+  {
+    "ID":188,
+    "tmpYearStartID":"1200|Secolo|Generica",
+    "tmpYearEndID":"1799|Secolo|Generica",
+    "tmpIDoa2Range":"1200|Secolo|Generica|1799|Secolo|Generica"
+  },
+  {
+    "ID":189,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1799|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1799|Secolo|Approssimata"
+  },
+  {
+    "ID":190,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1896|Anno|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1896|Anno|Precisa"
+  },
+  {
+    "ID":191,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1899|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1899|Secolo|Approssimata"
+  },
+  {
+    "ID":192,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1899|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1899|Secolo|Approssimata"
+  },
+  {
+    "ID":193,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1932|Anno|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1932|Anno|Approssimata"
+  },
+  {
+    "ID":194,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1944|Anno|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1944|Anno|Precisa"
+  },
+  {
+    "ID":195,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":196,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":197,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":198,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":199,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":200,
+    "tmpYearStartID":"1200|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":201,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":202,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":203,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":204,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":205,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":206,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":207,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":208,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":209,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":210,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":211,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":212,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":213,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":214,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":215,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":216,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":217,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":218,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":219,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":220,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":221,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":222,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":223,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":224,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":225,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":226,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":227,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":228,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":229,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":230,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":231,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":232,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":233,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":234,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":235,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":236,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":237,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":238,
+    "tmpYearStartID":"1200|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1200|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":239,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":240,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":241,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":242,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":243,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":244,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":245,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":246,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":247,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":248,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":249,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":250,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":251,
+    "tmpYearStartID":"1200|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":252,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":253,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":254,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":255,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":256,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":257,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":258,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":259,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":260,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":261,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":262,
+    "tmpYearStartID":"1200|Mezzo secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":263,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":264,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":265,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":266,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":267,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":268,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":269,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":270,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":271,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":272,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":273,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":274,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":275,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":276,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":277,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":278,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":279,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":280,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":281,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":282,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":283,
+    "tmpYearStartID":"1200|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":284,
+    "tmpYearStartID":"1200|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1200|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":285,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":286,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":287,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":288,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":289,
+    "tmpYearStartID":"1200|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1200|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":290,
+    "tmpYearStartID":"1210|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1210|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":291,
+    "tmpYearStartID":"1213|Anno|Generica",
+    "tmpYearEndID":"1499|Secolo|Generica",
+    "tmpIDoa2Range":"1213|Anno|Generica|1499|Secolo|Generica"
+  },
+  {
+    "ID":292,
+    "tmpYearStartID":"1213|Anno|Precisa",
+    "tmpYearEndID":"1799|Decennio|Precisa",
+    "tmpIDoa2Range":"1213|Anno|Precisa|1799|Decennio|Precisa"
+  },
+  {
+    "ID":293,
+    "tmpYearStartID":"1220|Anno|Precisa",
+    "tmpYearEndID":"1249|Mezzo secolo|Precisa",
+    "tmpIDoa2Range":"1220|Anno|Precisa|1249|Mezzo secolo|Precisa"
+  },
+  {
+    "ID":294,
+    "tmpYearStartID":"1220|Anno|Approssimata",
+    "tmpYearEndID":"1420|Anno|Approssimata",
+    "tmpIDoa2Range":"1220|Anno|Approssimata|1420|Anno|Approssimata"
+  },
+  {
+    "ID":295,
+    "tmpYearStartID":"1225|Quarto di secolo|Approssimata",
+    "tmpYearEndID":"1299|Secolo|Approssimata",
+    "tmpIDoa2Range":"1225|Quarto di secolo|Approssimata|1299|Secolo|Approssimata"
+  },
+  {
+    "ID":296,
+    "tmpYearStartID":"1225|Quarto di secolo|Approssimata",
+    "tmpYearEndID":"1300|Anno|Approssimata",
+    "tmpIDoa2Range":"1225|Quarto di secolo|Approssimata|1300|Anno|Approssimata"
+  },
+  {
+    "ID":297,
+    "tmpYearStartID":"1225|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1554|Anno|Precisa",
+    "tmpIDoa2Range":"1225|Quarto di secolo|Precisa|1554|Anno|Precisa"
+  },
+  {
+    "ID":298,
+    "tmpYearStartID":"1225|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1554|Anno|Precisa",
+    "tmpIDoa2Range":"1225|Quarto di secolo|Precisa|1554|Anno|Precisa"
+  },
+  {
+    "ID":299,
+    "tmpYearStartID":"1225|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1225|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":300,
+    "tmpYearStartID":"1225|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1225|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":301,
+    "tmpYearStartID":"1240|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1240|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":302,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1299|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1299|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":303,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1309|Decennio|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1309|Decennio|Precisa"
+  },
+  {
+    "ID":304,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1324|Quarto di secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1324|Quarto di secolo|Approssimata"
+  },
+  {
+    "ID":305,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1324|Quarto di secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1324|Quarto di secolo|Approssimata"
+  },
+  {
+    "ID":306,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1349|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1349|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":307,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1349|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1349|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":308,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1349|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1349|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":309,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1399|Secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1399|Secolo|Approssimata"
+  },
+  {
+    "ID":310,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1399|Secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1399|Secolo|Approssimata"
+  },
+  {
+    "ID":311,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1474|Quarto di secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1474|Quarto di secolo|Approssimata"
+  },
+  {
+    "ID":312,
+    "tmpYearStartID":"1250|Mezzo secolo|Generica",
+    "tmpYearEndID":"1499|Secolo|Generica",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Generica|1499|Secolo|Generica"
+  },
+  {
+    "ID":313,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1599|Secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1599|Secolo|Approssimata"
+  },
+  {
+    "ID":314,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1599|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1599|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":315,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1599|Secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1599|Secolo|Approssimata"
+  },
+  {
+    "ID":316,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1599|Secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1599|Secolo|Approssimata"
+  },
+  {
+    "ID":317,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1599|Secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1599|Secolo|Approssimata"
+  },
+  {
+    "ID":318,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1799|Secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1799|Secolo|Approssimata"
+  },
+  {
+    "ID":319,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1851|Anno|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1851|Anno|Approssimata"
+  },
+  {
+    "ID":320,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1966|Anno|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1966|Anno|Precisa"
+  },
+  {
+    "ID":321,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":322,
+    "tmpYearStartID":"1250|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":323,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":324,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":325,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":326,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":327,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":328,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":329,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":330,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":331,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":332,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":333,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":334,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":335,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":336,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":337,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":338,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":339,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":340,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":341,
+    "tmpYearStartID":"1250|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":342,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":343,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":344,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":345,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":346,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":347,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":348,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Mezzo secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Mezzo secolo|Precisa"
+  },
+  {
+    "ID":349,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":350,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":351,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":352,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":353,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":354,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":355,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":356,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":357,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":358,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":359,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":360,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":361,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":362,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":363,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":364,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":365,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":366,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":367,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":368,
+    "tmpYearStartID":"1250|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":369,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":370,
+    "tmpYearStartID":"1250|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1250|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":371,
+    "tmpYearStartID":"1258|Anno|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1258|Anno|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":372,
+    "tmpYearStartID":"1258|Anno|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1258|Anno|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":373,
+    "tmpYearStartID":"1262|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1262|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":374,
+    "tmpYearStartID":"1275|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1877|Anno|Precisa",
+    "tmpIDoa2Range":"1275|Quarto di secolo|Precisa|1877|Anno|Precisa"
+  },
+  {
+    "ID":375,
+    "tmpYearStartID":"1275|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1275|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":376,
+    "tmpYearStartID":"1275|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1275|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":377,
+    "tmpYearStartID":"1275|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1275|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":378,
+    "tmpYearStartID":"1275|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1275|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":379,
+    "tmpYearStartID":"1275|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1275|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":380,
+    "tmpYearStartID":"1284|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1284|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":381,
+    "tmpYearStartID":"1290|Decennio|Approssimata",
+    "tmpYearEndID":"1599|Secolo|Approssimata",
+    "tmpIDoa2Range":"1290|Decennio|Approssimata|1599|Secolo|Approssimata"
+  },
+  {
+    "ID":382,
+    "tmpYearStartID":"1297|Anno|Precisa",
+    "tmpYearEndID":"1899|Secolo|Precisa",
+    "tmpIDoa2Range":"1297|Anno|Precisa|1899|Secolo|Precisa"
+  },
+  {
+    "ID":383,
+    "tmpYearStartID":"1298|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1298|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":384,
+    "tmpYearStartID":"1300|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1349|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Mezzo secolo|Approssimata|1349|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":385,
+    "tmpYearStartID":"1300|Secolo|Generica",
+    "tmpYearEndID":"1399|Secolo|Generica",
+    "tmpIDoa2Range":"1300|Secolo|Generica|1399|Secolo|Generica"
+  },
+  {
+    "ID":386,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1399|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1399|Secolo|Approssimata"
+  },
+  {
+    "ID":387,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1399|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1399|Secolo|Precisa"
+  },
+  {
+    "ID":388,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1399|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1399|Secolo|Precisa"
+  },
+  {
+    "ID":389,
+    "tmpYearStartID":"1300|Secolo|Generica",
+    "tmpYearEndID":"1465|Anno|Generica",
+    "tmpIDoa2Range":"1300|Secolo|Generica|1465|Anno|Generica"
+  },
+  {
+    "ID":390,
+    "tmpYearStartID":"1300|Secolo|Generica",
+    "tmpYearEndID":"1499|Secolo|Generica",
+    "tmpIDoa2Range":"1300|Secolo|Generica|1499|Secolo|Generica"
+  },
+  {
+    "ID":391,
+    "tmpYearStartID":"1300|Secolo|Generica",
+    "tmpYearEndID":"1499|Secolo|Generica",
+    "tmpIDoa2Range":"1300|Secolo|Generica|1499|Secolo|Generica"
+  },
+  {
+    "ID":392,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1515|Anno|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1515|Anno|Approssimata"
+  },
+  {
+    "ID":393,
+    "tmpYearStartID":"1300|Secolo|Generica",
+    "tmpYearEndID":"1551|Anno|Generica",
+    "tmpIDoa2Range":"1300|Secolo|Generica|1551|Anno|Generica"
+  },
+  {
+    "ID":394,
+    "tmpYearStartID":"1300|Secolo|Generica",
+    "tmpYearEndID":"1554|Anno|Generica",
+    "tmpIDoa2Range":"1300|Secolo|Generica|1554|Anno|Generica"
+  },
+  {
+    "ID":395,
+    "tmpYearStartID":"1300|Secolo|Generica",
+    "tmpYearEndID":"1599|Secolo|Generica",
+    "tmpIDoa2Range":"1300|Secolo|Generica|1599|Secolo|Generica"
+  },
+  {
+    "ID":396,
+    "tmpYearStartID":"1300|Secolo|Generica",
+    "tmpYearEndID":"1599|Secolo|Generica",
+    "tmpIDoa2Range":"1300|Secolo|Generica|1599|Secolo|Generica"
+  },
+  {
+    "ID":397,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1599|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1599|Secolo|Precisa"
+  },
+  {
+    "ID":398,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1599|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1599|Secolo|Approssimata"
+  },
+  {
+    "ID":399,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1599|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1599|Secolo|Approssimata"
+  },
+  {
+    "ID":400,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1599|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1599|Secolo|Approssimata"
+  },
+  {
+    "ID":401,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1649|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1649|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":402,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1656|Anno|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1656|Anno|Approssimata"
+  },
+  {
+    "ID":403,
+    "tmpYearStartID":"1300|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1699|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Mezzo secolo|Approssimata|1699|Secolo|Approssimata"
+  },
+  {
+    "ID":404,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1799|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1799|Secolo|Approssimata"
+  },
+  {
+    "ID":405,
+    "tmpYearStartID":"1300|Secolo|Generica",
+    "tmpYearEndID":"1799|Secolo|Generica",
+    "tmpIDoa2Range":"1300|Secolo|Generica|1799|Secolo|Generica"
+  },
+  {
+    "ID":406,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1799|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1799|Secolo|Approssimata"
+  },
+  {
+    "ID":407,
+    "tmpYearStartID":"1300|Secolo|Generica",
+    "tmpYearEndID":"1810|Anno|Generica",
+    "tmpIDoa2Range":"1300|Secolo|Generica|1810|Anno|Generica"
+  },
+  {
+    "ID":408,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1818|Anno|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1818|Anno|Precisa"
+  },
+  {
+    "ID":409,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1842|Anno|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1842|Anno|Approssimata"
+  },
+  {
+    "ID":410,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1887|Anno|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1887|Anno|Precisa"
+  },
+  {
+    "ID":411,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1899|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1899|Secolo|Approssimata"
+  },
+  {
+    "ID":412,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1899|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1899|Secolo|Precisa"
+  },
+  {
+    "ID":413,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1902|Anno|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1902|Anno|Approssimata"
+  },
+  {
+    "ID":414,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":415,
+    "tmpYearStartID":"1300|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1300|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":416,
+    "tmpYearStartID":"1300|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1300|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":417,
+    "tmpYearStartID":"1300|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":418,
+    "tmpYearStartID":"1300|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1300|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":419,
+    "tmpYearStartID":"1300|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":420,
+    "tmpYearStartID":"1300|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":421,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":422,
+    "tmpYearStartID":"1300|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1300|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":423,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":424,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":425,
+    "tmpYearStartID":"1300|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":426,
+    "tmpYearStartID":"1300|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":427,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":428,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":429,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":430,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":431,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":432,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":433,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":434,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":435,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":436,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":437,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":438,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":439,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":440,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":441,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":442,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Anno|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Anno|Precisa"
+  },
+  {
+    "ID":443,
+    "tmpYearStartID":"1300|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1300|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":444,
+    "tmpYearStartID":"1300|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1300|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":445,
+    "tmpYearStartID":"1300|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1300|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":446,
+    "tmpYearStartID":"1300|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":447,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":448,
+    "tmpYearStartID":"1300|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Mezzo secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":449,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":450,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":451,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":452,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":453,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":454,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":455,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":456,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":457,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":458,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":459,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":460,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":461,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":462,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":463,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":464,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":465,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":466,
+    "tmpYearStartID":"1300|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1300|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":467,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":468,
+    "tmpYearStartID":"1300|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":469,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":470,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":471,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":472,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":473,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":474,
+    "tmpYearStartID":"1300|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":475,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":476,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":477,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":478,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":479,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":480,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":481,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":482,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":483,
+    "tmpYearStartID":"1300|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":484,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":485,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":486,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":487,
+    "tmpYearStartID":"1300|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1300|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":488,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":489,
+    "tmpYearStartID":"1300|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1300|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":490,
+    "tmpYearStartID":"1300|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1300|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":491,
+    "tmpYearStartID":"1307|Anno|Precisa",
+    "tmpYearEndID":"1902|Anno|Precisa",
+    "tmpIDoa2Range":"1307|Anno|Precisa|1902|Anno|Precisa"
+  },
+  {
+    "ID":492,
+    "tmpYearStartID":"1316|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1316|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":493,
+    "tmpYearStartID":"1320|Decennio|Approssimata",
+    "tmpYearEndID":"1599|Secolo|Approssimata",
+    "tmpIDoa2Range":"1320|Decennio|Approssimata|1599|Secolo|Approssimata"
+  },
+  {
+    "ID":494,
+    "tmpYearStartID":"1320|Decennio|Precisa",
+    "tmpYearEndID":"1599|Mezzo secolo|Precisa",
+    "tmpIDoa2Range":"1320|Decennio|Precisa|1599|Mezzo secolo|Precisa"
+  },
+  {
+    "ID":495,
+    "tmpYearStartID":"1320|Decennio|Generica",
+    "tmpYearEndID":"1699|Secolo|Generica",
+    "tmpIDoa2Range":"1320|Decennio|Generica|1699|Secolo|Generica"
+  },
+  {
+    "ID":496,
+    "tmpYearStartID":"1320|Decennio|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1320|Decennio|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":497,
+    "tmpYearStartID":"1325|Anno|Precisa",
+    "tmpYearEndID":"1560|Anno|Precisa",
+    "tmpIDoa2Range":"1325|Anno|Precisa|1560|Anno|Precisa"
+  },
+  {
+    "ID":498,
+    "tmpYearStartID":"1325|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1325|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":499,
+    "tmpYearStartID":"1325|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1325|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":500,
+    "tmpYearStartID":"1325|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1325|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":501,
+    "tmpYearStartID":"1325|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1325|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":502,
+    "tmpYearStartID":"1325|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1325|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":503,
+    "tmpYearStartID":"1325|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1325|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":504,
+    "tmpYearStartID":"1325|Quarto di secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1325|Quarto di secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":505,
+    "tmpYearStartID":"1325|Quarto di secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1325|Quarto di secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":506,
+    "tmpYearStartID":"1325|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1325|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":507,
+    "tmpYearStartID":"1325|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1325|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":508,
+    "tmpYearStartID":"1325|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1325|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":509,
+    "tmpYearStartID":"1325|Quarto di secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1325|Quarto di secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":510,
+    "tmpYearStartID":"1326|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1326|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":511,
+    "tmpYearStartID":"1328|Anno|Precisa",
+    "tmpYearEndID":"1811|Anno|Precisa",
+    "tmpIDoa2Range":"1328|Anno|Precisa|1811|Anno|Precisa"
+  },
+  {
+    "ID":512,
+    "tmpYearStartID":"1328|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1328|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":513,
+    "tmpYearStartID":"1334|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1334|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":514,
+    "tmpYearStartID":"1339|Anno|Approssimata",
+    "tmpYearEndID":"1526|Anno|Approssimata",
+    "tmpIDoa2Range":"1339|Anno|Approssimata|1526|Anno|Approssimata"
+  },
+  {
+    "ID":515,
+    "tmpYearStartID":"1340|Anno|Precisa",
+    "tmpYearEndID":"1999|Anno|Precisa",
+    "tmpIDoa2Range":"1340|Anno|Precisa|1999|Anno|Precisa"
+  },
+  {
+    "ID":516,
+    "tmpYearStartID":"1343|Anno|Precisa",
+    "tmpYearEndID":"1867|Anno|Precisa",
+    "tmpIDoa2Range":"1343|Anno|Precisa|1867|Anno|Precisa"
+  },
+  {
+    "ID":517,
+    "tmpYearStartID":"1350|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1870|Anno|Approssimata",
+    "tmpIDoa2Range":"1350|Mezzo secolo|Approssimata|1870|Anno|Approssimata"
+  },
+  {
+    "ID":518,
+    "tmpYearStartID":"1350|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1899|Secolo|Approssimata",
+    "tmpIDoa2Range":"1350|Mezzo secolo|Approssimata|1899|Secolo|Approssimata"
+  },
+  {
+    "ID":519,
+    "tmpYearStartID":"1350|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1350|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":520,
+    "tmpYearStartID":"1350|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1350|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":521,
+    "tmpYearStartID":"1352|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1352|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":522,
+    "tmpYearStartID":"1354|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1354|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":523,
+    "tmpYearStartID":"1359|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1359|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":524,
+    "tmpYearStartID":"1361|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1361|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":525,
+    "tmpYearStartID":"1375|Quarto di secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1375|Quarto di secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":526,
+    "tmpYearStartID":"1380|Decennio|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1380|Decennio|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":527,
+    "tmpYearStartID":"1399|Fine secolo|Generica",
+    "tmpYearEndID":"1499|Secolo|Generica",
+    "tmpIDoa2Range":"1399|Fine secolo|Generica|1499|Secolo|Generica"
+  },
+  {
+    "ID":528,
+    "tmpYearStartID":"1400|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1482|Anno|Approssimata",
+    "tmpIDoa2Range":"1400|Mezzo secolo|Approssimata|1482|Anno|Approssimata"
+  },
+  {
+    "ID":529,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1499|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1499|Secolo|Precisa"
+  },
+  {
+    "ID":530,
+    "tmpYearStartID":"1400|Secolo|Approssimata",
+    "tmpYearEndID":"1499|Secolo|Approssimata",
+    "tmpIDoa2Range":"1400|Secolo|Approssimata|1499|Secolo|Approssimata"
+  },
+  {
+    "ID":531,
+    "tmpYearStartID":"1400|Secolo|Generica",
+    "tmpYearEndID":"1499|Secolo|Generica",
+    "tmpIDoa2Range":"1400|Secolo|Generica|1499|Secolo|Generica"
+  },
+  {
+    "ID":532,
+    "tmpYearStartID":"1400|Secolo|Approssimata",
+    "tmpYearEndID":"1508|Anno|Approssimata",
+    "tmpIDoa2Range":"1400|Secolo|Approssimata|1508|Anno|Approssimata"
+  },
+  {
+    "ID":533,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1599|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1599|Secolo|Precisa"
+  },
+  {
+    "ID":534,
+    "tmpYearStartID":"1400|Secolo|Generica",
+    "tmpYearEndID":"1599|Secolo|Generica",
+    "tmpIDoa2Range":"1400|Secolo|Generica|1599|Secolo|Generica"
+  },
+  {
+    "ID":535,
+    "tmpYearStartID":"1400|Secolo|Generica",
+    "tmpYearEndID":"1699|Secolo|Generica",
+    "tmpIDoa2Range":"1400|Secolo|Generica|1699|Secolo|Generica"
+  },
+  {
+    "ID":536,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1699|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1699|Secolo|Precisa"
+  },
+  {
+    "ID":537,
+    "tmpYearStartID":"1400|Secolo|Generica",
+    "tmpYearEndID":"1799|Secolo|Generica",
+    "tmpIDoa2Range":"1400|Secolo|Generica|1799|Secolo|Generica"
+  },
+  {
+    "ID":538,
+    "tmpYearStartID":"1400|Secolo|Generica",
+    "tmpYearEndID":"1799|Secolo|Generica",
+    "tmpIDoa2Range":"1400|Secolo|Generica|1799|Secolo|Generica"
+  },
+  {
+    "ID":539,
+    "tmpYearStartID":"1400|Secolo|Approssimata",
+    "tmpYearEndID":"1799|Secolo|Approssimata",
+    "tmpIDoa2Range":"1400|Secolo|Approssimata|1799|Secolo|Approssimata"
+  },
+  {
+    "ID":540,
+    "tmpYearStartID":"1400|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1400|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":541,
+    "tmpYearStartID":"1400|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1400|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":542,
+    "tmpYearStartID":"1400|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1400|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":543,
+    "tmpYearStartID":"1400|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":544,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":545,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":546,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":547,
+    "tmpYearStartID":"1400|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1400|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":548,
+    "tmpYearStartID":"1400|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1400|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":549,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":550,
+    "tmpYearStartID":"1400|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1400|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":551,
+    "tmpYearStartID":"1400|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1400|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":552,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":553,
+    "tmpYearStartID":"1400|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1400|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":554,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":555,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":556,
+    "tmpYearStartID":"1400|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1400|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":557,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":558,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":559,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":560,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":561,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":562,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":563,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":564,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":565,
+    "tmpYearStartID":"1400|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1400|Mezzo secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":566,
+    "tmpYearStartID":"1400|Quarto di secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1400|Quarto di secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":567,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":568,
+    "tmpYearStartID":"1400|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1400|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":569,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":570,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":571,
+    "tmpYearStartID":"1400|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1400|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":572,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":573,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":574,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":575,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":576,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":577,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":578,
+    "tmpYearStartID":"1400|Quarto di secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1400|Quarto di secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":579,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":580,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":581,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":582,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":583,
+    "tmpYearStartID":"1400|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":584,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":585,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":586,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":587,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":588,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":589,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":590,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":591,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":592,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":593,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":594,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":595,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":596,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":597,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":598,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":599,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":600,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":601,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":602,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":603,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":604,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":605,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":606,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":607,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":608,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":609,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":610,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":611,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":612,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":613,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":614,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":615,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":616,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":617,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":618,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":619,
+    "tmpYearStartID":"1400|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1400|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":620,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":621,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":622,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":623,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":624,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":625,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":626,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":627,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":628,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":629,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":630,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":631,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":632,
+    "tmpYearStartID":"1400|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1400|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":633,
+    "tmpYearStartID":"1400|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1400|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":634,
+    "tmpYearStartID":"1400|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1400|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":635,
+    "tmpYearStartID":"1400|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":636,
+    "tmpYearStartID":"1400|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1400|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":637,
+    "tmpYearStartID":"1400|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1400|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":638,
+    "tmpYearStartID":"1400|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1400|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":639,
+    "tmpYearStartID":"1400|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1400|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":640,
+    "tmpYearStartID":"1411|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1411|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":641,
+    "tmpYearStartID":"1417|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1417|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":642,
+    "tmpYearStartID":"1421|Anno|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1421|Anno|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":643,
+    "tmpYearStartID":"1429|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1429|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":644,
+    "tmpYearStartID":"1450|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1599|Secolo|Approssimata",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Approssimata|1599|Secolo|Approssimata"
+  },
+  {
+    "ID":645,
+    "tmpYearStartID":"1450|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1799|Secolo|Approssimata",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Approssimata|1799|Secolo|Approssimata"
+  },
+  {
+    "ID":646,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":647,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":648,
+    "tmpYearStartID":"1450|Decennio|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Decennio|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":649,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":650,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":651,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":652,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":653,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":654,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":655,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":656,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":657,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":658,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":659,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":660,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":661,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":662,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":663,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":664,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":665,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":666,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":667,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":668,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":669,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":670,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":671,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":672,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":673,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":674,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":675,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":676,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":677,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":678,
+    "tmpYearStartID":"1450|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1450|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":679,
+    "tmpYearStartID":"1451|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1451|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":680,
+    "tmpYearStartID":"1458|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1458|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":681,
+    "tmpYearStartID":"1459|Anno|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1459|Anno|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":682,
+    "tmpYearStartID":"1460|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1460|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":683,
+    "tmpYearStartID":"1462|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1462|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":684,
+    "tmpYearStartID":"1464|Anno|Approssimata",
+    "tmpYearEndID":"1599|Secolo|Approssimata",
+    "tmpIDoa2Range":"1464|Anno|Approssimata|1599|Secolo|Approssimata"
+  },
+  {
+    "ID":685,
+    "tmpYearStartID":"1466|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1466|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":686,
+    "tmpYearStartID":"1469|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1469|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":687,
+    "tmpYearStartID":"1471|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1471|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":688,
+    "tmpYearStartID":"1472|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1472|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":689,
+    "tmpYearStartID":"1474|Anno|Precisa",
+    "tmpYearEndID":"1999|Anno|Precisa",
+    "tmpIDoa2Range":"1474|Anno|Precisa|1999|Anno|Precisa"
+  },
+  {
+    "ID":690,
+    "tmpYearStartID":"1475|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1475|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":691,
+    "tmpYearStartID":"1475|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1475|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":692,
+    "tmpYearStartID":"1475|Quarto di secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1475|Quarto di secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":693,
+    "tmpYearStartID":"1475|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1475|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":694,
+    "tmpYearStartID":"1482|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1482|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":695,
+    "tmpYearStartID":"1486|Anno|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1486|Anno|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":696,
+    "tmpYearStartID":"1490|Decennio|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1490|Decennio|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":697,
+    "tmpYearStartID":"1490|Decennio|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1490|Decennio|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":698,
+    "tmpYearStartID":"1492|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1492|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":699,
+    "tmpYearStartID":"1494|Anno|Precisa",
+    "tmpYearEndID":"1810|Anno|Precisa",
+    "tmpIDoa2Range":"1494|Anno|Precisa|1810|Anno|Precisa"
+  },
+  {
+    "ID":700,
+    "tmpYearStartID":"1498|Anno|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1498|Anno|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":701,
+    "tmpYearStartID":"1500|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1552|Anno|Approssimata",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Approssimata|1552|Anno|Approssimata"
+  },
+  {
+    "ID":702,
+    "tmpYearStartID":"1500|Secolo|Approssimata",
+    "tmpYearEndID":"1599|Secolo|Approssimata",
+    "tmpIDoa2Range":"1500|Secolo|Approssimata|1599|Secolo|Approssimata"
+  },
+  {
+    "ID":703,
+    "tmpYearStartID":"1500|Secolo|Generica",
+    "tmpYearEndID":"1599|Secolo|Generica",
+    "tmpIDoa2Range":"1500|Secolo|Generica|1599|Secolo|Generica"
+  },
+  {
+    "ID":704,
+    "tmpYearStartID":"1500|Secolo|Generica",
+    "tmpYearEndID":"1599|Secolo|Generica",
+    "tmpIDoa2Range":"1500|Secolo|Generica|1599|Secolo|Generica"
+  },
+  {
+    "ID":705,
+    "tmpYearStartID":"1500|Secolo|Generica",
+    "tmpYearEndID":"1699|Secolo|Generica",
+    "tmpIDoa2Range":"1500|Secolo|Generica|1699|Secolo|Generica"
+  },
+  {
+    "ID":706,
+    "tmpYearStartID":"1500|Secolo|Generica",
+    "tmpYearEndID":"1699|Secolo|Generica",
+    "tmpIDoa2Range":"1500|Secolo|Generica|1699|Secolo|Generica"
+  },
+  {
+    "ID":707,
+    "tmpYearStartID":"1500|Secolo|Approssimata",
+    "tmpYearEndID":"1799|Secolo|Approssimata",
+    "tmpIDoa2Range":"1500|Secolo|Approssimata|1799|Secolo|Approssimata"
+  },
+  {
+    "ID":708,
+    "tmpYearStartID":"1500|Secolo|Generica",
+    "tmpYearEndID":"1799|Secolo|Generica",
+    "tmpIDoa2Range":"1500|Secolo|Generica|1799|Secolo|Generica"
+  },
+  {
+    "ID":709,
+    "tmpYearStartID":"1500|Secolo|Generica",
+    "tmpYearEndID":"1899|Secolo|Generica",
+    "tmpIDoa2Range":"1500|Secolo|Generica|1899|Secolo|Generica"
+  },
+  {
+    "ID":710,
+    "tmpYearStartID":"1500|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1899|Secolo|Approssimata",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Approssimata|1899|Secolo|Approssimata"
+  },
+  {
+    "ID":711,
+    "tmpYearStartID":"1500|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1500|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":712,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":713,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":714,
+    "tmpYearStartID":"1500|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1500|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":715,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":716,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":717,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":718,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":719,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":720,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":721,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":722,
+    "tmpYearStartID":"1500|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1500|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":723,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":724,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":725,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":726,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":727,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":728,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":729,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":730,
+    "tmpYearStartID":"1500|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1500|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":731,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":732,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":733,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":734,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":735,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":736,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":737,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":738,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":739,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":740,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":741,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":742,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":743,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":744,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":745,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":746,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":747,
+    "tmpYearStartID":"1500|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":748,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":749,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":750,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":751,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":752,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":753,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":754,
+    "tmpYearStartID":"1500|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1500|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":755,
+    "tmpYearStartID":"1500|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1500|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":756,
+    "tmpYearStartID":"1500|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1500|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":757,
+    "tmpYearStartID":"1500|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1500|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":758,
+    "tmpYearStartID":"1500|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1500|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":759,
+    "tmpYearStartID":"1500|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1500|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":760,
+    "tmpYearStartID":"1500|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1500|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":761,
+    "tmpYearStartID":"1502|Anno|Approssimata",
+    "tmpYearEndID":"1815|Anno|Approssimata",
+    "tmpIDoa2Range":"1502|Anno|Approssimata|1815|Anno|Approssimata"
+  },
+  {
+    "ID":762,
+    "tmpYearStartID":"1504|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1504|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":763,
+    "tmpYearStartID":"1510|Decennio|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1510|Decennio|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":764,
+    "tmpYearStartID":"1520|Anno|Precisa",
+    "tmpYearEndID":"1999|Anno|Precisa",
+    "tmpIDoa2Range":"1520|Anno|Precisa|1999|Anno|Precisa"
+  },
+  {
+    "ID":765,
+    "tmpYearStartID":"1525|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1899|Secolo|Precisa",
+    "tmpIDoa2Range":"1525|Quarto di secolo|Precisa|1899|Secolo|Precisa"
+  },
+  {
+    "ID":766,
+    "tmpYearStartID":"1525|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1525|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":767,
+    "tmpYearStartID":"1525|Quarto di secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1525|Quarto di secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":768,
+    "tmpYearStartID":"1525|Quarto di secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1525|Quarto di secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":769,
+    "tmpYearStartID":"1525|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1525|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":770,
+    "tmpYearStartID":"1525|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1525|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":771,
+    "tmpYearStartID":"1526|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1526|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":772,
+    "tmpYearStartID":"1532|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1532|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":773,
+    "tmpYearStartID":"1534|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1534|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":774,
+    "tmpYearStartID":"1536|Anno|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1536|Anno|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":775,
+    "tmpYearStartID":"1540|Decennio|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1540|Decennio|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":776,
+    "tmpYearStartID":"1540|Decennio|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1540|Decennio|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":777,
+    "tmpYearStartID":"1540|Decennio|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1540|Decennio|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":778,
+    "tmpYearStartID":"1540|Decennio|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1540|Decennio|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":779,
+    "tmpYearStartID":"1550|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1899|Secolo|Approssimata",
+    "tmpIDoa2Range":"1550|Mezzo secolo|Approssimata|1899|Secolo|Approssimata"
+  },
+  {
+    "ID":780,
+    "tmpYearStartID":"1550|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1550|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":781,
+    "tmpYearStartID":"1550|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1550|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":782,
+    "tmpYearStartID":"1550|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1550|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":783,
+    "tmpYearStartID":"1550|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1550|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":784,
+    "tmpYearStartID":"1553|Anno|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1553|Anno|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":785,
+    "tmpYearStartID":"1555|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1555|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":786,
+    "tmpYearStartID":"1560|Anno|Approssimata",
+    "tmpYearEndID":"1899|Secolo|Approssimata",
+    "tmpIDoa2Range":"1560|Anno|Approssimata|1899|Secolo|Approssimata"
+  },
+  {
+    "ID":787,
+    "tmpYearStartID":"1560|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1560|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":788,
+    "tmpYearStartID":"1561|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1561|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":789,
+    "tmpYearStartID":"1575|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1785|Anno|Precisa",
+    "tmpIDoa2Range":"1575|Quarto di secolo|Precisa|1785|Anno|Precisa"
+  },
+  {
+    "ID":790,
+    "tmpYearStartID":"1575|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1575|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":791,
+    "tmpYearStartID":"1584|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1584|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":792,
+    "tmpYearStartID":"1590|Decennio|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1590|Decennio|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":793,
+    "tmpYearStartID":"1594|Anno|Precisa",
+    "tmpYearEndID":"1823|Anno|Precisa",
+    "tmpIDoa2Range":"1594|Anno|Precisa|1823|Anno|Precisa"
+  },
+  {
+    "ID":794,
+    "tmpYearStartID":"1596|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1596|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":795,
+    "tmpYearStartID":"1598|Anno|Approssimata",
+    "tmpYearEndID":"1899|Secolo|Approssimata",
+    "tmpIDoa2Range":"1598|Anno|Approssimata|1899|Secolo|Approssimata"
+  },
+  {
+    "ID":796,
+    "tmpYearStartID":"1600|Secolo|Precisa",
+    "tmpYearEndID":"1699|Secolo|Precisa",
+    "tmpIDoa2Range":"1600|Secolo|Precisa|1699|Secolo|Precisa"
+  },
+  {
+    "ID":797,
+    "tmpYearStartID":"1600|Secolo|Approssimata",
+    "tmpYearEndID":"1699|Secolo|Approssimata",
+    "tmpIDoa2Range":"1600|Secolo|Approssimata|1699|Secolo|Approssimata"
+  },
+  {
+    "ID":798,
+    "tmpYearStartID":"1600|Secolo|Approssimata",
+    "tmpYearEndID":"1899|Secolo|Approssimata",
+    "tmpIDoa2Range":"1600|Secolo|Approssimata|1899|Secolo|Approssimata"
+  },
+  {
+    "ID":799,
+    "tmpYearStartID":"1600|Secolo|Precisa",
+    "tmpYearEndID":"1902|Anno|Precisa",
+    "tmpIDoa2Range":"1600|Secolo|Precisa|1902|Anno|Precisa"
+  },
+  {
+    "ID":800,
+    "tmpYearStartID":"1600|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1600|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":801,
+    "tmpYearStartID":"1600|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1600|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":802,
+    "tmpYearStartID":"1600|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1600|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":803,
+    "tmpYearStartID":"1600|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1600|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":804,
+    "tmpYearStartID":"1600|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1600|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":805,
+    "tmpYearStartID":"1600|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1600|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":806,
+    "tmpYearStartID":"1600|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1600|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":807,
+    "tmpYearStartID":"1600|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1600|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":808,
+    "tmpYearStartID":"1600|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1600|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":809,
+    "tmpYearStartID":"1600|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1600|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":810,
+    "tmpYearStartID":"1600|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1600|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":811,
+    "tmpYearStartID":"1600|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1600|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":812,
+    "tmpYearStartID":"1600|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1600|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":813,
+    "tmpYearStartID":"1600|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1600|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":814,
+    "tmpYearStartID":"1600|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1600|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":815,
+    "tmpYearStartID":"1600|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1600|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":816,
+    "tmpYearStartID":"1602|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1602|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":817,
+    "tmpYearStartID":"1608|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1608|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":818,
+    "tmpYearStartID":"1614|Anno|Approssimata",
+    "tmpYearEndID":"1786|Anno|Approssimata",
+    "tmpIDoa2Range":"1614|Anno|Approssimata|1786|Anno|Approssimata"
+  },
+  {
+    "ID":819,
+    "tmpYearStartID":"1629|Anno|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1629|Anno|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":820,
+    "tmpYearStartID":"1641|Anno|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1641|Anno|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":821,
+    "tmpYearStartID":"1642|Anno|Approssimata",
+    "tmpYearEndID":"1893|Anno|Approssimata",
+    "tmpIDoa2Range":"1642|Anno|Approssimata|1893|Anno|Approssimata"
+  },
+  {
+    "ID":822,
+    "tmpYearStartID":"1655|Anno|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1655|Anno|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":823,
+    "tmpYearStartID":"1668|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1668|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":824,
+    "tmpYearStartID":"1683|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1683|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":825,
+    "tmpYearStartID":"1685|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1685|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":826,
+    "tmpYearStartID":"1691|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1691|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":827,
+    "tmpYearStartID":"1700|Mezzo secolo|Approssimata",
+    "tmpYearEndID":"1777|Anno|Approssimata",
+    "tmpIDoa2Range":"1700|Mezzo secolo|Approssimata|1777|Anno|Approssimata"
+  },
+  {
+    "ID":828,
+    "tmpYearStartID":"1700|Inizi secolo|Precisa",
+    "tmpYearEndID":"1785|Anno|Precisa",
+    "tmpIDoa2Range":"1700|Inizi secolo|Precisa|1785|Anno|Precisa"
+  },
+  {
+    "ID":829,
+    "tmpYearStartID":"1700|Secolo|Approssimata",
+    "tmpYearEndID":"1899|Secolo|Approssimata",
+    "tmpIDoa2Range":"1700|Secolo|Approssimata|1899|Secolo|Approssimata"
+  },
+  {
+    "ID":830,
+    "tmpYearStartID":"1700|Secolo|Approssimata",
+    "tmpYearEndID":"1899|Secolo|Approssimata",
+    "tmpIDoa2Range":"1700|Secolo|Approssimata|1899|Secolo|Approssimata"
+  },
+  {
+    "ID":831,
+    "tmpYearStartID":"1700|Secolo|Precisa",
+    "tmpYearEndID":"1949|Mezzo secolo|Precisa",
+    "tmpIDoa2Range":"1700|Secolo|Precisa|1949|Mezzo secolo|Precisa"
+  },
+  {
+    "ID":832,
+    "tmpYearStartID":"1700|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1700|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":833,
+    "tmpYearStartID":"1700|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1700|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":834,
+    "tmpYearStartID":"1700|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1700|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":835,
+    "tmpYearStartID":"1700|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1700|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":836,
+    "tmpYearStartID":"1700|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1700|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":837,
+    "tmpYearStartID":"1700|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1700|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":838,
+    "tmpYearStartID":"1700|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1700|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":839,
+    "tmpYearStartID":"1700|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1700|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":840,
+    "tmpYearStartID":"1700|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1700|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":841,
+    "tmpYearStartID":"1700|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1700|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":842,
+    "tmpYearStartID":"1700|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1700|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":843,
+    "tmpYearStartID":"1700|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1700|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":844,
+    "tmpYearStartID":"1700|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1700|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":845,
+    "tmpYearStartID":"1700|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1700|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":846,
+    "tmpYearStartID":"1715|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1715|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":847,
+    "tmpYearStartID":"1724|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1724|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":848,
+    "tmpYearStartID":"1740|Anno|Precisa",
+    "tmpYearEndID":"1844|Anno|Precisa",
+    "tmpIDoa2Range":"1740|Anno|Precisa|1844|Anno|Precisa"
+  },
+  {
+    "ID":849,
+    "tmpYearStartID":"1750|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1750|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":850,
+    "tmpYearStartID":"1750|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1750|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":851,
+    "tmpYearStartID":"1756|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1756|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":852,
+    "tmpYearStartID":"1764|Anno|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1764|Anno|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":853,
+    "tmpYearStartID":"1775|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1775|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":854,
+    "tmpYearStartID":"1775|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1775|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":855,
+    "tmpYearStartID":"1781|Anno|Approssimata",
+    "tmpYearEndID":"1949|Mezzo secolo|Approssimata",
+    "tmpIDoa2Range":"1781|Anno|Approssimata|1949|Mezzo secolo|Approssimata"
+  },
+  {
+    "ID":856,
+    "tmpYearStartID":"1785|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1785|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":857,
+    "tmpYearStartID":"1785|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1785|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":858,
+    "tmpYearStartID":"1786|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1786|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":859,
+    "tmpYearStartID":"1792|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1792|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":860,
+    "tmpYearStartID":"1795|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1795|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":861,
+    "tmpYearStartID":"1799|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1799|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":862,
+    "tmpYearStartID":"1800|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1800|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":863,
+    "tmpYearStartID":"1800|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1800|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":864,
+    "tmpYearStartID":"1800|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1800|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":865,
+    "tmpYearStartID":"1800|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1800|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":866,
+    "tmpYearStartID":"1800|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1800|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":867,
+    "tmpYearStartID":"1800|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1800|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":868,
+    "tmpYearStartID":"1800|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1800|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":869,
+    "tmpYearStartID":"1800|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1800|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":870,
+    "tmpYearStartID":"1800|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1800|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":871,
+    "tmpYearStartID":"1800|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1800|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":872,
+    "tmpYearStartID":"1800|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1800|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":873,
+    "tmpYearStartID":"1800|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1800|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":874,
+    "tmpYearStartID":"1800|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1800|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":875,
+    "tmpYearStartID":"1800|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1800|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":876,
+    "tmpYearStartID":"1800|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1800|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":877,
+    "tmpYearStartID":"1800|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1800|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":878,
+    "tmpYearStartID":"1800|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1800|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":879,
+    "tmpYearStartID":"1800|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1800|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":880,
+    "tmpYearStartID":"1800|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1800|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":881,
+    "tmpYearStartID":"1800|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1800|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":882,
+    "tmpYearStartID":"1810|Anno|Precisa",
+    "tmpYearEndID":"1816|Anno|Precisa",
+    "tmpIDoa2Range":"1810|Anno|Precisa|1816|Anno|Precisa"
+  },
+  {
+    "ID":883,
+    "tmpYearStartID":"1810|Anno|Precisa",
+    "tmpYearEndID":"1852|Anno|Precisa",
+    "tmpIDoa2Range":"1810|Anno|Precisa|1852|Anno|Precisa"
+  },
+  {
+    "ID":884,
+    "tmpYearStartID":"1811|Anno|Precisa",
+    "tmpYearEndID":"1816|Anno|Precisa",
+    "tmpIDoa2Range":"1811|Anno|Precisa|1816|Anno|Precisa"
+  },
+  {
+    "ID":885,
+    "tmpYearStartID":"1816|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1816|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":886,
+    "tmpYearStartID":"1816|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1816|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":887,
+    "tmpYearStartID":"1818|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1818|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":888,
+    "tmpYearStartID":"1823|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1823|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":889,
+    "tmpYearStartID":"1825|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1825|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":890,
+    "tmpYearStartID":"1840|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1840|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":891,
+    "tmpYearStartID":"1843|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1843|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":892,
+    "tmpYearStartID":"1850|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1850|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":893,
+    "tmpYearStartID":"1850|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1850|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":894,
+    "tmpYearStartID":"1852|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1852|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":895,
+    "tmpYearStartID":"1859|Anno|Precisa",
+    "tmpYearEndID":"1934|Anno|Precisa",
+    "tmpIDoa2Range":"1859|Anno|Precisa|1934|Anno|Precisa"
+  },
+  {
+    "ID":896,
+    "tmpYearStartID":"1865|Anno|Precisa",
+    "tmpYearEndID":"1999|Mezzo secolo|Precisa",
+    "tmpIDoa2Range":"1865|Anno|Precisa|1999|Mezzo secolo|Precisa"
+  },
+  {
+    "ID":897,
+    "tmpYearStartID":"1867|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1867|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":898,
+    "tmpYearStartID":"1867|Anno|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1867|Anno|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":899,
+    "tmpYearStartID":"1875|Quarto di secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1875|Quarto di secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":900,
+    "tmpYearStartID":"1875|Quarto di secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1875|Quarto di secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":901,
+    "tmpYearStartID":"1878|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1878|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":902,
+    "tmpYearStartID":"1880|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1880|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":903,
+    "tmpYearStartID":"1880|Anno|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1880|Anno|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":904,
+    "tmpYearStartID":"1882|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1882|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":905,
+    "tmpYearStartID":"1886|Anno|Precisa",
+    "tmpYearEndID":"1999|Anno|Precisa",
+    "tmpIDoa2Range":"1886|Anno|Precisa|1999|Anno|Precisa"
+  },
+  {
+    "ID":906,
+    "tmpYearStartID":"1887|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1887|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":907,
+    "tmpYearStartID":"1896|Anno|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1896|Anno|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":908,
+    "tmpYearStartID":"1896|Anno|Precisa",
+    "tmpYearEndID":"1999|Anno|Precisa",
+    "tmpIDoa2Range":"1896|Anno|Precisa|1999|Anno|Precisa"
+  },
+  {
+    "ID":909,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":910,
+    "tmpYearStartID":"1900|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1900|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":911,
+    "tmpYearStartID":"1900|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1900|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":912,
+    "tmpYearStartID":"1900|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1900|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":913,
+    "tmpYearStartID":"1900|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1900|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":914,
+    "tmpYearStartID":"1900|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1900|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":915,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":916,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":917,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":918,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":919,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":920,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":921,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":922,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":923,
+    "tmpYearStartID":"1900|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1900|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":924,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":925,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":926,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":927,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":928,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":929,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":930,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":931,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":932,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":933,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":934,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":935,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":936,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":937,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":938,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":939,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":940,
+    "tmpYearStartID":"1900|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1900|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":941,
+    "tmpYearStartID":"1900|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1900|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":942,
+    "tmpYearStartID":"1900|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1900|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":943,
+    "tmpYearStartID":"1900|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1900|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":944,
+    "tmpYearStartID":"1900|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1900|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":945,
+    "tmpYearStartID":"1900|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1900|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":946,
+    "tmpYearStartID":"1900|Anno|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1900|Anno|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":947,
+    "tmpYearStartID":"1900|Secolo|Generica",
+    "tmpYearEndID":"1999|Secolo|Generica",
+    "tmpIDoa2Range":"1900|Secolo|Generica|1999|Secolo|Generica"
+  },
+  {
+    "ID":948,
+    "tmpYearStartID":"1900|Secolo|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1900|Secolo|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":949,
+    "tmpYearStartID":"1900|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1900|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":950,
+    "tmpYearStartID":"1900|Secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1900|Secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":951,
+    "tmpYearStartID":"1904|Anno|Precisa",
+    "tmpYearEndID":"1955|Anno|Precisa",
+    "tmpIDoa2Range":"1904|Anno|Precisa|1955|Anno|Precisa"
+  },
+  {
+    "ID":952,
+    "tmpYearStartID":"1904|Anno|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1904|Anno|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":953,
+    "tmpYearStartID":"1905|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1905|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":954,
+    "tmpYearStartID":"1910|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1910|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":955,
+    "tmpYearStartID":"1912|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1912|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":956,
+    "tmpYearStartID":"1914|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1914|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":957,
+    "tmpYearStartID":"1925|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1925|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":958,
+    "tmpYearStartID":"1932|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1932|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":959,
+    "tmpYearStartID":"1936|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1936|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":960,
+    "tmpYearStartID":"1941|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1941|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":961,
+    "tmpYearStartID":"1947|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1947|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":962,
+    "tmpYearStartID":"1950|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1950|Mezzo secolo|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":963,
+    "tmpYearStartID":"1950|Mezzo secolo|Precisa",
+    "tmpYearEndID":"1999|Mezzo secolo|Precisa",
+    "tmpIDoa2Range":"1950|Mezzo secolo|Precisa|1999|Mezzo secolo|Precisa"
+  },
+  {
+    "ID":964,
+    "tmpYearStartID":"1951|Anno|Approssimata",
+    "tmpYearEndID":"1999|Secolo|Approssimata",
+    "tmpIDoa2Range":"1951|Anno|Approssimata|1999|Secolo|Approssimata"
+  },
+  {
+    "ID":965,
+    "tmpYearStartID":"1955|Anno|Precisa",
+    "tmpYearEndID":"1999|Anno|Precisa",
+    "tmpIDoa2Range":"1955|Anno|Precisa|1999|Anno|Precisa"
+  },
+  {
+    "ID":966,
+    "tmpYearStartID":"1962|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1962|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":967,
+    "tmpYearStartID":"1963|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1963|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":968,
+    "tmpYearStartID":"1965|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1965|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":969,
+    "tmpYearStartID":"1966|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1966|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":970,
+    "tmpYearStartID":"1970|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1970|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":971,
+    "tmpYearStartID":"1972|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1972|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":972,
+    "tmpYearStartID":"1977|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1977|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":973,
+    "tmpYearStartID":"1977|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1977|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":993,
+    "tmpYearStartID":"1979|Anno|Precisa",
+    "tmpYearEndID":"1979|Secolo|Precisa",
+    "tmpIDoa2Range":"1979|Anno|Precisa|1979|Secolo|Precisa"
+  },
+  {
+    "ID":974,
+    "tmpYearStartID":"1984|Anno|Precisa",
+    "tmpYearEndID":"1999|Anno|Precisa",
+    "tmpIDoa2Range":"1984|Anno|Precisa|1999|Anno|Precisa"
+  },
+  {
+    "ID":975,
+    "tmpYearStartID":"1985|Anno|Precisa",
+    "tmpYearEndID":"1999|Mezzo secolo|Precisa",
+    "tmpIDoa2Range":"1985|Anno|Precisa|1999|Mezzo secolo|Precisa"
+  },
+  {
+    "ID":976,
+    "tmpYearStartID":"1988|Anno|Precisa",
+    "tmpYearEndID":"1988|Anno|Precisa",
+    "tmpIDoa2Range":"1988|Anno|Precisa|1988|Anno|Precisa"
+  },
+  {
+    "ID":977,
+    "tmpYearStartID":"1990|Decennio|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1990|Decennio|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":978,
+    "tmpYearStartID":"1994|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1994|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":979,
+    "tmpYearStartID":"1998|Anno|Precisa",
+    "tmpYearEndID":"2005|Anno|Precisa",
+    "tmpIDoa2Range":"1998|Anno|Precisa|2005|Anno|Precisa"
+  },
+  {
+    "ID":980,
+    "tmpYearStartID":"1999|Anno|Precisa",
+    "tmpYearEndID":"1999|Secolo|Precisa",
+    "tmpIDoa2Range":"1999|Anno|Precisa|1999|Secolo|Precisa"
+  },
+  {
+    "ID":981,
+    "tmpYearStartID":"2000|Anno|Precisa",
+    "tmpYearEndID":"2003|Anno|Precisa",
+    "tmpIDoa2Range":"2000|Anno|Precisa|2003|Anno|Precisa"
+  },
+  {
+    "ID":982,
+    "tmpYearStartID":"2001|Anno|Precisa",
+    "tmpYearEndID":"2001|Anno|Precisa",
+    "tmpIDoa2Range":"2001|Anno|Precisa|2001|Anno|Precisa"
+  },
+  {
+    "ID":983,
+    "tmpYearStartID":"2002|Anno|Precisa",
+    "tmpYearEndID":"2002|Anno|Precisa",
+    "tmpIDoa2Range":"2002|Anno|Precisa|2002|Anno|Precisa"
+  },
+  {
+    "ID":984,
+    "tmpYearStartID":"2003|Anno|Precisa",
+    "tmpYearEndID":"2004|Anno|Precisa",
+    "tmpIDoa2Range":"2003|Anno|Precisa|2004|Anno|Precisa"
+  },
+  {
+    "ID":985,
+    "tmpYearStartID":"2004|Anno|Precisa",
+    "tmpYearEndID":"2006|Anno|Precisa",
+    "tmpIDoa2Range":"2004|Anno|Precisa|2006|Anno|Precisa"
+  },
+  {
+    "ID":986,
+    "tmpYearStartID":"2005|Anno|Precisa",
+    "tmpYearEndID":"2005|Anno|Precisa",
+    "tmpIDoa2Range":"2005|Anno|Precisa|2005|Anno|Precisa"
+  },
+  {
+    "ID":987,
+    "tmpYearStartID":"2006|Anno|Precisa",
+    "tmpYearEndID":"2006|Anno|Precisa",
+    "tmpIDoa2Range":"2006|Anno|Precisa|2006|Anno|Precisa"
+  },
+  {
+    "ID":988,
+    "tmpYearStartID":"2006|Anno|Precisa",
+    "tmpYearEndID":"2009|Anno|Precisa",
+    "tmpIDoa2Range":"2006|Anno|Precisa|2009|Anno|Precisa"
+  },
+  {
+    "ID":989,
+    "tmpYearStartID":"2006|Anno|Precisa",
+    "tmpYearEndID":"2011|Anno|Precisa",
+    "tmpIDoa2Range":"2006|Anno|Precisa|2011|Anno|Precisa"
+  },
+  {
+    "ID":990,
+    "tmpYearStartID":"2007|Anno|Precisa",
+    "tmpYearEndID":"2007|Anno|Precisa",
+    "tmpIDoa2Range":"2007|Anno|Precisa|2007|Anno|Precisa"
+  },
+  {
+    "ID":991,
+    "tmpYearStartID":"2008|Anno|Precisa",
+    "tmpYearEndID":"2008|Anno|Precisa",
+    "tmpIDoa2Range":"2008|Anno|Precisa|2008|Anno|Precisa"
+  },
+  {
+    "ID":992,
+    "tmpYearStartID":"2009|Anno|Precisa",
+    "tmpYearEndID":"2009|Anno|Precisa",
+    "tmpIDoa2Range":"2009|Anno|Precisa|2009|Anno|Precisa"
+  }
+]

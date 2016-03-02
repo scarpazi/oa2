@@ -1,0 +1,11 @@
+{
+	"name": "leLeaflet",
+	"html": "leLeaflet.html",
+	"scripts": [
+		"leLeaflet.js"
+	],
+	"styles": [
+		"leLeaflet.css",
+		"leLeafletCustom.css"
+	]
+}

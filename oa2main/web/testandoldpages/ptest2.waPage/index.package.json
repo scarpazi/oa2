@@ -25,7 +25,51 @@
 			"type": "widget"
 		},
 		{
+			"id": "Widget/tabView",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/menuBar",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/menuItem",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/label",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/button",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/dialog",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/frame",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/dataGrid",
+			"type": "widget"
+		},
+		{
 			"package": "default"
+		},
+		{
+			"package": "Container"
+		},
+		{
+			"package": "Button"
+		},
+		{
+			"package": "ListView"
+		},
+		{
+			"package": "Text"
 		},
 		{
 			"file": "styles/index.css"
@@ -37,6 +81,9 @@
 		{
 			"file": "prototype/application.css",
 			"path": "WEBFOLDER"
+		},
+		{
+			"file": "scripts/index.js"
 		}
 	]
 }

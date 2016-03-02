@@ -35,6 +35,11 @@
 			"type": "component"
 		},
 		{
+			"id": "webcomps/dicLemma.waComponent/dicLemma.package.json",
+			"path": "WEBFOLDER",
+			"type": "component"
+		},
+		{
 			"package": "default"
 		},
 		{

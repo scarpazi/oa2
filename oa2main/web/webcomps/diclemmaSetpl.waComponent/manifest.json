@@ -1,1 +1,10 @@
-﻿{"name":"diclemmaSetpl","html":"diclemmaSetpl.html","scripts":["diclemmaSetpl.js"],"styles":["diclemmaSetpl.css","/css/genstyles.css"]}
+{
+	"name": "diclemmaSetpl",
+	"html": "diclemmaSetpl.html",
+	"scripts": [
+		"diclemmaSetpl.js"
+	],
+	"styles": [
+		"diclemmaSetpl.css"
+	]
+}

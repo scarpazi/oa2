@@ -1,0 +1,8 @@
+﻿[
+{"ID":1,"start":1,"end":2,"chronText":""},
+{"ID":2,"start":3,"end":4},
+{"ID":3,"start":5,"end":6,"chronText":""},
+{"ID":4,"start":2,"end":1},
+{"ID":5,"start":8,"end":12},
+{"ID":6}
+]
