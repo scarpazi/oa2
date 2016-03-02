@@ -4,8 +4,13 @@
 <br>
 <br>
 
+<<<<<<< HEAD
 *2015/01/19:* **check back later…**
 *2016/03/01:* **almost ready for the first release **
+=======
+*2015/01/19:* **check back later…** <br>
+*2016/03/01:* **almost ready for the first release**
+>>>>>>> 82d2d7cfe62c8216a1195642cdf1eb78c1a883e5
 <br>
 <br>
 <br>
