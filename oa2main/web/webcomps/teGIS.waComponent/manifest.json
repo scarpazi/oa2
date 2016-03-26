@@ -2,7 +2,8 @@
 	"name": "teGIS",
 	"html": "teGIS.html",
 	"scripts": [
-		"teGIS.js"
+		"teGIS.js",
+		"teGeoJson.js"
 	],
 	"styles": [
 		"teGIS.css",

@@ -16,4 +16,12 @@
     Leaflet.prototype.init = function(){
         this.node.innerHTML = '<div class="waf-studio-donotsave waf-leaflet studio"></div>';
     };
+	
+	/*
+	// Customize properties
+	Leaflet.customizeProperty('geoJsonFeatures', {
+		title: 'GeoJSON file',
+		display: true,
+		sourceDisplay: false
+	}); */
 });

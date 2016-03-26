@@ -1,6 +1,6 @@
 #waf-body {
-	min-width: 1200px;
-	/*min-height: 1100px;*/
+	/*min-width: 1200px;
+	min-height: 1100px;*/
 }
 
 #waf-body .teDefEdit	{
@@ -27,16 +27,31 @@
 	-moz-border-radius-bottomright: 10px;
 }
 
+#waf-body .teInfo	{
+	z-index: 17;
+	width: 600px;
+	height: 600px;
+	top: 100px;
+	left: 35px;
+	
+	min-width: 800px;
+}
+
+#teDialogComp {
+	overflow-y:scroll;
+}
+
+
 #titleBar {
-	min-width: 1200px;
+	min-width: 1000px;
 }
 
 #controlBar {
-	min-width: 1200px;
+	min-width: 1000px;
 }
 
 #mainCont {
-	min-width: 1200px;
+	min-width: 1000px;
 	min-height: 800px;
 }
 
@@ -70,6 +85,7 @@
 
 #formComp {
 	overflow-y:scroll;
+	overflow-x:scroll;
 }
 
 #tagsLabel {

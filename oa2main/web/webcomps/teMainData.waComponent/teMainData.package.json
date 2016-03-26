@@ -27,6 +27,9 @@
 			"package": "Container"
 		},
 		{
+			"package": "TextArea"
+		},
+		{
 			"file": "teMainData.html"
 		},
 		{
@@ -37,6 +40,10 @@
 		},
 		{
 			"file": "teMainDataCustom.css"
+		},
+		{
+			"file": "webcomps/../Widgets/Leaflet/plugins/leaflet.contextmenu.js",
+			"path": "WEBFOLDER"
 		}
 	]
 }

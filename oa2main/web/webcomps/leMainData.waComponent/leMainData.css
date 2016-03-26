@@ -24,7 +24,7 @@
 	text-align: right;
 }
 
-#{id}leNotes {
+#{id}notesText {
 	z-index: 1;
 	top: 20px;
 	bottom: -20px;

@@ -88,6 +88,10 @@
 		},
 		{
 			"file": "styles/lehomeCustomStyles.css"
+		},
+		{
+			"file": "css/application.css",
+			"path": "WEBFOLDER"
 		}
 	]
 }

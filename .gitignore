@@ -40,5 +40,9 @@ sessionID.json
 *.waRemoteModel
 
 #OA2_specific
-#oa2_v0_main/Backups/*.*
-#oa2_v0_main/DataFolder/*.*
+oa2main/Backups/*.*
+oa2main/database/DataFolder/*.*
+oa2main/database/DataFolderGeoJSON/*.*
+oa2main/database/DataFolderJSON/*.*
+oa2main/database/methods/*.*
+oa2main/database/Model.backup/*.*

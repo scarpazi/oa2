@@ -1,0 +1,11 @@
+{
+	"name": "infoIt",
+	"html": "infoIt.html",
+	"scripts": [
+		"infoIt.js"
+	],
+	"styles": [
+		"infoIt.css",
+		"infoItCustom.css"
+	]
+}

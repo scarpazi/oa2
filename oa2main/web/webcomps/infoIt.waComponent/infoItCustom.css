@@ -1,0 +1,9 @@
+#{id}infoCont {
+	min-width: 750px;
+	min-height: 500px;
+}
+
+#{id}infoText {
+	padding-left: 10px;
+	padding-top: 10px;
+}

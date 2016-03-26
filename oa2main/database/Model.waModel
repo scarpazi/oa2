@@ -4,8 +4,8 @@
 		"version": "2",
 		"__CDATA": "\n\t\t\n\t\t\n\t",
 		"model": {
-			"workspaceLeft": 1616,
-			"workspaceTop": 4602,
+			"workspaceLeft": 928,
+			"workspaceTop": 5906,
 			"__CDATA": "\n\t\t\t\n\t\t",
 			"scriptMode": "manual",
 			"relShowMode": "true",
@@ -34,14 +34,16 @@
 					"method": "ChronRange/ChronRange-methods.js"
 				},
 				"Source": {
-					"computed": "Source/Source-events.js"
+					"computed": "Source/Source-events.js",
+					"method": "Source/Source-methods.js"
 				},
 				"SourceRef": {
 					"computed": "SourceRef/SourceRef-events.js",
 					"method": "SourceRef/SourceRef-methods.js"
 				},
 				"Investigation": {
-					"computed": "Investigation/Investigation-events.js"
+					"computed": "Investigation/Investigation-events.js",
+					"method": "Investigation/Investigation-methods.js"
 				},
 				"Person": {
 					"computed": "Person/Person-events.js"
@@ -54,6 +56,9 @@
 					"method": "TopographicElement/TopographicElement-methods.js",
 					"computed": "TopographicElement/TopographicElement-events.js",
 					"events": "TopographicElement/TopographicElement-events.js"
+				},
+				"Toponym": {
+					"method": "Toponym/Toponym-methods.js"
 				}
 			}
 		},
@@ -372,8 +377,8 @@
 					"pathVisible": true,
 					"__CDATA": "\n\t\t\t\t\t\n\t\t\t\t",
 					"position": {
-						"X": 1010,
-						"Y": 5307
+						"X": 1023,
+						"Y": 5608
 					}
 				}
 			},
@@ -388,8 +393,8 @@
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 2413,
-						"Y": 5507
+						"X": 2318,
+						"Y": 5810
 					}
 				}
 			},
@@ -409,8 +414,8 @@
 					"resizedHeight": "100",
 					"__CDATA": "\n\t\t\t\t\t\n\t\t\t\t",
 					"position": {
-						"X": 2418,
-						"Y": 5305
+						"X": 2319,
+						"Y": 5608
 					}
 				}
 			},
@@ -718,8 +723,8 @@
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 1468,
-						"Y": 5307
+						"X": 1511,
+						"Y": 5608
 					}
 				}
 			},
@@ -736,8 +741,8 @@
 					"isOpen": "true",
 					"pathVisible": true,
 					"position": {
-						"X": 1911,
-						"Y": 5306
+						"X": 1913,
+						"Y": 5607
 					}
 				}
 			}
@@ -2156,6 +2161,13 @@
 					"path": "DictionaryLemma"
 				},
 				{
+					"name": "defComplete",
+					"kind": "alias",
+					"scope": "public",
+					"type": "string",
+					"path": "defObjInv.cvalue"
+				},
+				{
 					"name": "director",
 					"kind": "relatedEntity",
 					"scope": "public",
@@ -2248,13 +2260,29 @@
 					"kind": "storage",
 					"scope": "public",
 					"type": "string"
+				}
+			],
+			"methods": [
+				{
+					"name": "defBindColl",
+					"applyTo": "entityCollection",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Investigation.collectionMethods.defBindColl",
+					"userDefined": true
 				},
 				{
-					"name": "ppp",
-					"kind": "relatedEntity",
-					"scope": "public",
-					"type": "ChronDate",
-					"path": "durationInv.start"
+					"name": "dirBindColl",
+					"applyTo": "entityCollection",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Investigation.collectionMethods.dirBindColl",
+					"userDefined": true
+				},
+				{
+					"name": "rangeBindColl",
+					"applyTo": "entityCollection",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Investigation.collectionMethods.rangeBindColl",
+					"userDefined": true
 				}
 			]
 		},
@@ -3257,8 +3285,8 @@
 					"name": "mainInvNotes",
 					"kind": "alias",
 					"scope": "public",
-					"type": "long",
-					"path": "mainInvestigation.ID"
+					"type": "string",
+					"path": "mainInvestigation.notes"
 				},
 				{
 					"name": "otherInvestigations",
@@ -3324,6 +3352,15 @@
 					"kind": "storage",
 					"scope": "public",
 					"type": "string"
+				}
+			],
+			"methods": [
+				{
+					"name": "defBindColl",
+					"applyTo": "entityCollection",
+					"scope": "publicOnServer",
+					"from": "$mainModel.Source.collectionMethods.defBindColl",
+					"userDefined": true
 				}
 			]
 		},
@@ -4271,6 +4308,5 @@
 				}
 			]
 		}
-	],
-	"type": []
+	]
 }

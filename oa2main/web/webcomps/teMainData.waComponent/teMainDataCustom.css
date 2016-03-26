@@ -1,12 +1,35 @@
 #{id}formLabel {
+	left:0%;
+	width:100%;
 	font-family: Syncopate;
 	padding-left: 5px;
 	padding-top: 5px;
 }
 
+#{id}mainDataCont {
+	left:0px;
+	top:29px;
+	width:100%;
+}
+
+/*#{id}teID {
+	right:5px;
+	top:5px;
+	width:50px;
+}
+
+#{id}teDefComplete {
+	left:140px;
+	width:80%;
+}*/
+
+#{id}chronLabel {
+	left:0px;
+	width:100%;
+}
 
 #{id}chronStartCont1 {
-	left:0%;
+	left:0px;
 	width:19%;
 }
 
@@ -30,6 +53,29 @@
 	width:19%;
 }
 
+#{id}chronTextCalc {
+	left:0px;
+	width:100%;
+}
+
+#{id}descLabel {
+	left:0px;
+	width:100%;
+}
+
+#{id}descText {
+	overflow-y:auto;
+}
+
+#{id}notesText {
+	overflow-x:auto;
+}
+
+#{id}sourceLabel {
+	left:0px;
+	width:100%;
+}
+
 #{id}sourcesGridCont {
 	left:2%;
 	width:38%;
@@ -38,6 +84,49 @@
 #{id}sourcesFormCont {
 	left:42%;
 	width:56%;
+}
+
+#{id}mainInvCont {
+	overflow-x:auto;
+}
+
+#{id}sourcesFormCont {
+	overflow-x:auto;
+}
+
+#{id}mainInvDurLabel {
+	left:2%;
+	width:10%;
+}
+
+#{id}mainInvDur {
+	left:12%;
+	width:56%;
+}
+
+#{id}mainInvStateLabel {
+	left:42%;
+	width:56%;
+}
+
+#{id}mainInvState {
+	left:42%;
+	width:56%;
+}
+
+#{id}mainInvDirLabel {
+	left:42%;
+	width:56%;
+}
+
+#{id}mainInvDir {
+	left:42%;
+	width:56%;
+}
+
+#{id}biblioLabel {
+	left:0px;
+	width:100%;
 }
 
 #{id}biblioGridCont {

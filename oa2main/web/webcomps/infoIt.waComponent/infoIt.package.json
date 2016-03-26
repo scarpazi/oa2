@@ -1,0 +1,30 @@
+{
+	"name": "oa2main/webcomps/infoIt.waComponent",
+	"type": "component",
+	"version": "1.0.0",
+	"webComponent": "webcomps/infoIt.waComponent/infoIt.js",
+	"loadDependencies": [
+		{
+			"id": "Widget/image",
+			"type": "widget"
+		},
+		{
+			"package": "Container"
+		},
+		{
+			"package": "Text"
+		},
+		{
+			"file": "infoIt.html"
+		},
+		{
+			"file": "infoIt.css"
+		},
+		{
+			"file": "infoIt.js"
+		},
+		{
+			"file": "infoItCustom.css"
+		}
+	]
+}

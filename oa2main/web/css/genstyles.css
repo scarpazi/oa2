@@ -25,6 +25,18 @@
 	 
 }
 
+
+#waf-body .infoDialog	{
+	z-index: 17;
+	width: 600px;
+	height: 550px;
+	top: 35px;
+	left: 35px;
+	
+	min-width: 800px;
+}
+
+
 #waf-body .hhalf1 {
 	left:0px;
 	width:50%;

@@ -23,14 +23,7 @@
 			"file": "teGISCustom.css"
 		},
 		{
-			"id": "dist/leaflet.contextmenu.css",
-			"path": "WEBFOLDER",
-			"type": "style"
-		},
-		{
-			"id": "webgis.waComponent/../dist/leaflet.contextmenu.js",
-			"path": "WEBFOLDER",
-			"type": "script"
+			"file": "teGeoJson.js"
 		}
 	]
 }

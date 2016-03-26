@@ -39,134 +39,25 @@
 }
 
 #{id}biblioGridCont {
-	z-index: 27;
+	z-index: 25;
 	width: 310px;
 	height: 300px;
-	top: 1280px;
+	top: 1300px;
 	left: 0px;
 	position: absolute;
-}
-
-#{id}label1 {
-	z-index: 7;
-	width: auto;
-	height: 17px;
-	top: 0px;
-	left: auto;
-	position: absolute;
-}
-
-#{id}label3 {
-	z-index: 6;
-	width: auto;
-	height: 17px;
-	top: 184px;
-	left: 14px;
-	position: absolute;
-	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
-	color: rgb(76, 76, 76);
-}
-
-#{id}label2 {
-	z-index: 5;
-	width: auto;
-	height: 17px;
-	top: 151px;
-	left: 55px;
-	position: absolute;
-}
-
-#{id}label4 {
-	z-index: 4;
-	width: auto;
-	height: 17px;
-	top: 217px;
-	left: 72px;
-	position: absolute;
-	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
-	color: rgb(76, 76, 76);
-}
-
-#{id}teID {
-	z-index: 8;
-	width: 76px;
-	height: 16px;
-	top: 0px;
-	right: 5px;
-	position: absolute;
-	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
-	font-size: 12px;
-	font-weight: bold;
-	color: rgb(191, 0, 0);
-	border-top-color: rgb(255, 0, 0);
-	border-left-color: rgb(255, 0, 0);
-	border-right-color: rgb(255, 0, 0);
-	border-bottom-color: rgb(255, 0, 0);
-	text-align: left;
-}
-
-#{id}teMainToponym {
-	z-index: 7;
-	height: 22px;
-	top: 182px;
-	left: 140px;
-	right: 433px;
-	position: absolute;
-	font-weight: normal;
-	font-size: 18px;
-	color: rgb(51, 51, 51);
-	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
-}
-
-#{id}teDef {
-	z-index: 6;
-	width: 220px;
-	height: 22px;
-	top: 149px;
-	left: 140px;
-	position: absolute;
-	color: rgb(51, 51, 51);
-	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
-}
-
-#{id}teLName {
-	z-index: 5;
-	height: 22px;
-	top: 215px;
-	left: 140px;
-	right: 556px;
-	position: absolute;
-	font-size: 18px;
-	text-align: left;
-	font-weight: normal;
-	color: rgb(51, 51, 51);
-	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
 }
 
 #{id}teDefButton {
 	z-index: 4;
 	width: 39px;
 	height: 22px;
-	top: 150px;
+	top: 155px;
 	right: 5px;
 	position: absolute;
 	font-weight: normal;
 	font-size: 18px;
 	font-family: Tahoma, Verdana, Segoe, sans-serif;
 	line-height: 18px;
-}
-
-#{id}teName {
-	z-index: 3;
-	height: 44px;
-	top: 25px;
-	left: 10px;
-	right: 480px;
-	position: absolute;
-	font-weight: bold;
-	color: rgb(191, 0, 0);
-	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
-	font-size: 36px;
 }
 
 #{id}mainDataCont {
@@ -202,62 +93,6 @@
 	 background-image:-ms-linear-gradient(left, rgb(204, 204, 204) 0%,rgb(255, 255, 255) 100%);
 	 background-image:-o-linear-gradient(left, rgb(204, 204, 204) 0%,rgb(255, 255, 255) 100%);
 	 background-image:linear-gradient(left, rgb(204, 204, 204) 0%,rgb(255, 255, 255) 100%);
-}
-
-#{id}notesText {
-	z-index: 1;
-	top: 20px;
-	bottom: 5px;
-	left: 10px;
-	right: 10px;
-	position: absolute;
-	text-shadow: transparent 0px 0px 0px;
-	border-top-color: rgb(229, 229, 229);
-	border-top-style: solid;
-	border-top-width: 1px;
-	border-left-color: rgb(229, 229, 229);
-	border-left-style: solid;
-	border-left-width: 1px;
-	border-right-color: rgb(229, 229, 229);
-	border-right-style: solid;
-	border-right-width: 1px;
-	border-bottom-color: rgb(229, 229, 229);
-	border-bottom-style: solid;
-	border-bottom-width: 1px;
-	font-size: 10px;
-	color: rgb(51, 51, 51);
-}
-
-#{id}notesCont {
-	z-index: 20;
-	height: 100px;
-	top: 770px;
-	left: 0px;
-	right: 0px;
-	position: absolute;
-}
-
-#{id}descText {
-	z-index: 1;
-	top: 0px;
-	bottom: 0px;
-	left: 10px;
-	right: 10px;
-	position: absolute;
-	text-shadow: transparent 0px 0px 0px;
-	border-top-color: rgb(229, 229, 229);
-	border-top-style: solid;
-	border-top-width: 1px;
-	border-left-color: rgb(229, 229, 229);
-	border-left-style: solid;
-	border-left-width: 1px;
-	border-right-color: rgb(229, 229, 229);
-	border-right-style: solid;
-	border-right-width: 1px;
-	border-bottom-color: rgb(229, 229, 229);
-	border-bottom-style: solid;
-	border-bottom-width: 1px;
-	color: rgb(51, 51, 51);
 }
 
 #{id}descCont {
@@ -334,10 +169,10 @@
 
 #{id}chronEnd {
 	z-index: 2;
-	width: 250px;
-	height: 65px;
 	top: 20px;
+	bottom: 15px;
 	left: 0px;
+	right: 0px;
 	position: absolute;
 	font-size: 48px;
 	color: rgb(76, 76, 76);
@@ -379,10 +214,10 @@
 
 #{id}chronEndPrec {
 	z-index: 2;
-	width: 120px;
 	height: 20px;
-	top: 40px;
+	bottom: 40px;
 	left: 0px;
+	right: 0px;
 	position: absolute;
 	font-size: 14px;
 	color: rgb(102, 102, 102);
@@ -390,10 +225,10 @@
 
 #{id}chronEndMean {
 	z-index: 1;
-	width: 120px;
 	height: 20px;
 	top: 20px;
 	left: 0px;
+	right: 0px;
 	position: absolute;
 	color: rgb(76, 76, 76);
 	font-size: 14px;
@@ -500,7 +335,7 @@
 #{id}biblioLabel {
 	z-index: 23;
 	height: 24px;
-	top: 1245px;
+	top: 1270px;
 	left: 0px;
 	right: 0px;
 	position: absolute;
@@ -523,23 +358,11 @@
 	 background-image:linear-gradient(left, rgb(204, 204, 204) 0%,rgb(255, 255, 255) 100%);
 }
 
-#{id}notesLabel {
-	z-index: 2;
-	width: 96px;
-	height: 18px;
-	top: 0px;
-	right: 10px;
-	position: absolute;
-	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
-	color: rgb(76, 76, 76);
-	text-align: right;
-}
-
 #{id}biblioFormCont {
-	z-index: 28;
+	z-index: 26;
 	width: 453px;
 	height: 300px;
-	top: 1280px;
+	top: 1300px;
 	left: 323px;
 	position: absolute;
 	-webkit-box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;
@@ -559,15 +382,6 @@
 	font-size: 14px;
 	text-align: left;
 	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
-}
-
-#{id}sourcesGirdCont {
-	z-index: 29;
-	width: 310px;
-	height: 300px;
-	top: 920px;
-	left: 4px;
-	position: absolute;
 }
 
 #{id}sourcesGrid .waf-dataGrid-row.waf-state-active {
@@ -609,5 +423,541 @@
 
 #{id}sourcesGrid .waf-dataGrid-row {
 	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+}
+
+#{id}sourcesFormCont {
+	z-index: 28;
+	width: 459px;
+	height: 330px;
+	top: 920px;
+	left: 320px;
+	position: absolute;
+	-webkit-box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+	 -moz-box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+	 box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+	box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+}
+
+#{id}sourcesGridCont {
+	z-index: 27;
+	width: 310px;
+	height: 330px;
+	top: 920px;
+	left: 4px;
+	position: absolute;
+}
+
+#{id}mainInvName {
+	z-index: 1;
+	width: 263px;
+	height: 16px;
+	top: 4px;
+	left: 167px;
+	position: absolute;
+	color: rgb(76, 76, 76);
+	text-align: left;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+#{id}mainInvDef {
+	z-index: 3;
+	height: 16px;
+	top: 24px;
+	left: 75px;
+	right: 5px;
+	position: absolute;
+	color: rgb(76, 76, 76);
+	text-align: left;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-weight: bold;
+	font-size: 11px;
+}
+
+#{id}mainInvNameLabel {
+	z-index: 2;
+	width: 40px;
+	height: 16px;
+	top: 5px;
+	left: 120px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-weight: normal;
+	color: rgb(76, 76, 76);
+	text-align: right;
+	font-size: 10px;
+}
+
+#{id}mainInvDefLabel {
+	z-index: 4;
+	width: 70px;
+	height: 16px;
+	top: 25px;
+	left: 0px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-weight: normal;
+	color: rgb(76, 76, 76);
+	text-align: right;
+	font-size: 10px;
+}
+
+#{id}mainInvDesc {
+	z-index: 5;
+	height: 45px;
+	bottom: 5px;
+	left: 10px;
+	right: 10px;
+	position: absolute;
+	text-align: left;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-weight: normal;
+	color: rgb(51, 51, 51);
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: rgb(229, 229, 229);
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-left-color: rgb(229, 229, 229);
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-right-color: rgb(229, 229, 229);
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: rgb(229, 229, 229);
+	font-size: 11px;
+}
+
+#{id}sourceDesc {
+	z-index: 8;
+	height: 70px;
+	top: 67px;
+	left: 10px;
+	right: 10px;
+	position: absolute;
+	text-align: left;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-weight: normal;
+	color: rgb(51, 51, 51);
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: rgb(229, 229, 229);
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-left-color: rgb(229, 229, 229);
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-right-color: rgb(229, 229, 229);
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: rgb(229, 229, 229);
+	font-size: 10px;
+}
+
+#{id}sourceDef {
+	z-index: 5;
+	width: 367px;
+	height: 22px;
+	top: 38px;
+	left: 80px;
+	position: absolute;
+	color: rgb(76, 76, 76);
+	font-size: 14px;
+	text-align: left;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-weight: bold;
+}
+
+#{id}sourceName {
+	z-index: 1;
+	width: 367px;
+	height: 22px;
+	top: 10px;
+	left: 80px;
+	position: absolute;
+	color: rgb(76, 76, 76);
+	font-size: 14px;
+	text-align: left;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-weight: bold;
+}
+
+#{id}sourceNameLabel {
+	z-index: 4;
+	width: 75px;
+	height: 16px;
+	top: 10px;
+	left: 0px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-weight: normal;
+	color: rgb(76, 76, 76);
+	text-align: right;
+	font-size: 11px;
+}
+
+#{id}sourceNameDef {
+	z-index: 6;
+	width: 75px;
+	height: 16px;
+	top: 38px;
+	left: 0px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-weight: normal;
+	color: rgb(76, 76, 76);
+	text-align: right;
+	font-size: 11px;
+}
+
+#{id}mainInvCont {
+	z-index: 30;
+	height: 133px;
+	top: 160px;
+	left: 10px;
+	right: 10px;
+	position: absolute;
+	-webkit-box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+	 -moz-box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+	 box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+	box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px;
+	border-top-color: rgb(255, 170, 86);
+	border-left-color: rgb(255, 170, 86);
+	border-right-color: rgb(255, 170, 86);
+	border-bottom-color: rgb(255, 170, 86);
+}
+
+#{id}mainInvDur {
+	z-index: 6;
+	width: 80px;
+	height: 16px;
+	top: 45px;
+	left: 75px;
+	position: absolute;
+	color: rgb(76, 76, 76);
+	text-align: left;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+}
+
+#{id}mainInvDurLabel {
+	z-index: 7;
+	width: 70px;
+	height: 22px;
+	top: 42px;
+	left: 0px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-weight: normal;
+	color: rgb(76, 76, 76);
+	text-align: right;
+	font-size: 10px;
+	letter-spacing: 0px;
+	line-height: 10px;
+}
+
+#{id}mainInvAcr {
+	z-index: 8;
+	width: 40px;
+	height: 16px;
+	top: 4px;
+	left: 75px;
+	position: absolute;
+	color: rgb(76, 76, 76);
+	text-align: left;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+#{id}mainInvAcrLabel {
+	z-index: 9;
+	width: 70px;
+	height: 16px;
+	top: 5px;
+	left: 0px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-weight: normal;
+	color: rgb(76, 76, 76);
+	text-align: right;
+	font-size: 10px;
+}
+
+#{id}mainInvStateLabel {
+	z-index: 10;
+	width: 40px;
+	height: 16px;
+	top: 47px;
+	left: 166px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-weight: normal;
+	color: rgb(76, 76, 76);
+	text-align: right;
+	font-size: 10px;
+	letter-spacing: 0px;
+	line-height: 10px;
+}
+
+#{id}mainInvState {
+	z-index: 11;
+	width: 60px;
+	height: 16px;
+	top: 45px;
+	left: 210px;
+	position: absolute;
+	color: rgb(76, 76, 76);
+	text-align: left;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+}
+
+#{id}mainInvDirLabel {
+	z-index: 12;
+	width: 50px;
+	height: 16px;
+	top: 47px;
+	left: 279px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-weight: normal;
+	color: rgb(76, 76, 76);
+	text-align: right;
+	font-size: 10px;
+	letter-spacing: 0px;
+	line-height: 10px;
+}
+
+#{id}mainInvDir {
+	z-index: 13;
+	height: 16px;
+	top: 45px;
+	left: 332px;
+	right: 3px;
+	position: absolute;
+	color: rgb(76, 76, 76);
+	text-align: left;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+}
+
+#{id}mainInvLabel {
+	z-index: 31;
+	width: 150px;
+	height: 16px;
+	top: 144px;
+	left: 11px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-weight: normal;
+	font-size: 11px;
+	text-align: left;
+	color: rgb(255, 127, 0);
+}
+
+#{id}teDefComplete {
+	z-index: 13;
+	height: 22px;
+	top: 125px;
+	left: 140px;
+	right: 10px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 18px;
+	color: rgb(51, 51, 51);
+	font-weight: bold;
+}
+
+#{id}teDefCompleteLabel {
+	z-index: 14;
+	width: 130px;
+	height: 20px;
+	top: 128px;
+	left: 5px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	color: rgb(76, 76, 76);
+	text-align: right;
+}
+
+#{id}teName {
+	z-index: 15;
+	height: 90px;
+	top: 30px;
+	left: 10px;
+	right: 10px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	color: rgb(191, 0, 0);
+	font-size: 36px;
+	font-weight: bold;
+}
+
+#{id}teLName {
+	z-index: 16;
+	height: 22px;
+	top: 155px;
+	left: 140px;
+	right: 50px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 18px;
+	color: rgb(51, 51, 51);
+}
+
+#{id}teLNameLabel {
+	z-index: 17;
+	width: 130px;
+	height: 20px;
+	top: 156px;
+	left: 5px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	color: rgb(76, 76, 76);
+	text-align: right;
+}
+
+#{id}teLeNameLabel {
+	z-index: 19;
+	width: 130px;
+	height: 20px;
+	top: 186px;
+	left: 5px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	color: rgb(76, 76, 76);
+	text-align: right;
+}
+
+#{id}teLeName {
+	z-index: 18;
+	height: 22px;
+	top: 185px;
+	left: 140px;
+	right: 10px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 18px;
+	color: rgb(51, 51, 51);
+}
+
+#{id}teMainToponymNameLabel {
+	z-index: 21;
+	width: 130px;
+	height: 20px;
+	top: 216px;
+	left: 5px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	color: rgb(76, 76, 76);
+	text-align: right;
+}
+
+#{id}teMainToponymName {
+	z-index: 20;
+	height: 22px;
+	top: 215px;
+	left: 140px;
+	right: 10px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	font-size: 18px;
+	color: rgb(51, 51, 51);
+}
+
+#{id}teMainToponymNameLabel {
+	z-index: 21;
+	width: 130px;
+	height: 20px;
+	top: 216px;
+	left: 5px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	color: rgb(76, 76, 76);
+	text-align: right;
+}
+
+#{id}notesCont {
+	z-index: 29;
+	top: 770px;
+	bottom: -415px;
+	left: 0px;
+	right: 0px;
+	position: absolute;
+}
+
+#{id}notesLabel {
+	z-index: 2;
+	width: 96px;
+	height: 18px;
+	top: 0px;
+	right: 10px;
+	position: absolute;
+	color: rgb(76, 76, 76);
+}
+
+#{id}notesText {
+	z-index: 30;
+	top: 20px;
+	bottom: 5px;
+	left: 5px;
+	right: 5px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	color: rgb(51, 51, 51);
+	border-top-color: rgb(204, 204, 204);
+	border-left-color: rgb(204, 204, 204);
+	border-right-color: rgb(204, 204, 204);
+	border-bottom-color: rgb(204, 204, 204);
+	border-top-style: solid;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	 background-image:url("data:image/svg+xml;base64, PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgMSAxIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj48bGluZWFyR3JhZGllbnQgaWQ9IndhZi1pZS1ncmFkaWVudCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHg9IjAiIHk9IjAiIHgyPSIxMDAlIiB5Mj0iMCI+PHN0b3Agc3RvcC1jb2xvcj0iI2ZmZmZmZiIgb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIHN0b3AtY29sb3I9IiNmZmZmZmYiIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyR3JhZGllbnQ+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCN3YWYtaWUtZ3JhZGllbnQpIiAvPjwvc3ZnPg==");
+	 background-image:-webkit-gradient(linear,0% 0%, 100% 0%,color-stop(0, rgba(255, 255, 255, 0)),color-stop(1, rgba(255, 255, 255, 0)));
+	 background-image:-webkit-linear-gradient(left, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
+	 background-image:-moz-linear-gradient(left, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
+	 background-image:-ms-linear-gradient(left, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
+	 background-image:-o-linear-gradient(left, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
+	 background-image:linear-gradient(left, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
+}
+
+#{id}descText {
+	z-index: 30;
+	top: 0px;
+	bottom: 0px;
+	left: 5px;
+	right: 5px;
+	position: absolute;
+	font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	color: rgb(51, 51, 51);
+	border-top-color: rgb(204, 204, 204);
+	border-left-color: rgb(204, 204, 204);
+	border-right-color: rgb(204, 204, 204);
+	border-bottom-color: rgb(204, 204, 204);
+	border-top-style: solid;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	 background-image:url("data:image/svg+xml;base64, PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgMSAxIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj48bGluZWFyR3JhZGllbnQgaWQ9IndhZi1pZS1ncmFkaWVudCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHg9IjAiIHk9IjAiIHgyPSIxMDAlIiB5Mj0iMCI+PHN0b3Agc3RvcC1jb2xvcj0iI2ZmZmZmZiIgb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjxzdG9wIHN0b3AtY29sb3I9IiNmZmZmZmYiIG9mZnNldD0iMTAwJSIgc3RvcC1vcGFjaXR5PSIwIiAvPjwvbGluZWFyR3JhZGllbnQ+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCN3YWYtaWUtZ3JhZGllbnQpIiAvPjwvc3ZnPg==");
+	 background-image:-webkit-gradient(linear,0% 0%, 100% 0%,color-stop(0, rgba(255, 255, 255, 0)),color-stop(1, rgba(255, 255, 255, 0)));
+	 background-image:-webkit-linear-gradient(left, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
+	 background-image:-moz-linear-gradient(left, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
+	 background-image:-ms-linear-gradient(left, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
+	 background-image:-o-linear-gradient(left, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
+	 background-image:linear-gradient(left, rgba(255, 255, 255, 0) 0%,rgba(255, 255, 255, 0) 100%);
 }
 

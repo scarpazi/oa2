@@ -9,10 +9,24 @@
 			"type": "core"
 		},
 		{
+			"id": "Widget/autoForm",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/label",
+			"type": "widget"
+		},
+		{
 			"package": "default"
 		},
 		{
 			"package": "Container"
+		},
+		{
+			"package": "TextArea"
+		},
+		{
+			"package": "Leaflet"
 		},
 		{
 			"file": "styles/index.css"

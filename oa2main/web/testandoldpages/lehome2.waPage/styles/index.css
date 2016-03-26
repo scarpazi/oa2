@@ -116,10 +116,10 @@
 #label10 {
 	z-index: 12;
 	width: auto;
-	top: 15px;
-	bottom: 11px;
+	top: 14px;
+	bottom: 12px;
 	left: 516px;
-	right: 194px;
+	right: -106px;
 	position: absolute;
 	font-family: Syncopate;
 	font-size: 10px;
@@ -677,7 +677,7 @@
 
 #cmainlist {
 	z-index: 1;
-	width: 760px;
+	width: 462px;
 	height: 171px;
 	top: 0px;
 	left: 0px;
@@ -686,8 +686,8 @@
 
 #cmainbottom {
 	z-index: 2;
-	width: 760px;
-	height: 1027px;
+	width: 462px;
+	height: 1029px;
 	top: 171px;
 	left: 0px;
 	position: absolute;
@@ -695,7 +695,7 @@
 
 #cmainmid {
 	z-index: 1;
-	width: 760px;
+	width: 462px;
 	height: 814px;
 	top: 0px;
 	left: 0px;
@@ -713,7 +713,7 @@
 
 #cmaingis {
 	z-index: 2;
-	width: 56px;
+	width: -242px;
 	height: 814px;
 	top: 0px;
 	left: 704px;
@@ -784,8 +784,8 @@
 
 #cmainmedia {
 	z-index: 2;
-	width: 760px;
-	height: 213px;
+	width: 462px;
+	height: 215px;
 	top: 814px;
 	left: 0px;
 	position: absolute;

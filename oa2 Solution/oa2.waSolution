@@ -3,7 +3,7 @@
 	<file path="./settings.waSettings">
 		<tag name="settings"/>
 	</file>
-	<file path="./directory.waDirectory">
+	<file path="./Directory.waDirectory">
 		<tag name="directory"/>
 	</file>
 </solution>
