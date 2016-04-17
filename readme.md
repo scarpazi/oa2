@@ -10,9 +10,9 @@
 ![##PRIN2010-2011](oa2main/web/images/logoPRIN2.gif)
 <br>
 ######PRIN 2010-2011. *Global archaeology and history of the rural landscapes of Italy between Late Antiquity and the Middle Ages. Integrated systems of sources, methods and techniques for a sustainable development*
-Research Unit: University of Siena (Italy). Department of Historical Sciences and Cultural Heritage<br>
-RU coordinator: Prof. M. Valenti<br>
-RU project title: *Archaeology of Tuscan landscapes between Late Antiquity and the Middle Ages. Research, applications and web 2.0*<br>
+*Research Unit*: University of Siena (Italy). Department of Historical Sciences and Cultural Heritage<br>
+*RU coordinator*: Prof. M. Valenti<br>
+*RU project title*: *Archaeology of Tuscan landscapes between Late Antiquity and the Middle Ages. Research, applications and web 2.0*<br>
 <br>
 <br>
 ![##Archeomedsites](oa2main/web/images/archeomedsites_logo.png)
