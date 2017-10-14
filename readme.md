@@ -34,7 +34,6 @@ Work-package 4.10 (Municipality of Siena in collaboration with the Department of
 
 
 ![##UNISI](oa2main/web/images/unisi_logoh300.png)
-<br>
-<br>
-<br>
+
+
 [CC-BY-SA](http://creativecommons.org/licenses/by-sa/4.0/ "CC-BY-SA") [LIAAM-UNISI (Laboratory of IT Applied to Medieval Arcaheology, University of Siena)](http://archeologiamedievale.unisi.it "LIAAM-UNISI"), 2016
