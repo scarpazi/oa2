@@ -10,11 +10,11 @@
   "repository": "Wakanda/angular-wakanda",
   "license": "MIT",
   "devDependencies": {
-    "grunt": "~0.4.2",
-    "grunt-concat-sourcemap": "~0.4.1",
-    "grunt-contrib-clean": "^0.6.0",
-    "grunt-contrib-copy": "^0.6.0",
-    "grunt-contrib-uglify": "~0.3.2",
-    "grunt-prompt": "^1.1.0"
+    "grunt": ">=1.5.3",
+    "grunt-concat-sourcemap": ">=1.5.3",
+    "grunt-contrib-clean": ">=1.5.3",
+    "grunt-contrib-copy": ">=1.5.3",
+    "grunt-contrib-uglify": ">=1.5.3",
+    "grunt-prompt": ">=1.5.3"
   }
 }
